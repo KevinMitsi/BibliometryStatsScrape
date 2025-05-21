@@ -1,0 +1,36 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.card-header {
+  font-weight: bold;
+  font-size: 1.2rem;
+  background-color: #f0f8ff; 
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  min-height: 200px;
+  padding: 1.25rem;
+}
+
+/* Prevent awkward line breaks in table cells */
+.table td {
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+/* Style for list items to prevent them from breaking */
+ul.mb-0 li {
+  white-space: normal;
+  word-wrap: break-word;
+  margin-bottom: 0.5rem;
+}
+
+/* Make sure the table doesn't overflow */
+.table {
+  table-layout: fixed;
+}

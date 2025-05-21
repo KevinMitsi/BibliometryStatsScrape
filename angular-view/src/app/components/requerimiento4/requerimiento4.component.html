@@ -1,0 +1,53 @@
+<div class="container">
+  <h2>Requerimiento 4: Algoritmos de similitud de texto</h2>
+  
+  <div class="card mb-4">
+    <div class="card-header text-center">
+      Agrupando titulos con abstracts similares
+    </div>
+    <div class="card-body">
+      <div class="d-flex justify-content-center mb-3">
+        <button class="btn btn-outline-primary me-2" (click)="loadClusters()" [disabled]="loading">
+          <span *ngIf="loading" class="spinner-border spinner-border-sm me-1" role="status"></span>
+          {{ loading ? 'Cargando...' : 'Cargar Clusters' }}
+        </button>
+        <button class="btn btn-outline-secondary me-2" (click)="setView('titles')" [disabled]="loading">
+          Mostrar solo títulos
+        </button>
+        <button class="btn btn-outline-secondary" (click)="setView('all')" [disabled]="loading">
+          Mostrar todo
+        </button>
+      </div>
+
+      <div *ngIf="error" class="text-danger text-center mb-3">{{ error }}</div>
+
+      <div class="table-responsive" *ngIf="clusters.length > 0">
+        <table class="table table-striped table-hover">
+          <thead class="table-light">
+            <tr>
+              <th *ngIf="viewMode === 'titles'">Títulos Similares</th>
+              <ng-container *ngIf="viewMode === 'all'">
+                <th style="width: 50%">Títulos Similares</th>
+                <th style="width: 50%">Abstracts</th>
+              </ng-container>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let cluster of clusters">
+              <td>
+                <ul class="mb-0">
+                  <li *ngFor="let title of cluster.titles">{{ title }}</li>
+                </ul>
+              </td>
+              <td *ngIf="viewMode === 'all'">
+                <ul class="mb-0">
+                  <li *ngFor="let abs of cluster.abstracts">{{ abs }}</li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

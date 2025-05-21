@@ -1,0 +1,13 @@
+.card { max-width: 500px; margin: auto;}
+
+.card-header {
+  font-weight: bold;
+  font-size: 1.2rem;
+  background-color: #f0f8ff;
+  
+}
+
+/* Center card title and content */
+.card-header, .card-text {
+  text-align: center;
+}

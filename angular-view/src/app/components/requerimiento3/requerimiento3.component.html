@@ -1,0 +1,93 @@
+<div class="container">
+  <h2>Requerimiento 3: Co-ocurrencias</h2>
+  <div class="card mb-4">
+    <div class="card-header text-center">
+      Términos por Categoría
+    </div>
+    <div class="card-body">
+      <div class="text-center mb-3">
+        <button
+          class="btn btn-outline-primary"
+          (click)="loadTermsByCategory()"
+          [disabled]="loadingTerms"
+        >
+          <span *ngIf="loadingTerms" class="spinner-border spinner-border-sm me-1" role="status"></span>
+          {{ loadingTerms ? 'Cargando...' : 'Cargar Términos' }}
+        </button>
+      </div>
+
+      <div *ngIf="errorTerms" class="text-danger mb-3 text-center">{{ errorTerms }}</div>
+      
+      <div *ngIf="categoryTerms.length > 0" class="table-responsive">
+        <div class="mb-3">
+      </div>  
+        <table class="table table-striped table-hover">
+          <thead>
+            <tr>
+              <th>Categoría</th>
+              <th>Término</th>
+              <th>Conteo</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let item of categoryTerms">
+              <td>{{ item.category }}</td>
+              <td>{{ item.term }}</td>
+              <td>{{ item.count }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-4">
+    <div class="card-header text-center">
+      Grafo de Co-ocurrencia
+    </div>
+    <div class="card-body text-center">
+      <button
+        class="btn btn-outline-primary mb-3"
+        (click)="loadCooccurrence()"
+        [disabled]="loadingCooc"
+      >
+        <span *ngIf="loadingCooc" class="spinner-border spinner-border-sm me-1" role="status"></span>
+        {{ loadingCooc ? 'Cargando...' : 'Cargar' }}
+      </button>
+
+      <div *ngIf="errorCooc" class="text-danger mb-3">{{ errorCooc }}</div>
+
+      <img
+        *ngIf="cooccurrenceUrl"
+        [src]="cooccurrenceUrl"
+        alt="Co-ocurrencia"
+        class="img-fluid"
+      />
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header text-center">
+      Wordcloud
+    </div>
+    <div class="card-body text-center">
+      <button
+        class="btn btn-outline-primary mb-3"
+        (click)="loadWordcloud()"
+        [disabled]="loadingWord"
+      >
+        <span *ngIf="loadingWord" class="spinner-border spinner-border-sm me-1" role="status"></span>
+        {{ loadingWord ? 'Cargando...' : 'Cargar' }}
+      </button>
+
+      <div *ngIf="errorWord" class="text-danger mb-3">{{ errorWord }}</div>
+
+      <img
+        *ngIf="wordcloudUrl"
+        [src]="wordcloudUrl"
+        alt="Wordcloud"
+        class="img-fluid"
+      />
+    </div>
+  </div>
+</div>

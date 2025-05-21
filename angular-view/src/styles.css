@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+.table.table-striped.table-hover th {
+  text-align: center;
+  background-color: #f0f8ff; /* Alice Blue */
+}
+.table.table-striped.table-hover {
+  margin-top: 1rem;
+}
+.table.table-striped.table-hover td{
+    text-align: center;
+}

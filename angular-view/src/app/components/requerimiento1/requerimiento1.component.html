@@ -1,0 +1,120 @@
+<div class="req1-container">
+  <div class="card m-3">
+  <div class="card-header">
+     Ejecuta la búsqueda de referencias en el servicio Scrapper.
+  </div>
+  <div class="card-body">
+    <form [formGroup]="myForm" (ngSubmit)="onScrape()">
+      <div class="mb-3">
+        <label for="search_string" class="form-label">Texto de búsqueda</label>
+        <input type="text" class="form-control" id="search_string" formControlName="search_string">
+        <div class="text-danger" *ngIf="myForm.get('search_string')?.invalid && (myForm.get('search_string')?.dirty || myForm.get('search_string')?.touched)">
+          El texto de búsqueda es requerido
+        </div>
+      </div>
+      
+      <div class="mb-3">
+        <label for="email" class="form-label">Correo institucional</label>
+        <input type="email" class="form-control" id="email" formControlName="email">
+        <div class="text-danger" *ngIf="myForm.get('email')?.invalid && (myForm.get('email')?.dirty || myForm.get('email')?.touched)">
+          Ingrese un correo electrónico válido
+        </div>
+      </div>
+      
+      <div class="mb-3">
+        <label for="password" class="form-label">Contraseña</label>
+        <input type="password" class="form-control" id="password" formControlName="password">
+        <div class="text-danger" *ngIf="myForm.get('password')?.invalid && (myForm.get('password')?.dirty || myForm.get('password')?.touched)">
+          La contraseña es requerida
+        </div>
+      </div>
+      
+      <div class="mb-3">
+        <label for="top_results" class="form-label">Número de resultados</label>
+        <input type="number" class="form-control" id="top_results" formControlName="top_results" min="1">
+        <div class="text-danger" *ngIf="myForm.get('top_results')?.invalid && (myForm.get('top_results')?.dirty || myForm.get('top_results')?.touched)">
+          Ingrese un número válido (mínimo 2)
+        </div>
+      </div>
+      
+      <div class="d-flex justify-content-center mt-4">
+        <button type="submit" class="btn btn-lg btn-outline-primary px-4" [disabled]="loading || myForm.invalid">
+          <span class="spinner-border spinner-border-sm me-1" role="status" *ngIf="loading"></span>
+          {{ loading ? 'Cargando...' : 'Ejecutar' }}
+        </button>
+      </div>
+      
+      <div class="alert alert-danger mt-3" *ngIf="error">
+        {{ error }}
+      </div>
+    </form>
+  </div>
+</div>
+<!-- Results Table -->
+<div *ngIf="articles.length > 0" class="mt-4">
+      <h3>Resultados del scrape</h3>
+      <div class="table-responsive">
+        <table class="table table-striped table-hover">
+          <thead class="table-primary">
+            <tr>
+              <th>Título</th>
+              <th>Autores</th>
+              <th>Revista/Editorial</th>
+              <th>Fecha</th>
+              <th>DOI</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let article of articles">
+              <td>{{ article.title }}</td>
+              <td>{{ article.contributors }}</td>
+              <td>{{ article.publisher }}</td>
+              <td>{{ article.coverDate }}</td>
+              <td>{{ article.doi }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+</div>
+
+<div class="card m-3">
+    <div class="card-header">
+      Artículos repetidos eliminados
+    </div>
+    <div class="card-body">
+      <div class="d-flex justify-content-center mb-3">
+        <button 
+          class="btn btn-outline-primary" 
+          (click)="loadAdditionalData()" 
+          [disabled]="loadingAdditional">
+          <span class="spinner-border spinner-border-sm me-1" role="status" *ngIf="loadingAdditional"></span>
+          {{ loadingAdditional ? 'Cargando...' : 'Cargar Datos' }}
+        </button>
+      </div>
+      
+      <div class="alert alert-danger" *ngIf="additionalError">
+        {{ additionalError }}
+      </div>
+      
+      <div *ngIf="additionalData.length > 0" class="table-responsive">
+        <table class="table table-striped table-hover">
+          <thead class="table-primary">
+            <tr>
+              <!-- Update these headers based on your actual data -->
+              <th>ID</th>
+              <th>Título</th>
+              <th>Fecha de eliminación</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let item of additionalData">
+              <td>{{ item.filename }}</td>
+              <td>{{ item.title }}</td>
+              <td>{{item.timestamp}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
