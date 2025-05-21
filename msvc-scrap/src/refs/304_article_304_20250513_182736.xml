@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Scientific reports</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning analysis of cardiovascular risk factors and their associations with hearing loss.</title>
+  <pageEnd></pageEnd>
+  <pageStart>9944</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250322</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Machine Learning ; Hearing Loss diagnosis ; Heart Disease Risk Factors ; Humans ; Male ; Female ; Middle Aged ; Adult ; Aged ; Cardiovascular Diseases ; Nutrition Surveys ; Risk Factors ; Audiometry, Pure-Tone</subjects>
+  <abstract>Declarations. Competing interests: The authors declare no competing interests. Ethics and consent to participate: This study utilized publicly available deidentified data from the National Health and Nutrition Examination Survey (NHANES) 2012–2018. As the data analysis was performed on anonymous secondary data, ethics approval and participant consent were not required. The data collection protocols and consent procedures for the NHANES 2012–2018 were approved by the National Center for Health Statistics Research Ethics Review Board (approval number: Protocol #2005–06). Written informed consent was obtained from all NHANES participants prior to enrolment. This study complies fully with the Declaration of Helsinki ethical principles for medical research involving human subjects.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40121327</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=27eb482f-527a-3152-ae9e-5d8362b6e726</plink>
+  <doids></doids>
+  <publisher>Nature Publishing Group</publisher>
+  <contributors>Nabavi, Ali ; Safari, Farimah ; Faramarzi, Ali ; Kashkooli, Mohammad ; Kebede, Meskerem Aleka ; Aklilu, Tesfamariam ; Celi, Leo Anthony</contributors>
+  <coverDate>2025 Mar 22</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1038/s41598-025-94253-1</doi>
+</record>

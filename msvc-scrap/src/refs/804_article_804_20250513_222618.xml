@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Intelligent Defenses: Advancing Cybersecurity through Machine Learning-Driven Malware Detection</title>
+  <pageEnd>219</pageEnd>
+  <pageStart>214</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Accuracy ; Transformers ; Malware ; Vectors ; Real-time systems ; Convolutional neural networks ; Decision trees ; Computer security ; Random forests ; Streams ; Malware Detection ; Machine Learning (ML) ; Cybersecurity ; SMOTE ; Random Forest</subjects>
+  <abstract>The exponential rise in cyberthreats has rendered malware detection a crucial component of cybersecurity. Traditional signature-based detection technologies are insufficient for combating emerging threat vectors, as increasingly complex malware targets sensitive systems. Machine learning techniques have emerged as a viable alternative for the precise detection and classification of malware through data-driven insights. This study presents a comprehensive malware detection system that combines Convolutional Neural Networks (CNN) with sophisticated machine learning (ML) methodologies, including ensemble techniques like Random Forest and Gradient Boosted Decision Trees. To rectify class imbalance and enhance model performance, the framework utilizes extensive preprocessing methods, including SMOTE. The Random Forest achieved the highest accuracy of 97.4%, followed by Gradient Boosted Decision Trees at 96.7%; the CNN demonstrated competitive performance at 95.0%. Dynamic API call sequences were identified as essential elements for precise classification. The proposed technique significantly reduces false negatives, hence ensuring improved protection against malicious software and enhancing recall. This research provides a scalable framework for future malware detection systems and demonstrates how machine learning may enhance cybersecurity protocols.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10968655</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b479a297-9046-39cf-ab7b-4fb7899d6c5e</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Mittal, Sakshi ; Rajvanshi, Prateek</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10968655</doi>
+</record>

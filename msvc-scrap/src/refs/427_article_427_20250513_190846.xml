@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Biomedical Engineering Letters</source>
+  <bookEdition></bookEdition>
+  <title>Advances in cardiovascular signal analysis with future directions: a review of machine learning and deep learning models for cardiovascular disease classification based on ECG, PCG, and PPG signals</title>
+  <pageEnd>42</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250424</publicationDate>
+  <pageCount>42</pageCount>
+  <publisherLocations>Korea</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>ECG ; PCG ; PPG ; Artificial Intelligence ; Machine Learning ; Deep Learning</subjects>
+  <abstract>This systematic review examines the transformative impact of artificial intelligence (AI), including machine learning (ML) and deep learning (DL), on cardiovascular signal analysis, focusing on electrocardiograms (ECG), phonocardiograms (PCG), and photoplethysmograms (PPG). It evaluates state-of-the-art methodologies that enhance diagnostic accuracy and predictive analytics by leveraging AI-driven systems. A wide range of public and private datasets are assessed, with attention to their strengths and limitations in supporting cardiovascular diagnostics. Key preprocessing techniques, such as noise reduction, signal normalization, and artifact mitigation, are explored for their role in improving signal quality. The review also highlights feature extraction methods, from time-domain and frequency-domain analyses to advanced morphological and spectral approaches, which contribute to robust classifier performance. Traditional ML models, such as K-Nearest Neighbor (KNN), Support Vector Machines (SVM) and Random Forests (RF), are compared with advanced DL architectures, including Convolutional Neural Networks (CNNs), Long Short-Term Memory networks (LSTMs), and transfer learning models for detecting cardiovascular diseases. Despite these advancements, challenges such as dataset heterogeneity, preprocessing variability, and computational complexity persist, hindering clinical adoption. The review underscores the importance of large-scale, diverse datasets, multi-modal signal integration, and explainable AI to foster clinical trust and facilitate ethical deployment. By addressing these challenges, this review highlights the potential of AI to revolutionize cardiovascular healthcare through early diagnosis, wearable technology, and real-time decision support, paving the way for precision medicine and improved patient outcomes.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.A030DD72</an>
+  <docTypes>Review Paper</docTypes>
+  <volume></volume>
+  <issns>20939868 ; 2093985X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6cef1585-e1c0-3d72-9002-6c57139d10d1</plink>
+  <doids></doids>
+  <publisher>The Korean Society of Medical and Biological Engineering</publisher>
+  <contributors>Fuadah, Yunendah Nur ; Lim, Ki Moo</contributors>
+  <coverDate>20250424</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s13534-025-00473-9</doi>
+</record>

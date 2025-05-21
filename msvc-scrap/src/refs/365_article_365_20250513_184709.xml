@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>8WGQ</mid>
+  <language>eng</language>
+  <source>Cumhuriyet University Journal of Economics &amp;amp; Administrative Sciences / Cumhuriyet Üniversitesi İktisadi ve İdari Bilimler Dergisi</source>
+  <bookEdition></bookEdition>
+  <title>Impact of Operational and Financial Efficiency on Aviation Stock Prices: A Machine Learning Model with SHAP Interpretability.</title>
+  <pageEnd>182</pageEnd>
+  <pageStart>167</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Rate of return on stocks ; Efficient market theory ; Stock prices ; Economic indicators ; Machine learning</subjects>
+  <abstract>Using a machine learning approach, this study examines how operational and financial efficiency metrics influence stock prices in the aviation industry. A CatBoost regression model enhanced with SHapley Additive exPlanations (SHAP) was developed using data from 65 global aviation companies collected between 2015 and 2023. The model predicts stock prices based on various operational and financial indicators, including Total Revenue per Available Seat Mile (ASM), Passenger Load Factor, liquidity ratios, and debt-to-assets ratios. The findings suggest that operational efficiency metrics, particularly Total Revenue per ASM and Passenger Load Factor, play a significant role in predicting stock prices within the aviation sector. Financial metrics, such as the Quick Ratio and Debt-to-Assets Ratio, also contribute to the model but appear to have a secondary influence compared to operational factors. SHAP values provided interpretable insights into the model's predictions, allowing for a better understanding of the relative importance of different features. Furthermore, the study's findings offer support for the semi-strong form of the Efficient Market Hypothesis (EMH), demonstrating that operational and financial metrics are reflected in stock prices. These results indicate that aviation companies demonstrating higher operational efficiency may be better positioned for favorable stock market performance, although financial health remains important. This study contributes to the existing literature by integrating operational and financial metrics into a machine learning framework, offering a comprehensive and interpretable model for stock price prediction in the aviation industry.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183473185</an>
+  <docTypes>Article</docTypes>
+  <volume>26</volume>
+  <issns>1303-1279</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d4cc512d-18cc-3d29-bf6a-3dce40cb0835</plink>
+  <doids></doids>
+  <publisher>Cumhuriyet Universitesi Journal of Economics &amp;amp; Administrative Sciences</publisher>
+  <contributors>Akusta, Ahmet</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.37880/cumuiibf.1560514</doi>
+</record>

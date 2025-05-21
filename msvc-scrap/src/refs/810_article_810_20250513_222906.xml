@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Frontline Learning Research</source>
+  <bookEdition></bookEdition>
+  <title>Assessing Students' Interpretations of Histograms before and after Interpreting Dotplots: A Gaze-Based Machine Learning Analysis</title>
+  <pageEnd>30</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230101</publicationDate>
+  <pageCount>30</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Data Interpretation ; Interpretive Skills ; Statistical Distributions ; Graphs ; Problem Solving ; Arithmetic ; Eye Movements ; Algorithms ; Artificial Intelligence</subjects>
+  <abstract>Many students persistently misinterpret histograms. Literature suggests that having students solve dotplot items may prepare for interpreting histograms, as interpreting dotplots can help students realize that the statistical variable is presented on the horizontal axis. In this study, we explore a special case of this suggestion, namely, how students' histogram interpretations alter during an assessment. The research question is: In what way do secondary school students' histogram interpretations change after solving dotplot items? Two histogram items were solved before solving dotplot items and two after. Students were asked to estimate or compare arithmetic means. Students' gaze data, answers, and cued retrospective verbal reports were collected. We used students' gaze data on four histogram items as inputs for a machine learning algorithm (MLA; random forest). Results show that the MLA can quite accurately classify whether students' gaze data belonged to an item solved before or after the dotplot items. Moreover, the direction (e.g., almost vertical) and length of students' saccades were different on the before and after items. These changes can indicate a change in strategies. A plausible explanation is that solving dotplot items creates readiness for learning and that reflecting on the solution strategy during recall then brings new insights. This study has implications for assessments and homework. Novel in the study is its use of spatial gaze data and its use of an MLA for finding differences in gazes that are relevant for changes in students' task-specific strategies.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1408418</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>11</volume>
+  <issns>2295-3159</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c603e5a5-84db-37b7-a5fb-bc7b295baf51</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Lonneke Boels ; Alex Lyford ; Arthur Bakker ; Paul Drijvers</contributors>
+  <coverDate>2023</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

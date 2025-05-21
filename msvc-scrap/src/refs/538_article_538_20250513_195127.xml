@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Multimedia Tools and Applications: An International Journal</source>
+  <bookEdition></bookEdition>
+  <title>Presenting a three layer stacking ensemble classifier of deep learning and machine learning for skin cancer classification</title>
+  <pageEnd>6156</pageEnd>
+  <pageStart>6135</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>22</pageCount>
+  <publisherLocations>New York</publisherLocations>
+  <issue>9</issue>
+  <identifiers></identifiers>
+  <subjects>Skin cancer detection ; Deep learning ; Machine learning ; Ensemble classifier</subjects>
+  <abstract>One of the most common types of cancer in the world is skin cancer. Despite the different types of skin diseases with different shapes, the classification of skin diseases is a very difficult task. As a result, considering such a problem, a combination model of deep learning algorithms and machine has been proposed for skin disease classification.&lt;br />In this paper, a three-layer architecture based on ensemble learning is presented. In the first layer, the training input is given to convolutional neural network and EfficientNET. The output of the first layer is given to the classifiers of the second layer including machine learning classifiers. The output of the best decision of these classifiers is sent to the third layer classifier and the final prediction is made.&lt;br />The reason for using the three-layer architecture based on group learning was the lack of correct recognition of some classes by simple classifications. On the other hand, some diseases with different classes are classified in the same class. This model helps to correctly identify input samples with the correct combination of classifications in different layers.&lt;br />HAM10000 data set has been used to test and validate the proposed method. The mentioned dataset includes 10,015 images of skin lesions in seven different classes and includes different types of skin diseases. The accuracy is 99.97 on the testing set, which was much better than the previous heavy models.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.1C89C9DF</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>84</volume>
+  <issns>15737721</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f3af352f-28dd-3aed-820e-28e5872c5bb7</plink>
+  <doids></doids>
+  <publisher>Springer US</publisher>
+  <contributors>Tabaghsar, Bahman Jafari ; Tavoli, Reza ; Toosi, Mohammad Mahdi Alizadeh</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s11042-024-19195-8</doi>
+</record>

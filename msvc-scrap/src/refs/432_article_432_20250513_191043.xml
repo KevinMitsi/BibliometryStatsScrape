@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>BMC health services research</source>
+  <bookEdition></bookEdition>
+  <title>Interpretable machine learning models for prolonged Emergency Department wait time prediction.</title>
+  <pageEnd></pageEnd>
+  <pageStart>403</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250318</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Emergency Service, Hospital statistics &amp;amp; numerical data ; Machine Learning ; Waiting Lists ; Humans ; Retrospective Studies ; Male ; Female ; Middle Aged ; Time Factors ; Adult ; Triage methods ; Algorithms</subjects>
+  <abstract>Declarations. Ethics approval and consent to participate: This study was approved by the University of North Texas Health Science Center Regional Institutional Review Board with a waiver of informed consent (IRB#1967558-1). The study was conducted in full compliance with the ethical principles outlined in the Declaration of Helsinki. Consent for publication: Not applicable. Competing interests: The authors declare no competing interests.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40102847</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>25</volume>
+  <issns>1472-6963 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d157e7e1-4d8a-3924-9842-6606ef408294</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Wang, Hao ; Sambamoorthi, Nethra ; Sandlin, Devin ; Sambamoorthi, Usha</contributors>
+  <coverDate>2025 Mar 18</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1186/s12913-025-12535-w</doi>
+</record>

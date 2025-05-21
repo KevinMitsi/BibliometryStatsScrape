@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsfor</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>F1000Research</source>
+  <bookEdition></bookEdition>
+  <title>Optimizing machine learning performance for medical imaging analyses in low-resource environments: The prospects of CNN-based Feature Extractors [version 1; peer review: awaiting peer review]</title>
+  <pageEnd></pageEnd>
+  <pageStart>100</pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250117</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>London, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Research Article ; Articles ; Machine learning ; feature extraction ; image classification ; medical imaging ; precision medicine ; Convolutional neural networks ; Deep learning ; low resources environments.</subjects>
+  <abstract>Background Machine learning (ML) algorithms have generally enhanced the speed and accuracy of image-based diagnosis, and treatment strategy planning, compared to the traditional approach of interpreting medical images by experienced radiologists. Convolutional neural networks (CNNs) have been particularly useful in this regard. However, training CNNs come with significant time and computational cost necessitating the development of efficient solutions for deploying CNNs in low-resource environments. This study investigates the use of pre-trained CNNs as feature extractors in medical imaging analyses and highlights the key considerations to be taken into account when implementing these extractors. Methods Eight medical imaging datasets covering several diseases (e.g. breast cancer, brain tumor and malaria) were used. Five ML algorithms (k-nearest neighbours, logistic regression, naïve Bayes, random forests and light gradient boosting machine) were implemented with three pre-trained CNN models (VGG-16, EfficientNet-B0, and ResNet-50). These pre-trained models were deployed as feature extractors fed into the classifiers for image classification tasks. The performance of these classifiers was assessed using a ten-fold cross validation scheme with metrics such as accuracy, F1 score, specificity, sensitivity, AUC-ROC, Matthews’ correlation coefficient (MCC), precision, time and space complexities. Results From our experiments, we found a general improvement in ML models’ performance after feature extraction (FE). Of the three FE models tested,EfficientNet-B0 performed best in terms of predicitve performance i.e. accuracy, specificity, sensitivity, AUC-ROC, MCC, F1 score, and precision. However, VGG-16 had the best performance in terms of time and memory efficiency. Our results identify two conditions necessary for the optimal performance of the FE models; (i) balanced datasets - a set where classes or categories are represented in approximately equal proportions, (ii) big data sets - adequate number of objects for training and testing. Interestingly, the performance of the ML models did not correlate with the number of class labels i.e. the type of classification task whether binary or multi-class had no influence in the models’ performance. Of the five algorithms investigated, logistic regression benefitted the most from the adoption of the feature extractors. Conclusion Our results confirm that the use of CNNs as feature extractors offer an effective balance between high performance and computational efficiency, making them well-suited for use in low-resource environments.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsfor.10.12688.f1000research.156122.1</an>
+  <docTypes>research-article</docTypes>
+  <volume>14</volume>
+  <issns>20461402</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6b08e0a9-164b-3f35-a4a3-05beed65f28c</plink>
+  <doids></doids>
+  <publisher>F1000 Research Limited</publisher>
+  <contributors>Itunuoluwa Isewon ; Emmanuel Alagbe ; Jelili Oyelade</contributors>
+  <coverDate>20250117</coverDate>
+  <longDBName>F1000Research</longDBName>
+  <doi>10.12688/f1000research.156122.1</doi>
+</record>

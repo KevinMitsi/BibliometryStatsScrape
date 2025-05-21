@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BAUW</mid>
+  <language>eng</language>
+  <source>Procedia Computer Science</source>
+  <bookEdition></bookEdition>
+  <title>Hand Gesture Recognition using Machine Learning.</title>
+  <pageEnd>205</pageEnd>
+  <pageStart>198</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Translation and Interpretation Services ; Machine learning ; Image recognition (Computer vision) ; Gesture controlled interfaces (Computer systems) ; Computer vision ; Sign language</subjects>
+  <abstract>Sign language recognition is a growing area of research, with applications ranging from gestural communication to controlling devices using gestures. One of the challenges inherent to sign language recognition is the ability to translate gestures into meaningful information, such as letters, words or even sentences. Machine Learning, which has emerged as a powerful tool for solving a wide variety of complex problems, namely in the field of computer vision, plays a key role, enabling computers to understand and interpret complex gestures. In this paper, we present a Machine Learning model focused on classifying hand gestures that represent the letters of the Latin alphabet. The objective of this work is to create a solution capable of accurately identifying which letter of the Latin alphabet is being represented by a hand gesture in an image. To classify manual gestures was used the Random Forest Machine Learning classification model, which is fed with the vector of features extracted from the region of interest in the image. To implement the proposed approach, a database of RGB images of hand gestures was created. To extract the characteristics of the gestures, was used the MediaPipe open source framework. The solution presents hand gesture classification precisions by class ranging between 98.8% and 74.4%, with an accuracy of 92.3%, that represents an improvement over previous approaches.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183597572</an>
+  <docTypes>Article</docTypes>
+  <volume>256</volume>
+  <issns>1877-0509</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0cfb7681-e0df-3823-85ae-a3cb09b837a6</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Rang, Caminate Na ; Jerónimo, Paulo ; Mora, Carlos ; Jardim, Sandra</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.1016/j.procs.2025.02.112</doi>
+</record>

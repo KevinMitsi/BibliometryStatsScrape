@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Software and Systems Modeling</source>
+  <bookEdition></bookEdition>
+  <title>Simulation of system architectures using optimization and machine learning: the state of the art and research opportunities: Simulation of system architectures using optimization and machine learning...</title>
+  <pageEnd>22</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250328</publicationDate>
+  <pageCount>22</pageCount>
+  <publisherLocations>Berlin/Heidelberg</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Optimization ; Machine learning ; Simulation ; System architecture</subjects>
+  <abstract>Most software-intensive systems present large and complex architectures, which should satisfy different quality attributes, such as performance, reliability, and security. Some of these attributes could only be measured at runtime, which is undesired, particularly for critical systems whose attributes should still be evaluated at design time to avoid failures at runtime and losses, including human lives. Simulation has been considered a powerful solution to predict and evaluate different architectural arrangements at design time and, combined with optimization and machine learning, and it can find suitable or even optimal architectures. However, there is a lack of an overview of such combinations and how they can work better. This work presents the state of the art of simulation using optimization and/or machine learning techniques. For this, we examined the literature of 1,342 studies retrieved from three publications databases and systematically selected 87 studies and scrutinized them. There is a variety of combinations of simulation with different optimization and/or machine learning techniques, each requiring specific simulation models and simulators. At the same time, studies are still isolated, lacking maturity in the area and remaining important future work to discover the benefits of such combinations.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.326D261A</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>16191366 ; 16191374</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=32f95536-ca5d-3167-8359-8fc1c716deb5</plink>
+  <doids></doids>
+  <publisher>Springer Berlin Heidelberg</publisher>
+  <contributors>Manzano, Wallace ; Graciano Neto, Valdemar Vicente ; Bianchi, Thiago ; Kassab, Mohamad ; Nakagawa, Elisa Yumi</contributors>
+  <coverDate>20250328</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10270-025-01280-7</doi>
+</record>

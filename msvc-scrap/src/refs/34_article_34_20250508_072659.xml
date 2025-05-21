@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FDUE</mid>
+  <language>eng</language>
+  <source>Minerals (2075-163X)</source>
+  <bookEdition></bookEdition>
+  <title>Unlocking Subsurface Geology: A Case Study with Measure-While-Drilling Data and Machine Learning.</title>
+  <pageEnd></pageEnd>
+  <pageStart>241</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; GEOLOGICAL modeling ; RANDOM forest algorithms ; SUPPORT vector machines</subjects>
+  <abstract>Bench-scale geological modeling is often uncertain due to limited exploration drilling and geophysical wireline measurements, reducing production efficiency. Measure-While-Drilling (MWD) systems collect drilling data to analyze mining blast hole drill rig performance. Early MWD studies focused on penetration rates to identify rock types. This paper investigates Artificial Intelligence (AI)-based regression models to predict geophysical signatures like density, gamma, magnetic susceptibility, resistivity, and hole diameter using MWD data. The machine learning (ML) models evaluated include Linear Regression (LR), Decision Trees (DTs), Support Vector Machines (SVMs), Random Forests (RFs), Gaussian Processes (GP), and Neural Networks (NNs). An analytical method was validated for accuracy, and a three-tier experimental method assessed the importance of MWD features, revealing no performance loss when excluding features with less than 2% importance. RF, DTs, and GPs outperformed other models, achieving R&lt;sup>2&lt;/sup&gt; values up to 0.98 with a low RMSE, while LR and SVMs showed lower accuracy. The NN's performance improved with larger datasets. This study concludes that the DT, RF, and GP models excel in predicting geophysical signatures. While ML-based methods effectively model relationships in the data, their predictive performance remains inherently constrained by the underlying geological and physical mechanisms. Model selection depends on computational resources and application needs, offering valuable insights for real-time orebody analysis using AI. These findings could be invaluable to geologists who wish to utilize AI techniques for real-time orebody analysis and prediction.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184132987</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2075-163X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=65d9b1c7-0fd3-3652-bf60-1f67fcce766e</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Goldstein, Daniel ; Aldrich, Chris ; Shao, Quanxi ; O'Connor, Louisa</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/min15030241</doi>
+</record>

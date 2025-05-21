@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning optimal ordering in global routing problems in semiconductors.</title>
+  <pageEnd>17</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241228</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>ARTIFICIAL intelligence ; MACHINE learning ; IMAGE processing ; SEMICONDUCTORS ; HEURISTIC ; DEEP learning ; Photofinishing Laboratories (except One-Hour) ; One-Hour Photofinishing ; Semiconductor and Related Device Manufacturing</subjects>
+  <abstract>In this work, we propose a new method for ordering nets during the process of layer assignment in global routing problems. The global routing problems that we focus on in this work are based on routing problems that occur in the design of substrates in multilayered semiconductor packages. The proposed new method is based on machine learning techniques and we show that the proposed method supersedes conventional net ordering techniques based on heuristic score functions. We perform global routing experiments in multilayered semiconductor package environments in order to illustrate that the routing order based on our new proposed technique outperforms previous methods based on heuristics. Our approach of using machine learning for global routing targets specifically the net ordering step which we show in this work can be significantly improved by deep learning.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181925208</an>
+  <docTypes>Article</docTypes>
+  <volume>14</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=883393e6-e3c2-3310-9479-ef35a3143c40</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Choi, Heejin ; Lee, Minji ; Lee, Chang Hyeong ; Yang, Jaeho ; Seong, Rak-Kyeong</contributors>
+  <coverDate>12/28/2024</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-024-82226-9</doi>
+</record>

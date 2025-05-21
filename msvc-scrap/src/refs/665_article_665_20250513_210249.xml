@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsfor</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>F1000Research</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning based radiomics approach for outcome prediction of meningioma – a systematic review [version 1; peer review: awaiting peer review]</title>
+  <pageEnd></pageEnd>
+  <pageStart>330</pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250325</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>London, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Systematic Review ; Articles ; Meningioma ; recurrence ; outcome prediction ; overall survival analysis ; machine learning ; radiomic features</subjects>
+  <abstract>Introduction Meningioma is the most common brain tumor in adults. Magnetic resonance imaging (MRI) is the preferred imaging modality for assessing tumor outcomes. Radiomics, an advanced imaging technique, assesses tumor heterogeneity and identifies predictive markers, offering a non-invasive alternative to biopsies. Machine learning (ML) based radiomics models enhances diagnostic and prognostic accuracy of tumors. Comprehensive review on ML-based radiomics models for predicting meningioma recurrence and survival are lacking. Hence, the aim of the study is to summarize the performance measures of ML based radiomics models in the prediction of outcomes such as progression/recurrence (P/R) and overall survival analysis of meningioma. Methods Data bases such as Scopus, Web of Science, PubMed, and Embase were used to conduct a literature search in order to find pertinent original articles that concentrated on meningioma outcome prediction. PRISMA (Preferred reporting items for systematic reviews and meta-analysis) recommendations were used to extract data from selected studies. Results Eight articles were included in the study. MRI Radiomics-based models combined with clinical and pathological data showed strong predictive performance for meningioma recurrence. A decision tree model achieved 90% accuracy, outperforming an apparent diffusion coefficient (ADC) based model (83%). A support vector machine (SVM) model reached an area under curve (AUC) of 0.80 with radiomic features, improving to 0.88 with ADC integration. A combined clinico-pathological radiomics model (CPRM) achieved an AUC of 0.88 in testing. Key predictors of recurrence include ADC values, radiomic scores, ki-67 index, and Simpson grading. For predicting overall survival analysis of meningioma, the combined clinicopathological and radiomic features achieved an AUC of 0.78. Conclusion Integrating radiomics with clinical and pathological data through ML models greatly improved the outcome prediction for meningioma. These ML models surpass conventional MRI in predicting meningioma recurrence and aggressiveness, providing crucial insights for personalized treatment and surgical planning.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsfor.10.12688.f1000research.162306.1</an>
+  <docTypes>systematic-review</docTypes>
+  <volume>14</volume>
+  <issns>20461402</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3d254f63-307d-3de8-a4d2-fda65522553d</plink>
+  <doids></doids>
+  <publisher>F1000 Research Limited</publisher>
+  <contributors>Saroh S ; Saikiran Pendem ; Prakashini K ; Shailesh Nayak S ; Girish R Menon ; Priyanka - ; Divya B</contributors>
+  <coverDate>20250325</coverDate>
+  <longDBName>F1000Research</longDBName>
+  <doi>10.12688/f1000research.162306.1</doi>
+</record>

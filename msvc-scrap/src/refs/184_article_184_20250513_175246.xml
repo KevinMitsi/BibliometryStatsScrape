@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CI0</mid>
+  <language>eng</language>
+  <source>BMC Medical Informatics &amp;amp; Decision Making</source>
+  <bookEdition></bookEdition>
+  <title>A machine learning–based framework for predicting postpartum chronic pain: a retrospective study.</title>
+  <pageEnd>12</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250417</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; FISHER discriminant analysis ; CESAREAN section ; BOOSTING algorithms ; CHRONIC pain</subjects>
+  <abstract>Background: Postpartum chronic pain is prevalent, affecting many women after delivery. Machine learning algorithms have been widely used in predicting postoperative conditions. We investigated the prevalence of and risk factors for postpartum chronic pain, and aimed to develop a machine learning model for its prediction. Methods: Pregnant women in our tertiary hospital were screened from July 2021 to June 2022. Postoperative pain intensity was assessed using the numerical rating scale at 1, 3, and 6 months after delivery. Six machine learning algorithms were benchmarked using the nested resampling method, and their performance was evaluated based on classification error (CE). The algorithm with the best performance evaluation was used to establish the model for predicting chronic pain 6 months after delivery. Shapley additive explanations analysis was used to assess the contribution of each variable to the model. Results: A total of 1,398 postpartum women were included for analysis, among whom 383 developed chronic pain 6 months after delivery. The least absolute shrinkage selection operator identified five relevant factors: numerical rating scale at 3 days after delivery, body mass index before delivery, newborn weight, multiparous delivery, and back pain during gestation. The CEs for the algorithms were as follows: K-nearest neighbor, 0.212; logistic regression, 0.342; linear discriminant analysis, 0.343; naive Bayes, 0.346; ranger, 0.219; and extreme gradient boosting model, 0.147. The extreme gradient boosting model exhibited the best performance (CE = 0.147, F1 = 0.851) and was selected for model establishment. Visualization using Shapley additive explanations facilitated the interpretation of the influence of the five variables in the model. Conclusions: The extreme gradient boosting algorithm, which incorporates five risk factors, demonstrated strong performance in predicting postpartum chronic pain. Trial registration: https//www.chictr.org.cn/ (ChiCTR2300070514). Significance: Our established machine learning algorithm may help facilitate early screening and potentially prevent the development of chronic pain following delivery. Additionally, our findings highlight that body weight control during gestation and effective postpartum acute pain management are critical for preventing postpartum chronic pain. Key summary points: Cesarean section results in a high incidence of postoperative chronic pain 6 months after delivery. Back pain during gestation, Numerical Rating Scale of pain at 3 days after delivery, newborn weight, body mass index before delivery, and multiparous delivery are risk factors for postpartum chronic pain. Body weight control during gestation and postpartum acute pain management are critical for the prevention of postpartum chronic pain. The extreme gradient boosting algorithm, which incorporates five risk factors, demonstrated strong performance in predicting postpartum chronic pain.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184554982</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1472-6947</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=890877a7-7080-3ab6-8d71-c122473c9ab0</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Liu, Fan ; Li, Ting ; Zhou, Dongxu ; Shi, Shengnan ; Gong, Xingrui</contributors>
+  <coverDate>4/17/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12911-025-03004-9</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Landslides: Journal of the International Consortium on Landslides</source>
+  <bookEdition></bookEdition>
+  <title>Estimation of landslide volume by machine learning and remote sensing techniques in Himalayan regions: Estimation of landslide volume by machine learning and remote</title>
+  <pageEnd>16</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250508</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations>Berlin/Heidelberg</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Landslide volume estimation ; Rock slopes ; Machine learning model ; Satellite images ; Lithology</subjects>
+  <abstract>Topographical and geological conditions are typically regarded as the primary causes of landslides. However, accurately estimating landslide volumes on rock slopes using empirical equations remains challenging. In contrast, data science approaches, such as machine learning, leverage advanced data integration and processing capabilities, significantly enhancing the accuracy and reliability of landslide volume estimations. As such, an resemble method, XGBoost, was chosen in our study to estimate the potential landslide volume in Gyirong, China. A factor combination was proposed in this study. They are related to geomorphic (area of slope units (&lt;i>S&lt;/i>) and mean elevation of slope units (&lt;i>El&lt;/i>)) and geological (faults density (&lt;i>Fd&lt;/i>) and geological index (&lt;i>GI&lt;/i>)) conditions. The performance of the developed model was compared with three other machine learning models, including gradient boosting (GBDT), adaptive boosting (AdaBoost) and random forest (RF) based on the mean absolute percentage error (MAPE) and determination of coefficient (&lt;i>R&lt;/i>-squared). The results demonstrate that XGBoost achieves the highest prediction accuracy, with an &lt;i>R&lt;/i>-squared value of 0.986, and a mean absolute percentage error (MAPE) reduces to 8.19%. Additionally, the prediction outcomes of the machine learning model, using the proposed factor combination, were compared with several empirical models. Once again, XGBoost model exhibits the lowest error relative to measured values, highlighting the superiority of machine learning in landslide volume prediction and validating the effectiveness of the selected factors. Overall, the accurate estimation of landslide volume in remote areas can benefit the disaster management and decrease losses of human lives and properties.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.509BD722</an>
+  <docTypes>Brief Communication</docTypes>
+  <volume></volume>
+  <issns>1612510X ; 16125118</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3c0c6c75-6118-394e-9a64-3f06d1be6ade</plink>
+  <doids></doids>
+  <publisher>Springer Berlin Heidelberg</publisher>
+  <contributors>Xu, Chongcai ; Bian, Congchao ; Yu, Teng ; Qiu, Chenchen</contributors>
+  <coverDate>20250508</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10346-025-02532-9</doi>
+</record>

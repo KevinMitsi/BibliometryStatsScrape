@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Machine Learning: Science and Technology</source>
+  <bookEdition></bookEdition>
+  <title>Calibrating Bayesian generative machine learning for Bayesiamplification</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Information and Computing Sciences ; Machine Learning ; Networking and Information Technology R&amp;amp;D (NITRD) ; Machine Learning and Artificial Intelligence ; Applied computing ; Machine learning</subjects>
+  <abstract>Abstract: Recently, combinations of generative and Bayesian deep learning have been introduced in particle physics for both fast detector simulation and inference tasks. These neural networks aim to quantify the uncertainty on the generated distribution originating from limited training statistics. The interpretation of a distribution-wide uncertainty however remains ill-defined. We show a clear scheme for quantifying the calibration of Bayesian generative machine learning models. For a Continuous Normalizing Flow applied to a low-dimensional toy example, we evaluate the calibration of Bayesian uncertainties from either a mean-field Gaussian weight posterior, or Monte Carlo sampling network weights, to gauge their behaviour on unsteady distribution edges. Well calibrated uncertainties can then be used to roughly estimate the number of uncorrelated truth samples that are equivalent to the generated sample and clearly indicate data amplification for smooth features of the distribution.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt34q6w12d</an>
+  <docTypes>article</docTypes>
+  <volume>5</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=95cf7aac-d4bb-32cb-890c-776903b429eb</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Bieringer, S ; Diefenbacher, S ; Kasieczka, G ; Trabs, M</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

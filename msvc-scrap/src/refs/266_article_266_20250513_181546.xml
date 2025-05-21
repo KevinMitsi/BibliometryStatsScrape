@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B74L</mid>
+  <language>eng</language>
+  <source>Polymers (20734360)</source>
+  <bookEdition></bookEdition>
+  <title>Predictive Modeling of Shear Strength of Enzyme-Induced Calcium Carbonate Precipitation (EICP)-Solidified Rubber–Clay Mixtures Using Machine Learning Algorithms.</title>
+  <pageEnd></pageEnd>
+  <pageStart>976</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>7</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; CONVOLUTIONAL neural networks ; LONG short-term memory ; SHEAR strength of soils ; SHEAR strength</subjects>
+  <abstract>The development of reliable predictive models for soil behavior represents a crucial advancement in geotechnical engineering, particularly for optimizing material compositions and reducing experimental uncertainties. Traditional experimental approaches for determining the optimal rubber particle size and content are often resource-intensive, time-consuming, and subject to significant variability. In this study, the shear strength of clay mixed with rubber particles solidified by the Enzyme-Induced Calcium Carbonate Precipitation (EICP) technique was investigated and predictively modeled using a machine learning algorithm. The effects of different rubber contents and particle sizes on the shear strength of the clay were analyzed experimentally, and a hybrid model of a convolutional neural network (CNN) and long short-term memory (LSTM) network optimized based on the crown porcupine optimization (CPO) algorithm was proposed to predict the shear strength of the EICP-treated clay mixed with rubber particles. The superiority of the CPO-CNN-LSTM model in predicting shear strength was verified by comparing multiple machine learning algorithms. The results show that the addition of rubber particles significantly improves the shear strength of the clay, especially at a 5% rubber content. The coefficient of determination (R&lt;sup>2&lt;/sup>) of the CPO-CNN-LSTM model on the training and test datasets reaches 0.98 and 0.97, respectively, which exhibit high prediction accuracy and generalization ability.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184440945</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>2073-4360</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=dfe8fd3d-ffcb-3e9d-bab4-7af90b369fc1</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Ma, Qiang ; Li, Meng ; Shu, Hang ; Xi, Lei</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/polym17070976</doi>
+</record>

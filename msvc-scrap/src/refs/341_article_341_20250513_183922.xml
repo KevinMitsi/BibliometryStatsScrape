@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3183-6</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 7th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), Radio Electronics, Electrical and Power Engineering (REEPE), 2025 7th International Youth Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Comparative Analysis of Machine Learning Methods for Medical Decision Support Systems</title>
+  <pageEnd>5</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Components, Circuits, Devices and Systems ; Computing and Processing ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Nuclear Engineering ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Transportation ; Decision support systems ; Radio frequency ; Support vector machines ; Accuracy ; Scalability ; Nearest neighbor methods ; Boosting ; Convolutional neural networks ; Medical diagnostic imaging ; Random forests ; machine learning ; gradient boosting ; CNN ; Random Forest ; deep learning ; decision support system ; system analysis</subjects>
+  <abstract>Machine-learning methods have become an integral part of medical decision support systems, offering a wide range of capabilities to support disease diagnosis, prognosis, and treatment recommendations. This article presents a comprehensive comparative analysis of seven popular ML methods: k-Nearest Neighbors (KNN), Convolutional Neural Networks (CNN), Random Forest (RF), Support Vector Machines (SVM), Decision Trees (DT), Gradient Boosting (GB), and Logistic Regression (LR). The evaluation is based on six key characteristics: feature processing, flexibility, training speed, complexity, scalability, and accuracy for specific diseases like Parkinson's disease, Alzheimer's disease, cardiovascular diseases, cancer, and diabetes. It could be concluded that Gradient Boosting would give the best results, mainly for its high accuracy and scalability. It is followed by the Random Forest and CNN algorithms. Advantages, disadvantages, and suitability in different disease contexts are debated in detail for each methodology. This analysis serves as a valuable guide for selecting appropriate ML techniques in the development of robust and efficient medical decision support systems.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10971109</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>28317262</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=600e9758-8fbd-3fc5-af17-9d070d47535d</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Haddad, Nekoula ; Myshenkov, Konstantin S.</contributors>
+  <coverDate>20250408</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/REEPE63962.2025.10971109</doi>
+</record>

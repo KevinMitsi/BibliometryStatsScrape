@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>L0PH</mid>
+  <language>eng</language>
+  <source>Bioengineering (Basel)</source>
+  <bookEdition></bookEdition>
+  <title>Integrated Machine Learning Algorithms-Enhanced Predication for Cervical Cancer from Mass Spectrometry-Based Proteomics Data.</title>
+  <pageEnd></pageEnd>
+  <pageStart>269</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; CERVICAL cancer diagnosis ; DATABASES ; RECEIVER operating characteristic curves ; DEEP learning</subjects>
+  <abstract>Early diagnosis is critical for improving outcomes in cancer patients; however, the application of diagnostic markers derived from serum proteomic screening remains challenging. Artificial intelligence (AI), encompassing deep learning and machine learning (ML), has gained increasing prominence across various scientific disciplines. In this study, we utilized cervical cancer (CC) as a model to develop an AI-driven pipeline for the identification and validation of serum biomarkers for early cancer diagnosis, leveraging mass spectrometry-based proteomics data. By processing and normalizing serum polypeptide differential peaks from 240 patients, we employed eight distinct ML algorithms to classify and analyze these differential polypeptide peaks, subsequently constructing receiver operating characteristic (ROC) curves and confusion matrices. Key performance metrics, including accuracy, precision, recall, and F1 score, were systematically evaluated. Furthermore, by integrating feature importance values, Shapley values, and local interpretable model-agnostic explanation (LIME) values, we demonstrated that the diagnostic area under the curve (AUC) achieved by our multi-dimensional learning models approached 1, significantly outperforming the diagnostic AUC of single markers derived from the PRIDE database. These findings underscore the potential of proteomics-driven integrated machine learning as a robust strategy to enhance early cancer diagnosis, offering a promising avenue for clinical translation.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184136292</an>
+  <docTypes>Article</docTypes>
+  <volume>12</volume>
+  <issns>2306-5354</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=03156548-673c-3ec2-b215-0f36afcdc93a</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Zhang, Da ; Zhao, Lihong ; Guo, Bo ; Guo, Aihong ; Ding, Jiangbo ; Tong, Dongdong ; Wang, Bingju ; Zhou, Zhangjian</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/bioengineering12030269</doi>
+</record>

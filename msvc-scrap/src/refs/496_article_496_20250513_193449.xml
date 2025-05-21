@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>International Journal of Information Technology: An Official Journal of Bharati Vidyapeeth's Institute of Computer Applications and Management</source>
+  <bookEdition></bookEdition>
+  <title>Enhancing fault detection and predictive maintenance of rotating machinery with Fiber Bragg Grating sensor and machine learning techniques</title>
+  <pageEnd>1234</pageEnd>
+  <pageStart>1225</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>10</pageCount>
+  <publisherLocations>Singapore</publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning (ML) ; Fault detection ; Predictive maintenance (PM) ; Fiber Bragg Grating (FBG) sensors ; Rotating machinery</subjects>
+  <abstract>The reliability and operational efficiency of rotating machinery have become increasingly vital across various industries. Using Fibre Bragg Grating (FBG) vibration sensors, this study investigates the use of Machine Learning (ML) techniques for fault detection and predictive maintenance. The primary goal is to enhance early fault detection and optimize maintenance schedules, thereby reducing both downtime and operational costs in any industrial settings. The research utilizes sophisticated ML models to analyze vibration data acquired from FBG sensors, which are recognized for their exceptional sensitivity and precision in detecting vibrational anomalies that frequently occur prior to mechanical failures. Following the pre-processing phase, which aims to minimize noise and improve signal quality, essential features are extracted to identify critical parameters that reflect the machine’s health. A range of ML models, such as Random Forest (RF) and Radial Basis Function Neural Networks (RBFNN), are trained and validated using this set of features. The results demonstrate that these machine learning models are effective in accurately detecting faults and predicting maintenance (PM) needs based on real-time sensor data.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.F1A5B529</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>17</volume>
+  <issns>25112104 ; 25112112</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c4240809-0982-3bee-9759-b4824f709d44</plink>
+  <doids></doids>
+  <publisher>Springer Nature Singapore</publisher>
+  <contributors>Nayak, Narayan ; Mohapatra, Ambarish G. ; Khanna, Ashish ; Talukdar, Jaideep ; Satapathy, Satyapriya ; Nayak, Dipak Ranjan ; Ghuge, Nilam N.</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s41870-024-02256-4</doi>
+</record>

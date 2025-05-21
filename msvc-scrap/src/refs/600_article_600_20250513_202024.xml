@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Nature Communications</source>
+  <bookEdition></bookEdition>
+  <title>Resolving multi-image spatial lipidomic responses to inhaled toxicants by machine learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Analytical Chemistry ; Chemical Sciences ; Climate-Related Exposures and Conditions ; Asthma ; Machine Learning and Artificial Intelligence ; Lung ; 2.1 Biological and endogenous factors ; Respiratory ; Animals ; Machine Learning ; Lipidomics ; Male ; Mice ; Female ; Ozone ; Allergens ; Mass Spectrometry ; Humans ; Mice ; Inbred C57BL ; Lipids ; Lipid Metabolism</subjects>
+  <abstract>Regional responses to inhaled toxicants are essential to understand the pathogenesis of lung disease under exposure to air pollution. We evaluate the effect of combined allergen sensitization and ozone exposure on eliciting spatial differences in lipid distribution in the mouse lung that may contribute to ozone-induced exacerbations in asthma. We demonstrate the ability to normalize and segment high resolution mass spectrometry imaging data by applying established machine learning algorithms. Interestingly, our segmented regions overlap with histologically validated lung regions, enabling regional analysis across biological replicates. Our data reveal differences in the abundance of spatially distinct lipids, support the potential role of lipid saturation in healthy lung function, and highlight sex differences in regional lung lipid distribution following ozone exposure. Our study provides a framework for future mass spectrometry imaging experiments capable of relative quantification across biological replicates and expansion to multiple sample types, including human tissue.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt4qc4221p</an>
+  <docTypes>article</docTypes>
+  <volume>16</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7d3f6a02-d67c-326f-9c4a-48bc0410439a</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Stevens, Nathanial C ; Shen, Tong ; Martinez, Joshua ; Evans, Veneese JB ; Domanico, Morgan C ; Neumann, Elizabeth K ; Van Winkle, Laura S ; Fiehn, Oliver</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

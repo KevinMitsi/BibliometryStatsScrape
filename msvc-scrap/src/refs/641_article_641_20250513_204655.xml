@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Predicting conversion to psychosis using machine learning: response to Cannon</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Biomedical and Clinical Sciences ; Clinical Sciences ; Serious Mental Illness ; Machine Learning and Artificial Intelligence ; Mental Illness ; Networking and Information Technology R&amp;amp;D (NITRD) ; Clinical Research ; Mental Health ; Bioengineering ; Brain Disorders ; schizophrenia ; clinical high risk ; NAPLS ; out of sample evaluation ; scale of psychosis risk symptoms ; generalizability ; Public Health and Health Services ; Psychology ; Clinical sciences</subjects>
+  <abstract>BackgroundWe previously reported that machine learning could be used to predict conversion to psychosis in individuals at clinical high risk (CHR) for psychosis with up to 90% accuracy using the North American Prodrome Longitudinal Study-3 (NAPLS-3) dataset. A definitive test of our predictive model that was trained on the NAPLS-3 data, however, requires further support through implementation in an independent dataset. In this report we tested for model generalization using the previous iteration of NAPLS-3, the NAPLS-2, using the identical machine learning algorithms employed in our previous study.MethodStandard machine learning algorithms were trained to predict conversion to psychosis in clinical high risk individuals on the NAPLS-3 dataset and tested on the NAPLS-2 dataset.ResultsNAPLS-2 and -3 individuals significantly differed on most features used in machine learning models. All models performed above chance, with Naive Bayes and random forest methods showing the best overall performance. Importantly, however, overall performance did not match those previously observed when using only NAPLS-3 data.ConclusionThe results of this study suggest that a machine learning model trained to predict conversion to psychosis on one dataset can be used to train an independent dataset. Performance on the test set was not in the range necessary for clinical application, however. Possible reasons that limited performance are discussed.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt2n0141q4</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2e49526b-02e5-34e1-9e5c-ce40f38fd295</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Smucny, Jason ; Cannon, Tyrone D ; Bearden, Carrie E ; Addington, Jean ; Cadenhead, Kristen S ; Cornblatt, Barbara A ; Keshavan, Matcheri ; Mathalon, Daniel H ; Perkins, Diana O ; Stone, William ; Walker, Elaine F ; Woods, Scott W ; Davidson, Ian ; Carter, Cameron S</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

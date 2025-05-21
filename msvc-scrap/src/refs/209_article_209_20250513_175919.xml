@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Journal of Orofacial Orthopedics / Fortschritte der Kieferorthopädie: Official Journal of the German Orthodontic Society / Offizielle Zeitschrift der Deutschen Gesellschaft für Kieferorthopädie</source>
+  <bookEdition></bookEdition>
+  <title>A novel machine learning model for class III surgery decision</title>
+  <pageEnd>249</pageEnd>
+  <pageStart>239</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240701</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations>Heidelberg</publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Orthognathic surgery ; Computer-assisted decision making ; Dentofacial deformities ; Logistic models ; Künstliche Intelligenz ; Kieferorthopädische Chirurgie ; Computergestützte Entscheidungsfindung ; Dentofaziale Deformitäten ; Logistische Modelle</subjects>
+  <abstract>Purpose: The primary purpose of this study was to develop a new machine learning model for the surgery/non-surgery decision in class III patients and evaluate the validity and reliability of this model.&lt;br />Methods: The sample consisted of 196 skeletal class III patients. All the cases were allocated randomly, 136 to the training set and the remaining 60 to the test set. Using the test set, the success rate of the artificial neural network model was estimated, along with a 95% confidence interval. To predict surgical cases, we trained a binary classifier using two different methods: random forest (RF) and logistic regression (LR).&lt;br />Results: Both the RF and the LR model showed high separability when classifying each patient for surgical or non-surgical treatment. RF achieved an area under the curve (AUC) of 0.9395 on the test set. 95% confidence intervals were computed by bootstrap sampling as lower bound = 0.7908 and higher bound = 0.9799. On the other hand, LR achieved an AUC of 0.937 on the test set. 95% confidence intervals were computed by bootstrap sampling as lower bound = 0.8467 and higher bound = 0.9812.&lt;br />Conclusions: RF and LR machine learning models can be used to generate accurate and reliable algorithms to successfully classify patients up to 90%. The features selected by the algorithms coincide with the clinical features that we as clinicians weigh heavily when determining a treatment plan. This study further supports that overjet, Wits appraisal, lower incisor angulation, and Holdaway H angle can be used as strong predictors in assessing a patient’s surgical needs.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.12C48627</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>85</volume>
+  <issns>14345293 ; 16156714</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=debcaac2-c739-336e-ba1a-403fed737a75</plink>
+  <doids></doids>
+  <publisher>Springer Medizin</publisher>
+  <contributors>Lee, Hunter ; Ahmad, Sunna ; Frazier, Michael ; Dundar, Mehmet Murat ; Turkkahraman, Hakan</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s00056-022-00421-7</doi>
+</record>

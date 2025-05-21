@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781801811910 ; 9781801815673</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning in Biotechnology and Life Sciences : Build Machine Learning Models Using Python and Deploy Them on the Cloud</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20220101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>MATHEMATICS / Probability &amp;amp; Statistics / Time Series ; Python (Computer program language) ; Machine learning ; Biotechnology--Data processing</subjects>
+  <abstract>Explore all the tools and templates needed for data scientists to drive success in their biotechnology careers with this comprehensive guideKey FeaturesLearn the applications of machine learning in biotechnology and life science sectorsDiscover exciting real-world applications of deep learning and natural language processingUnderstand the general process of deploying models to cloud platforms such as AWS and GCPBook DescriptionThe booming fields of biotechnology and life sciences have seen drastic changes over the last few years. With competition growing in every corner, companies around the globe are looking to data-driven methods such as machine learning to optimize processes and reduce costs. This book helps lab scientists, engineers, and managers to develop a data scientist's mindset by taking a hands-on approach to learning about the applications of machine learning to increase productivity and efficiency in no time.You'll start with a crash course in Python, SQL, and data science to develop and tune sophisticated models from scratch to automate processes and make predictions in the biotechnology and life sciences domain. As you advance, the book covers a number of advanced techniques in machine learning, deep learning, and natural language processing using real-world data.By the end of this machine learning book, you'll be able to build and deploy your own machine learning models to automate processes and make predictions using AWS and GCP.What you will learnGet started with Python programming and Structured Query Language (SQL)Develop a machine learning predictive model from scratch using PythonFine-tune deep learning models to optimize their performance for various tasksFind out how to deploy, evaluate, and monitor a model in the cloudUnderstand how to apply advanced techniques to real-world dataDiscover how to use key deep learning methods such as LSTMs and transformersWho this book is forThis book is for data scientists and scientific professionals looking to transcend to the biotechnology domain. Scientific professionals who are already established within the pharmaceutical and biotechnology sectors will find this book useful. A basic understanding of Python programming and beginner-level background in data science conjunction is needed to get the most out of this book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>3127192</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9a7dd43e-b987-3eee-84fa-a6f144e41052</plink>
+  <doids>NL$3127192$PDF ; NL$3127192$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Saleh Alkhalifa</contributors>
+  <coverDate>2022</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

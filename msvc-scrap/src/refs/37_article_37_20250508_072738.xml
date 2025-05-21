@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CW3</mid>
+  <language>eng</language>
+  <source>Journal of Translational Medicine</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning and multi-omics integration: advancing cardiovascular translational research and clinical practice.</title>
+  <pageEnd>17</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250402</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>ARTIFICIAL intelligence ; MACHINE learning ; MEDICAL scientists ; GLOBAL burden of disease ; CAUSAL inference</subjects>
+  <abstract>The global burden of cardiovascular diseases continues to rise, making their prevention, diagnosis and treatment increasingly critical. With advancements and breakthroughs in omics technologies such as high-throughput sequencing, multi-omics approaches can offer a closer reflection of the complex physiological and pathological changes in the body from a molecular perspective, providing new microscopic insights into cardiovascular diseases research. However, due to the vast volume and complexity of data, accurately describing, utilising, and translating these biomedical data demands substantial effort. Researchers and clinicians are actively developing artificial intelligence (AI) methods for data-driven knowledge discovery and causal inference using various omics data. These AI approaches, integrated with multi-omics research, have shown promising outcomes in cardiovascular studies. In this review, we outline the methods for integrating machine learning, one of the most successful applications of AI, with omics data and summarise representative AI models developed that leverage various omics data to facilitate the exploration of cardiovascular diseases from underlying mechanisms to clinical practice. Particular emphasis is placed on the effectiveness of using AI to extract potential molecular information to address current knowledge gaps. We discuss the challenges and opportunities of integrating omics with AI into routine diagnostic and therapeutic practices and anticipate the future development of novel AI models for wider application in the field of cardiovascular diseases.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184191846</an>
+  <docTypes>Article</docTypes>
+  <volume>23</volume>
+  <issns>1479-5876</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0d8eecea-1391-36ad-b60f-89c6104fe72d</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Lin, Mingzhi ; Guo, Jiuqi ; Gu, Zhilin ; Tang, Wenyi ; Tao, Hongqian ; You, Shilong ; Jia, Dalin ; Sun, Yingxian ; Jia, Pengyu</contributors>
+  <coverDate>4/2/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12967-025-06425-2</doi>
+</record>

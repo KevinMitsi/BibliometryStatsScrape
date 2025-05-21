@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Intrusion detection system based on machine learning using least square support vector machine.</title>
+  <pageEnd>23</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; SUPPORT vector machines ; ARTIFICIAL intelligence ; FALSE alarms ; DEEP learning</subjects>
+  <abstract>Security solutions in the cyber world are essential for enforcing protection against network vulnerabilities and data exploitation. Unauthorized access or attack can be avoided in critical systems using a comprehensive approach via an effective intrusion detection system (IDS). Traditional intrusion detection techniques are no longer accurate and effective enough to handle the demands of the big data age. Machine learning (ML) methods can be utilized for intrusion detection since the classifier's performance has significantly increased over the past decade. A significant limitation of most ML-based IDSs is that they often generate alerts for false predictions. This is owing to misclassifications that tend to occur more frequently than actual threats. Despite their effectiveness, these conventional ML-based IDSs often face difficulties scaling to meet the demands of big data. The increasing volume and complexity of datasets pose various challenges, such as high dimensionality, multiple data sources, and the need for a dependable infrastructure. Consequently, the accuracy of an ML model likely declines when irrelevant features are included from a vast dataset. In this paper, the exhaustive feature selection algorithm is employed to assess every possible combination of features in a dataset to evaluate its performance. The selection is based on identifying the feature subset with the highest accuracy. Hence, an ML-based complete security solution is introduced for network intrusion detection using the supervised framework. This framework utilizes quantum-inspired least square support vector machine (LS-SVM) classifier. This algorithm is used to enhance the classification accuracy in terms of reducing false predictions while minimizing the training time. The hyperparameters of our model are tuned by utilizing those selected features to maximize the accuracy. The model developed is verified using three different datasets, which have been widely applied to intrusion detection. The model achieves high detection performance, with accuracy values of 99.3% for NSL-KDD, 99.5% for CIC-IDS-2017, and 93.3% for UNSW-NB15. Precision remains at 1.00 for CIC-IDS-2017 and UNSW-NB15, while recall reaches 1.00 for CIC-IDS-2017, 0.99 for NSL-KDD, and 0.98 for UNSW-NB15. F1-scores follow the same trend, reflecting the classifier's robust prediction capabilities. In addition, our model demonstrates competitive testing time efficiency in 2.8 s for NSL-KDD, 1.0s for CIC-IDS-2017, and 2.8s for UNSW-NB15. Also, our model requires the minimum training time for all datasets compared to other models. These results highlight the LS-SVM-based model's suitability for real-time intrusion detection applications.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184384280</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d47a55df-e3e0-3e9d-8707-aaaec8768678</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Waghmode, Pratik ; Kanumuri, Manideep ; El-Ocla, Hosam ; Boyle, Tanner</contributors>
+  <coverDate>4/8/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-95621-7</doi>
+</record>

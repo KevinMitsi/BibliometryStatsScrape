@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>BMC medical informatics and decision making</source>
+  <bookEdition></bookEdition>
+  <title>Can some algorithms of machine learning identify osteoporosis patients after training and testing some clinical information about patients?</title>
+  <pageEnd></pageEnd>
+  <pageStart>127</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250311</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Osteoporosis diagnosis ; Machine Learning ; Algorithms ; Humans ; Female ; Male ; Middle Aged ; Aged ; Adult ; Aged, 80 and over</subjects>
+  <abstract>Declarations. Ethics approval and consent to participate: This research had been ethically approved by Huazhong University of Science and Technology Tongji Medical College Medical Ethics Committee (NO. S1060). Informed consent was obtained from all individual participants included in the study. All methods were performed in accordance with the Declarations of Helsinki. Consent for publication: Not applicable. Competing interests: The authors declare no competing interests.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40069777</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>25</volume>
+  <issns>1472-6947 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=467a35f6-2d3e-3b65-8a73-2796cb233fc7</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Huang, Guixiong ; Zhu, Weilin ; Wang, Yulong ; Wan, Yizhou ; Chen, Kaifang ; Su, Yanlin ; Su, Weijie ; Li, Lianxin ; Liu, Pengran ; Dong Guo, Xiao</contributors>
+  <coverDate>2025 Mar 11</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1186/s12911-025-02943-7</doi>
+</record>

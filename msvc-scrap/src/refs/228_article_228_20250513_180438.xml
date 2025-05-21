@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of Computer Assisted Learning</source>
+  <bookEdition></bookEdition>
+  <title>Educational Policy as Predictor of Computational Thinking: A Supervised Machine Learning Approach</title>
+  <pageEnd>2885</pageEnd>
+  <pageStart>2872</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>14</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Educational Policy ; Predictor Variables ; Computation ; Thinking Skills ; Problem Solving ; Grade 8 ; Middle School Students ; Artificial Intelligence ; Computer Science ; Academic Achievement ; Student Development ; Influence of Technology ; Governance ; Institutional Autonomy ; Data Analysis ; Academic Records ; Curriculum Enrichment</subjects>
+  <abstract>Background: Computational thinking is derived from arguments that the underlying practices in computer science augment problem-solving. Most studies investigated computational thinking development as a function of learners' factors, instructional strategies and learning environment. However, the influence of the wider community such as educational policies on computational thinking remains unclear. Objectives: This study examines the impact of basic and technology-related educational policies on the development of computational thinking. Methods: Using supervised machine learning, the computational thinking achievements of 31,823 eighth graders across nine countries were analysed. Seven rule-based and tree-based classification models were generated and triangulated to determine how educational policies predicted students' computational thinking. Results and conclusions: Predictions show that students have a higher propensity to develop computational thinking skills when schools exercise full autonomy in governance and explicitly embed computational thinking in their curriculum. Plans to support students, teachers and schools with technology or introduce 1:1 computing have no discernible predicted influence on students' computational thinking achievement. Implications: Although predictions deduced from these attributes are not generalizable, traces of how educational policies affect computational thinking exist to articulate more fronts for future research on the influence of educational policies on computational thinking.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1448402</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>40</volume>
+  <issns>0266-4909 ; 1365-2729</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7c3a8c9a-f2f7-379d-b95e-30c1b91a9241</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Ndudi O. Ezeamuzie ; Jessica S. C. Leung ; Dennis C. L. Fung ; Mercy N. Ezeamuzie</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1111/jcal.13041</doi>
+</record>

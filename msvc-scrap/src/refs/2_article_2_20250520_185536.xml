@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3033-4 ; 979-8-3315-3032-7</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2024 5th International Conference on Machine Learning and Computer Application (ICMLCA), Machine Learning and Computer Application (ICMLCA), 2024 5th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>A Point Cloud Registration Method for Antarctic Power Cabins Based on an Improved SAC-IA Algorithm</title>
+  <pageEnd>534</pageEnd>
+  <pageStart>530</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241018</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Robotics and Control Systems ; Signal Processing and Analysis ; Point cloud compression ; Matched filters ; Measurement errors ; Accuracy ; Machine learning algorithms ; Noise ; Machine learning ; Filtering algorithms ; Antarctica ; Robustness ; SAC-IA algorithm ; point cloud registration ; depth filtering ; ISS keypoint detection ; cosine similarity</subjects>
+  <abstract>This paper presents a point cloud registration method for Antarctic power cabins based on an improved SAC-IA algorithm. To address the issues of measurement errors in structured light scanning and edge structure damage caused by traditional mean depth filtering, as well as inaccurate random point pair selection and long computation times in the SAC-IA algorithm, the following work was conducted: First, an improved depth filtering algorithm was designed to better filter out depth noise while preserving edge information. Second, ISS keypoint detection and cosine similarity were used to match the best feature pairs, combined with the RANSAC method to remove incorrect matches. Experimental results show that the improved algorithm significantly optimizes the number of key points and matching pairs, greatly saves computational resources, and enhances registration accuracy and robustness.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10754370</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2e97296d-0108-3b39-8a4d-a083d5af8f69</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Lu, Junyao ; Shan, Shuo ; Zhang, Kanjian ; Wei, Haikun</contributors>
+  <coverDate>20241018</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/ICMLCA63499.2024.10754370</doi>
+</record>

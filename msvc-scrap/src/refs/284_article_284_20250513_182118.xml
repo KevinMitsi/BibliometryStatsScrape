@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FQA</mid>
+  <language>eng</language>
+  <source>Journal of Financial &amp;amp; Quantitative Analysis</source>
+  <bookEdition></bookEdition>
+  <title>Uncovering Sparsity and Heterogeneity in Firm-Level Return Predictability Using Machine Learning.</title>
+  <pageEnd>3419</pageEnd>
+  <pageStart>3384</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20231201</publicationDate>
+  <pageCount>36</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>8</issue>
+  <identifiers></identifiers>
+  <subjects>Rate of return on stocks ; Industry classification ; Portfolio performance ; Organizational performance ; Industries ; Machine learning ; Prediction models ; Heterogeneity</subjects>
+  <abstract>We develop an approach that combines the estimation of monthly firm-level expected returns with an assignment of firms to (possibly) latent groups, both based on observable characteristics, using machine learning principles with linear models. The best-performing methods are flexible two-stage sparse models that capture group-membership predictive relationships. Portfolios formed to exploit such group-varying predictions based on a parsimonious set of characteristics deliver economically meaningful returns with low turnover. We propose statistical tests based on nonparametric bootstrapping for our results, and detail how different characteristics may matter for different groups of firms, making comparisons to the existing literature.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>174185389</an>
+  <docTypes>Article</docTypes>
+  <volume>58</volume>
+  <issns>0022-1090</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7323f800-7d84-32eb-80d2-33ffd785f0bb</plink>
+  <doids></doids>
+  <publisher>Cambridge University Press</publisher>
+  <contributors>Evgeniou, Theodoros ; Guecioueur, Ahmed ; Prieto, Rodolfo</contributors>
+  <coverDate>Dec2023</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1017/S0022109022001028</doi>
+</record>

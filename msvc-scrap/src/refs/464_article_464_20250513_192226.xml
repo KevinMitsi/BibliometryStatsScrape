@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Education and Information Technologies</source>
+  <bookEdition></bookEdition>
+  <title>Engagement Assessment in Project-Based Education: A Machine Learning Approach in Team Chat Analysis</title>
+  <pageEnd>13131</pageEnd>
+  <pageStart>13105</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240701</publicationDate>
+  <pageCount>27</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>10</issue>
+  <identifiers></identifiers>
+  <subjects>Active Learning ; Student Projects ; Artificial Intelligence ; Computer Mediated Communication ; Learner Engagement ; Discussion Groups ; Prediction</subjects>
+  <abstract>Project-based Learning (PBL) provides an effective environment for collaborative engineering design education. However, it is difficult to assess students' engagement and provide process-oriented feedback on their collaboration due to limited resources and scalability challenges. This paper presents an empirical study examining the application of Machine Learning (ML) to evaluate student engagement in PBL. A supervised ML model (SML) was developed using Natural Language Processing (NLP) to predict engagement levels using conversation data in online chat groups and comparing them to the ground truth metrics. Eleven teams of engineering students participated in the PBL courses on systems engineering while employing text-based discussions. Communication messages were manually labelled for active engagement metrics collected in our prior research. The SML was constructed with Gradient Boosting to classify engagement levels. The model was trained using more than 5,000 manually classified text messages, and it demonstrated an accuracy range of 0.75 to 0.81 on held-out test data. The model's predictions for complete team communication showed a meaningful association with the actual levels of engagement as determined by log data and surveys. Moreover, the model reproduces general patterns of team engagement and collaboration. According to the findings, conversational data can be a scalable source for ML-driven engagement assessment. This shows how AI has the potential to scale up process-oriented assessment in PBL. Future research should look towards instructor-AI dashboards and individualized feedback systems. The work adds an empirical evaluation of AI for automated engagement analysis, extending earlier research on feedback systems to tackle PBL issues.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1433237</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>29</volume>
+  <issns>1360-2357 ; 1573-7608</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=580383fa-5917-3e8d-83ff-88a7aab08a47</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Sabah Farshad ; Evgenii Zorin ; Nurlybek Amangeldiuly ; Clement Fortin</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10639-023-12381-5</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>AI &amp;amp; SOCIETY: Journal of Knowledge, Culture and Communication</source>
+  <bookEdition></bookEdition>
+  <title>Abstaining machine learning: philosophical considerations</title>
+  <pageEnd>21</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250322</publicationDate>
+  <pageCount>21</pageCount>
+  <publisherLocations>London</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Abstaining machine learning ; Machine learning with rejection ; Suspension of judgment ; Neutrality ; Explainable AI ; Supervised learning</subjects>
+  <abstract>This paper establishes a connection between the fields of machine learning (ML) and philosophy concerning the phenomenon of behaving neutrally. It investigates a specific class of ML systems capable of delivering a neutral response to a given task, referred to as abstaining machine learning systems, that has not yet been studied from a philosophical perspective. The paper introduces and explains various abstaining machine learning systems, and categorizes them into distinct types. An examination is conducted on how abstention in the different machine learning system types aligns with the epistemological counterpart of suspended judgment, addressing both the nature of suspension and its normative profile. Additionally, a philosophical analysis is suggested on the autonomy and explainability of the abstaining response. It is argued, specifically, that one of the distinguished types of abstaining systems is preferable as it aligns more closely with our criteria for suspended judgment. Moreover, it is better equipped to autonomously generate abstaining outputs and offer explanations for abstaining outputs when compared to the other type.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.26714877</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>09515666 ; 14355655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d9c4bdb4-1bb3-3f0a-99e1-99f14b4ee585</plink>
+  <doids></doids>
+  <publisher>Springer London</publisher>
+  <contributors>Schuster, Daniela</contributors>
+  <coverDate>20250322</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s00146-025-02188-y</doi>
+</record>

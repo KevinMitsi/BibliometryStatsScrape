@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B0FK</mid>
+  <language>tur</language>
+  <source>Journal of Business Research-Turk / Isletme Arastirmalari Dergisi</source>
+  <bookEdition></bookEdition>
+  <title>Ofis Kiralarının Kestiriminde Makine Öğrenmesi Yaklaşımları ve Pazar Analizi.</title>
+  <pageEnd>861</pageEnd>
+  <pageStart>844</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Decision support systems ; Artificial neural networks ; Real estate investment ; Other Financial Vehicles ; Machine learning ; Random forest algorithms</subjects>
+  <abstract>Purpose – Determination of office rents plays an important role in directing new office development areas, real estate investments and planning strategies. It is observed that traditional valuation methods used for this purpose cannot fully explain the complex relationships between variables, are based on more limited data and subjective evaluations, and thus cause significant error margins in determining office rents. This study aims to determine which approach provides higher accuracy by comparing traditional valuation methods and machine learning methods in determining office rents in Çankaya district of Ankara province. Design/methodology/approach – In the research, office rent data of Çankaya district between 2019-2024 were used. Machine learning methods such as Multiple Linear Regression, Ridge Regression, Lasso Regression, Decision Trees, Random Forest, k-Nearest Neighbour, Radial and Linear Kernel Support Vector Machine, XGboost Model, Artificial Neural Networks were applied. Model performances were compared using various error measures. Findings – According to the results of the analyses, the Random Forest algorithm showed the most successful prediction performance by providing the lowest error rates. While the traditional valuation approach cannot fully reflect the interaction between variables, more accurate prediction values are obtained with machine learning models. Discussion – Machine learning methods offer significant advantages in the valuation of office rents by adapting to dynamic market conditions. The research contributes to the development of data-driven and innovative decision support systems in the real estate sector.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184478379</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>1309-0712</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fbb5f44f-fc16-3f4f-9f63-ecf78ec5c773</plink>
+  <doids></doids>
+  <publisher>Journal of Business Research / Isletme Arastirmalari Dergisi</publisher>
+  <contributors>ŞEN, Uğur ; BAŞER, Furkan ; ÖZDEMİR SÖNMEZ, Fahriye Nihan</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.20491/isarder.2025.2006</doi>
+</record>

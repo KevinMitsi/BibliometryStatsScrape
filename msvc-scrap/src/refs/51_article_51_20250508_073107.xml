@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Scientific reports</source>
+  <bookEdition></bookEdition>
+  <title>Vowel segmentation impact on machine learning classification for chronic obstructive pulmonary disease.</title>
+  <pageEnd></pageEnd>
+  <pageStart>9930</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250322</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Pulmonary Disease, Chronic Obstructive classification ; Pulmonary Disease, Chronic Obstructive physiopathology ; Machine Learning ; Humans ; Male ; Female ; Middle Aged ; Aged ; Support Vector Machine ; Adult</subjects>
+  <abstract>Declarations. Competing interests: The authors declare no competing interests.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40121302</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=49f1cd62-0712-32f5-8010-c675a2910903</plink>
+  <doids></doids>
+  <publisher>Nature Publishing Group</publisher>
+  <contributors>Idrisoglu, Alper ; Moraes, Ana Luiza Dallora ; Cheddad, Abbas ; Anderberg, Peter ; Jakobsson, Andreas ; Berglund, Johan Sanmartin</contributors>
+  <coverDate>2025 Mar 22</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1038/s41598-025-95320-3</doi>
+</record>

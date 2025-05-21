@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>16V5</mid>
+  <language>eng</language>
+  <source>Journal of Business Forecasting</source>
+  <bookEdition></bookEdition>
+  <title>Adding Hierarchical Time Series Forecasting to Machine Learning in the Cyber Security Industry.</title>
+  <pageEnd>37</pageEnd>
+  <pageStart>33</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Time series analysis ; Forecasting ; Internet Publishing and Broadcasting and Web Search Portals ; Wired Telecommunications Carriers ; Internet security ; Machine learning ; Demand forecasting</subjects>
+  <abstract>This article details machine learning for demand forecasting in the cyber security industry. I reveal a standard approach to using machine learning for demand forecasting and compare it to the improved methodology I employed at a leading cyber security firm, which integrates Hierarchical Time Series Forecasting. I discuss how this methodology works and the KPI improvements it yielded relative to the existing approach, plus the strategic decision making benefits it provides.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184656748</an>
+  <docTypes>Article</docTypes>
+  <volume>44</volume>
+  <issns>1930-126X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9bc6d729-45b3-35e2-ad8e-beb7dcace220</plink>
+  <doids></doids>
+  <publisher>Graceway Publishing Company</publisher>
+  <contributors>Lal, Manisha</contributors>
+  <coverDate>Spring2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi></doi>
+</record>

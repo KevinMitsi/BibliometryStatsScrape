@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>International Journal of Artificial Intelligence in Education</source>
+  <bookEdition></bookEdition>
+  <title>A Novel Framework for the Generation of Multiple Choice Question Stems Using Semantic and Machine-Learning Techniques</title>
+  <pageEnd>375</pageEnd>
+  <pageStart>332</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240601</publicationDate>
+  <pageCount>44</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Multiple Choice Tests ; Test Construction ; Test Items ; Semantics ; Artificial Intelligence ; Computer Assisted Testing ; Cloze Procedure ; Grammar</subjects>
+  <abstract>Multiple Choice Questions (MCQs) are a popular assessment method because they enable automated evaluation, flexible administration and use with huge groups. Despite these benefits, the manual construction of MCQs is challenging, time-consuming and error-prone. This is because each MCQ is comprised of a question called the "stem", a correct option called the "key" along with alternative options called "distractors" whose construction demands expertise from the MCQ developers. In addition, there are different kinds of MCQs such as Wh-type, Fill-in-the-blank, Odd one out, and many more needed to assess understanding at different cognitive levels. Automatic Question Generation (AQG) for developing heterogeneous MCQ stems has generally followed two approaches: semantics-based and machine-learning-based. Questions generated via AQG techniques can be utilized only if they are grammatically correct. Semantics-based techniques have been able to generate a range of different types of grammatically correct MCQs but require the semantics to be specified. In contrast, most machine-learning approaches have been primarily able to generate only grammatically correct Fill-in-the-blank/Cloze by reusing the original text. This paper describes a technique for combining semantic-based and machine-learning-based techniques to generate grammatically correct MCQ stems of various types for a technical domain. Expert evaluation of the resultant MCQ stems demonstrated that they were promising in terms of their usefulness and grammatical correctness.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1426299</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>34</volume>
+  <issns>1560-4292 ; 1560-4306</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c184c4b3-9d27-35a4-af16-09478ef4c0a0</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Archana Praveen Kumar ; Ashalatha Nayak ; Manjula Shenoy K. ; Chaitanya ; Kaustav Ghosh</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s40593-023-00333-6</doi>
+</record>

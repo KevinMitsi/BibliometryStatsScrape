@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>2G2</mid>
+  <language>eng</language>
+  <source>Water, Air &amp;amp; Soil Pollution</source>
+  <bookEdition></bookEdition>
+  <title>Spatiotemporal Changes of Pollutant Concentrations in South India during COVID-19 Lockdown Using Ground and Satellite-based data: a Comparative Analysis from the Machine Learning Model.</title>
+  <pageEnd>25</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>25</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Air quality standards ; Emissions (Air pollution) ; Machine learning ; Pearson correlation (Statistics) ; COVID-19 pandemic</subjects>
+  <abstract>Under the COVID-19-induced lockdown, there was a sharp decrease in pollution emissions, which led to previously unheard-of trends in India's most dangerous pollutants. The study is considered for March-June 2020 to investigate the impact of lockdown on the concentrations of air pollutants, at the four stations in Andhra Pradesh, India. The study period was divided into Before Lockdown (BLD), During Lockdown (Phase-I (P-I), Phase-II (P-II), Phase-III (P-III), Phase-IV (P-IV)) and After Lockdown (ALD). The air pollutant concentrations over four stations were retrieved using in-situ measurements under the Central Pollution Control Board (CPCB), India network. The percentage contribution of PM&lt;sub>2.5&lt;/sub> in PM&lt;sub>10&lt;/sub> was recorded as 60–70% at Tirumala (TML) before lockdown (BLD), Phase-I, Phase-II, and low contribution at Visakhapatnam (VSK) of 10–40%. The maximum reduction in all pollutants recorded at Visakhapatnam (VSK) was up to 30–70%, and the highest reduction in PM&lt;sub>10&lt;/sub>, NO&lt;sub>2&lt;/sub>, and SO&lt;sub>2&lt;/sub> was nearly 35–75% recorded at Tirumala (TML), which shows the effect due to the lack of human activities. In this study, the predominant changes occur in the first phase of the lockdown in all the studied air pollutant's mean concentrations. Pollutant concentrations decreased across all sites during the lockdown, aligning with National Ambient Air Quality Standards (NAAQS) for the first time. The Spatial analysis showed varying degrees of improvement across four locations, experiencing a significant decrease in concentrations. Pearson's correlations between pollutants and meteorological factors indicated that wind speed and direction changes influenced pollutant dispersion. Also, the XGBoost model demonstrated high predictive accuracy for PM&lt;sub>2.5&lt;/sub> but tended to underpredict at higher concentrations, especially in complex urban environments. This study is for policymakers to develop precise mitigation strategies for air pollution to create a sustainable Environment.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183749482</an>
+  <docTypes>Article</docTypes>
+  <volume>236</volume>
+  <issns>0049-6979</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=60cd8820-6b52-3b1b-b39b-768099908486</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Althaf, Pelati ; Devi, Nulu S. M. P. Latha ; Kumar, Kanike Raghavendra</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1007/s11270-025-07824-3</doi>
+</record>

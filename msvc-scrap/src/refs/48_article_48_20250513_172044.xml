@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HAYR</mid>
+  <language>eng</language>
+  <source>Ingénierie des Systèmes d'Information</source>
+  <bookEdition></bookEdition>
+  <title>Breast Cancer Detection Using a Novel Hybrid Machine Learning Approach.</title>
+  <pageEnd>576</pageEnd>
+  <pageStart>565</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Breast cancer ; Machine learning ; Convolutional neural networks ; Deep learning ; Diagnosis methods ; Feature selection ; Computer-assisted image analysis (Medicine)</subjects>
+  <abstract>Breast cancer is the most common and lethal cancer among women across the globe, and supporting early detection through accurate diagnostic measures would save many lives. However, existing diagnostic techniques often encounter problems concerning accuracy and reliability, hence, they are ineffective. This paper presents a new multi-classifier machine learning technique for breast cancer diagnosis using the integration of conventional machine learning (ML) and deep learning (DL) paradigms. The model employs a two-step process: The first step is feature selection using a random forest (RF) to do dimensionality reduction, and feature selection eliminates features that are not useful; the last step is classification using a convolutional neural network (CNN). The hybrid model is then tested using a Wisconsin breast cancer data set. Evaluation criteria for the key performance indicators include accuracy, precision, recall rate, F1-score, and AUC ROC. As the results have revealed, the hybrid model is higher than the traditional methods like logistic regression (LR) with an accuracy of 94.5%, a precision of 92.8%, recall of 95.0%, an F1-score of 93.8% and an AUC-ROC of 0.97. This study demonstrates that integrating human readers into the evaluation process can enhance the reliability and efficiency of clinical breast cancer detection and, hence, contribute to developing diagnostic techniques in online medical image analysis.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184436903</an>
+  <docTypes>Article</docTypes>
+  <volume>30</volume>
+  <issns>1633-1311</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b81718b8-7021-3ad7-92e4-06b3a56e7219</plink>
+  <doids></doids>
+  <publisher>International Information &amp;amp; Engineering Technology Association (IIETA)</publisher>
+  <contributors>Deshmukh, Priyanka V. ; Shahade, Aniket K. ; Shahade, Makarand R. ; Wankhede, Disha S. ; Gohatre, Pritam H.</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.18280/isi.300301</doi>
+</record>

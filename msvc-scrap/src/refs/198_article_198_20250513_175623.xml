@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Enhanced Identification of Fraud in Credit Card Transactions Applying Machine Learning Strategies</title>
+  <pageEnd>152</pageEnd>
+  <pageStart>148</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Logistic regression ; Accuracy ; Machine learning algorithms ; Nearest neighbor methods ; Credit cards ; Fraud ; Telecommunications ; Security ; Decision trees ; Random forests ; Machine Learning ; XGB Classifier ; K-Nearest Neighbors ; Random Forest ; Logistic Regression ; Decision Tree ; XGBoost ; Credit Card Fraud Detection ; Fraudulent Transactions</subjects>
+  <abstract>Credit card theft resulting in multi-millions of dollars in damages is making it a major global financial and security concern yearly. This analysis focuses on dealing with this critical issue by establishing a model developed on machine learning that can identify fraudulent transactions effectively. Developed model leverages earlier credit card transactions to identify patterns indicative of fraud. By employing several kinds of Machine learning algorithms, comprising K-Nearest Neighbors (KNN), Logistic Regression, Random Forest, Decision Trees, and XGB Classifier, the project evaluates the performance of each approach in accurately differentiating among transactions that are fraudulent and those that are not. These models work well for preventing credit card scams as they can manage unbalanced data, identify irregularities, and adjust to intricate fraud patterns. Random Forest and XGBoost provide excellent accuracy and resilience. Enabling early identification of fraudulent activities, and ensuring that customers’ money is safeguarded and unauthorized charges are prevented, is the principal focus. This will benefit customers by ensuring their funds are restored and their accounts remain secure. The effectiveness of the models is examined by integrating measures involving precision, recall, accuracy, F1-score, and confusion matrix after they have been trained and tested on a dataset. This paper emphasizes a way in which machine learning may be used to detect fraud also emphasizing how important the advanced algorithms are in mitigating financial losses and enhancing the security of digital transactions.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10967894</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=89b1c6ed-62a5-3195-b7cd-c8800574d812</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Roshini, Bugginni ; Gandham, Likhitha Sri ; Mandava, Parimala Shivani ; Enduri, Murali Krishna ; Tejaswi, Anupoju</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10967894</doi>
+</record>

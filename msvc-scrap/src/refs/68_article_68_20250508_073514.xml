@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CI0</mid>
+  <language>eng</language>
+  <source>BMC Medical Informatics &amp;amp; Decision Making</source>
+  <bookEdition></bookEdition>
+  <title>Harness machine learning for multiple prognoses prediction in sepsis patients: evidence from the MIMIC-IV database.</title>
+  <pageEnd>15</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250331</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; INTENSIVE care patients ; ARTIFICIAL intelligence ; MEDICAL sciences ; LOGISTIC regression analysis ; SEPSIS</subjects>
+  <abstract>Background: Sepsis, a severe systemic response to infection, frequently results in adverse outcomes, underscoring the urgency for prompt and accurate prognostic tools. Machine learning methods such as logistic regression, random forests, and CatBoost, have shown potential in early sepsis prediction. The study aimed to create and verify a machine learning model capable of early prognostic identification of patients with sepsis in intensive care units (ICUs). Methods: Patients adhering to inclusion and exclusion criteria from the MIMIC-IV v2.2 database were divided into a training set and a validation set in a 7:3 ratio. Initially, we employed difference analysis to assess the significance of each variable and subsequently screened relevant features with multinomial logistic regression analysis. Logistic regression, random forest, and CatBoost algorithms were used to construct machine learning models to predict rapid recovery, chronic critical illness, and mortality in sepsis. The models were compared through several evaluation indexes including precision, accuracy, recall, F1 score, and the area under the receiver-operating-characteristic curve(AUC) in the validation set to select the optimal model. The best model was visualized and interpreted utilizing the Shapley Additive explanations method. Results: 13174 sepsis patients were included. Post the screening process,26 clinical features were obtained to develop three distinct machine learning models. CatBoost exhibited superior performance among the three models with a weighted AUC of 0.771. The prognosis with the highest predictive performance was mortality (AUC = 0.804), followed by the prognoses of rapid recovery (AUC = 0.773) and chronic critical illness(AUC = 0.737). Urine output, respiratory rate, and temperature were the top three important features for the whole model prediction. Conclusion: The machine learning model developed leveraging the CatBoost algorithm demonstrates the latent capacity to identify sepsis prognosis early. It also suggests that interventions targeting factors such as urine output, respiratory status, and temperature in the early stage may potentially alter the adverse prognosis of sepsis patients. However, the model will still require further external validation in the future.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184165715</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1472-6947</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=beee1e15-1b63-3518-97c3-6c56b5a1852c</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Zhang, Su-Zhen ; Ding, Hai-Yi ; Shen, Yi-Ming ; Shao, Bing ; Gu, Yuan-Yuan ; Chen, Qiu-Hua ; Zhang, Hai-Dong ; Pei, Ying-Hao ; Jiang, Hua</contributors>
+  <coverDate>3/31/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12911-025-02976-y</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BUM</mid>
+  <language>eng</language>
+  <source>Business Strategy &amp;amp; the Environment (John Wiley &amp;amp; Sons, Inc)</source>
+  <bookEdition></bookEdition>
+  <title>The influence of blockchain technology on circular economy implementation in the automotive sector: From a GMM model to a new machine learning algorithm.</title>
+  <pageEnd>1061</pageEnd>
+  <pageStart>1043</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>19</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Automobile industry ; Machine learning ; Circular economy ; Blockchains ; Support vector machines</subjects>
+  <abstract>This investigation explores the integration of blockchain technology (BCT) with circular economy (CE) principles within the automotive sector, leveraging a dataset from the years 2011 to 2019. Employing advanced analytical techniques, including machine learning models and the system generalized method of moments (GMM), the study meticulously assesses BCT's impact on CE practices over the specified period. The dataset, curated from esteemed sources such as CSRHub, Thomson Reuters, and Bloomberg, enhances the reliability and validity of our analysis. Results indicate a positive influence of BCT on the adoption and effectiveness of CE practices in the automotive industry, suggesting that CE practices can bolster firm performance. Notably, the analysis reveals that support vector machines (SVM) and neural networks (NNs) exhibit superior efficacy over the random forest (RF) model in capturing the nuances of the BCT‐CE interplay. This is evidenced by their lower root‐mean‐square error (RMSE) and mean absolute error (MAE), signifying greater predictive accuracy. The findings illuminate BCT's potential to revolutionize CE practices, optimize resource use, and foster sustainability in the automotive field.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184018336</an>
+  <docTypes>Article</docTypes>
+  <volume>34</volume>
+  <issns>0964-4733</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9a4a1a25-ed14-32c5-840b-eb7ba4175364</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Lin, Woon Leong ; Leow, Nelvin Xe Chung ; Lim, Wai Mun ; Ho, Ming Kang ; Yong, Jing Yi ; Pek, Chuen Khee</contributors>
+  <coverDate>Jan2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/bse.4003</doi>
+</record>

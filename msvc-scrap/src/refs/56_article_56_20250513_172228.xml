@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>MUZO</mid>
+  <language>eng</language>
+  <source>Forecasting</source>
+  <bookEdition></bookEdition>
+  <title>The MECOVMA Framework: Implementing Machine Learning Under Macroeconomic Volatility for Marketing Predictions.</title>
+  <pageEnd></pageEnd>
+  <pageStart>3</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Marketing forecasting ; Business cycles ; Software frameworks ; Machine learning ; Scientific computing ; Evaluators</subjects>
+  <abstract>The methodological framework introduced in this paper, MECOVMA, is a novel framework that guides the application of Machine Learning specifically for marketing predictions within volatile macroeconomic environments. MECOVMA has been developed in response to the identified gaps displayed by existing frameworks—when it comes to consolidation, relevance, interdisciplinarity, and individuality—and in light of the polycrises occurring in the current decade. The methodology to develop MECOVMA comprises three phases: firstly, synthesizing existing frameworks based on their thematic relevance to select MECOVMA's process steps; secondly, integrating the evidence provided by a systematic literature review to design the content of these process steps; and thirdly, using an expert evaluation, structured through a qualitative content analysis, to validate MECOVMA's applicability. This leads to the final framework with four overarching P&lt;sub>MECOVMA&lt;/sub> process steps, guiding the Machine Learning application process in this context with specific tasks. These include, for example, the processing of multidimensional data inputs, complexity reduction in a dynamic environment, and training methods adapted to particular macro-conditions. In addition, features are provided on how Machine Learning can be put into marketing practice, incorporating both narrower statistical- and broader business-oriented evaluations, and iterative feedback loops to mitigate limitations.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184134436</an>
+  <docTypes>Article</docTypes>
+  <volume>7</volume>
+  <issns>2571-9394</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5fd25cee-cbb4-34d9-8aa3-e02c89fa5290</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Muth, Manuel</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.3390/forecast7010003</doi>
+</record>

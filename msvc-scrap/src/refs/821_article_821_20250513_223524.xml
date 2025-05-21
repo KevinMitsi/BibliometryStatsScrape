@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BAUW</mid>
+  <language>eng</language>
+  <source>Procedia Computer Science</source>
+  <bookEdition></bookEdition>
+  <title>Developing Skeletal Activity Scheduler using Machine Learning.</title>
+  <pageEnd>419</pageEnd>
+  <pageStart>412</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Land Subdivision ; Administration of Urban Planning and Community and Rural Development ; Other Urban Transit Systems ; Urban transit systems ; Mixed Mode Transit Systems ; Long short-term memory ; Machine learning ; Urban transportation ; Urban planning ; Urban growth</subjects>
+  <abstract>Understanding human mobility patterns is crucial for sustainable urban planning. This study presents a novel approach for predicting daily activity sequences using machine learning techniques, specifically Long Short-Term Memory (LSTM) networks and Explainable Boosting Machines (EBM). Utilizing data from the 2022 Halifax Travel Activity (HaliTRAC) Survey, we train these models to predict sequences of activities based on individual and household characteristics, aiming to balance predictive performance with interpretability. The LSTM model effectively captures complex temporal dependencies, while EBM provides clear insights into the significance of individual features, addressing the "black box" nature of Machine Learning models. By simplifying activity sequences into five primary activity types, the refined LSTM and EBM models achieve accuracies of 70.25% and 73.73%, respectively. Key findings highlight employment status, age, and education level as major determinants of activity patterns, with household characteristics like size playing a secondary role. This research demonstrates the potential of utilizing advanced machine learning techniques in mobility analysis, offering both accurate predictions and actionable insights. The proposed framework provides a foundation for developing transparent and reliable tools to inform transportation policies and urban development strategies.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184753919</an>
+  <docTypes>Article</docTypes>
+  <volume>257</volume>
+  <issns>1877-0509</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bbfeeba6-f6f8-3422-8fcf-600bc5a10879</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Bhandari, Sagar ; Habib, Muhammad Ahsanul</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.1016/j.procs.2025.03.054</doi>
+</record>

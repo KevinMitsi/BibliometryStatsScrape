@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>IEEE Transactions on Education</source>
+  <bookEdition></bookEdition>
+  <title>Teaching Machine Learning as Part of Agile Software Engineering</title>
+  <pageEnd>386</pageEnd>
+  <pageStart>377</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240601</publicationDate>
+  <pageCount>10</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Computer Software ; Undergraduate Study ; Engineering ; Behavioral Objectives ; Curriculum Design ; Learning Activities ; Undergraduate Students ; Student Attitudes ; Industry ; Attitudes</subjects>
+  <abstract>Contribution: A novel undergraduate course design at the intersection of software engineering (SE) and machine learning (ML) based on industry-reported challenges. Background: ML professionals report that building ML systems is different enough that we need new knowledge about how to infuse ML into software production. For instance, various experts need to be deeply involved with these SE projects, such as business analysts, data scientists, and statisticians. Intended outcomes: The creation of a table detailing and matching industry challenges with course learning objectives, course topics, and related activities. Application design: Course content was derived from interviewing industry professionals with related experience as well as surveying undergraduate SE students. The proposed course style is designed to emulate real-world ML-based SE. Findings: Industry-derived content for a pilot undergraduate course has been successfully crafted at the intersection of SE and ML.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1427046</an>
+  <docTypes>Journal Articles ; Reports - Evaluative</docTypes>
+  <volume>67</volume>
+  <issns>0018-9359 ; 1557-9638</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a61f2edc-26a3-3cea-8f69-a0b416b27d68</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Steve Chenoweth ; Panagiotis K. Linos</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1109/TE.2023.3337343</doi>
+</record>

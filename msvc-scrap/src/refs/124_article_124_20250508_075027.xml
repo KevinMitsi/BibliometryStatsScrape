@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Scientific reports</source>
+  <bookEdition></bookEdition>
+  <title>The interpretable machine learning model for depression associated with heavy metals via EMR mining method.</title>
+  <pageEnd></pageEnd>
+  <pageStart>10811</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250328</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Machine Learning ; Metals, Heavy blood ; Metals, Heavy urine ; Depression ; Humans ; Female ; Nutrition Surveys ; Male ; Algorithms ; Middle Aged ; Adult ; Data Mining methods</subjects>
+  <abstract>Declarations. Consent for publication: Informed consent was obtained from all individual participants included in the study. Competing interests: The authors declare no competing interests. Ethics statement: We did not take part in the participant recruiting since this analysis was based on the US NHANES’s already-available data. As far as we are aware, no patients were involved in the planning, selection, or execution of the study.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40155474</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=469e80d3-3fde-3efc-8e1c-168db37937cb</plink>
+  <doids></doids>
+  <publisher>Nature Publishing Group</publisher>
+  <contributors>Xu, Site ; Sun, Mu</contributors>
+  <coverDate>2025 Mar 28</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1038/s41598-025-95938-3</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>LBA3</mid>
+  <language>tur</language>
+  <source>Omer Halisdemir Universitesi Iktisadi ve Idari Bilimler Fakültesi Dergisi</source>
+  <bookEdition></bookEdition>
+  <title>MAKİNE ÖĞRENMESİNDE YENİDEN ÖRNEKLEME: ALGORİTMALARIN PERFORMANSLARINA YANSIMALARI.</title>
+  <pageEnd>304</pageEnd>
+  <pageStart>292</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>13</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Problem solving ; Machine learning ; Machine performance ; Classification algorithms ; Breast cancer</subjects>
+  <abstract>Machine learning techniques, used in various applications across different domains, contribute to the development by addressing complex problems. These techniques are utilized for various purposes such as processing, interpreting, and predicting data. In classification algorithms used to solve complex problems, labeled output values are predicted based on input values. However, in such machine learning applications, performance losses occur due to imbalanced distributions of clusters. To mitigate these performance losses, various resampling methods are used. These methods are categorized into two groups: undersampling and oversampling. Undersampling methods are used to approach the number of records to the number of records with low class counts. Oversampling methods, on the other hand, are used to increase the number of records with low class counts. In this study, a dataset consisting of 569 records was used to demonstrate the effect of various resampling methods on the performance of machine learning algorithms. Resampling filters were applied to breast cancer records belonging to two different classes: benign and malignant. Subsequently, performance metrics obtained by applying four algorithms to the resulting datasets were compared. The applications conducted revealed that the use of resampling methods positively contributes to the performance of machine learning algorithms.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183593104</an>
+  <docTypes>Article</docTypes>
+  <volume>18</volume>
+  <issns>2564-6931</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=91ea87ab-0d6a-3684-b9aa-93118d56ce15</plink>
+  <doids></doids>
+  <publisher>Omer Halisdemir University, Faculty of Economics &amp;amp; Admistrative Sciene</publisher>
+  <contributors>YAVUZ, Ömer Çağrı</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.25287/ohuiibf.1539535</doi>
+</record>

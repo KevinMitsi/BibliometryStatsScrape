@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edspgr</shortDBName>
+  <isiType>PAT</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Explaining machine learning based time series models</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250128</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>A method, computer system, and computer program product for explaining time series machine learning model are provided. The embodiment may include determining a first order difference in time series input data and historical training data. The embodiment may also include performing perturbation of time series input data based on the determined first order difference and the determined historical training data. The embodiment may further include computing closeness of the determined first order difference in the historical training data to the determined first order difference in the time series input data. The embodiment may also include generating a uniform random sample of first value input to a time series machine learning model. The embodiment may further include determining values of other inputs to the time series machine learning model based on the generated random sample and a random sample from the historical training data first order differences.</abstract>
+  <pubTypes>Patent</pubTypes>
+  <an>edspgr.12210939</an>
+  <docTypes>Patent</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=90a7cf95-5e82-3d72-85d8-6c2a40256944</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>INTERNATIONAL BUSINESS MACHINES CORPORATION</contributors>
+  <coverDate>January 28, 2025</coverDate>
+  <longDBName>USPTO Patent Grants</longDBName>
+  <doi></doi>
+</record>

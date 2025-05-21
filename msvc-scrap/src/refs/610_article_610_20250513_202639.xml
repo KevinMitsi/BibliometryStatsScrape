@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edspgr</shortDBName>
+  <isiType>PAT</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Identifying a finding in a dataset using a machine learning model ensemble</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250311</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>There is provided a computer-implemented method of identifying a finding in an input sub-dataset of an input dataset using an ensemble of machine learning (ML) models, comprising: obtaining outcomes of an ensemble of ML models generated in response to feeding each input sub-dataset of the input dataset into each ML model of the ensemble trained to generate an outcome indicative of likelihood of a finding depicted in a respective input sub-dataset, creating a two dimensional (2D) outcome dataset storing outcomes of the ensemble, wherein a first dimension denotes the respective ML model and a second dimension denotes the respective input sub-dataset, computing a filtered 2D dataset by applying a filter function to the 2D outcome dataset, and analyzing the filtered 2D dataset to identify specific input sub-dataset(s) likely depicting the finding.</abstract>
+  <pubTypes>Patent</pubTypes>
+  <an>edspgr.12248863</an>
+  <docTypes>Patent</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bef839d4-c732-3851-adbd-617b281be2a1</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>International Business Machines Corporation</contributors>
+  <coverDate>March 11, 2025</coverDate>
+  <longDBName>USPTO Patent Grants</longDBName>
+  <doi></doi>
+</record>

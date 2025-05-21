@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Asia-Pacific Financial Markets</source>
+  <bookEdition></bookEdition>
+  <title>Predicting Financial Distress Using Machine Learning Techniques: Predicting Financial Distress Using Machine Learning…</title>
+  <pageEnd>23</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250424</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations>Tokyo</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Financial distress ; Liquidation ; Machine learning ; Prediction ; Restructuring</subjects>
+  <abstract>Bankruptcy in future would lead to heavy losses, and attempts should be made to reduce it and prevent such a loss in advance. Potential misclassification of potential and futurist bankruptcy can be referred to as an audit failure. Predicting bankruptcy for different users, including investors, auditors, creditors and regulators, is essential. Various prediction models have been considered in other studies, and this research study includes multiple techniques like random forest, ANN, and logistic regression. The main reason behind the prediction of financial distress is that it will help ensure an increase in compatibility with the decision-making process. In this study, 1111 companies were considered liquidated and restructured by NCLT since its inception, i.e., 2016. Of these, 342 companies had their resolution plan approved from 2017 to 18 till December 2023, while 769 companies were liquidated. The selected companies’ financial information has been considered for the last five years, and machine learning (Random forest, Artificial neural network) and traditional models (Logistic regression) have been used to predict the outcome of the firm (in terms of bankruptcy or restructuring) with their respective level of accuracy. The study, firstly, reveals that machine learning models have better predictive accuracy than statistical models. Secondly, the model’s predictive accuracy is highest near the year/event of distress; as we move further from the year of liquidation/restructuring, the accuracy declines. Thirdly, financial variables and firm-specific characteristics have better precision and accuracy than only assessing the firms based on economic parameters.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.448F6A0B</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>13872834 ; 15736946</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4c1cfeef-44b9-3511-986e-d1656c39fe61</plink>
+  <doids></doids>
+  <publisher>Springer Japan</publisher>
+  <contributors>Sethi, Pallavi ; Singh, Archana ; Gupta, Vikas</contributors>
+  <coverDate>20250424</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10690-025-09525-7</doi>
+</record>

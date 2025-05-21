@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Few-shot learning for defect detection in manufacturing.</title>
+  <pageEnd>6998</pageEnd>
+  <pageStart>6979</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241001</publicationDate>
+  <pageCount>20</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>19</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Manufacturing defects ; Machine learning ; Supervised learning ; Inspection &amp;amp; review ; Active learning</subjects>
+  <abstract>Quality control is being increasingly automatised in the context of Industry 4.0. Its automatisation reduces inspection times and ensures the same criteria are used to evaluate all products. One of the challenges when developing supervised machine learning models is the availability of labelled data. Few-shot learning promises to be able to learn from few samples and, therefore, reduce the labelling effort. In this work, we combine this approach with unsupervised methods that learn anomaly maps on unlabelled data, providing additional information to the model and enhancing the classification models' discriminative capability. Our results show that the few-shot learning models achieve competitive results compared to those trained in a classical supervised classification setting. Furthermore, we develop novel active learning data sampling strategies to label an initial support set. The results show that using sampling strategies to create and label the initial support set yields better results than selecting samples at random. We performed the experiments on four datasets considering real-world data provided by Philips Consumer Lifestyle BV and Iber-Oleff - Componentes Tecnicos Em Plástico, S.A.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>179297123</an>
+  <docTypes>Article</docTypes>
+  <volume>62</volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5cd3673e-5a86-3911-9072-851ca0aba7f7</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Zajec, Patrik ; Rožanec, Jože M. ; Theodoropoulos, Spyros ; Fontul, Mihail ; Koehorst, Erik ; Fortuna, Blaž ; Mladenić, Dunja</contributors>
+  <coverDate>Oct2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2024.2316279</doi>
+</record>

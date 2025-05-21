@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781630817756 ; 9781630817763</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Artech House Electromagnetic Series</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Applications in Electromagnetics and Antenna Array Processing</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20210101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Boston</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>TECHNOLOGY &amp;amp; ENGINEERING / Mobile &amp;amp; Wireless Communications ; Machine learning</subjects>
+  <abstract>This practical resource provides an overview of machine learning (ML) approaches as applied to electromagnetics and antenna array processing. Detailed coverage of the main trends in ML, including uniform and random array processing (beamforming and detection of angle of arrival), antenna optimization, wave propagation, remote sensing, radar, and other aspects of electromagnetic design are explored. An introduction to machine learning principles and the most common machine learning architectures and algorithms used today in electromagnetics and other applications is presented, including basic neural networks, gaussian processes, support vector machines, kernel methods, deep learning, convolutional neural networks, and generative adversarial networks. Applications in electromagnetics and antenna array processing that are solved using machine learning are discussed, including antennas, remote sensing, and target classification.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2972012</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8e54f131-3450-31bd-96f1-4d2c16c8085c</plink>
+  <doids>NL$2972012$PDF</doids>
+  <publisher>Artech House</publisher>
+  <contributors>Martínez-Ramón, Manel ; Gupta, Arjun ; Rojo-Álvarez, José Luis ; Christodoulou, Christos</contributors>
+  <coverDate>2021</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

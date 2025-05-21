@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Computational Journal of Mathematical and Statistical Sciences</source>
+  <bookEdition></bookEdition>
+  <title>Predicting the Trends of the Egyptian Stock Market Using Machine Learning and Deep Learning Methods</title>
+  <pageEnd>221</pageEnd>
+  <pageStart>186</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>36</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>stock market data analysis ; machine learning models ; deep learning models ; model assessment metrics ; prediction accuracy ; Statistics ; HA1-4737 ; Mathematics ; QA1-939 ; Computer engineering. Computer hardware ; TK7885-7895</subjects>
+  <abstract>The prediction of stock price movements has remained a significant area of interest for researchers and investors, driven by the dynamic nature of financial markets and persistent economic fluctuations. The ability to forecast price trends enables investors to optimize their portfolios by identifying stocks likely to appreciate in value while avoiding those predicted to decline, thus maximizing returns and minimizing losses. This study focuses on forecasting the stock price movements of selected companies in the real estate sector listed on the Egyptian Stock Exchange over the period 2013--2022. It employs a range of machine learning algorithms, including Random Forest (RF), Adaptive Boosting (AdaBoost), Support Vector Machine (SVM), and K-Nearest Neighbours (KNN), as well as deep learning architectures such as Artificial Neural Networks (ANNs), Recurrent Neural Networks (RNNs), and Long Short-Term Memory (LSTM) networks. The study aims to evaluate and compare the performance of these methods in terms of predictive accuracy, with the ultimate goal of reducing the uncertainty associated with stock market forecasting. By applying these computational techniques, the research seeks to uncover patterns and insights within large datasets, providing actionable intelligence for investors and traders. The comparative analysis reveals that Adaptive Boosting achieves the highest accuracy among the machine learning algorithms, with a precision rate of 99.5%. Among deep learning models, LSTM exhibits superior predictive capability, yielding the lowest error rate, followed by RNN with an error rate of 0.3. These findings demonstrate the efficacy of advanced machine learning and deep learning models in stock price prediction, offering robust tools for enhancing decision-making processes in financial markets. The results highlight the potential of integrating data-driven methodologies to mitigate risks and improve investment outcomes.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.61e80272b01d4033b6a56b864612f3a2</an>
+  <docTypes>article</docTypes>
+  <volume>4</volume>
+  <issns>29743435 ; 29743443</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=026ef5aa-abec-379a-91a7-e29de526192d</plink>
+  <doids></doids>
+  <publisher>The Scientific Association for Studies and Applied Research</publisher>
+  <contributors>Heba Elsegai ; Hanem Salah Al-Mutawaly ; Hisham M Almongy</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.21608/CJMSS.2024.320645.1077</doi>
+</record>

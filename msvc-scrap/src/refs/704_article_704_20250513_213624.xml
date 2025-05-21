@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>World Neurosurgery</source>
+  <bookEdition></bookEdition>
+  <title>Performance of Machine Learning Models in Predicting BRAF Alterations Using Imaging Data in Low-Grade Glioma: A Systematic Review and Meta-Analysis</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; BRAF ; Deep learning ; Glioma ; Low-grade glioma ; Machine learning ; Meta-analysis ; Radiomics</subjects>
+  <abstract>Background Understanding the BRAF alterations preoperatively could remarkably assist in predicting tumor behavior, which leads to a more precise prognostication and management strategy. Recent advances in artificial intelligence (AI) have resulted in effective predictive models. Therefore, for the first time, this study aimed to review the performance of machine learning and deep learning models in predicting the BRAF alterations in low-grade gliomas (LGGs)using imaging data.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S1878875025000981</an>
+  <docTypes>Review Article</docTypes>
+  <volume>195</volume>
+  <issns>1878-8750</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=404be568-db77-3e92-a078-0f215adfdcfc</plink>
+  <doids></doids>
+  <publisher>Elsevier Inc.</publisher>
+  <contributors>Firouzabadi, Shahryar Rajai ; Tavanaei, Roozbeh ; Mohammadi, Ida ; Alikhani, Alireza ; Ansari, Ali ; Akhlaghpasand, Mohammadhosein ; Hajikarimloo, Bardia ; Yong, Raymund L. ; Margetis, Konstantinos</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.wneu.2025.123742</doi>
+</record>

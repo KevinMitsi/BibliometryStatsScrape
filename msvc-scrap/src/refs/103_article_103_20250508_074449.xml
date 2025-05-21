@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3183-6</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 7th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), Radio Electronics, Electrical and Power Engineering (REEPE), 2025 7th International Youth Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Forecasting Short-Term Load Profiles in Distribution Networks Using Machine Learning</title>
+  <pageEnd>5</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Components, Circuits, Devices and Systems ; Computing and Processing ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Nuclear Engineering ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Transportation ; Accuracy ; Machine learning ; Distribution networks ; Predictive models ; Mathematical models ; Software ; Real-time systems ; Steady-state ; Forecasting ; Load modeling ; forecasting ; machine learning ; power distribution networks ; demand forecasting</subjects>
+  <abstract>The article is devoted to the development of a machine learning model for forecasting short-term load profiles of various consumers at balance demarcation points in 6(10) kV distribution networks. The analysis, processing of initial data, training of the machine learning model, and interpretation of research results were carried out in the MATLAB software suite using the Statistics and Machine Learning Toolbox module. The assessment of the impact of forecasting errors on the operational regime of the electrical network was performed through automated modeling of distribution network operating modes using the real-time simulation software and hardware complex RTDS (Real-Time Digital Simulator).</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10970989</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>28317262</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c2954ee3-a892-38c5-8ff7-4d02cee7fe39</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Aleksandr, Sorokin ; Roman, Maltsev ; Andrey, Yablokov ; Vladislav, Titov</contributors>
+  <coverDate>20250408</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/REEPE63962.2025.10970989</doi>
+</record>

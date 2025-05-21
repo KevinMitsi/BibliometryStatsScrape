@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>5EW3</mid>
+  <language>eng</language>
+  <source>International Journal of Sustainable Engineering</source>
+  <bookEdition></bookEdition>
+  <title>Hybrid LSTM-GBRT based machine learning technique implementation for electric vehicle sales prediction analysis.</title>
+  <pageEnd>858</pageEnd>
+  <pageStart>843</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Electric vehicles ; Artificial neural networks ; Machine learning ; Long short-term memory ; Box-Jenkins forecasting ; Regression trees</subjects>
+  <abstract>The investigation of machine learning models in Europe and India for predicting future sales of electric cars (EVs) worldwide has been the focus of present research. In this study, Long Short-Term Memory (LSTM), Support Vector Regression (SVR), Autoregressive Integrated Moving Average (ARIMA), Linear Regression, hybrid long- and short-term memory neural network model and gradient boosted regression trees model (LSTM-GBRT) models based machine learning techniques are compared for performance analysis to predict EV sales. Moreover, in this study, a hybrid LSTM-GBRT technique was developed, which forecasts EV sales, particularly for Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) over the next five years. During the prediction of EV sales, it has been validated that hybrid LSTM-GBRT technique has better predictive power. In addition, the present study attempts to provide estimated sales statistics for the designated locations. The results indicate that EV industry is evolving, with India showing a strong growth rate in BEV sales and establishing itself as a major participant in the global EV scenario by showing a notable increase in its share of worldwide EV sales volume by 2027. Conversely, the performance of EV sales in Europe has been analysed and validated through the proposed LSTM-GBRT model.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181659369</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>1939-7038</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=48d55a57-618e-3b39-9f78-29f81f008479</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Mishra, Rishav Dev ; Dash, Santanu Kumar ; Chudjuarjeen, Saichol ; Mohanty, Satyajit ; Gautam, Shivam Prakash ; Mohanty, Rupali ; Tanvir, Md Tasnin</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1080/19397038.2024.2411284</doi>
+</record>

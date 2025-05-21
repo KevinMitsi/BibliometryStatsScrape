@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>3BUA</mid>
+  <language>eng</language>
+  <source>Journal of Securities Operations &amp;amp; Custody</source>
+  <bookEdition></bookEdition>
+  <title>How to test AI: A case study of a machine learning-based trading system.</title>
+  <pageEnd>42</pageEnd>
+  <pageStart>26</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Information technology ; Algorithmic bias ; Credit scoring systems ; Interest rates ; Bond prices ; Stock price forecasting ; Machine learning</subjects>
+  <abstract>The article discusses the challenges of testing AI and machine learning-based trading systems. It emphasizes the importance of testing in the development and deployment of ML models, especially in the financial sector. The text highlights various testing techniques, such as A/B testing, metamorphic testing, and parallel testing, to ensure the reliability and accuracy of AI systems. Additionally, it explores the role of MLOps in managing and monitoring AI models in production. The article also discusses the future role of testers in AI testing and the significance of explainability in ML models.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181745455</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>1753-1802</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=86a8e29f-acd9-3d72-8b6a-f6c0b03682df</plink>
+  <doids></doids>
+  <publisher>Henry Stewart Publications LLP</publisher>
+  <contributors>Lewandowska, Olga ; Mai, Edgar</contributors>
+  <coverDate>Winter2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.69554/CKRE4981</doi>
+</record>

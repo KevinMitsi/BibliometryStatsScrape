@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B0C4</mid>
+  <language>eng</language>
+  <source>Journal of Advances in Modeling Earth Systems</source>
+  <bookEdition></bookEdition>
+  <title>Postprocessing East African Rainfall Forecasts Using a Generative Machine Learning Model.</title>
+  <pageEnd>25</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>25</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Extreme weather ; East Africa ; Machine learning ; Generative adversarial networks ; Rainfall periodicity ; Precipitation forecasting</subjects>
+  <abstract>Existing weather models are known to have poor skill at forecasting rainfall over East Africa. Improved forecasts could reduce the effects of extreme weather events and provide significant socioeconomic benefits to the region. We present a novel machine learning (ML)‐based method to improve precipitation forecasts in East Africa, using postprocessing based on a conditional generative adversarial network (cGAN). This addresses the challenge of realistically representing tropical rainfall, where convection dominates and is poorly simulated in conventional global forecast models. We postprocess hourly forecasts made by the European Centre for Medium‐Range Weather Forecasts Integrated Forecast System at 6–18 hr lead times, at 0.1° $0.1{}^{\circ}$ resolution. We combine the cGAN predictions with a novel neighborhood version of quantile mapping, to integrate the strengths of ML and conventional postprocessing. Our results indicate that the cGAN substantially improves the diurnal cycle of rainfall, and improves predictions up to the 99.9th $99.{9}^{\text{th}}$ percentile (∼10mm/hr) $(\sim 10\text{mm}/\text{hr})$. This improvement extends to the March–May 2018 season, which had extremely high rainfall, indicating that the approach has some ability to generalize to more extreme conditions. We explore the potential for the cGAN to produce probabilistic forecasts and find that the spread of this ensemble broadly reflects the predictability of the observations, but is also characterized by a mixture of under‐ and over‐dispersion. Overall our results demonstrate how the strengths of ML and conventional postprocessing methods can be combined, and illuminate what benefits ML approaches can bring to this region. Plain Language Summary: Weather forecasts over tropical areas are typically not very good at predicting how heavy rain will be and exactly when it will fall. This is particularly a problem for parts of East Africa, where heavy rainfall can lead to negative impacts such as flooding. We investigate whether forecasts over East Africa can be improved using a combination of machine learning (ML) and more traditional techniques, where forecast corrections are learned from satellite observations. We show these methods substantially improve forecasts errors, particularly in the timing of rainfall. The ML model performs well even when forecasting over an extremely wet season. Key Points: We combine generative machine learning with conventional postprocessing to improve short range precipitation forecasts over East AfricaThe postprocessed forecasts show substantial improvements compared to a strong baseline, particularly for the diurnal cycleImprovements persist when evaluated against an extreme rainfall season, indicating an ability to extrapolate to more extreme conditions</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184109276</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>1942-2466</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=12ea1601-559c-38e3-a5d7-7b0f834fb8b3</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Antonio, Bobby ; McRae, Andrew T. T. ; MacLeod, David ; Cooper, Fenwick C. ; Marsham, John ; Aitchison, Laurence ; Palmer, Tim N. ; Watson, Peter A. G.</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1029/2024MS004796</doi>
+</record>

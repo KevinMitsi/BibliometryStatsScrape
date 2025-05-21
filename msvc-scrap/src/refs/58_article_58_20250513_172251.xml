@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Scientific reports</source>
+  <bookEdition></bookEdition>
+  <title>MRI radiomics based on machine learning in high-grade gliomas as a promising tool for prediction of CD44 expression and overall survival.</title>
+  <pageEnd></pageEnd>
+  <pageStart>7433</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250303</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Hyaluronan Receptors metabolism ; Hyaluronan Receptors genetics ; Glioma diagnostic imaging ; Glioma mortality ; Glioma pathology ; Glioma metabolism ; Magnetic Resonance Imaging methods ; Machine Learning ; Brain Neoplasms diagnostic imaging ; Brain Neoplasms mortality ; Brain Neoplasms pathology ; Brain Neoplasms metabolism ; Humans ; Male ; Female ; Middle Aged ; Prognosis ; Adult ; Biomarkers, Tumor metabolism ; Kaplan-Meier Estimate ; ROC Curve ; Neoplasm Grading ; Aged ; Support Vector Machine ; Radiomics</subjects>
+  <abstract>Declarations. Competing interests: The authors declare no competing interests. Ethics approval: The study was performed in accordance with the relevant guidelines and regulations of the Declaration of Helsinki. The studies involving human participants were reviewed and approved by the Ethics Committee of the Shengjing Hospital (No. 2019PS105K). Consent to participate: Informed consent was obtained from all subjects and/or their legal guardian(s).</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40032983</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=db73ea53-dae3-3cdc-9a3a-2069c8f9ee52</plink>
+  <doids></doids>
+  <publisher>Nature Publishing Group</publisher>
+  <contributors>Yu, Mingjun ; Liu, Jinliang ; Zhou, Wen ; Gu, Xiao ; Yu, Shijia</contributors>
+  <coverDate>2025 Mar 03</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1038/s41598-025-90128-7</doi>
+</record>

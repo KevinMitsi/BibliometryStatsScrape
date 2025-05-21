@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Low-Resource Neural Machine Translation Using Recurrent Neural Networks and Transfer Learning: A Case Study on English-to-Igbo</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250424</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Computation and Language ; Computer Science - Machine Learning ; 68T50, 68T01 ; I.2.7 ; I.2.1</subjects>
+  <abstract>In this study, we develop Neural Machine Translation (NMT) and Transformer-based transfer learning models for English-to-Igbo translation - a low-resource African language spoken by over 40 million people across Nigeria and West Africa. Our models are trained on a curated and benchmarked dataset compiled from Bible corpora, local news, Wikipedia articles, and Common Crawl, all verified by native language experts. We leverage Recurrent Neural Network (RNN) architectures, including Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU), enhanced with attention mechanisms to improve translation accuracy. To further enhance performance, we apply transfer learning using MarianNMT pre-trained models within the SimpleTransformers framework. Our RNN-based system achieves competitive results, closely matching existing English-Igbo benchmarks. With transfer learning, we observe a performance gain of +4.83 BLEU points, reaching an estimated translation accuracy of 70%. These findings highlight the effectiveness of combining RNNs with transfer learning to address the performance gap in low-resource language translation tasks.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.17252</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e71ad50b-2761-3f6d-a629-9c6419a3494c</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Ekle, Ocheme Anthony ; Das, Biswarup</contributors>
+  <coverDate>20250424</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>5BA</mid>
+  <language>eng</language>
+  <source>Information, Communication &amp;amp; Society</source>
+  <bookEdition></bookEdition>
+  <title>Explaining machine learning practice: findings from an engaged science and technology studies project.</title>
+  <pageEnd>632</pageEnd>
+  <pageStart>616</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250315</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Financial services industry ; Decision making ; Consumer Lending ; Machine learning ; Explanation</subjects>
+  <abstract>The widespread use of machine learning (ML) models for decision-making raises critical concerns about transparency and accountability – to which an increasingly popular solution is 'Explainable AI' (XAI). Here, the object of explanation is technically complex models which are difficult or even impossible to explain. In contrast, this paper makes a call to de-centre models as the object of explanation and look towards the network of 'machine learning practice' that bring models into being, and use. We explore this term through an ethnographic study, conducted in collaboration with a large financial services company. Drawing on recent STS research, we ask: what would an explanation look like from a position that recognises the emergent and relational nature of machine learning practice, and how might this contribute to greater accountability and responsibility for ML in use? Inspired by the engaged programme in STS, we explore if and how approaching explanation through ML practice can be mobilised to intervene in how explanations are done in organisations. Our empirical analysis shows an 'ecology' of multiple, situated and intra-acting explanations for machine learning practice across a range of human and non-human actors in the company. We argue that while XAI is inevitably partial and limited, its value lies in establishing explanations as an imperative in contexts where ML is implicated in decision-making. Overall, our research suggests a need to widen and deepen the search for explanations and explore the opportunities for provisional, relational and collective interrogations over what can (and can't) be explained about ML practice.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183597088</an>
+  <docTypes>Article</docTypes>
+  <volume>28</volume>
+  <issns>1369-118X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5bd62ff2-6971-3729-9163-7220b9a9775e</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Gutierrez Lopez, Marisela ; Halford, Susan</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/1369118X.2024.2400130</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>OEW</mid>
+  <language>eng</language>
+  <source>Environment, Development &amp;amp; Sustainability</source>
+  <bookEdition></bookEdition>
+  <title>A machine learning approach for optimizing the water-energy-food-ecosystem nexus: a resilience perspective for sustainability.</title>
+  <pageEnd>8891</pageEnd>
+  <pageStart>8863</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>29</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Water shortages ; Artificial neural networks ; Artificial intelligence ; Machine learning ; Product life cycle assessment</subjects>
+  <abstract>Recently, several optimization strategies and models have been presented to analyze water-energy-food interconnections. In this study, a novel optimization model has been proposed to introduce the term water-energy-food-ecosystem nexus integrated with machine learning tools. This approach incorporates conventional and unconventional technologies for resource generation, use, and distribution, taking into account life cycle analysis, nexus security, and economic benefit as objectives toward sustainability. Additionally, it confirms the possibility of exploiting machine learning technologies to predict with high accuracy the results of complex MINLP models without requiring explicit indications as a support function for informed decision-making. The artificial neural network has been evaluated, optimized, and compared in a case study located in Mexico to show the applicability of the proposed approach. The nexus has been evaluated to determine the resilience of the system in the years 2020, 2022, 2025, 2030, and 2040. The results obtained when investigating the accuracy of the neural network model revealed a high prediction accuracy for the three objective functions, with values above 0.99 for the coefficient of determination and below 0.0007 for the mean square error. The 2020 compromise solution presents better trade-offs among the three objectives than the ones reported in the literature. Finally, by 2040, a significant increase in the environmental impact of 50% over the emissions generated in 2022 is found. While the security index indicates a severe scenario for water scarcity in the future.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183974715</an>
+  <docTypes>Article</docTypes>
+  <volume>27</volume>
+  <issns>1387-585X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=dca53094-6b2f-30ed-bcc4-0e91feba8276</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>López-Flores, Francisco Javier ; Sánchez-Zarco, Xate Geraldine ; Rubio-Castro, Eusiel ; Ponce-Ortega, José María</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1007/s10668-023-04257-y</doi>
+</record>

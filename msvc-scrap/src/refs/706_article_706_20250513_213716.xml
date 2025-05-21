@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BAUW</mid>
+  <language>eng</language>
+  <source>Procedia Computer Science</source>
+  <bookEdition></bookEdition>
+  <title>Using Machine Learning to Analyze and Detect Anomalies in SELinux Security Policies.</title>
+  <pageEnd>887</pageEnd>
+  <pageStart>880</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Software publishers (except video game publishers) ; Software Publishers ; Computer operating system security measures ; Support vector machines ; Random forest algorithms ; Machine learning ; Policy analysis</subjects>
+  <abstract>Analysis of Security-Enhanced Linux (SELinux) policies requires extensive manual effort to identify violations and security mis-configurations. Current tools employ mathematical abstractions that, while theoretically sound, produce outputs that practitioners struggle to interpret effectively. Automated approaches using machine learning have shown promise but fail to capture the complex relationships inherent in SELinux policies. Here we present a novel approach combining graph-based policy representation with neural networks to automate SELinux policy analysis. Our approach represents policies as graph structures and transforms these structures into meaningful vector embeddings to learn continuous feature representations that preserve policy neighborhoods and violation patterns. We develop a flexible policy analysis framework that processes these representations through Random Forest, Support Vector Machine (SVM), and Multi-Layer Perceptron (MLP) models to detect violations. Our experimental results demonstrate that this approach achieves 95% accuracy in identifying security violations while maintaining balanced precision and recall metrics, significantly outperforming existing analysis techniques. Through extensive evaluation on synthetic policy datasets derived from production systems, we show that our method effectively captures diverse violation patterns including separation of duty violations, domain transition issues, and unauthorized access paths. Overall, our work presents an efficient approach for automated, interpretable SELinux policy analysis that bridges the gap between theoretical security models and practical policy management.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184753978</an>
+  <docTypes>Article</docTypes>
+  <volume>257</volume>
+  <issns>1877-0509</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b2a35383-8c57-38a4-a883-a5dee92f662b</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Jain, Krish ; Kapoor, Pranav ; Sum, Joann ; Eaman, Amir ; Hassan, Esteve ; Shakshuki, Elhadi</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.1016/j.procs.2025.03.113</doi>
+</record>

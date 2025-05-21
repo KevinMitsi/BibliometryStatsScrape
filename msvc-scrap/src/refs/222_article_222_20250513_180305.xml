@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Environmental Science and Technology</source>
+  <bookEdition></bookEdition>
+  <title>Applying Gaussian Process Machine Learning and Modern Probabilistic Programming to Satellite Data to Infer CO2 Emissions.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250311</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>9</issue>
+  <identifiers></identifiers>
+  <subjects>Gaussian process ; carbon dioxide ; emissions ; machine learning ; probabilistic programming ; satellite ; Carbon Dioxide ; Machine Learning ; Normal Distribution ; Environmental Monitoring ; Atmosphere</subjects>
+  <abstract>Satellite data provides essential insights into the spatiotemporal distribution of CO2 concentrations. However, many atmospheric inverse models fail to adequately incorporate the spatial and temporal correlations inherent in satellite observations and often lack rigorous methods for estimating parameters like spatial length scales. We introduce an inference model that processes the spatiotemporal covariance in satellite data and estimates hyperparameters such as covariance length scales. Our approach uses the Gaussian process (GP) machine learning (ML) and modern probabilistic programming languages (PPLs) to perform atmospheric inversions of emissions from satellite data. We develop a GP ML inversion system based on modern PPLs and the GEOS-Chem chemical transport model, simulating atmospheric CO2 concentrations corresponding to the Orbiting Carbon Observatory-2/3 (OCO-2/3) data for July 2020. In our supervised learning framework, we treat the GEOS-Chem simulated data set as the target, with predictors derived by scaling the target with sector-specific factors hidden from the GP machine. Our results show that the GP model, combined with GPU-enabled PPLs, effectively retrieves true emission scaling factors and infers noise levels concealed within the data. This suggests that our method could be applied over larger areas with more complex covariance structures, enabling comprehensive analysis of the spatiotemporal patterns observed in OCO-2/3 and similar satellite data sets.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt07w871b9</an>
+  <docTypes>article</docTypes>
+  <volume>59</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=530fbae2-cf52-395f-9f49-66fb3083f5ba</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Jeong, Seongeun ; Hamilton, Sofia ; Johnson, Matthew ; Wu, Dien ; Turner, Alexander ; Fischer, Marc</contributors>
+  <coverDate>20250311</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

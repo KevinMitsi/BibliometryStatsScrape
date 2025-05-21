@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KPP</mid>
+  <language>eng</language>
+  <source>International Journal of Climatology</source>
+  <bookEdition></bookEdition>
+  <title>Forecasting Drought Phenomena Using a Statistical and Machine Learning‐Based Analysis for the Central Anatolia Region, Turkey.</title>
+  <pageEnd>25</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250330</publicationDate>
+  <pageCount>25</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Arid regions ; Drought forecasting ; Turkey ; Machine learning ; Recurrent neural networks ; Atmospheric models ; Statistical models</subjects>
+  <abstract>Drought is a major concern in Turkey, significantly affecting agriculture, water resources and the economy, especially in the Central Anatolia region with a semiarid steppe and dry‐sub‐humid climate. This study aims to develop an optimal forecasting model for Standardised Precipitation Evapotranspiration Index (SPEI) values over various periods (1–24 months) using data from 50 stations in the Central Anatolia region. It compares statistical forecasting and machine learning methods, finding that machine learning algorithms, particularly the Bayesian Recurrent Neural Network, outperform statistical approaches. The results show a consistent increase in drought severity and highlight the robust performance of top models across different SPEI periods. The study provides a benchmark for future research on forecasting models and underscores the need for effective drought mitigation and adaptation strategies. The incorporation of advanced machine learning algorithms, such as the Bayesian Recurrent Neural Network, and their comparison with traditional statistical methods highlight the potential for more accurate and adaptive drought forecasting models.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183988867</an>
+  <docTypes>Article</docTypes>
+  <volume>45</volume>
+  <issns>0899-8418</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2606cba4-3bf4-34d7-8b26-f9adc9d173b2</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Türkeş, Murat ; Özdemir, Ozancan ; Yozgatlıgil, Ceylan</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/joc.8742</doi>
+</record>

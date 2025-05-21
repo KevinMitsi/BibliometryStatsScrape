@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Deep Underground Science and Engineering</source>
+  <bookEdition></bookEdition>
+  <title>Grouped machine learning methods for predicting rock mass parameters in a tunnel boring machine‐driven tunnel based on fuzzy C‐means clustering</title>
+  <pageEnd>71</pageEnd>
+  <pageStart>55</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>fuzzy C‐means clustering ; machine learning ; rock mass parameter ; tunnel boring machine ; Engineering geology. Rock mechanics. Soil mechanics. Underground construction ; TA703-712</subjects>
+  <abstract>Abstract To guarantee safe and efficient tunneling of a tunnel boring machine (TBM), rapid and accurate judgment of the rock mass condition is essential. Based on fuzzy C‐means clustering, this paper proposes a grouped machine learning method for predicting rock mass parameters. An elaborate data set on field rock mass is collected, which also matches field TBM tunneling. Meanwhile, target stratum samples are divided into several clusters by fuzzy C‐means clustering, and multiple submodels are trained by samples in different clusters with the input of pretreated TBM tunneling data and the output of rock mass parameter data. Each testing sample or newly encountered tunneling condition can be predicted by multiple submodels with the weight of the membership degree of the sample to each cluster. The proposed method has been realized by 100 training samples and verified by 30 testing samples collected from the C1 part of the Pearl Delta water resources allocation project. The average percentage error of uniaxial compressive strength and joint frequency (Jf) of the 30 testing samples predicted by the pure back propagation (BP) neural network is 13.62% and 12.38%, while that predicted by the BP neural network combined with fuzzy C‐means is 7.66% and 6.40%, respectively. In addition, by combining fuzzy C‐means clustering, the prediction accuracies of support vector regression and random forest are also improved to different degrees, which demonstrates that fuzzy C‐means clustering is helpful for improving the prediction accuracy of machine learning and thus has good applicability. Accordingly, the proposed method is valuable for predicting rock mass parameters during TBM tunneling.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.72189bda38bc49bba4953fe3912e3ce3</an>
+  <docTypes>article</docTypes>
+  <volume>4</volume>
+  <issns>27701328 ; 20970668</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b68047f2-2555-34de-829e-f3a2c1f97694</plink>
+  <doids></doids>
+  <publisher>Wiley</publisher>
+  <contributors>Ruirui Wang ; Yaodong Ni ; Lingli Zhang ; Boyang Gao</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.1002/dug2.12082</doi>
+</record>

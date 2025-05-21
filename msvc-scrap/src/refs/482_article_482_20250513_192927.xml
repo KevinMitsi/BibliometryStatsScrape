@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-4237-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 International Conference on Automation and Computation (AUTOCOM), Automation and Computation (AUTOCOM), 2025 International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Leveraging Machine Learning for Dynamic Resource Allocation in Cloud Automation</title>
+  <pageEnd>430</pageEnd>
+  <pageStart>426</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250304</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineering Profession ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Deep learning ; Cloud computing ; Automation ; Machine learning algorithms ; Heuristic algorithms ; Estimation ; Dynamic scheduling ; Prediction algorithms ; Real-time systems ; Resource management ; Reinforcement ; Flexibility ; Algorithms</subjects>
+  <abstract>Cloud automation enables the dynamic management and allocation of resources in a computing environment and is one of the most common uses available. Yet despite their power when cloud systems were simple and small, traditional approaches to allocating resources have proven far less feasible lately. This scenario has also created the need for new evolution methods that will adapt to dynamic cloud environments and improve the system's overall performance. A solution to this challenge comes from machine learning, which has been increasingly used recently. ML algorithms can process vast amounts of data and identify patterns and trends to predict resource use and user needs. Deep learning helps cloud-enabled automation systems adapt in real-time to changing conditions, distribute resources efficiently and improve user experience. For example, reinforcement learning and deep learning are ML techniques that can be applied to resource allocation algorithms or demand prediction models to increase accuracy. Integrating cloud automation and machine learning brings effectiveness in dynamic resource allocation, boosting the overall performance of a system, which leads to savings, better experience, and greater flexibility in using cloud resources. Reinforcement and deep learning are machine learning techniques to optimize order allocation algorithms and enhance demand estimation models.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10957482</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=dbd2fb6c-ee02-3881-89db-0c0f0ab03b8c</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Ahluwalia, Gunveen ; Suresh, Vaibhav Goutham ; Praveena, M D Anto ; Acharjya, Kalyan ; Paridaname, Trushna</contributors>
+  <coverDate>20250304</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/AUTOCOM64127.2025.10957482</doi>
+</record>

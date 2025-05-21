@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>International Journal of Artificial Intelligence in Education</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning for All!--Introducing Machine Learning in Middle and High School</title>
+  <pageEnd>223</pageEnd>
+  <pageStart>185</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240601</publicationDate>
+  <pageCount>39</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Information Technology ; Technology Uses in Education ; Computer Software ; Interactive Video ; Science Education ; Elementary School Science ; Secondary School Science ; Middle School Students ; High School Students ; Concept Formation ; Scientific Concepts</subjects>
+  <abstract>Although Machine Learning (ML) is found practically everywhere, few understand the technology behind it. This presents new challenges to extend computing education by including ML concepts in order to help students to understand its potential and limits and empowering them to become creators of intelligent solutions. Therefore, we developed an introductory course to teach basic ML concepts, such as fundamentals of neural networks as well as limitations and ethical concerns in alignment with the K-12 Guidelines for Artificial Intelligence. It also teaches the application of these concepts, by guiding the students to develop a first classification model of recycling trash images using Google Teachable Machine. In order to promote ML education, the interactive course is available online in Brazilian Portuguese to be used as an extracurricular course or in an interdisciplinary way as part of science classes covering recycling topics. The course was applied and evaluated through a series of exploratory case studies with a total of 108 middle and high school students. The results of the evaluation show that middle and high school students were able to understand ML concepts and develop an image classification model. No substantial difference with regard to the educational stage, gender and instructional mode was observed. The course was also perceived as an enjoyable learning experience motivating students to learn more about ML.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1426295</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>34</volume>
+  <issns>1560-4292 ; 1560-4306</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f64f884a-4339-3291-93b7-335594a793e6</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Ramon Mayor Martins ; Christiane Gresse von Wangenheim ; Marcelo Fernando Rauber ; Jean Carlo Hauck</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s40593-022-00325-y</doi>
+</record>

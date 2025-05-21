@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Education and Information Technologies</source>
+  <bookEdition></bookEdition>
+  <title>Assessment of Learning Parameters for Students' Adaptability in Online Education Using Machine Learning and Explainable AI</title>
+  <pageEnd>7568</pageEnd>
+  <pageStart>7553</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240401</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Online Courses ; Artificial Intelligence ; Technology Uses in Education ; Student Adjustment ; Electronic Learning ; Algorithms ; Foreign Countries ; Bangladesh</subjects>
+  <abstract>Technology Enabled Learning (TEL) has a major impact on the learning adaptability of the learners. During the COVID-19 pandemic, there has been a drastic change in the learning methodology. The adaptability of learners from the various domains, levels and age has been a significant component of research in context to education. In this paper, the authors have proposed a machine learning and explainable AI based solution to identify critical learning parameters for students' adaptability level in online education. In this research the authors have employed various explainable AI (XAI) algorithms namely Local Interpretable Model-agnostic Explanations (LIME), SHapley Additive exPlanations (SHAP), FEature iMportance based eXplanable AI algorithm (FAMeX) for identifying the critical learning parameters to decide the adaptability level of a student. To test the efficacy of the solution, a dataset of students of several education levels of Bangladesh, collected from both online and offline surveys has been used. The results revealed are quite interesting, and counter intuitive.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1421057</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>29</volume>
+  <issns>1360-2357 ; 1573-7608</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=96771dbc-78a3-3258-bd23-acece39c9bc0</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Sadhu Prasad Kar ; Amit Kumar Das ; Rajeev Chatterjee ; Jyotsna Kumar Mandal</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10639-023-12111-x</doi>
+</record>

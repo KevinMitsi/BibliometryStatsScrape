@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B9N</mid>
+  <language>eng</language>
+  <source>Journal of Experimental &amp;amp; Theoretical Artificial Intelligence</source>
+  <bookEdition></bookEdition>
+  <title>Determining the most accurate machine learning algorithms for medical diagnosis using the monk' problems database and statistical measurements.</title>
+  <pageEnd>376</pageEnd>
+  <pageStart>357</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>20</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Databases ; Machine learning ; Computer-aided diagnosis ; Random forest algorithms ; Statistical learning</subjects>
+  <abstract>Computer-aided diagnosis process in the field of health, especially cancer diagnosis, is of vital importance. Computer-aided diagnosis helps specialist physicians to make the most accurate diagnosis. According to research studies, it has been stated that the number of wrong or late diagnosis increases with each passing year and ultimately causes the death of people living in many parts of the world. For this reason, some calculations must be made to determine the most accurate one in the algorithm to be used to make the correct diagnosis. In this study, three different database Monk' problems were used to determine the most accurate algorithm for medical diagnosis. Monk' problems are used as one of the several classification problems used to create an important comparative study. Train and test operations were performed using five different Machine Learning Algorithms (MLAs) (k Nearest Neighbor (k-NN), Decision Tree Algorithm (DT), Random Forest Algorithm (RF), Naive Bayes algorithm (NB), Support Vector Cases (SVM)). These machine learning algorithms are compared statistically in terms of performance. Two different databases in the medical field were used to test the results (Breast Cancer Coimbra Data Set, Diabetic Retinopathy Debrecen Data Set). In the test processes in the experimental studies, the highest accuracy rate was obtained from the k-NN, DT, RF, NB, SVM algorithms, respectively; 0.9758, 1, 1, 0.9180, 0.9344. The best performance was obtained from RF MLA for 1. dataset, DT MLA for 2. dataset, highest accuracy rates from k-NN and RF MLAs in 3. dataset.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182633872</an>
+  <docTypes>Article</docTypes>
+  <volume>37</volume>
+  <issns>0952-813X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bf6a82ea-a30b-3dcb-a505-987a1773de80</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Avuçlu, Emre</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/0952813X.2023.2196984</doi>
+</record>

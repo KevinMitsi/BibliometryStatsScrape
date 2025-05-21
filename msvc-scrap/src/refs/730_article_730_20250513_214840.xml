@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KUS</mid>
+  <language>eng</language>
+  <source>Journal of Environmental Science &amp;amp; Health. Part A. Toxic/Hazardous Substances &amp;amp; Environmental Engineering</source>
+  <bookEdition></bookEdition>
+  <title>Application of machine learning for environmentally friendly advancement: exploring biomass-derived materials in wastewater treatment and agricultural sector − a review.</title>
+  <pageEnd>621</pageEnd>
+  <pageStart>606</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>11-14</issue>
+  <identifiers></identifiers>
+  <subjects>Irrigation farming ; Wastewater treatment ; Artificial neural networks ; Machine learning ; Reverse engineering</subjects>
+  <abstract>There are several uses for biomass-derived materials (BDMs) in the irrigation and farming industries. To solve problems with material, process, and supply chain design, BDM systems have started to use machine learning (ML), a new technique approach. This study examined articles published since 2015 to understand better the current status, future possibilities, and capabilities of ML in supporting environmentally friendly development and BDM applications. Previous ML applications were classified into three categories according to their objectives: material and process design, performance prediction and sustainability evaluation. ML helps optimize BDMs systems, predict material properties and performance, reverse engineering, and solve data difficulties in sustainability evaluations. Ensemble models and cutting-edge Neural Networks operate satisfactorily on these datasets and are easily generalized. Ensemble and neural network models have poor interpretability, and there have not been any studies in sustainability assessment that consider geo-temporal dynamics; thus, building ML methods for BDM systems is currently not practical. Future ML research for BDM systems should follow a workflow. Investigating the potential uses of ML in BDM system optimization, evaluation and sustainable development requires further investigation.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183274207</an>
+  <docTypes>Article</docTypes>
+  <volume>59</volume>
+  <issns>1093-4529</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d24a44b7-dcd0-3b74-8f03-a4be1e255b43</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Claude, Banza M. Jean ; Sibali, Linda L.</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1080/10934529.2025.2458979</doi>
+</record>

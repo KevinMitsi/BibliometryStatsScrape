@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BCS</mid>
+  <language>eng</language>
+  <source>Production Planning &amp;amp; Control</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning and deep learning in project analytics: methods, applications and research trends.</title>
+  <pageEnd>892</pageEnd>
+  <pageStart>873</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount>20</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>7</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial neural networks ; Machine learning ; Deep learning ; Support vector machines ; Fuzzy algorithms</subjects>
+  <abstract>Project analytics refers to applying analytical techniques and methods to past and present data to gain insights into how the underlying project is performing. Machine learning (ML) and Deep learning (DL) have acquired extensive usage in various disciplines due to their analytical strength and the availability of high-speed computational devices. This article comprehensively surveys commonly used ML and DL algorithms for addressing project-related research problems. This study used author-selected keywords from article metadata to construct, analyse and visualise keyword co-occurrence networks to explore research trends. It has several notable observations: (a) Support vector machine and Random forest are the most used ML algorithms in project analytics; (b) although Artificial neural network remains a frequently used DL algorithm, its project-related applications have recently experienced a substantial decrease; (c) genetic algorithm and Fuzzy logic are the other advanced analytical methods frequently coined with ML and DL algorithms for addressing project-related problems; (d) there is a sharp increase of ML and DL applications in various project contexts; and (e) researchers used ML and DL algorithms for studying cost and time performance in construction and software project contexts. This article details these observations further and discusses their novelty and implications for research and practice.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184675938</an>
+  <docTypes>Article</docTypes>
+  <volume>36</volume>
+  <issns>0953-7287</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1fce2a34-5515-3962-bf10-fd30426eff52</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Uddin, Shahadat ; Yan, Sirui ; Lu, Haohui</contributors>
+  <coverDate>May2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/09537287.2024.2320790</doi>
+</record>

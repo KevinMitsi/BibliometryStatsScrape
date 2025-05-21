@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781787121515 ; 9781787123526</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning with Swift : Artificial Intelligence for IOS</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20180101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / Neural Networks ; COMPUTERS / Operating Systems / Mac OS ; Application software--Development ; Artificial intelligence ; Swift (Computer program language) ; Machine learning</subjects>
+  <abstract>Leverage the power of machine learning and Swift programming to build intelligent iOS applications with ease Key FeaturesImplement effective machine learning solutions for your iOS applicationsUse Swift and Core ML to build and deploy popular machine learning modelsDevelop neural networks for natural language processing and computer visionBook DescriptionMachine learning as a field promises to bring increased intelligence to the software by helping us learn and analyse information efficiently and discover certain patterns that humans cannot. This book will be your guide as you embark on an exciting journey in machine learning using the popular Swift language. We'll start with machine learning basics in the first part of the book to develop a lasting intuition about fundamental machine learning concepts. We explore various supervised and unsupervised statistical learning techniques and how to implement them in Swift, while the third section walks you through deep learning techniques with the help of typical real-world cases. In the last section, we will dive into some hard core topics such as model compression, GPU acceleration and provide some recommendations to avoid common mistakes during machine learning application development. By the end of the book, you'll be able to develop intelligent applications written in Swift that can learn for themselves. What you will learnLearn rapid model prototyping with Python and SwiftDeploy pre-trained models to iOS using Core MLFind hidden patterns in the data using unsupervised learningGet a deeper understanding of the clustering techniquesLearn modern compact architectures of neural networks for iOS devicesTrain neural networks for image processing and natural language processingWho this book is foriOS developers who wish to create smarter iOS applications using the power of machine learning will find this book to be useful. This book will also benefit data science professionals who are interested in performing machine learning on mobile devices. Familiarity with Swift programming is all you need to get started with this book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1728025</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8db5ba68-791e-379e-9141-1077dcd410f4</plink>
+  <doids>NL$1728025$PDF ; NL$1728025$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Alexander Sosnovshchenko ; Jojo Moolayil ; Oleksandr Baiev</contributors>
+  <coverDate>2018</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

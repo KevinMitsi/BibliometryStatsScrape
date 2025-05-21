@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>CPT: Pharmacometrics &amp;amp; Systems Pharmacology</source>
+  <bookEdition></bookEdition>
+  <title>Comparing Scientific Machine Learning With Population Pharmacokinetic and Classical Machine Learning Approaches for Prediction of Drug Concentrations</title>
+  <pageEnd>769</pageEnd>
+  <pageStart>759</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>concentration prediction ; drug therapy ; machine learning ; oncology ; pharmacokinetics ; scientific machine learning ; Therapeutics. Pharmacology ; RM1-950</subjects>
+  <abstract>ABSTRACT A variety of classical machine learning (ML) approaches has been developed over the past decade aiming to individualize drug dosages based on measured plasma concentrations. However, the interpretability of these models is challenging as they do not incorporate information on pharmacokinetic (PK) drug disposition. In this work we compare drug plasma concentraton predictions of well‐known population PK (PopPK) modeling with classical machine learning models and a newly proposed scientific machine learning (MMPK‐SciML) framework. MMPK‐SciML allows to estimate PopPK parameters and their inter‐individual variability (IIV) using multimodal covariate data of each patient and does not require assumptions about the underlying covariate relationships. A dataset of 541 fluorouracil (5FU) plasma concentrations as example for an intravenously administered drug and a dataset of 302 sunitinib and its active metabolite concentrations each as example for an orally administered drug were used for analysis. Whereas classical ML models were not able to describe the data sufficiently, MMPK‐SciML allowed us to obtain accurate drug plasma concentration predictions for test patients. In case of 5FU, goodness‐of‐fit shows that the MMPK‐SciML approach predicts drug plasma concentrations more accurately than PopPK models. For sunitinib, we observed slightly less accurate drug concentration predictions compared to PopPK. Overall, MMPK‐SciML has shown promising results and should therefore be further investigated as a valuable alternative to classical PopPK modeling, provided there is sufficient training data.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.fb7ef69ec7ef4aa7a789c9704142a41c</an>
+  <docTypes>article</docTypes>
+  <volume>14</volume>
+  <issns>21638306</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=33946a72-c00d-36a9-8c60-5b23ddc8f4c9</plink>
+  <doids></doids>
+  <publisher>Wiley</publisher>
+  <contributors>Diego Valderrama ; Olga Teplytska ; Luca Marie Koltermann ; Elena Trunz ; Eduard Schmulenson ; Achim Fritsch ; Ulrich Jaehde ; Holger Fröhlich</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.1002/psp4.13313</doi>
+</record>

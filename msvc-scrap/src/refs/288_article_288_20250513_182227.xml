@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Water Resources Management: An International Journal - Published for the European Water Resources Association (EWRA)</source>
+  <bookEdition></bookEdition>
+  <title>Water Quality Prediction Method Coupling Mechanism Model and Machine Learning for Water Diversion Projects with a Lack of Data: Water Quality Prediction Method Coupling Mechanism Model and Machine Learning for Water Diversion Projects with a Lack of Data</title>
+  <pageEnd>16</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250324</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations>Dordrecht</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Water Quality Prediction ; Mechanism Model ; Machine Learning ; Support Vector Regression ; Yangtze–to–Huaihe Water Diversion Project</subjects>
+  <abstract>Newly constructed water diversion projects and projects with inadequate monitoring facilities often lack water quality data, making it difficult to achieve accurate water quality predictions. Mechanism model and machine learning each have their own advantages and shortcomings in terms of water quality predictions, and coupling these two models may improve results; this is also a hot research topic. This study focuses on the water quality prediction task for water diversion projects that lack monitoring data. Using the Xihe and Zhaohe River section of the Yangtze–to–Huaihe Water Diversion Project, which is a typical water diversion project in China, as the study area, we have constructed a mechanism water quality prediction model (MIKE11) and a machine learning support vector regression model (SVR), then proposed a coupled mechanism model–machine learning water quality prediction model to explore the impacts of different input features on the model’s performance. The coupled model is also adopted to predict the water quality variation process under typical water diversion scenarios of the Yangtze–to–Huaihe Water Diversion Project. The study shows that the coupled model with both the flow rate and water quality as input features have an average relative error of 0.03% and 0.21% in predicting COD and NH&lt;sub>3&lt;/sub>-N concentrations, respectively, and the prediction performance of it is good. It successfully overcomes the problem of poor prediction performance faced by the SVR model when there are insufficient sample data, and it can be used to predict water quality for water diversion projects that lack monitoring data. This paper proposes a new method to predict water quality for water diversion projects that lack monitoring data, expanding the applicability of machine learning in this field, providing a theoretical basis for water diversion project-related water quality prediction.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.B0778A1F</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>09204741 ; 15731650</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a943c9f8-ceb7-3872-a842-e54d362b58db</plink>
+  <doids></doids>
+  <publisher>Springer Netherlands</publisher>
+  <contributors>Yang, Xiaochen ; Liu, Kai ; Liu, Xiaobo ; Dong, Fei ; Huang, Aiping ; Ma, Bing ; Lei, Yang ; Jiang, Zhi</contributors>
+  <coverDate>20250324</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s11269-024-04067-5</doi>
+</record>

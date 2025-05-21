@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-0484-7</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>SoutheastCon 2025, 2025, SoutheastCon</source>
+  <bookEdition></bookEdition>
+  <title>Empowering Diagnosis: Vision Transformers, CNNs, and Machine Learning in Mammogram Classification for Breast Cancer</title>
+  <pageEnd>364</pageEnd>
+  <pageStart>358</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250322</publicationDate>
+  <pageCount>7</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Aerospace ; Bioengineering ; Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineered Materials, Dielectrics and Plasmas ; Engineering Profession ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Geoscience ; Nuclear Engineering ; Photonics and Electrooptics ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Signal Processing and Analysis ; Transportation ; Solid modeling ; Computer vision ; Biological system modeling ; Computational modeling ; Machine learning ; Feature extraction ; Transformers ; Breast cancer ; Mammography ; Convolutional neural networks ; Breast Cancer Diagnosis ; Mammogram Classification ; Vision Transformers (ViT) ; Convolutional Neural Networks (CNNs) ; Machine Learning in Healthcare ; VGG16 ; VGG19 ; InceptionV3 ; MobileNet ; DenseNet ; Xception ; Deep Learning ; Azure Machine Learning ; Medical Image Analysis ; Pretrained Models ; Real-time Diagnostic Systems ; Benign ; Malignant ; Cloud-based Deployment ; Forward-Chaining Inference Systems ; Hyperparameter Tuning ; Feature Extraction ; Computer-Aided Diagnosis (CAD) ; Image Preprocessing ; Healthcare Accessibility</subjects>
+  <abstract>Breast cancer is a leading cause of cancer-related deaths globally, emphasizing the need for accessible and accurate diagnostic tools. In this paper, we present an AI-driven system designed to classify mammogram images as benign or malignant. Building upon our previous work on a breast cancer treatment expert system, which utilized forward-chaining inference based on NCCN guidelines integrated with ChatGPT, this study expands the system's capabilities to include diagnostic support. We evaluated a combination of machine learning (ML) models, a fully trained custom convolutional neural network (CNN), and pretrained CNNs and Vision Transformers used as feature extractors for breast cancer classification. These models were trained and optimized for robust performance, with results compiled for comparative analysis. We also deployed our model on Azure with an automated pipeline, enabling seamless integration with a user-friendly website. Patients can upload mammogram images and receive instant classification results, bridging diagnostic insights with treatment recommendations. This work represents a significant step toward a comprehensive AI solution for breast cancer diagnosis and treatment, aiming to improve accessibility and personalized care.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10971544</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>1558058X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d1d5cc17-70af-32c6-bfda-aee0aeb33fb5</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Santosh Naik, Suchir ; Hajiarbabi, Mohammadreza ; Yavana, Krishna Saahi</contributors>
+  <coverDate>20250322</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/SoutheastCon56624.2025.10971544</doi>
+</record>

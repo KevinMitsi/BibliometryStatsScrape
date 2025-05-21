@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>BMC Oral Health</source>
+  <bookEdition></bookEdition>
+  <title>Use machine learning to predict treatment outcome of early childhood caries</title>
+  <pageEnd>9</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Early childhood caries ; Predictor ; Support vector machine ; Extreme gradient boosting ; SHAP ; Dentistry ; RK1-715</subjects>
+  <abstract>Abstract Background Early childhood caries (ECC) is a major oral health problem among preschool children that can significantly influence children’s quality of life. Machine learning can accurately predict the treatment outcome but its use in ECC management is limited. The aim of this study is to explore the application of machine learning in predicting the treatment outcome of ECC. Methods This study was a secondary analysis of a recently published clinical trial that recruited 1,070 children aged 3- to 4-year-old with ECC. Machine learning algorithms including Naive Bayes, logistic regression, decision tree, random forest, support vector machine, and extreme gradient boosting were adopted to predict the caries-arresting outcome of ECC at 30-month follow-up after receiving fluoride and silver therapy. Candidate predictors included clinical parameters (caries experience and oral hygiene status), oral health-related behaviours (toothbrushing habits, feeding history and snacking preference) and socioeconomic backgrounds of the children. Model performance was evaluated using discrimination and calibration metrics including accuracy, recall, precision, F1 score, area under the receiver operating characteristic curve (AUROC) and Brier score. Shapley additive explanations were deployed to identify the important predictors. Results All machine learning models showed good performance in predicting the treatment outcome of ECC. The accuracy, recall, precision, F1 score, AUROC, and Brier score of the six models ranged from 0.674 to 0.740, 0.731 to 0.809, 0.762 to 0.802, 0.741 to 0.804, 0.771 to 0.859, and 0.134 to 0.227, respectively. The important predictors of the caries-arresting outcome were the surface and tooth location of the carious lesions, newly developed caries during follow-ups, baseline caries experience, whether the children had assisted toothbrushing and oral hygiene status. Conclusions Machine learning can provide promising predictions of the treatment outcome of ECC. The identified key predictors would be particularly informative for targeted management of ECC.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.467bcdc044e45aab6f4f799443fd261</an>
+  <docTypes>article</docTypes>
+  <volume>25</volume>
+  <issns>14726831</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=08235317-423c-33db-80c2-6787dc96b4b6</plink>
+  <doids></doids>
+  <publisher>BMC</publisher>
+  <contributors>Yafei Wu ; Maoni Jia ; Ya Fang ; Duangporn Duangthip ; Chun Hung Chu ; Sherry Shiqian Gao</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.1186/s12903-025-05768-y</doi>
+</record>

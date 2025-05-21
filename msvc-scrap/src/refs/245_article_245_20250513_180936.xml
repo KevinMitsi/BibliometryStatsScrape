@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1XDI</mid>
+  <language>eng</language>
+  <source>Sensors (14248220)</source>
+  <bookEdition></bookEdition>
+  <title>Length Estimation of Pneumatic Artificial Muscle with Optical Fiber Sensor Using Machine Learning.</title>
+  <pageEnd></pageEnd>
+  <pageStart>2221</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>7</issue>
+  <identifiers></identifiers>
+  <subjects>LONG short-term memory ; MACHINE learning ; OPTICAL fiber detectors ; OPTICAL fibers ; AIR pressure ; ARTIFICIAL muscles ; Glass manufacturing</subjects>
+  <abstract>A McKibben artificial muscle is a soft actuator driven by air pressure, characterized by its flexibility, lightweight design, and high power-to-weight ratio. We have developed a smart artificial muscle that is capable of sensing its motion. To enable this sensing function, an optical fiber was integrated into the sleeve consisting of multiple fibers and serving as a component of the McKibben artificial muscle. By measuring the macrobending loss of the optical fiber, the length of the smart artificial muscle is expected to be estimated. However, experimental results indicated that the sensor's characteristics depend not only on the length but also on the load and the applied air pressure. This dependency arises because the stress applied to the optical fiber increases, causing microbending loss. In this study, we employed a machine learning model, primarily composed of Long Short-Term Memory (LSTM) neural networks, to estimate the length of the smart artificial muscle. The experimental results demonstrate that the length estimation obtained through machine learning exhibits a smaller error. This suggests that machine learning is a feasible approach to enhancing the length measurement accuracy of the smart artificial muscle.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184439167</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1424-8220</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=77be57e0-6431-33af-a55c-1d4a45c88d72</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Ni, Yilei ; Wakimoto, Shuichi ; Tian, Weihang ; Toda, Yuichiro ; Kanda, Takefumi ; Yamaguchi, Daisuke</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/s25072221</doi>
+</record>

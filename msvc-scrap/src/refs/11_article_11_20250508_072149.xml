@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>MIS</mid>
+  <language>eng</language>
+  <source>MIS Quarterly</source>
+  <bookEdition></bookEdition>
+  <title>WHY AND HOW DOES A MACHINE LEARNING ALGORITHM COEXIST WITH ALTERNATIVE METHODS? THE CASE OF THE SOCIAL WELFARE BLIND SPOT IDENTIFICATION SYSTEM.</title>
+  <pageEnd>1841</pageEnd>
+  <pageStart>1838</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>4</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Public welfare ; South Korea ; Other Individual and Family Services ; Emergency and Other Relief Services ; Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) ; Health and Welfare Funds ; Machine learning ; Social justice ; Eligibility (Social aspects)</subjects>
+  <abstract>The Social Security Information Service, a central government agency of South Korea, has implemented an information system using ML algorithms to identify social welfare blind spots. Social welfare blind spots refer to cases where individuals are eligible for social welfare benefits but are not current recipients for various reasons. Even though the ML-based model was performing well, the Korean government developed two additional methods, including a rule-based model and a human-driven heuristic method championed by local governments. This case study investigates why the ML-based method coexists with the other two methods and how they complement one another. We found that policymakers’ lack of understanding of ML, local government employees’ perception, and accountability concerns contributed to their coexistence. The three methods had different strengths and weaknesses. The government agencies orchestrated these methods to increase complementarities by leveraging and strengthening different problem-solving approaches.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181215335</an>
+  <docTypes>Article</docTypes>
+  <volume>48</volume>
+  <issns>0276-7783</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7bf774a2-1fe3-3911-9f49-61549dc9061e</plink>
+  <doids></doids>
+  <publisher>MIS Quarterly</publisher>
+  <contributors>Lee, Gwanhoo ; Lee, Woo Sik</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi></doi>
+</record>

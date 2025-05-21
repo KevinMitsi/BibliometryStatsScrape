@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of Computer Assisted Learning</source>
+  <bookEdition></bookEdition>
+  <title>The Physical, Social, and Mental Conditions of Machine Learning in Student Health Evaluation</title>
+  <pageEnd>2030</pageEnd>
+  <pageStart>2020</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241001</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Algorithms ; Predictor Variables ; Physical Health ; Mental Health ; Social Life ; Evaluation ; College Students ; Health Behavior ; Computer Assisted Testing</subjects>
+  <abstract>Background: This study aims to assess how well several machine learning (ML) algorithms predict the physical, social, and mental health condition of university students. Objectives: The physical health measurements used in the study include BMI (Body Mass Index), %BF (percentage of Body Fat), BSC (Blood Serum Cholesterol), SBP (Systolic Blood Pressure), and DBP (Diastolic Blood Pressure). Methods: The mental health evaluation relied on the following methods: PHQ-9 (Patient Health Questionnaire-9), ISI (Insomnia Severity Index), GAD-7 (Generalized Anxiety Disorder Scale), and SBQ-R (Suicidal Behaviors Questionnaire-Revised). The study assessed KEYES, the comprehensive social health indicator. The study uses a famous methodology for training and testing four well-known ML algorithms, namely the K-nearest neighbors algorithm, decision trees, Naïve Bayes, and the random forest algorithm. Results and Conclusions: The recall value of the RF algorithm is higher by 2.0%, 4.15%, and 11.25%, respectively. The F-score value of the RF algorithm is also the highest. The differences amount to 4.56% ("Naïve Bayes"), 2.50% ("DT"), and 11.20% ("K-NN"). Accuracy, Precision, Recall, and F-score were used to assess the researched ML algorithms' prediction ability. With a 99.40% prediction accuracy, a 97.60% precision, a 99.30% recall, and an F-score value of 98.70%, the Random Forest method performed the best. ML algorithms can serve as tools for the prediction of physical, mental, and social health state of patients, including students, but they have a rather narrow scope of application and do not cover all aspects of health.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1449614</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>40</volume>
+  <issns>0266-4909 ; 1365-2729</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=cf9021b4-148f-3f5c-81a5-1b3d5c8b23bb</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Gulnur Tyulepberdinova ; Madina Mansurova ; Talshyn Sarsembayeva ; Sulu Issabayeva ; Darazha Issabayeva</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1111/jcal.12999</doi>
+</record>

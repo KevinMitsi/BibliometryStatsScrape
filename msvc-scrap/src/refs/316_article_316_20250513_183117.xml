@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>The Journal of Physical Chemistry Letters</source>
+  <bookEdition></bookEdition>
+  <title>Quantum Chemical Density Matrix Renormalization Group Method Boosted by Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250403</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>13</issue>
+  <identifiers></identifiers>
+  <subjects>Quantum Physics ; Chemical Sciences ; Physical Sciences ; Theoretical and Computational Chemistry ; Machine Learning and Artificial Intelligence ; Networking and Information Technology R&amp;amp;D (NITRD) ; Chemical sciences ; Physical sciences</subjects>
+  <abstract>The use of machine learning (ML) to refine low-level theoretical calculations to achieve higher accuracy is a promising and actively evolving approach known as Δ-ML. The density matrix renormalization group (DMRG) is a powerful variational approach widely used for studying strongly correlated quantum systems. High computational efficiency can be achieved without compromising accuracy. Here, we demonstrate the potential of a simple ML model to significantly enhance the performance of the quantum chemical DMRG method.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt2r8757gr</an>
+  <docTypes>article</docTypes>
+  <volume>16</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8a9eed7c-6efe-377c-9e43-2077f3bf2037</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Golub, Pavlo ; Yang, Chao ; Vlček, Vojtěch ; Veis, Libor</contributors>
+  <coverDate>20250403</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

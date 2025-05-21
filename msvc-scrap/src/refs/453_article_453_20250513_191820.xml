@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of Science Education and Technology</source>
+  <bookEdition></bookEdition>
+  <title>Beyond Language Barriers: Allowing Multiple Languages in Postsecondary Chemistry Classes through Multilingual Machine Learning</title>
+  <pageEnd>348</pageEnd>
+  <pageStart>333</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240601</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Second Language Learning ; Language of Instruction ; Student Diversity ; Barriers ; Chemistry ; Language Skills ; Inclusion ; Student Needs ; Undergraduate Students ; Language Fluency ; Formative Evaluation ; Science Tests ; Translation ; Artificial Intelligence</subjects>
+  <abstract>Students who learn the language of instruction as an additional language represent a heterogeneous group with varying linguistic and cultural backgrounds, contributing to classroom diversity. Because of the manifold challenges these students encounter while learning the language of instruction, additional barriers arise for them when engaging in chemistry classes. Adapting teaching practices to the language skills of these students, for instance, in formative assessments, is essential to promote equity and inclusivity in chemistry learning. For this reason, novel educational practices are needed to meet each student's unique set of language capabilities, irrespective of course size. In this study, we propose and validate several approaches to allow undergraduate chemistry students who are not yet fluent in the language of instruction to complete a formative assessment in their preferred language. A technically easy-to-implement option for instructors is to use translation tools to translate students' reasoning in any language into the instructor's language. Besides, instructors could also establish multilingual machine learning models capable of automatically analyzing students' reasoning regardless of the applied language. Herein, we evaluated both opportunities by comparing the reliability of three translation tools and determining the degree to which multilingual machine learning models can simultaneously assess written arguments in different languages. The findings illustrate opportunities to apply machine learning for analyzing students' reasoning in multiple languages, demonstrating the potential of such techniques in ensuring equal access for learners of the language of instruction.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1424603</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>33</volume>
+  <issns>1059-0145 ; 1573-1839</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=ea0d8191-7c2d-39d2-90de-872870276217</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Paul P. Martin ; Nicole Graulich</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10956-023-10087-4</doi>
+</record>

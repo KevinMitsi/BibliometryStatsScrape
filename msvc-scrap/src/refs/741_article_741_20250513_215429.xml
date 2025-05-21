@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-1611-6 ; 979-8-3315-1610-9</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE Applied Power Electronics Conference and Exposition (APEC), Applied Power Electronics Conference and Exposition (APEC), 2025 IEEE</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Approach for Accurate Lithium-Ion Battery Temperature Prediction Using Electrochemical Features Independent of Battery SOC and SOH</title>
+  <pageEnd>2980</pageEnd>
+  <pageStart>2973</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250316</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Components, Circuits, Devices and Systems ; Power, Energy and Industry Applications ; Lithium-ion batteries ; Temperature sensors ; Temperature measurement ; Support vector machines ; Accuracy ; Machine learning ; Thermal management ; Safety ; State of charge ; Thermal degradation ; lithium-ion battery ; temperature ; electrochemical impedance ; machine learning ; support vector machine</subjects>
+  <abstract>Transportation electrification is a critical solution to reducing emissions and combating global climate change by shifting from fossil fuels to sustainable energy sources. However, the growing demand for fast charging introduces thermal challenges, increasing risks such as thermal runaway and battery degradation, especially in extreme temperatures. This study presents a machine-learning approach for predicting lithium-ion battery (LIB) temperature using electrochemical impedance spectroscopy (EIS) features with minimal sensitivity to the state-of-charge (SOC) and state-of-health (SOH). Through comprehensive analysis using the Pearson correlation coefficient (PCC), the study identifies EIS frequency ranges strongly correlated with temperature but remain unaffected by SOC or SOH variations. A support vector regression (SVR) model trained on these features achieves high accuracy, with RMSE and MAE values of 1.35°C and 0.81°C, respectively. The findings highlight the EIS magnitude at 6252 Hz as a reliable predictor of LIB temperature, offering significant advancements in thermal management for safer and more efficient battery operation.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10977233</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24706647</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=476cdd55-ac4d-398c-b61c-9987147ca7b4</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Tingbari, Vincent Masabiar ; Ekuewa, Oluwaseun Isaiah ; Nagar, Anshul ; Abbas, Asad ; Umar, Jamil ; Zhang, Yuxin ; Na, Woonki ; Kim, Jonghoon</contributors>
+  <coverDate>20250316</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/APEC48143.2025.10977233</doi>
+</record>

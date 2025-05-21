@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of translational medicine</source>
+  <bookEdition></bookEdition>
+  <title>Prediction of postpartum depression in women: development and validation of multiple machine learning models.</title>
+  <pageEnd></pageEnd>
+  <pageStart>291</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Depression, Postpartum diagnosis ; Machine Learning ; Humans ; Female ; Adult ; Pregnancy ; Risk Factors ; Reproducibility of Results ; Risk Assessment ; Algorithms ; Young Adult ; Logistic Models ; Neural Networks, Computer</subjects>
+  <abstract>Declarations. Ethics approval and consent to participate: Ethical approval for the study was obtained from the medical ethics committee of Hebei Medical University (MREC ID No: 2020093) and Shijiazhuang Obstetrics and Gynecology Hospital (MREC ID No: 20200024) following the principles of the Declaration of Helsinki. Consent for publication: Not applicable. Competing interests: The authors have no conflicts of interest to disclose.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40055720</an>
+  <docTypes>Journal Article ; Validation Study</docTypes>
+  <volume>23</volume>
+  <issns>1479-5876 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=27fbf08b-31dd-331a-b94f-b64958916718</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Qi, Weijing ; Wang, Yongjian ; Wang, Yipeng ; Huang, Sha ; Li, Cong ; Jin, Haoyu ; Zuo, Jinfan ; Cui, Xuefei ; Wei, Ziqi ; Guo, Qing ; Hu, Jie</contributors>
+  <coverDate>2025 Mar 07</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1186/s12967-025-06289-6</doi>
+</record>

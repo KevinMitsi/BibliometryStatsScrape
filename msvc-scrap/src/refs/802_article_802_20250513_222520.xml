@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>ADC</mid>
+  <language>eng</language>
+  <source>Applied Economics</source>
+  <bookEdition></bookEdition>
+  <title>Airbnb pricing in Sydney: predictive modelling and explainable machine learning.</title>
+  <pageEnd>18</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250111</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Prices ; Noise pollution ; Air pollution ; Airbnb Inc. ; Machine learning ; Engineering models</subjects>
+  <abstract>We employ multiple predictive algorithms combined with explainable machine learning techniques to forecast and interpret Airbnb rental prices in Sydney, Australia. The best-performing model is selected using multiple metrics and model confidence sets from a variety of methods ranging from simple linear regression to more complex forecast combinations. In addition, we evaluate the importance of feature engineering by training the models on datasets constructed with and without feature engineering and assessing their respective accuracies. Ensemble methods, particularly stacking regressions, outperform other algorithms on both the training and test datasets, while linear models perform the worst. Factors such as property capacity, proximity to popular areas and luxury amenities increase price predictions according to Shapley values, whereas being near major highway entrances is linked to lower prices, likely due to noise and air pollution.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182140586</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>0003-6846</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5460f61d-2ec7-3d7d-b58e-f941d3017ef8</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Milunovich, George ; Nasrabadi, Dom</contributors>
+  <coverDate>Jan2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00036846.2024.2446593</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Asian Journal of Education and Training</source>
+  <bookEdition></bookEdition>
+  <title>Using Machine Learning Techniques to Study of Stress, Depression, and Academic Performance of Grade 12th Students</title>
+  <pageEnd>153</pageEnd>
+  <pageStart>146</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Stress Variables ; Depression (Psychology) ; Academic Achievement ; Grade 12 ; High School Students ; Foreign Countries ; Data Analysis ; Prediction ; Thailand</subjects>
+  <abstract>The objectives of this research were 1) to study the problems of stress and depression among Grade 12 students; 2) to investigate the machine learning technique in analyzing and predicting stress, depression, and academic performance among Grade 12 students; and 3) to evaluate the stress and depression prediction platform. Students from schools in the Secondary Educational Service Areas of Nakhon Sawan, Uthai Thani, Chainat, and Pichit in Thailand comprised the sampling group, which the researchers recruited through simple random sampling. A total of 510 students volunteered to participate in the questionnaire, while 117 students served as the group for the evaluation platform. The researcher employed a total of three assessments: 1) the Stress Assessment Scale (SPST-20), 2) the Depression Assessment Form 9 Questions (9Q), and 3) the Death Assessment Form (8Q) to gather data and develop the platform. The data analytics process incorporates all assessment results, comparing five techniques to yield the most accurate results. The article presents the research results, which will guide the development of a system and tools for future student monitoring in schools.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1448533</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>10</volume>
+  <issns>2519-5387</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5c6df89b-1f42-3447-bb25-0bbecc5cd78e</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Wudhijaya Philuek</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsfor</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>F1000Research</source>
+  <bookEdition></bookEdition>
+  <title>Development of a machine learning predictive model for early detection of breast cancer [version 1; peer review: awaiting peer review]</title>
+  <pageEnd></pageEnd>
+  <pageStart>164</pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250205</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>London, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Research Article ; Articles ; Breast cancer ; Mammography ; Machine learning ; Tumor classification ; Predictive modelling</subjects>
+  <abstract>Background Breast cancer remains a significant global health concern, with over 7.8 million cases reported in the last five years. Early detection and accurate classification are crucial for reducing mortality rates and improving outcomes. Machine learning (ML) has emerged as a transformative tool in medical imaging, enabling more efficient and accurate diagnostic processes. Objective This study aims to develop a machine learning-based predictive model for early detection and classification of breast cancer using the Wisconsin Breast Cancer Diagnostic dataset. Methods The dataset, comprising 569 samples and 32 features derived from fine needle aspirate biopsy images, was pre-processed through data cleaning, normalization using the Robust Scaler, and feature selection. Five supervised ML algorithms—Logistic Regression, Support Vector Classification (SVC) with linear and radial basis function (RBF) kernels, Decision Tree, and Random Forest—were implemented. Models were evaluated using performance metrics, including accuracy, precision, sensitivity, specificity, and F1 scores. Results The SVC-RBF model demonstrated the highest accuracy (98.68%) and balanced performance across other metrics, making it the most effective classifier for distinguishing between benign and malignant tumors. Key features such as texture mean and area (worst) significantly contributed to classification accuracy. Conclusions This study highlights the potential of ML algorithms, particularly SVC-RBF, to revolutionize breast cancer diagnostics through improved accuracy and efficiency. Future research should validate these findings with diverse datasets and explore their integration into clinical workflows to enhance decision-making and patient care.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsfor.10.12688.f1000research.161073.1</an>
+  <docTypes>research-article</docTypes>
+  <volume>14</volume>
+  <issns>20461402</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=051b1585-24c1-38a6-8132-bdbb2d6aceee</plink>
+  <doids></doids>
+  <publisher>F1000 Research Limited</publisher>
+  <contributors>Rinsy Rahman ; Dola Saha ; Winniecia Dkhar ; Sathyendranath Malli ; Neil Barnes Abraham</contributors>
+  <coverDate>20250205</coverDate>
+  <longDBName>F1000Research</longDBName>
+  <doi>10.12688/f1000research.161073.1</doi>
+</record>

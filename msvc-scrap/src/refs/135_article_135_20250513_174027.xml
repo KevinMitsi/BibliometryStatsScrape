@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BXL</mid>
+  <language>eng</language>
+  <source>Applied Stochastic Models in Business &amp;amp; Industry</source>
+  <bookEdition></bookEdition>
+  <title>Is There a Future for Stochastic Modeling in Business and Industry in the Era of Machine Learning and Artificial Intelligence?</title>
+  <pageEnd>27</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>27</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Stochastic models ; Artificial neural networks ; Business analytics ; Stochastic processes ; Machine learning ; Gaussian processes</subjects>
+  <abstract>The paper arises from the experience of Applied Stochastic Models in Business and Industry which has seen, over the years, more and more contributions related to Machine Learning rather than to what was intended as a stochastic model. The very notion of a stochastic model (e.g., a Gaussian process or a Dynamic Linear Model) can be subject to change: What is a Deep Neural Network if not a stochastic model? The paper presents the views, supported by examples, of distinguished researchers in the field of business and industrial statistics. They are discussing not only whether there is a future for traditional stochastic models in the era of Machine Learning and Artificial Intelligence, but also how these fields can interact and gain new life for their development.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184496168</an>
+  <docTypes>Article</docTypes>
+  <volume>41</volume>
+  <issns>1524-1904</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=48906a5f-0f1e-389c-b5ab-402c25d43857</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Ruggeri, Fabrizio ; Banks, David ; Cleveland, William S. ; Fisher, Nicholas I. ; Escobar‐Anel, Marcos ; Giudici, Paolo ; Raffinetti, Emanuela ; Hoerl, Roger W. ; Lin, Dennis K. J. ; Kenett, Ron S. ; Li, Wai Keung ; Yu, Philip L. H. ; Poggi, Jean‐Michel ; Reis, Marco S. ; Saporta, Gilbert ; Secchi, Piercesare ; Sen, Rituparna ; Steland, Ansgar ; Zhang, Zhanpan</contributors>
+  <coverDate>Mar/Apr2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1002/asmb.70004</doi>
+</record>

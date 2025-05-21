@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Development and validation of a machine learning-based nomogram for predicting prognosis in lung cancer patients with malignant pleural effusion.</title>
+  <pageEnd>10</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250321</publicationDate>
+  <pageCount>10</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; CANCER patients ; SUPPORT vector machines ; K-nearest neighbor classification ; NOMOGRAPHY (Mathematics) ; PUBLIC health ; SURVIVAL analysis (Biometry) ; Health and Welfare Funds</subjects>
+  <abstract>Malignant pleural effusion (MPE) is a common complication in patients with advanced lung cancer, significantly impacting their survival rates and quality of life. Effective tools for assessing the prognosis of these patients are urgently needed to enable early intervention. This study retrospectively analyzed patient data from the Affiliated Hospital of North Sichuan Medical College from 2013 to 2021, which served as the training cohort and internal testing cohort. Additionally, three external testing cohorts were introduced: data from Guang'an People's Hospital as cohort 1, data from Dazhou Central Hospital as cohort 2, and data from the Affiliated Hospital of North Sichuan Medical College from January 1, 2023, to December 31, 2023, constituting the temporal external testing cohort. Univariate logistic regression (LR) analysis of clinical variables (P &amp;lt; 0.05) was performed, followed by multivariate LR to identify independent predictors for inclusion in nine machine learning models: Decision Tree (DT), Random Forest (RF), Extreme Gradient Boosting (XGBoost), Elastic Net (Enet), Radial Support Vector Machine (rSVM), Multilayer Perceptron (MLP), LR, Light Gradient Boosting Machine (LightGBM), and K-Nearest Neighbors (KNN). The best-performing model was used to develop a nomogram for patient risk stratification. Three variables—treatment regimen, presence of pericardial effusion, and total pleural effusion volume—were identified as significant predictors in the study. The LR model demonstrated the best performance, achieving area under the curve (AUC) values of 0.885 in the training cohort, 0.954 in the internal testing cohort, and 0.920 in external testing cohort 1. To further validate the model's robustness, the nomogram developed from the LR model was evaluated in two additional validation cohorts: external testing cohort 2 and a temporal external testing cohort. The nomogram achieved AUCs of 0.962 in external testing cohort 2 and 0.949 in the temporal external testing cohort, demonstrating strong predictive accuracy. Calibration curves confirmed excellent model-reality concordance across all cohorts, and decision curve analysis (DCA) revealed superior clinical utility. The nomogram enabled individualized risk quantification and showed significant survival differences between high-risk/very high-risk groups and low-risk/medium-risk groups. This study evaluated nine machine learning models for prognostic prediction in lung cancer patients with MPE, finding that the LR-based model offered the best performance. A nomogram based on this model can effectively stratify patients for prognostic assessment and early intervention.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183893420</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=abbbc53b-d4ab-3f17-8c76-8c65e48fc62e</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Hu, Xin ; Zhao, Shiqiao ; Li, Yanlun ; Heibi, Yiluo ; Wu, Hang ; Jiang, Yongjie</contributors>
+  <coverDate>3/21/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-93842-4</doi>
+</record>

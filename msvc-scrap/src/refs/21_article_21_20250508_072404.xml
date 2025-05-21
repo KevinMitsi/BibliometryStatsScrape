@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>OI8</mid>
+  <language>eng</language>
+  <source>Journal of Intelligent Manufacturing</source>
+  <bookEdition></bookEdition>
+  <title>A predictive maintenance model for health assessment of an assembly robot based on machine learning in the context of smart plant.</title>
+  <pageEnd>4013</pageEnd>
+  <pageStart>3995</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>19</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>8</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Big data ; Electronic components, navigational and communications equipment and supplies merchant wholesalers ; Machine learning ; Prediction models ; Transmitters (Communication)</subjects>
+  <abstract>This paper introduces a predictive maintenance model based on Machine Learning (ML) in the context of a smart factory. It addresses a critical aspect within factories which is the health assessment of vital machinery. This case study specifically focuses on two brass accessories assembly robots and predicts the degradation of their power transmitters, which operate under severe mechanical and thermal conditions. The paper presents a predictive model based on ML and Artificial Intelligence (the Discrete Bayes Filter) to estimate and foresee the gradual deterioration of robots' power transmitters. It aims at empowering operators to make informed decisions regarding maintenance interventions. The model is based on a Discrete Bayesian Filter (DBF) in comparison to a model based on Naïve Bayes Filter (NBF). The findings indicate that the DBF model demonstrates superior predictive performance compared to the NBF model. The predictive model's investigation results were validated during testing on robots. This model enables the company to establish an informed and efficient schedule for maintenance interventions.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>180970383</an>
+  <docTypes>Article</docTypes>
+  <volume>35</volume>
+  <issns>0956-5515</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=667fddfe-d4f1-3c50-817c-30b4e661fcbd</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Chakroun, Ayoub ; Hani, Yasmina ; Elmhamedi, Abderrahmane ; Masmoudi, Faouzi</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1007/s10845-023-02281-3</doi>
+</record>

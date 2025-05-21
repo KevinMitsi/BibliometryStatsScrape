@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>RRF</mid>
+  <language>eng</language>
+  <source>Journal of Information Science &amp;amp; Engineering</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Based Landscape Garden Plan Analysis and Rendering Application.</title>
+  <pageEnd>295</pageEnd>
+  <pageStart>279</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Landscaping Services ; Generative adversarial networks ; Deep learning ; Landscape architecture ; Machine learning ; Landscape gardening ; Image recognition (Computer vision) ; Landscape assessment</subjects>
+  <abstract>Machine learning enables intelligent data processing and full utilization of the information and value contained in the data. In three experiments, the application of machine learning-based intelligent analysis in the field of landscape architecture is examined. Two ofthem are related to data analysis research, including one that conducts an experiment on the deployment of an image recognition-based visual quality evaluation and online appli cation platform for landscapes and another that proposes an urban color impression based on color clustering analysis of research photographs. The final one relates to the construetion of digital designs and suggests a method for terrain generation for choosing design solutions. It includes two subprojects: terrain generation and mask creation using deep learning generative adversarial networks (GAN), and elevation prediction in uncharted territory. Thus, it is possible to efficiently learn mutually increasing knowledge from multiple sources of data in the field of applied machine learning landscape gardening, identify issues, and suggest new solutions.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183963122</an>
+  <docTypes>Article</docTypes>
+  <volume>41</volume>
+  <issns>1016-2364</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d92e01da-a997-3e98-9b03-bb19559b9231</plink>
+  <doids></doids>
+  <publisher>Institute of Information Science, Academia Sinica</publisher>
+  <contributors>LIN TAO</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.6688/JISE.202503_41(2).0002</doi>
+</record>

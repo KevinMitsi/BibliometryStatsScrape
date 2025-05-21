@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Arabian Journal for Science and Engineering</source>
+  <bookEdition></bookEdition>
+  <title>Application of Machine Learning and Deep Learning Techniques for Corrosion and Cracks Detection in Nuclear Power Plants: A Review</title>
+  <pageEnd>3045</pageEnd>
+  <pageStart>3017</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>29</pageCount>
+  <publisherLocations>Berlin/Heidelberg</publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Deep learning ; Artificial intelligence ; Corrosion ; Sustainability ; Nuclear energy</subjects>
+  <abstract>This paper is focused on a comprehensive review related to the applications of machine learning (ML) and deep learning (DL) techniques for corrosion and crack detection in nuclear power plants (NPPs). NPPs require strict inspection and maintenance guidelines to ensure safety and efficiency, as the consequence of any such accident can be disastrous. Traditional methods of corrosion and crack detection often require substantial manual effort, even plant shutdown for inspection, and are limited in scalability. In recent years, ML and DL approaches have appeared as promising solutions to improve the accuracy and efficiency of corrosion and crack detection methods. The review begins by exploring the fundamental principles of ML and DL, providing insights into their adaptability for managing these challenges in NPPs. ML techniques such as support vector machines and decision trees (DT) as well as various DL architectures, including convolutional neural networks, recurrent neural networks, and autoencoders, are explored in the context of corrosion and crack detection. The paper highlights the dataset challenges related to NPPs, handling issues like imbalanced data, temporal dependencies, and multi-scale modeling. It focuses on case studies and research efforts utilizing ML techniques, highlighting notable advancements and potential breakthroughs in the field. Further, the challenges and future opportunities of integrating ML techniques into nuclear power plant inspection and maintenance are thoroughly scrutinized, underscoring the imperative need for standardized datasets, scalability, and model interpretability.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.7987C2E</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>50</volume>
+  <issns>2193567X ; 21914281</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=dbda5fc2-92ba-3b21-b44e-4f6ab6a25ff6</plink>
+  <doids></doids>
+  <publisher>Springer Berlin Heidelberg</publisher>
+  <contributors>Allah, Malik Al-Abed ; Toor, Ihsan ulhaq ; Shams, Afaque ; Siddiqui, Osman K.</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s13369-024-09388-6</doi>
+</record>

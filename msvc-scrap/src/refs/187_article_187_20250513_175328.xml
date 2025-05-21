@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Physics-Informed Inference Time Scaling via Simulation-Calibrated Scientific Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250422</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Mathematics - Numerical Analysis ; Computer Science - Artificial Intelligence ; Computer Science - Machine Learning ; Mathematics - Probability ; Statistics - Machine Learning</subjects>
+  <abstract>High-dimensional partial differential equations (PDEs) pose significant computational challenges across fields ranging from quantum chemistry to economics and finance. Although scientific machine learning (SciML) techniques offer approximate solutions, they often suffer from bias and neglect crucial physical insights. Inspired by inference-time scaling strategies in language models, we propose Simulation-Calibrated Scientific Machine Learning (SCaSML), a physics-informed framework that dynamically refines and debiases the SCiML predictions during inference by enforcing the physical laws. SCaSML leverages derived new physical laws that quantifies systematic errors and employs Monte Carlo solvers based on the Feynman-Kac and Elworthy-Bismut-Li formulas to dynamically correct the prediction. Both numerical and theoretical analysis confirms enhanced convergence rates via compute-optimal inference methods. Our numerical experiments demonstrate that SCaSML reduces errors by 20-50% compared to the base surrogate model, establishing it as the first algorithm to refine approximated solutions to high-dimensional PDE during inference. Code of SCaSML is available at https://github.com/Francis-Fan-create/SCaSML.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.16172</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c0b9b791-c6ef-371d-94a6-0f2f674b80ee</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Fan, Zexi ; Sun, Yan ; Yang, Shihao ; Lu, Yiping</contributors>
+  <coverDate>20250422</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

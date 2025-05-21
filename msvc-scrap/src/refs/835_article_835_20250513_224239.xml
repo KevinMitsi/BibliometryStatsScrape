@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselc</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Applied Sciences (Switzerland)</source>
+  <bookEdition></bookEdition>
+  <title>Document Relevance Filtering by Natural Language Processing and Machine Learning: A Multidisciplinary Case Study of Patents</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>document search ; latent Dirichlet allocation ; manifold learning ; natural language processing ; non-negative matrix factorization ; supervised machine learning ; t-distributed stochastic neighbor embedding ; term co-occurrence networks ; unsupervised machine learning</subjects>
+  <abstract></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edselc.2-52.0-86000587208</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>20763417</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=db10c128-a5b6-34cb-acf3-68b8c0a9f58d</plink>
+  <doids></doids>
+  <publisher>Multidisciplinary Digital Publishing Institute (MDPI)</publisher>
+  <contributors>Bridgelall, R.</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>Scopus®</longDBName>
+  <doi>10.3390/app15052357</doi>
+</record>

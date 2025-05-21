@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>DRYD</mid>
+  <language>eng</language>
+  <source>Animals (2076-2615)</source>
+  <bookEdition></bookEdition>
+  <title>ExAutoGP: Enhancing Genomic Prediction Stability and Interpretability with Automated Machine Learning and SHAP.</title>
+  <pageEnd></pageEnd>
+  <pageStart>1172</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250415</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>8</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; POULTRY breeding ; LIVESTOCK breeding ; ANIMAL breeding ; LIVESTOCK breeds ; All Other Animal Production ; Support Activities for Animal Production</subjects>
+  <abstract>Simple Summary: In recent years, machine learning has garnered significant attention in genomic selection. However, the inherent "black-box" nature of machine learning models often hinders their interpretability, making it challenging to understand their decision-making processes. In this study, we propose ExAutoGP, a novel genome prediction method that leverages automated machine learning (AutoML) to enhance predictive accuracy while improving model interpretability by integrating SHapley Additive exPlanations (SHAP). We evaluate the predictive performance of ExAutoGP against genomic best linear unbiased prediction (GBLUP), BayesB, support vector regression (SVR), kernel ridge regression (KRR), and random forest (RF) across three datasets. The results demonstrate that ExAutoGP consistently delivers robust and superior predictive performance across all traits. Furthermore, the SHAP method was applied to determine the importance of the features and interpret the ExAutoGP model. Machine learning has attracted much attention in the field of genomic prediction due to its powerful predictive capabilities, yet the lack of an explanatory nature in modeling decisions remains a major challenge. In this study, we propose a novel machine learning method, ExAutoGP, which aims to improve the accuracy of genomic prediction and enhance the transparency of the model by combining automated machine learning (AutoML) with SHapley Additive exPlanations (SHAP). To evaluate ExAutoGP's effectiveness, we designed a comparative experiment consisting of a simulated dataset and two real animal datasets. For each dataset, we applied ExAutoGP and five baseline models—Genomic Best Linear Unbiased Prediction (GBLUP), BayesB, Support Vector Regression (SVR), Kernel Ridge Regression (KRR), and Random Forest (RF). All models were trained and evaluated using five repeated five-fold cross-validation, and their performance was assessed based on both predictive accuracy and computational efficiency. The results show that ExAutoGP exhibits robust and excellent prediction performance on all datasets. In addition, the SHAP method not only effectively reveals the decision-making process of ExAutoGP and enhances its interpretability, but also identifies genetic markers closely related to the traits. This study demonstrates the strong potential of AutoML in genomic prediction, while the introduction of SHAP provides actionable biological insights. The synergy of high prediction accuracy and interpretability offers new perspectives for optimizing genomic selection strategies in livestock and poultry breeding.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184759108</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2076-2615</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2748c998-527d-37a3-ae9b-18ddfbacddd1</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Rao, Yao ; Zhang, Lilian ; Gao, Lutao ; Wang, Shuran ; Yang, Linnan</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/ani15081172</doi>
+</record>

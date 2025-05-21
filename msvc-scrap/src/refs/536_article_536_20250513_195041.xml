@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FU4O</mid>
+  <language>eng</language>
+  <source>Cancer Medicine</source>
+  <bookEdition></bookEdition>
+  <title>Predicting Neoplastic Polyp in Patients With Gallbladder Polyps Using Interpretable Machine Learning Models: Retrospective Cohort Study.</title>
+  <pageEnd>12</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; RECEIVER operating characteristic curves ; INDEPENDENT variables ; DECISION trees ; UNIVERSITY hospitals</subjects>
+  <abstract>Objective: Gallbladder polyps (GBPs) are increasingly prevalent, with the majority being benign; however, neoplastic polyps carry a risk of malignant transformation, highlighting the importance of accurate differentiation. This study aimed to develop and validate interpretable machine learning (ML) models to accurately predict neoplastic GBPs in a retrospective cohort, identifying key features and providing model explanations using the Shapley additive explanations (SHAP) method. Methods: A total of 924 patients with GBPs who underwent cholecystectomy between January 2013 and December 2023 at Qilu Hospital of Shandong University were included. The patient characteristics, laboratory results, preoperative ultrasound findings, and postoperative pathological results were collected. The dataset was randomly split, with 80% used for model training and the remaining 20% used for model testing. This study employed nine ML algorithms to construct predictive models. Subsequently, model performance was evaluated and compared using several metrics, including the area under the receiver operating characteristic curve (AUC). Feature importance was ranked, and model interpretability was enhanced by the SHAP method. Results: K‐nearest neighbors, C5.0 decision tree algorithm, and gradient boosting machine models showed the highest performance, with the highest predictive efficacy for neoplastic polyps. The SHAP method revealed the top five predictors of neoplastic polyps according to the importance ranking. The polyp size was recognized as the most important predictor variable, indicating that lesions ≥ 18 mm should prompt heightened clinical surveillance and timely intervention. Conclusions: Our interpretable ML models accurately predict neoplastic polyps in GBP patients, providing guidance for treatment planning and resource allocation. The model's transparency fosters trust and understanding, empowering physicians to confidently use its predictions for improved patient care.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183654593</an>
+  <docTypes>Article</docTypes>
+  <volume>14</volume>
+  <issns>2045-7634</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d846ce05-170b-3143-868f-e61d5170b243</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>He, Zhaobin ; Yang, Shengbiao ; Cao, Jianqiang ; Gao, Huijie ; Peng, Cheng</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1002/cam4.70739</doi>
+</record>

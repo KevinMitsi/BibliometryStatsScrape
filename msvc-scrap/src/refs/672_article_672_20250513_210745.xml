@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Scientific reports</source>
+  <bookEdition></bookEdition>
+  <title>Advancing sepsis diagnosis and immunotherapy machine learning-driven identification of stable molecular biomarkers and therapeutic targets.</title>
+  <pageEnd></pageEnd>
+  <pageStart>8333</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250311</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Sepsis diagnosis ; Sepsis therapy ; Sepsis genetics ; Sepsis immunology ; Machine Learning ; Immunotherapy methods ; Biomarkers metabolism ; Humans ; Gene Regulatory Networks ; Algorithms</subjects>
+  <abstract>Declarations. Competing interests: The authors declare no competing interests. Consent for publication: All listed authors consent to the submission, and all data are used with the consent of the person generating the data.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40065038</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=481aa814-02c2-3792-9175-ac2873ee12bd</plink>
+  <doids></doids>
+  <publisher>Nature Publishing Group</publisher>
+  <contributors>Xiong, Weichuan ; Zhan, Yian ; Xiao, Rui ; Liu, Fangpeng</contributors>
+  <coverDate>2025 Mar 11</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1038/s41598-025-93010-8</doi>
+</record>

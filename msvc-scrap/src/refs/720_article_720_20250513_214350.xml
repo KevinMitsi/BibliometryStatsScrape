@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Results in Engineering</source>
+  <bookEdition></bookEdition>
+  <title>On the machine learning algorithm combined evolutionary optimization to understand different tool designs’ wear mechanisms and other machinability metrics during dry turning of D2 steel</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; D2 Steel ; Chip morphology ; Machining ; Tool design ; Surface texture</subjects>
+  <abstract>Highlights •An economical design of experiment approach is opted to evaluate two inserts with distinct designs with machining parameters.•The open-source supervised machine learning architecture search as carried out to map process characteristics such as surface evolution, tool wear, and chip morphology.•An evolutionary optimization method is applied to democratize multi-objective process characteristics’ learnings to facilitate users within manufacturing community.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2590123025000866</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>2590-1230</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a8bbb4db-1815-37a8-be01-f043db230997</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Sana, Muhammad ; Farooq, Muhammad Umar ; Hassan, Sana ; Khan, Anamta</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.rineng.2025.103998</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>South African Journal of Childhood Education</source>
+  <bookEdition></bookEdition>
+  <title>Predicting Primary and Middle-School Students' Preferences for Online Learning with Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Elementary School Students ; Middle School Students ; Preferences ; Online Courses ; Electronic Learning ; Teaching Methods ; Artificial Intelligence ; Foreign Countries ; India</subjects>
+  <abstract>Background: The COVID-19 pandemic has brought attention to student psychological wellness. Because of isolation, lack of socialisation and intellectual and physical development from excessive media use, primary and secondary school students are at high risk for health problems. Aim: This study aimed to identify the most effective machine learning model for predicting the offline and online instructional strategies students would choose during a pandemic. Setting: The study was carried out at a number of primary and middle schools in Hyderabad, India. Methods: We evaluated the data using machine learning methods such as logistic regression, K-nearest neighbour (KNN), decision trees, bagging and boosting using the Python programming language. Results: In this study, 414 instances were collected from different schools. Exploratory data analysis showed that few students chose online courses. According to the research, very few students choose online classes, and the majority of students favoured offline classes over online because of physical and mental health difficulties; online education effects include a lack of social and peer relationships that affects young children psychologically, and they may not be disciplined enough to resist internet diversions. Smartphones, laptops, etc., affect their vision, causing headaches and impaired eyesight. Conclusion: The KNN was the most accurate machine learning algorithm, with 92.13% accuracy to fits the data to identify the preferences of online education. Contribution: This article examined the perspectives of primary and middle-school children on online education. Most students in this survey also reported experiencing mental or physical health issues that made online education difficult for them. Machine learning algorithms were applied to identify the most effective model for predicting students' online and offline study preferences. This machine learning method will help schools improve their course delivery methods, allowing students to continue their studies without interruption.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1409690</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>13</volume>
+  <issns>2223-7674 ; 2223-7682</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c9331d02-307e-3f34-9c0a-5eaa6f9d2b50</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>V. Selvakumar ; Tilak Pakki Venkata ; Teja Pakki Venkata ; Shubham Singh</contributors>
+  <coverDate>2023</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

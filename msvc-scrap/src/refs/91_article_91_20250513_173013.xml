@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FDU7</mid>
+  <language>eng</language>
+  <source>Diagnostics (2075-4418)</source>
+  <bookEdition></bookEdition>
+  <title>Time-Adaptive Machine Learning Models for Predicting the Severity of Heart Failure with Reduced Ejection Fraction.</title>
+  <pageEnd></pageEnd>
+  <pageStart>715</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250315</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; BRAIN natriuretic factor ; HEART failure ; VENTRICULAR ejection fraction ; DISEASE progression</subjects>
+  <abstract>Background: Heart failure with reduced ejection fraction is a complex condition that necessitates adaptive, patient-specific management strategies. This study aimed to evaluate the effectiveness of a time-adaptive machine learning model, the Passive-Aggressive classifier, in predicting heart failure with reduced ejection fraction severity and capturing individualized disease progression. Methods: A time-adaptive Passive-Aggressive classifier was employed, using clinical data and Brain Natriuretic Peptide levels as class designators for heart failure with reduced ejection severity. The model was personalized for individual patients by sequentially incorporating clinical visit data from 0–9 visits. The model's adaptability and effectiveness in capturing individual health trajectories were assessed using accuracy and reliability metrics as more data were added. Results: With the progressive introduction of patient-specific data, the model demonstrated significant improvements in predictive capabilities. By incorporating data from nine visits, significant gains in accuracy and reliability were achieved, with the One-Versus-Rest AUC increasing from 0.4884 with no personalization (zero visits) to 0.8253 (nine visits). This demonstrates the model's ability to handle diverse patient presentations and the dynamic nature of disease progression. Conclusions: The findings show the potential of time-adaptive machine learning models, particularly the Passive-Aggressive classifier, in managing heart failure with reduced ejection fraction and other chronic diseases. By enabling precise, patient-specific predictions, these approaches support early detection, tailored interventions, and improved long-term outcomes. This study highlights the feasibility of integrating adaptive models into clinical workflows to enhance the management of heart failure with reduced ejection fraction and similar chronic conditions.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184134083</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2075-4418</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=78b0d3fe-5e21-3e13-a03e-c87942255740</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Winger, Trevor ; Ozdemir, Cagri ; Narasimhan, Shanti L. ; Srivastava, Jaideep</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/diagnostics15060715</doi>
+</record>

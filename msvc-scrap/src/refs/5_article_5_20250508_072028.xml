@@ -1,0 +1,35 @@
+<record>
+  <isbns>9780128188033 ; 9780128188040</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition>2nd edition</bookEdition>
+  <title>Machine Learning : A Bayesian and Optimization Perspective</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20200101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>London</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>TECHNOLOGY &amp;amp; ENGINEERING / Signals &amp;amp; Signal Processing ; SCIENCE / Physics / Electromagnetism ; Mathematical optimization ; Bayesian statistical decision theory ; Machine learning--Mathematical models</subjects>
+  <abstract>Machine Learning: A Bayesian and Optimization Perspective, 2nd edition, gives a unified perspective on machine learning by covering both pillars of supervised learning, namely regression and classification. The book starts with the basics, including mean square, least squares and maximum likelihood methods, ridge regression, Bayesian decision theory classification, logistic regression, and decision trees. It then progresses to more recent techniques, covering sparse modelling methods, learning in reproducing kernel Hilbert spaces and support vector machines, Bayesian inference with a focus on the EM algorithm and its approximate inference variational versions, Monte Carlo methods, probabilistic graphical models focusing on Bayesian networks, hidden Markov models and particle filtering. Dimensionality reduction and latent variables modelling are also considered in depth. This palette of techniques concludes with an extended chapter on neural networks and deep learning architectures. The book also covers the fundamentals of statistical parameter estimation, Wiener and Kalman filtering, convexity and convex optimization, including a chapter on stochastic approximation and the gradient descent family of algorithms, presenting related online learning techniques as well as concepts and algorithmic versions for distributed optimization. Focusing on the physical reasoning behind the mathematics, without sacrificing rigor, all the various methods and techniques are explained in depth, supported by examples and problems, giving an invaluable resource to the student and researcher for understanding and applying machine learning concepts. Most of the chapters include typical case studies and computer exercises, both in MATLAB and Python. The chapters are written to be as self-contained as possible, making the text suitable for different courses: pattern recognition, statistical/adaptive signal processing, statistical/Bayesian learning, as well as courses on sparse modeling, deep learning, and probabilistic graphical models. New to this edition: - Complete re-write of the chapter on Neural Networks and Deep Learning to reflect the latest advances since the 1st edition. The chapter, starting from the basic perceptron and feed-forward neural networks concepts, now presents an in depth treatment of deep networks, including recent optimization algorithms, batch normalization, regularization techniques such as the dropout method, convolutional neural networks, recurrent neural networks, attention mechanisms, adversarial examples and training, capsule networks and generative architectures, such as restricted Boltzman machines (RBMs), variational autoencoders and generative adversarial networks (GANs). - Expanded treatment of Bayesian learning to include nonparametric Bayesian methods, with a focus on the Chinese restaurant and the Indian buffet processes. - Presents the physical reasoning, mathematical modeling and algorithmic implementation of each method - Updates on the latest trends, including sparsity, convex analysis and optimization, online distributed algorithms, learning in RKH spaces, Bayesian inference, graphical and hidden Markov models, particle filtering, deep learning, dictionary learning and latent variables modeling - Provides case studies on a variety of topics, including protein folding prediction, optical character recognition, text authorship identification, fMRI data analysis, change point detection, hyperspectral image unmixing, target localization, and more</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2230124</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8fa5198b-500f-369d-8b8b-7a91e00ca833</plink>
+  <doids>NL$2230124$PDF ; NL$2230124$EPUB</doids>
+  <publisher>Academic Press</publisher>
+  <contributors>Sergios Theodoridis</contributors>
+  <coverDate>2020</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

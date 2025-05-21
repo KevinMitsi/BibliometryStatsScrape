@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Application of machine learning techniques in GlaucomAI system for glaucoma diagnosis and collaborative research support.</title>
+  <pageEnd>15</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; DISEASE risk factors ; MEDICAL software ; INDIVIDUALIZED medicine ; CARDIOVASCULAR system</subjects>
+  <abstract>This paper proposes an architecture of the system that provides support for collaborative research focused on analysis of data acquired using Triggerfish contact lens sensor and devices for continuous monitoring of cardiovascular system properties. The system enables application of machine learning (ML) models for glaucoma diagnosis without direct intraocular pressure measurement and independently of complex imaging techniques used in clinical practice. We describe development of ML models based on sensor data and measurements of corneal biomechanical properties. Application scenarios involve collection, sharing and analysis of multi-sensor data. We give a view of issues concerning interpretability and evaluation of ML model predictions. We also refer to the problems related to personalized medicine and transdisciplinary research. The system can be a base for community-wide initiative including ophthalmologists, data scientists and machine learning experts that has the potential to leverage data acquired by the devices to understand glaucoma risk factors and the processes related to progression of the disease.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183536493</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=507fb1d0-a7b4-3f3c-a521-60f5d36c9bb0</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Świerczyński, Hubert ; Pukacki, Juliusz ; Szczęsny, Szymon ; Mazurek, Cezary ; Wasilewicz, Robert</contributors>
+  <coverDate>3/7/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-89893-2</doi>
+</record>

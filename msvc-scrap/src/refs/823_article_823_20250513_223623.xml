@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsupp</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Grote, Thomas and Buchholz, Oliver (2025) Shaking up the dogma: Solving trade-offs without (moral) values in machine learning. [Preprint]</source>
+  <bookEdition></bookEdition>
+  <title>Shaking up the dogma: Solving trade-offs without (moral) values in machine learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250112</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>AI and Ethics ; Machine Learning</subjects>
+  <abstract>The field of machine learning intricately links ethical and epistemological considerations in many contexts which raises the question as to their precise relation. This paper tries to provide a partial answer by focusing on one particular context, namely, the trade-off between accuracy and interpretability, which can be considered a prime example for the entanglement of ethics and epistemology in machine learning. At its core, the trade-off states that any choice of a machine learning model needs to balance the conflicting desiderata of achieving accurate predictions and an interpretable functionality. On a widely shared view inspired by the argument from inductive risk, this balancing of conflicting desiderata can only be resolved by appeal to non-epistemic values. By contrast, we argue that, in certain settings, the accuracy-interpretability trade-off can be resolved on purely epistemic grounds. To that end, we closely analyze the general nature of trade-offs as well as the notions of accuracy and interpretability. This allows us to derive strategies for resolving the accuracy-interpretability trade-off that center around choosing the right epistemic frame for a given machine learning application and, thus, do not require non-epistemic considerations. We conclude by sketching the implications of this result for the general relation of ethical and epistemological considerations in ML.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsupp.24530</an>
+  <docTypes>Preprint</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=35e77e27-e37a-345c-8742-5106fb5ea90a</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Grote, Thomas ; Buchholz, Oliver</contributors>
+  <coverDate>20250112</coverDate>
+  <longDBName>PhilSci Archive</longDBName>
+  <doi></doi>
+</record>

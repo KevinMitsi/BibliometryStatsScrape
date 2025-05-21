@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FDU1</mid>
+  <language>eng</language>
+  <source>Behavioral Sciences (2076-328X)</source>
+  <bookEdition></bookEdition>
+  <title>A Machine Learning-Based Method for Developing the Chinese Symptom Checklist-11 (CSCL-11).</title>
+  <pageEnd></pageEnd>
+  <pageStart>459</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; FACTOR analysis ; MEDICAL screening ; ACQUISITION of data ; SYMPTOMS ; All Other Miscellaneous Ambulatory Health Care Services</subjects>
+  <abstract>The Chinese version of the Symptom Checklist-90 (SCL-90) is excessively lengthy, resulting in extended completion time and reduced respondent compliance. This study aimed to utilize a condensed subset of items from the Chinese SCL-90 to identify individuals at high risk for psychological disorders based on machine learning methods, forming a concise and efficient preliminary psychopathological screening instrument for the Chinese general population. Analyzing data collected from 4808 SCL-90 psychological surveys, this study applied variable clustering to select the most representative items, resulting in an 11-item scale: the Chinese Symptom Checklist-11 (CSCL-11). The CSCL-11 demonstrated high internal consistency (Cronbach's α = 0.84). The results of factor analysis supported a single-factor model for the CSCL-11, demonstrating an acceptable fit (SRMR = 0.035, RMSEA = 0.064, CFI = 0.935, and TLI = 0.919). The CSCL-11 demonstrated strong predictive performance for the Global Severity Index (GSI; RMSE = 0.11, R&lt;sup>2&lt;/sup> = 0.92, Pearson's r = 0.96) and various subscale scores (RMSE &amp;lt; 0.25, R&lt;sup>2&lt;/sup> &amp;gt; 0.70, Pearson's r &amp;gt; 0.85). Additionally, it achieved a 96% accuracy rate in identifying individuals at high risk for psychological disorders. The comparison results indicated that the CSCL-11 outperformed SCL-14, SCL-K11, and SCL-K-9 in predicting GSI scores. In identifying high-risk groups, CSCL-11 demonstrated performance similar to that of SCL-14 and surpassed both SCL-K11 and SCL-K-9. The CSCL-11 retains most of the critical information from the original Chinese SCL-90 and serves as a preliminary psychopathological screening tool for the Chinese general population.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184794510</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2076-328X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=688c85c6-8234-35c7-8aec-f539d07888d4</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Cai, Xuanyi ; Zhang, Yunan ; Su, Meng ; Chang, Fan ; Quan, Lei ; Liu, Yixing ; Wang, Bei</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/bs15040459</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Algorithms for Machine Learning to Predict Childbirth Modes</title>
+  <pageEnd>52</pageEnd>
+  <pageStart>47</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Decision support systems ; Support vector machines ; Pediatrics ; Machine learning algorithms ; Supervised learning ; Medical services ; Nearest neighbor methods ; Prediction algorithms ; Classification algorithms ; Random forests ; childbirth prediction ; machine learning ; decision support system ; delivery mode classification ; maternal and infant health</subjects>
+  <abstract>Health and well-being of women and bonding created with the newborn are heavily de- pendent on the birth process. What delivery method to choose is a critical decision that often needs to be applied in a timely manner to ensure the well-being of the baby and mother. Errors in this regard may cause serious health consequences for the mother and fetus, making it hard for healthcare professionals to make timely and correct decisions. In this paper, a decision support system based on machine learning for predicting the safest delivery method is presented. Various supervised learning algorithms are tested, including K-Nearest Neighbors (KNN), Random Forest (RF), Support Vector Machine (SVM), Decision Tree, and a stochastic classifier. The outcomes of this paper indicate that the Random Forest algorithm has better accuracy in predicting the delivery method and thereby aids healthcare professionals in reducing judgmental errors and improving the safety of neonates and mothers.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10967851</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5cee078e-de9d-39aa-bb56-d9890d077017</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>R, Kavin ; N, Lingesh ; A, Mohammed Sath ; Sadasivam, V.R.</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10967851</doi>
+</record>

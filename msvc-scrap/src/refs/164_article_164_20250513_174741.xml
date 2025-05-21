@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning: a Lecture Note</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250506</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Machine Learning ; Statistics - Machine Learning</subjects>
+  <abstract>This lecture note is intended to prepare early-year master's and PhD students in data science or a related discipline with foundational ideas in machine learning. It starts with basic ideas in modern machine learning with classification as a main target task. These basic ideas include loss formulation, backpropagation, stochastic gradient descent, generalization, model selection as well as fundamental blocks of artificial neural networks. Based on these basic ideas, the lecture note explores in depth the probablistic approach to unsupervised learning, covering directed latent variable models, product of experts, generative adversarial networks and autoregressive models. Finally, the note ends by covering a diverse set of further topics, such as reinforcement learning, ensemble methods and meta-learning. After reading this lecture note, a student should be ready to embark on studying and researching more advanced topics in machine learning and more broadly artificial intelligence.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2505.03861</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f1bfb8b8-c394-3338-bbf5-f2646f985ba5</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Cho, Kyunghyun</contributors>
+  <coverDate>20250506</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

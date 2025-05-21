@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>2H0</mid>
+  <language>eng</language>
+  <source>Review of Financial Studies</source>
+  <bookEdition></bookEdition>
+  <title>Option Return Predictability with Machine Learning and Big Data.</title>
+  <pageEnd>3602</pageEnd>
+  <pageStart>3548</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230901</publicationDate>
+  <pageCount>55</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>9</issue>
+  <identifiers></identifiers>
+  <subjects>Big data ; Rate of return ; Stocks (Finance) ; Profit ; Economic forecasting ; Options (Finance) ; Machine learning ; Equity management</subjects>
+  <abstract>Drawing upon more than 12 million observations over the period from 1996 to 2020, we find that allowing for nonlinearities significantly increases the out-of-sample performance of option and stock characteristics in predicting future option returns. The nonlinear machine learning models generate statistically and economically sizable profits in the long-short portfolios of equity options even after accounting for transaction costs. Although option-based characteristics are the most important standalone predictors, stock-based measures offer substantial incremental predictive power when considered alongside option-based characteristics. Finally, we provide compelling evidence that option return predictability is driven by informational frictions and option mispricing. Authors have furnished an Internet Appendix , which is available on the Oxford University Press Web site next to the link to the final published paper online.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>170047747</an>
+  <docTypes>Article</docTypes>
+  <volume>36</volume>
+  <issns>0893-9454</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d7e851e5-9364-343c-96e6-5bd50755dc39</plink>
+  <doids></doids>
+  <publisher>Oxford University Press / USA</publisher>
+  <contributors>Bali, Turan G ; Beckmeyer, Heiner ; Mörke, Mathis ; Weigert, Florian</contributors>
+  <coverDate>Sep2023</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1093/rfs/hhad017</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsfor</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>F1000Research</source>
+  <bookEdition></bookEdition>
+  <title>Artificial intelligence model for internet of things attack detection using machine learning algorithms [version 1; peer review: awaiting peer review]</title>
+  <pageEnd></pageEnd>
+  <pageStart>230</pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250225</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>London, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Research Article ; Articles ; Internet of Things ; cyber-attacks ; Internet of Things security ; machine learning</subjects>
+  <abstract>Background The rapid growth of the Internet of Things (IoT) has brought transformative benefits across industries, yet it also presents significant security challenges due to the proliferation of connected devices. Methods This study proposes an artificial intelligence (AI) model leveraging machine learning algorithms to detect and classify multiple types of IoT attacks, including distributed denial of service (DDoS), reconnaissance, brute force, spoofing, and Mirai attacks, using the CICIoT2023 dataset. The dataset was divided into training and testing sets to ensure accurate performance assessment. After training, the models were tested, and their effectiveness was evaluated through metrics like accuracy and confusion matrices. Results and conclusions Among the algorithms used, the decision tree model outperformed than others, achieving an impressive accuracy of 98.34%. In contrast, Bayes classifiers, support vector machines (SVM), and logistic regression achieved accuracy rates of 92%, 91.5%, and 75%, respectively. These results highlight the significant potential of machine learning techniques in detecting and mitigating various IoT attacks, offering promising avenues for enhancing IoT security. The improvement of the performance of the IoT attack detection model using large datasets and the appropriate using deep learning algorithms with their parameters will be our future consideration in the domain.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsfor.10.12688.f1000research.161643.1</an>
+  <docTypes>research-article</docTypes>
+  <volume>14</volume>
+  <issns>20461402</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6f8d9758-ccb0-389f-8521-26b2ea23cb6a</plink>
+  <doids></doids>
+  <publisher>F1000 Research Limited</publisher>
+  <contributors>Anduamlak Abebe ; Seffi Gebeyehu ; Abebaw Alem</contributors>
+  <coverDate>20250225</coverDate>
+  <longDBName>F1000Research</longDBName>
+  <doi>10.12688/f1000research.161643.1</doi>
+</record>

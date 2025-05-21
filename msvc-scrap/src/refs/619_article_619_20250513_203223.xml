@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Rare Metals</source>
+  <bookEdition></bookEdition>
+  <title>Design of high-performance Cu–Be alloy based on machine learning with integrated phase diagram information: Design of high-performance Cu–Be alloy based on machine learning</title>
+  <pageEnd>20</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250423</publicationDate>
+  <pageCount>20</pageCount>
+  <publisherLocations>Beijing</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Phase diagram information ; Cu–Be alloys ; Machine learning ; Alloy design ; LSTM-Encoder</subjects>
+  <abstract>High cost of raw materials and the insufficient research on alloy systems severely constrained the development of Cu–Be alloys. The complex coupling relationship between composition and preparation process poses challenges to the use of machine learning methods for the precise design of Cu–Be alloy. This study develops a novel method for integrated design of copper alloy composition and processing based on a Long Short-Term Memory model followed by an Encoder model (LSTM-Encoder) and enriches the framework by integrating phase diagram information. This approach not only capitalizes on the patterns of microstructural evolution during heat treatment as indicated in phase diagrams to reveal their intrinsic links with alloy performance but also eliminates cross-interference within sample data, thus significantly enhancing the model’s generalization and predictive accuracy, which achieves high efficient and precise design of low-cost (low Be content) and high-performance Cu–Be alloys. Compared with other models, the LSTM-Encoder model incorporating phase diagram information (LSTM-Encoder-II) showed significant superiority in prediction accuracy. After two rounds of experimental verification and iteration, the LSTM-Encoder-II model attained prediction accuracies of 96% for hardness and 93% for electrical conductivity. Various Cu–Be–X alloys with excellent comprehensive performance and low cost have been designed, and Cu-1.5Be-0.1Ni-0.3Co alloy achieves a tensile strength of 1211 MPa and an electrical conductivity of 30.3% IACS, and Cu-1.5Be-0.6Ni alloy attains a tensile strength of 1290 MPa and an electrical conductivity of 29.3% IACS, both of which are comparable to the C17200 alloy, with raw material cost reduced by more than 14%.&lt;br />Graphical abstract: &lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.6FE3AE93</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>10010521 ; 18677185</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c0e1b423-9ee5-3095-8fca-b9b5c770f39e</plink>
+  <doids></doids>
+  <publisher>Nonferrous Metals Society of China</publisher>
+  <contributors>Chen, Wei ; Jiang, Yan-Bin ; Tan, Fei ; Zhao, Zi-Xuan ; Ma, Mu-Zhi ; Wang, Meng ; Jiang, Xiao-Yu ; Qin, Yi-Wei ; Lei, Qian ; Li, Zhou</contributors>
+  <coverDate>20250423</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s12598-025-03331-w</doi>
+</record>

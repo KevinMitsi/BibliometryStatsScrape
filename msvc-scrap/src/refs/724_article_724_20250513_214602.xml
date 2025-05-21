@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsorb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Journal of Alloys and Compounds, 179950 (2025-03)</source>
+  <bookEdition></bookEdition>
+  <title>New analytical parameters for B2 phase prediction as a complement to multiclass phase prediction using machine learning in multicomponent alloys: A computational approach with experimental validation</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Multicomponent alloys ; Multiclass classification ; SOHEI B2 phase stability ; CALPHAD ; Engineering, computing &amp;amp; technology ; Materials science &amp;amp; engineering ; Ingénierie, informatique &amp;amp; technologie ; Science des matériaux &amp;amp; ingénierie</subjects>
+  <abstract>Accurate phase prediction in multicomponent alloys is challenging due to the complex interactions among different microstructural phases, especially in alloys with both face-centered cubic (FCC) and body-centered cubic (BCC) structures. This challenge is further intensified by the presence of secondary intermetallic phases, such as the ordered BCC (B2) phase, which improves the mechanical properties but is difficult to distinguish from the disordered BCC phase. Current predictive models rely primarily on the valence electron concentration (VEC), which is useful but fails to effectively distinguish the B2 phase in different alloy systems. This study introduces a novel machine learningbased predictive framework, which was validated through exploratory data analysis, CALPHADsimulations, and experimental results. It incorporates three analytical descriptors for SOHEI B2 phase prediction in the FCC, BCC, and FCC+BCC systems. By integrating the atomic radius difference (𝛿𝑟), valence electron concentration (VEC), and shear modulus (𝐺), this approach enhances the accuracy of B2 phase classification in high-entropy alloys. Furthermore, a combined machine learning model integrating random forest (RF) and eXtreme Gradient Boosting (XGBoost) achieved 77% accuracy, significantly improving FCC+BCC+IM phase prediction from 25% to 62.5%. The most relevant findings suggest that the FCC+B2 system remains stable for 𝛿𝑟 &amp;gt; 5.23%, the BCC+B2 system is stable for VEC &amp;gt; 6.4, and the FCC+BCC+B2 system is stable for G &amp;gt; 68.22 GPa. This work represents a significant advancement in the design of multicomponent alloys that require the SOHEI B2 phase as a reinforcement mechanism, providing a data-driven and experimentally validated approach.</abstract>
+  <pubTypes>Journal Article</pubTypes>
+  <an>edsorb.329909</an>
+  <docTypes>journal articlehttp://purl.org/coar/resource_type/c_6501articlepeer reviewed</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=aa4ec883-4aa6-3d46-a9e1-20d6acf0a3e6</plink>
+  <doids></doids>
+  <publisher>Elsevier BV</publisher>
+  <contributors>Oñate, Angelo ; Seidou, Abdul Herrim ; Tchuindjang, Jérôme Tchoufack ; Tuninetti, Victor ; Miranda, Alejandra ; Sanhueza, Juan Pablo ; Mertens, Anne</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>ORBi</longDBName>
+  <doi>10.1016/j.jallcom.2025.179950</doi>
+</record>

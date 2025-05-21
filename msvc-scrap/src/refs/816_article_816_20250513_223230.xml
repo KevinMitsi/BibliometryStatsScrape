@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edspgr</shortDBName>
+  <isiType>PAT</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Configurable and scalable machine learning model lifecycle operator</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250107</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>A method of using a computing device to manage a lifecycle of machine learning models includes receiving, by a computing device, multiple pre-defined machine learning lifecycle tasks. The computing device manages executing a management-layer software layer for the multiple pre-defined machine learning lifecycle tasks. The computing device further generates and updates a machine learning pipeline using the management-layer software layer.</abstract>
+  <pubTypes>Patent</pubTypes>
+  <an>edspgr.12190210</an>
+  <docTypes>Patent</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=72c51a98-7a10-31af-bb4c-15b149a93ede</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>International Business Machines Corporation</contributors>
+  <coverDate>January 07, 2025</coverDate>
+  <longDBName>USPTO Patent Grants</longDBName>
+  <doi></doi>
+</record>

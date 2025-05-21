@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781786469878 ; 9781786466969</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning for Developers : Uplift Your Regular Applications with the Power of Statistics, Analytics, and Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20170101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / General ; COMPUTERS / Data Science / Data Analytics ; COMPUTERS / Languages / Java ; Machine learning</subjects>
+  <abstract>Your one-stop guide to becoming a Machine Learning expert.Key Features-Learn to develop efficient and intelligent applications by leveraging the power of Machine Learning- A highly practical guide explaining the concepts of problem solving in the easiest possible manner- Implement Machine Learning in the most practical wayBook DescriptionMost of us have heard about the term Machine Learning, but surprisingly the question frequently asked by developers across the globe is, “How do I get started in Machine Learning?”. One reason could be attributed to the vastness of the subject area because people often get overwhelmed by the abstractness of ML and terms such as regression, supervised learning, probability density function, and so on. This book is a systematic guide teaching you how to implement various Machine Learning techniques and their day-to-day application and development. You will start with the very basics of data and mathematical models in easy-to-follow language that you are familiar with; you will feel at home while implementing the examples. The book will introduce you to various libraries and frameworks used in the world of Machine Learning, and then, without wasting any time, you will get to the point and implement Regression, Clustering, classification, Neural networks, and more with fun examples. As you get to grips with the techniques, you'll learn to implement those concepts to solve real-world scenarios for ML applications such as image analysis, Natural Language processing, and anomaly detections of time series data. By the end of the book, you will have learned various ML techniques to develop more efficient and intelligent applications. What you will learnLearn the math and mechanics of Machine Learning via a developer-friendly approachGet to grips with widely used Machine Learning algorithms/techniques and how to use them to solve real problemsGet a feel for advanced concepts, using popular programming frameworks.Prepare yourself and other developers for working in the new ubiquitous field of Machine LearningGet an overview of the most well known and powerful tools, to solve computing problems using Machine Learning.Get an intuitive and down-to-earth introduction to current Machine Learning areas, and apply these concepts on interesting and cutting-edge problems.Who this book is forThis book will appeal to any developer who wants to know what Machine Learning is and is keen to use Machine Learning to make their day-to-day apps fast, high performing, and accurate. Any developer who wants to enter the field of Machine Learning can effectively use this book as an entry point.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1637915</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0769cd7e-838f-37e0-9626-a52beab72ae1</plink>
+  <doids>NL$1637915$PDF ; NL$1637915$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Rodolfo Bonnin ; Md Mahmudul Hasan</contributors>
+  <coverDate>2017</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

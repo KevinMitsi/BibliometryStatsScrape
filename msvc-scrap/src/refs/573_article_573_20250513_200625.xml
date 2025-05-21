@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B6M</mid>
+  <language>eng</language>
+  <source>Applied Artificial Intelligence</source>
+  <bookEdition></bookEdition>
+  <title>Detecting Changeover Events on Manufacturing Machines with Machine Learning and NC data.</title>
+  <pageEnd>37</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>37</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Working hours ; Product costing ; Algorithms ; Machine learning ; Random forest algorithms</subjects>
+  <abstract>Changeover events occur in every industrial production when a machine is prepared and setup for production of the next product variant. Changeover times must be acquired with a high degree of validity for product cost calculations, order sequencing, and work schedules. The novelty of this article is a Machine Learning (ML) approach to automatically detect changeover events in production on manufacturing machines without direct human feedback. The machine learning approach uses several algorithms to classify different phases of the changeover process. The changeover of a milling process was defined using different phase concepts (2-phases, 6-phases, 23-phases) to be applicable to other types of manufacturing machines. Different machine learning methods were compared. The best results for the F1 score were achieved with the Random Forest, the CatBoost, and the Extra Trees algorithm (2-phases: 99.4–99.7%, 6-phases: 85.2–85.9%, 23-phases: 77.7–79.4%). It is shown that detecting changeover events can be realized based on data from an NC of a manufacturing machine without data from external sensors (2-phases: 98.9%, F1 score).</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181704407</an>
+  <docTypes>Article</docTypes>
+  <volume>38</volume>
+  <issns>0883-9514</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2174a191-1ba0-3061-bfdb-8a001be253ff</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Engelmann, Bastian ; Schmitt, Anna-Maria ; Heusinger, Moritz ; Borysenko, Vladyslav ; Niedner, Niklas ; Schmitt, Jan</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/08839514.2024.2381317</doi>
+</record>

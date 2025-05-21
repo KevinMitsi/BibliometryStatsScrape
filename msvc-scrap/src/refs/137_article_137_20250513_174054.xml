@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>International Journal of Artificial Intelligence in Education</source>
+  <bookEdition></bookEdition>
+  <title>Examining the Effect of Assessment Construct Characteristics on Machine Learning Scoring of Scientific Argumentation</title>
+  <pageEnd>1509</pageEnd>
+  <pageStart>1482</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>28</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Accuracy ; Persuasive Discourse ; Artificial Intelligence ; Learning Management Systems ; Criticism ; Scoring ; Computer Software ; Science Education ; Kindergarten ; Elementary Secondary Education ; Evaluation Methods ; Computational Linguistics ; Diversity ; Evaluators ; Comparative Analysis</subjects>
+  <abstract>Argumentation, a key scientific practice presented in the "Framework for K-12 Science Education," requires students to construct and critique arguments, but timely evaluation of arguments in large-scale classrooms is challenging. Recent work has shown the potential of automated scoring systems for open response assessments, leveraging machine learning (ML) and artificial intelligence (AI) to aid the scoring of written arguments in complex assessments. Moreover, research has amplified that the features (i.e., complexity, diversity, and structure) of assessment construct are critical to ML scoring accuracy, yet how the assessment construct may be associated with machine scoring accuracy remains unknown. This study investigated how the features associated with the assessment construct of a scientific argumentation assessment item affected machine scoring performance. Specifically, we conceptualized the construct in three dimensions: complexity, diversity, and structure. We employed human experts to code characteristics of the assessment tasks and score middle school student responses to 17 argumentation tasks aligned to three levels of a validated learning progression of scientific argumentation. We randomly selected 361 responses to use as training sets to build machine-learning scoring models for each item. The scoring models yielded a range of agreements with human consensus scores, measured by Cohen's kappa (mean = 0.60; range 0.38 - 0.89), indicating good to almost perfect performance. We found that higher levels of "Complexity" and "Diversity" of the assessment task were associated with decreased model performance, similarly the relationship between levels of "Structure" and model performance showed a somewhat negative linear trend. These findings highlight the importance of considering these construct characteristics when developing ML models for scoring assessments, particularly for higher complexity items and multidimensional assessments.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1453622</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>34</volume>
+  <issns>1560-4292 ; 1560-4306</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3b9c27f1-4e75-32cf-a329-a5326498c16f</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Kevin C. Haudek ; Xiaoming Zhai</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s40593-023-00385-8</doi>
+</record>

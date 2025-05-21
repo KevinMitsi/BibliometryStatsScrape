@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>K5CC</mid>
+  <language>eng</language>
+  <source>Journal of Clinical Medicine</source>
+  <bookEdition></bookEdition>
+  <title>Predicting Major Preoperative Risk Factors for Retears After Arthroscopic Rotator Cuff Repair Using Machine Learning Algorithms.</title>
+  <pageEnd></pageEnd>
+  <pageStart>1843</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250315</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ROTATOR cuff ; RECEIVER operating characteristic curves ; PREOPERATIVE risk factors ; MAGNETIC resonance imaging ; Diagnostic Imaging Centers</subjects>
+  <abstract>Background/Objectives: This study aimed to identify the risk factors for retears after arthroscopic rotator cuff repair (ARCR) and to establish a hierarchy of their importance using machine learning. Methods: This study analyzed 788 primary ARCR cases performed by a single senior surgeon from January 2016 to December 2022. The condition of the repaired supraspinatus was assessed via magnetic resonance imaging (MRI) or sonography within 2 years after surgery. In total, 27 preoperative demographic, objective, and subjective clinical variables were analyzed using five well-established models: Extreme Gradient Boosting (XGBoost), Random Forest (RF), Support Vector Machine (SVM), Neural Network (NN), and logistic regression (LR). The models were trained on an 8:2 split training and test set, with three-fold validation. The primary metric for evaluating model performance was the area under the receiver operating characteristic curve (AUC). The top five influential features were extracted from the best-performing models. Univariate and multivariate LRs were performed independently as a reference. Results: The overall retear rate was 11.9%. The two best-performing prediction models were RF (validation AUC = 0.9790) and XGBoost (validation AUC = 0.9785). Both models consistently identified the tear size in the medial–lateral (ML) and anterior–posterior (AP) dimensions, full-thickness tears, and BMI among the top five risk factors. XGBoost uniquely included female sex, while RF highlighted the visual analogue scale (VAS) pain score. While conventional univariate regression indicated multiple significant factors associated with retears (age, full-thickness tear, AP and ML tear size, biceps conditions, fatty infiltration of three rotator cuff muscles, and atrophy of supraspinatus), multivariate analysis demonstrated that only age and the ML tear size are significant factors. Conclusions: Machine learning models demonstrated enhanced predictive accuracy compared to traditional LR in predicting retears, and the importance of risk factors was derived. Tear size, full-thickness tears, BMI, female sex, and VAS pain score emerged as the most influential risk factors.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184134951</an>
+  <docTypes>Article</docTypes>
+  <volume>14</volume>
+  <issns>2077-0383</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fdc43109-3bb8-3801-94c9-7988a15e1c92</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Cho, Sung-Hyun ; Kim, Yang-Soo</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/jcm14061843</doi>
+</record>

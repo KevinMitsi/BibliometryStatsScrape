@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781789955750 ; 9781789958294</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Python Machine Learning : Machine Learning and Deep Learning with Python, Scikit-learn, and TensorFlow 2</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20190101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>[S.l.]</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Languages / Python ; COMPUTERS / Artificial Intelligence / Natural Language Processing ; COMPUTERS / Data Science / Neural Networks ; Machine learning ; Python (Computer program language)</subjects>
+  <abstract>Applied machine learning with a solid foundation in theory. Revised and expanded for TensorFlow 2, GANs, and reinforcement learning. Purchase of the print or Kindle book includes a free eBook in the PDF format.Key FeaturesThird edition of the bestselling, widely acclaimed Python machine learning bookClear and intuitive explanations take you deep into the theory and practice of Python machine learningFully updated and expanded to cover TensorFlow 2, Generative Adversarial Network models, reinforcement learning, and best practicesBook DescriptionPython Machine Learning, Third Edition is a comprehensive guide to machine learning and deep learning with Python. It acts as both a step-by-step tutorial, and a reference you'll keep coming back to as you build your machine learning systems. Packed with clear explanations, visualizations, and working examples, the book covers all the essential machine learning techniques in depth. While some books teach you only to follow instructions, with this machine learning book, Raschka and Mirjalili teach the principles behind machine learning, allowing you to build models and applications for yourself. Updated for TensorFlow 2.0, this new third edition introduces readers to its new Keras API features, as well as the latest additions to scikit-learn. It's also expanded to cover cutting-edge reinforcement learning techniques based on deep learning, as well as an introduction to GANs. Finally, this book also explores a subfield of natural language processing (NLP) called sentiment analysis, helping you learn how to use machine learning algorithms to classify documents. This book is your companion to machine learning with Python, whether you're a Python developer new to machine learning or want to deepen your knowledge of the latest developments.What you will learnMaster the frameworks, models, and techniques that enable machines to learn from dataUse scikit-learn for machine learning and TensorFlow for deep learningApply machine learning to image classification, sentiment analysis, intelligent web applications, and moreBuild and train neural networks, GANs, and other modelsDiscover best practices for evaluating and tuning modelsPredict continuous target outcomes using regression analysisDig deeper into textual and social media data using sentiment analysisWho this book is forIf you know some Python and you want to use machine learning and deep learning, pick up this book. Whether you want to start from scratch or extend your machine learning knowledge, this is an essential resource. Written for developers and data scientists who want to create practical machine learning and deep learning code, this book is ideal for anyone who wants to teach computers how to learn from data.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2329991</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=22e04da4-f2a4-30b3-8e69-0030032f8e01</plink>
+  <doids>NL$2329991$PDF ; NL$2329991$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Sebastian Raschka ; Vahid Mirjalili</contributors>
+  <coverDate>2019</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

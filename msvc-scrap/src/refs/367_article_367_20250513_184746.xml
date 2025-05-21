@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-0484-7</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>SoutheastCon 2025, 2025, SoutheastCon</source>
+  <bookEdition></bookEdition>
+  <title>Predicting Stock Market Trends Using Machine Learning and Sentiment Analysis</title>
+  <pageEnd>1006</pageEnd>
+  <pageStart>1001</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250322</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Aerospace ; Bioengineering ; Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineered Materials, Dielectrics and Plasmas ; Engineering Profession ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Geoscience ; Nuclear Engineering ; Photonics and Electrooptics ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Signal Processing and Analysis ; Transportation ; Support vector machines ; Sentiment analysis ; Analytical models ; Predictive models ; Feature extraction ; Real-time systems ; Stock markets ; Forecasting ; Random forests ; Long short term memory ; Stock Market Prediction ; Sentiment Analysis ; Financial News ; Machine Learning ; LSTM ; Support Vector Machine (SVM) ; Random Forest ; Logistic Regression ; BERT ; Time-Series Data ; AI in Finance ; NLP ; Predictive Analytics</subjects>
+  <abstract>Stock market prediction is a crucial yet challenging task due to the inherent volatility and complexity of financial markets. Traditional predictive models that rely solely on historical price data often fail to capture external influences, such as public sentiment and market psychology. In this work, we integrate sentiment analysis from financial news and social media with advanced machine learning models to improve stock trend forecasting. Using datasets such as Combined_News_DJIA, RedditNews, and historical stock prices, we extract sentiment-driven features and combine them with conventional stock market indicators. We evaluate four machine learning models-Long Short-Term Memory (LSTM), Logistic Regression, Random Forest, and Support Vector Machine (SVM)-along with BERT (Bidirectional Encoder Representations from Transformers) for sentiment analysis to determine their effectiveness in sentiment-augmented stock market forecasting. Our experimental results indicate that models incorporating sentiment data outperform traditional price-based models. The BERT-based sentiment model achieved the highest accuracy (98.92%), demonstrating the effectiveness of deep-learning-driven sentiment extraction. Meanwhile, SVM was the best-performing traditional model (98.48 % ), effectively handling high-dimensional sentiment features. The LSTM model excelled in capturing sequential dependencies in stock price fluctuations, while Random Forest provided better interpretability through feature importance analysis. This study contributes to AI-driven financial forecasting by providing an empirical comparison of sentiment-enhanced machine learning models and highlights the potential of real-time sentiment monitoring for stock prediction.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10971605</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>1558058X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4922aede-fce8-33dc-b9e5-245a025b3488</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Agrawal, Manan ; Mukherjee, Arindam</contributors>
+  <coverDate>20250322</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/SoutheastCon56624.2025.10971605</doi>
+</record>

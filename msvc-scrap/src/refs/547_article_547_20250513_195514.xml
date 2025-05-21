@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BQK</mid>
+  <language>eng</language>
+  <source>Annals of Operations Research</source>
+  <bookEdition></bookEdition>
+  <title>Carbon trading and COVID-19: a hybrid machine learning approach for international carbon price forecasting.</title>
+  <pageEnd>1295</pageEnd>
+  <pageStart>1267</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250215</publicationDate>
+  <pageCount>29</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Carbon pricing ; Carbon offsetting ; Machine learning ; Ensemble learning ; Deep learning</subjects>
+  <abstract>Accurate carbon price forecasting can better allocate carbon emissions and thus ensure a balance between economic development and potential climate impacts. In this paper, we propose a new two-stage framework based on processes of decomposition and re-estimation to forecast prices across international carbon markets. We focus on the Emissions Trading System (ETS) in the EU, as well as the five main pilot schemes in China, spanning the period from May 2014 to January 2022. In this way, the raw carbon prices are first separated into multiple sub-factors and then reconstructed into factors of 'trend' and 'period' with the use of Singular Spectrum Analysis (SSA). Once the subsequences have been thus decomposed, we further apply six machine learning and deep learning methods, allowing the data to be assembled and thus facilitating the prediction of the final carbon price values. We find that from amongst these machine learning models, the Support vector regression (SSA-SVR) and Least squares support vector regression (SSA-LSSVR) stand out in terms of performance for the prediction of carbon prices in both the European ETS and equivalent models in China. Another interesting finding to come out of our experiments is that the sophisticated algorithms are far from being the best performing models in the prediction of carbon prices. Even after accounting for the impacts of the COVID-19 pandemic and other macro-economic variables, as well as the prices of other energy sources, our framework still works effectively.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183286379</an>
+  <docTypes>Article</docTypes>
+  <volume>345</volume>
+  <issns>0254-5330</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b9813335-5e95-3852-91e5-89f36d1e1cba</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Zhang, Xingmin ; Li, Zhiyong ; Zhao, Yiming ; Wang, Lan</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1007/s10479-023-05327-0</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BF05</mid>
+  <language>eng</language>
+  <source>Brazilian Journal of Operations &amp;amp; Production Management</source>
+  <bookEdition></bookEdition>
+  <title>A Machine Learning Method to improve Supplier Delivery Appointments in Supply Chain Industries: A Case Study.</title>
+  <pageEnd>9</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Retail industry suppliers ; Prediction algorithms ; Supply chain management ; Customer satisfaction ; Machine learning</subjects>
+  <abstract>Goal: The paper aims at the customization of supplier schedules upon the priority of key articles. It aims at the prediction of an appointment to a supplier based on the key aspects. The objective of this study is to investigate whether the machine learning algorithms can be used to predict the delivery dates of the products based on the trained data. Design/Methodology/Approach: The prediction method uses a machine learning approach. Prediction algorithms namely, Logistic Regression (LR), K-Nearest Neighbour (KNN), and Random Forest (RF) are used for forecasting. The appointment is assigned to a supplier based on the delivery date of a previous supplier order. If a supplier requests a prior date, then the average sales and opening stock of the products is verified and the prior date of n-3 will be assigned ('n' represents the assigned days of delivery). Results: Clustering is used to visualize the group of products based on the days of delivery and quantity ordered. This helps in creating the floor space for the on-time delivery of fast-moving products and reducing the manual process for the reordering team. The present work can be used for the procurement of key articles for the fulfillment of customer demands. The combination of K-Means with prediction and classification is giving lesser expected delivery date using RF compared to LR and KNN method. Limitations: The limitation of the current work is that it is applicable for small scale industries in the developing countries. Also deployment of the application in agricultural sectors allow for greater transparency and accountability in the supply chain. Practical Implications: Further, the work will also provide recommendations for retail companies looking to implement machine learning algorithms in their supply chain management. Originality/Value: The case study developed a model for Retail industries to manage the supplier delivery appointments.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184379957</an>
+  <docTypes>Article</docTypes>
+  <volume>22</volume>
+  <issns>1679-8171</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=ade80469-7de9-3d4d-86c5-eaad730b5f40</plink>
+  <doids></doids>
+  <publisher>Brazilian Association of Production Engineering (ABEPRO)</publisher>
+  <contributors>Palakshappa, Anitha ; Maradithaya, Sumana ; V., Charunayana</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.14488/BJOPM.2040.2025</doi>
+</record>

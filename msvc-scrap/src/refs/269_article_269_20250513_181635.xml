@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>IEEE Transactions on Education</source>
+  <bookEdition></bookEdition>
+  <title>A Systematic Analysis of the Gap between Academia and Industry Perspectives on Machine Learning Applications in Safety-Critical Systems</title>
+  <pageEnd>896</pageEnd>
+  <pageStart>889</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Computer Security ; Engineering Education ; Engineering ; Undergraduate Students ; Graduate Students ; Professional Personnel ; Industry ; Foreign Countries ; Personnel Selection ; Career Readiness ; Knowledge Level ; Expectation ; Job Placement ; India</subjects>
+  <abstract>Machine learning (ML) is increasingly utilized in the development and assurance of safety-critical systems (SCSs) nowadays, much like other complex problems. Safety is the topmost priority in SCS, hence, developers who are working in this area must possess extensive knowledge of both ML and SCS. This article presents a methodical investigation that surveys engineering students and professionals in the industry to identify the disparities between the knowledge of students and the industry's expectations during interviews with undergraduate (UG) and postgraduate (PG) students. The research questions (RQs) were developed based on the student's proficiency in ML and SCSs, as well as the industry's expertise in these areas. These questions were then analyzed to determine the factors contributing to the knowledge gap. In this study, a rigorous survey was carried out using two sets of questionnaires. The first set was distributed among UG and PG students from various government-sponsored and top private institutions in India who were preparing for job interviews. The second set was distributed among industry experts involved in recruiting these students. The responses from both sets of questionnaires were thoroughly analyzed to assess the students' knowledge against the industry's expectations for superior post-placement performance. The study revealed a substantial gap between the students' knowledge and the industry's expectations, underscoring the critical need for students to acquire a comprehensive understanding of SCSs and ML applications to effectively meet the industry's requirements upon joining the organization.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1454875</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>67</volume>
+  <issns>0018-9359 ; 1557-9638</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f4cc540d-2c97-340f-9f7f-3cd155610c08</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Anwesa Das ; Vinay Kumar ; Aditya Narayan Hati ; Sharda Bharti</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1109/TE.2024.3403792</doi>
+</record>

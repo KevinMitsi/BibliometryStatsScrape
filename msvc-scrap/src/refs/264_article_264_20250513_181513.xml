@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-4237-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 International Conference on Automation and Computation (AUTOCOM), Automation and Computation (AUTOCOM), 2025 International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>A Data-Driven Retrospective Analysis of Cyberbullying Using Machine Learning Algorithms</title>
+  <pageEnd>1693</pageEnd>
+  <pageStart>1689</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250304</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineering Profession ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Support vector machines ; Logistic regression ; Machine learning algorithms ; Text analysis ; Hate speech ; Cyberbullying ; Machine learning ; Mental health ; Safety ; Monitoring ; hate speech ; online harassment ; detection ; classification ; machine learning</subjects>
+  <abstract>Cyberbullying has become one of the main concerns in today's digital world, posing a great risk to everyone being online and effecting their mental health and their online safety. This research explores the application of machine learning using the Machine Learning algorithm to detect and reduce the cyberbullying behaviours. Here we utilize the data from the dataset of cyberbullying done by people online, preprocessing the data to clean and structure it for analysis. Here we use various Machine learning models like Naive Bayes, Logistic Regression and SVM, which are then tested on dataset for accuracy, precision, recall, and overall effectiveness in detecting the harmful words and pattern. Our result highlight that which of the model that we used performed best contributing to detection of Cyberbullying online. Additionally, the research underscores the importance of integrating NPL(Natural Language Processing) for delicate text analysis and sentiment detection. The insights from this research aim to support the development of Machine learning models for monitoring and addressing online harassment, making a safer digital environment.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10956404</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a4bc5a8d-d2c4-3190-b36d-6e85f2dd63bd</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Tripathi, Ashirwad R. ; Tyagi, Palki ; Sivaraman, Himani ; Kumar, Anuj ; Jain, Sachin</contributors>
+  <coverDate>20250304</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/AUTOCOM64127.2025.10956404</doi>
+</record>

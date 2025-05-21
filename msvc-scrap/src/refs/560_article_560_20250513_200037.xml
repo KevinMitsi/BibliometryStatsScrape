@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-2090-8</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 22nd International Conference on Software Architecture (ICSA), Software Architecture (ICSA), 2025 IEEE 22nd International Conference on, ICSA</source>
+  <bookEdition></bookEdition>
+  <title>An Architecture-Based Approach to Mitigate Confidentiality Violations Using Machine Learning</title>
+  <pageEnd>118</pageEnd>
+  <pageStart>107</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250331</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Computing and Processing ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Logistic regression ; Uncertainty ; Runtime ; Costs ; Software architecture ; Prevention and mitigation ; Machine learning ; Maintenance engineering ; Software systems ; Testing ; software architecture ; confidentiality ; uncertainty ; machine learning ; data flow analysis</subjects>
+  <abstract>Today’s software systems have become increasingly connected and complex, requiring comprehensive analysis to ensure quality properties like confidentiality. Architecture-based confidentiality analysis enables the early identification of confidentiality violations to counter data breaches effectively. However, uncertainty within the software system and its environment hinders the precise and comprehensive analysis of software architectures. Furthermore, the complexity of both architectural models and uncertainties and their outcomes impede automated model repair due to combinatorial explosion. Ultimately, software architects must manually address all confidentiality violations, which is both bothersome and error-prone. Although existing approaches can identify confidentiality violations due to uncertainty, they fall short of mitigating their effects. In this paper, we address this by utilizing machine learning in the confidentiality analysis both to evaluate the criticality of identified violations and to automatically repair them. This bridges the gap between analysis and mitigation, thereby effectively supporting software architects. Evaluation results show that logistic regression provides the best ranking of the importance of uncertainty sources. Combined with incremental testing, our approach outperforms the state of the art and achieves up to a 60-fold reduction in runtime.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10978930</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>28357043</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6ea2cf96-4a3a-3f44-92a4-4e577f2a2da6</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Niehues, Nils ; Hahner, Sebastian ; Heinrich, Robert</contributors>
+  <coverDate>20250331</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/ICSA65012.2025.00020</doi>
+</record>

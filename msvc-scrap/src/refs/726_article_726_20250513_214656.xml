@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B74E</mid>
+  <language>eng</language>
+  <source>Future Internet</source>
+  <bookEdition></bookEdition>
+  <title>Cybersecurity Intelligence Through Textual Data Analysis: A Framework Using Machine Learning and Terrorism Datasets.</title>
+  <pageEnd></pageEnd>
+  <pageStart>182</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; HOSTAGE taking ; TERRORISM ; CYBER intelligence (Computer security) ; SUICIDE bombings</subjects>
+  <abstract>This study examines multi-lexical data sources, utilizing an extracted dataset from an open-source corpus and the Global Terrorism Datasets (GTDs), to predict lexical patterns that are directly linked to terrorism. This is essential as specific patterns within a textual context can facilitate the identification of terrorism-related content. The research methodology focuses on generating a corpus from various published works and extracting texts pertinent to "terrorism". Afterwards, we extract additional lexical contexts of GTDs that directly relate to terrorism. The integration of multi-lexical data sources generates lexical patterns linked to terrorism. Machine learning models were used to train the dataset. We conducted two primary experiments and analyzed the results. The analysis of data obtained from open sources reveals that while the Extra Trees model achieved the highest accuracy at 94.31%, the XGBoost model demonstrated superior overall performance with a higher recall (81.32%) and F1-Score (83.06%) after tuning, indicating a better balance between sensitivity and precision. Similarly, on the GTD dataset, XGBoost consistently outperformed other models in recall and the F1-score, making it a more suitable candidate for tasks where minimizing false negatives is critical. This implies that we can establish a specific co-occurrence and context within the terrorism dataset from multiple lexical data sources in effectively identifying certain multi-lexical patterns such as "Suicide Attack/Casualty", "Civilians/Victims", and "Hostage Taking/Abduction" across various applications or contexts. This will facilitate the development of a framework for understanding the lexical patterns associated with terrorism.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184749683</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>1999-5903</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=60561fa7-93df-3028-a10e-ccb662ffc334</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Atoum, Mohammed Salem ; Alarood, Ala Abdulsalam ; Alsolami, Eesa ; Abubakar, Adamu ; Hwaitat, Ahmad K. Al ; Alsmadi, Izzat</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/fi17040182</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781788629355 ; 9781788621427</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning for Mobile : Practical Guide to Building Intelligent Mobile Applications Powered by Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20180101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Programming / Mobile Devices ; Mobile computing ; Machine learning ; Application software--Development ; Mobile apps</subjects>
+  <abstract>Leverage the power of machine learning on mobiles and build intelligent mobile applications with easeKey FeaturesBuild smart mobile applications for Android and iOS devicesUse popular machine learning toolkits such as Core ML and TensorFlow LiteExplore cloud services for machine learning that can be used in mobile appsBook DescriptionMachine learning presents an entirely unique opportunity in software development. It allows smartphones to produce an enormous amount of useful data that can be mined, analyzed, and used to make predictions. This book will help you master machine learning for mobile devices with easy-to-follow, practical examples. You will begin with an introduction to machine learning on mobiles and grasp the fundamentals so you become well-acquainted with the subject. You will master supervised and unsupervised learning algorithms, and then learn how to build a machine learning model using mobile-based libraries such as Core ML, TensorFlow Lite, ML Kit, and Fritz on Android and iOS platforms. In doing so, you will also tackle some common and not-so-common machine learning problems with regard to Computer Vision and other real-world domains. By the end of this book, you will have explored machine learning in depth and implemented on-device machine learning with ease, thereby gaining a thorough understanding of how to run, create, and build real-time machine-learning applications on your mobile devices.What you will learnBuild intelligent machine learning models that run on Android and iOSUse machine learning toolkits such as Core ML, TensorFlow Lite, and moreLearn how to use Google Mobile Vision in your mobile appsBuild a spam message detection system using Linear SVMUsing Core ML to implement a regression model for iOS devicesBuild image classification systems using TensorFlow Lite and Core MLWho this book is forIf you are a mobile app developer or a machine learning enthusiast keen to use machine learning to build smart mobile applications, this book is for you. Some experience with mobile application development is all you need to get started with this book. Prior experience with machine learning will be an added bonus</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1993349</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7b0101da-ec41-3e82-9949-1f1521df5535</plink>
+  <doids>NL$1993349$PDF ; NL$1993349$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Revathi Gopalakrishnan ; Avinash Venkateswarlu</contributors>
+  <coverDate>2018</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

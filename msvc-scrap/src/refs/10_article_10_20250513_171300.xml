@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>UTE</mid>
+  <language>eng</language>
+  <source>ACM Computing Surveys</source>
+  <bookEdition></bookEdition>
+  <title>Towards Trustworthy Machine Learning in Production: An Overview of the Robustness in MLOps Approach.</title>
+  <pageEnd>35</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount>35</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Data mining ; Electronic data processing ; Data Processing, Hosting, and Related Services ; Machine learning ; Pattern recognition systems ; Deep learning ; Iterative learning control</subjects>
+  <abstract></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182504345</an>
+  <docTypes>Article</docTypes>
+  <volume>57</volume>
+  <issns>0360-0300</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b3bafa9f-dc27-3db2-bab9-a77e7ffb41e3</plink>
+  <doids></doids>
+  <publisher>Association for Computing Machinery</publisher>
+  <contributors>Bayram, Firas ; Ahmed, Bestoun S.</contributors>
+  <coverDate>May2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1145/3708497</doi>
+</record>

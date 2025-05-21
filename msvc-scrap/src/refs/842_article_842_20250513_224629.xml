@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>International Journal of Machine Learning and Cybernetics</source>
+  <bookEdition></bookEdition>
+  <title>FFS-IML: fusion-based statistical feature selection for machine learning-driven interpretability of chronic kidney disease</title>
+  <pageEnd>34</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250421</publicationDate>
+  <pageCount>34</pageCount>
+  <publisherLocations>Berlin/Heidelberg</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Chronic kidney disease (CKD) ; Explainability ; Machine learning ; Feature selection ; Fusion-based ; MICE ; BorderlineSMOTE ; Prediction ; SHAP values</subjects>
+  <abstract>Chronic kidney disease (CKD) is a prevalent and serious global health issue, with a significant impact on individuals globally. Hence, it is imperative to promptly obtain an accurate diagnosis and interpretation for the commencement of appropriate treatment as timely detection and intervention can enhance the probability of long-term survival. Existing projection-based methods for feature selection do not yield desired outcomes due to their different objectives necessitating the need for innovation approaches for a higher predictive performance. This study proposes a novel fusion-based feature selection (FFS) model for the optimization and selection of distinct features to enhance CKD diagnosis. This study utilizes the University of California, Irvine (UCI) CKD dataset and addresses missing data and imbalance issues through Multiple Imputations by Chain Equation (MICE) and Borderline Synthetic Minority Oversampling Technique (Borderline-SMOTE). The proposed model integrates different machine learning (ML) classifiers, conventionally known as black boxes, with SHAP values to provide interpretability and gain transparency in the decision-making process. The proposed FFS model performs better than single feature selection approaches, achieving 100% in all of the evaluation metrics for support vector machine, light gradient boosting, random forest, voting and extreme gradient boosting classifiers compared to other existing literature that also utilized the same dataset. Notably, the SHAP analysis reveals that features such as red blood cell, white blood cell count and the pus cell clumps show model specific interactions. This aids healthcare in understanding and effectively applying the model’s outputs. Empirical evidence demonstrates that our proposed approach exhibits superior performance which has the potential to complement physicians’ diagnosis of kidney diseases. Also, the incorporation of explainability enhances the clarity of outcomes and facilitates the identification of the underlying cause of the diseases, contributing to more transparency and ethically sound AI applications in healthcare.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.2C117877</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>18688071 ; 1868808X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3356e07c-6258-304d-a45c-b4dadf1d0825</plink>
+  <doids></doids>
+  <publisher>Springer Berlin Heidelberg</publisher>
+  <contributors>Nneji, Grace Ugochi ; Monday, Happy Nkanta ; Pathapati, Venkat Subramanyam Reddy ; Nahar, Saifun ; Mgbejime, Goodness Temofe ; Umana, Edwin Sunday ; Hossin, Md Altab</contributors>
+  <coverDate>20250421</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s13042-025-02621-0</doi>
+</record>

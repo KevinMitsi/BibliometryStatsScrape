@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CHU</mid>
+  <language>eng</language>
+  <source>BMC Infectious Diseases</source>
+  <bookEdition></bookEdition>
+  <title>Interpretable machine learning model for predicting delirium in patients with sepsis: a study based on the MIMIC data.</title>
+  <pageEnd>13</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250423</publicationDate>
+  <pageCount>13</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; RECEIVER operating characteristic curves ; SUPPORT vector machines ; RANDOM forest algorithms ; DATABASES</subjects>
+  <abstract>Objective: The aim of this study was to construct interpretable machine learning models to predict the risk of developing delirium in patients with sepsis and to explore the impact of delirium on the 28-day survival rate of patients. Methods: We enrolled 10,321 patients with sepsis older than eighteen years from the MIMIC-IV (Medical Information Mart for Intensive Care) database. Sepsis is defined as the presence or suspected presence of infection, along with a SOFA (Sequential Organ Failure Assessment) score of ≥ 2. Four machine learning models, namely XGBoost (extreme gradient Boost), SVM (support vector machine), Logistic (logistic regression) and RF (random forest), were established for prediction, and the prediction model was constructed. Results: A total of 10,321 sepsis patients were included, among whom 4,691 (45.45%) developed delirium. The 28-day mortality rate was markedly elevated in the delirium group (log-rank P &amp;lt; 0.001). The XGBoost model has the best performance. Finally, 5 variables were selected to draw a nomogram: hypertension, SOFA score, chlorine, Hb (hemoglobin), creatinine. The receiver operating characteristic (ROC) curve of the predictive delirium model showed better predictive efficiency, with an AUC of 0.767 (95%CI (confidence interval): 0.726–0.798). Conclusion: The nomogram built on the XGBoost model provides clinicians with an easy tool to quickly assess the risk of developing delirium in patients with sepsis. It provides a new idea and direction for the best model to predict delirium in patients with sepsis, so as to promote the development of delirium related research.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184705326</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1471-2334</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b1cfab1f-b530-31b3-a54d-63da8e2d1748</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Fu, Jing ; He, Aifeng ; Wang, Lulu ; Li, Xia ; Yu, Jiangquan ; Zheng, Ruiqiang</contributors>
+  <coverDate>4/23/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12879-025-10982-8</doi>
+</record>

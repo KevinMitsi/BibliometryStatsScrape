@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Counterfactual Fairness Evaluation of Machine Learning Models on Educational Datasets</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250415</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Computers and Society ; Computer Science - Machine Learning</subjects>
+  <abstract>As machine learning models are increasingly used in educational settings, from detecting at-risk students to predicting student performance, algorithmic bias and its potential impacts on students raise critical concerns about algorithmic fairness. Although group fairness is widely explored in education, works on individual fairness in a causal context are understudied, especially on counterfactual fairness. This paper explores the notion of counterfactual fairness for educational data by conducting counterfactual fairness analysis of machine learning models on benchmark educational datasets. We demonstrate that counterfactual fairness provides meaningful insight into the causality of sensitive attributes and causal-based individual fairness in education.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.11504</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1a3a44cc-7a5a-376e-a12b-1acb26719962</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Kim, Woojin ; Kim, Hyeoncheol</contributors>
+  <coverDate>20250415</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

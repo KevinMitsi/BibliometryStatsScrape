@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Medicine in Novel Technology and Devices</source>
+  <bookEdition></bookEdition>
+  <title>Myoelectric signal and machine learning computing in gait pattern recognition for flat fall prediction</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Myoelectrical signal (EMG) ; Machine learning ; Deep learning ; Gait ; Pattern recognition</subjects>
+  <abstract>Abnormal gaits including pelvic obliquity gait and knee hyperextension gait are common clinical symptoms related to flat-ground fall among elder adults. This study aimed to determine the feasibility of using lower limb myoelectrical signals (electromyographic signals, EMG) for gait pattern recognition and to identify the optimal machine learning (ML) algorithms for EMG signal processing. Seven healthy subjects were recruited with their EMG signals collected from eight muscles of the lower limbs during walking with normal and abnormal gaits. Four basic ML algorithms including support vector machine (SVM), K-nearest neighbor (kNN), decision tree (DT), and naive Bayes (NB), and five deep learning models including convolutional neural network (CNN), long-short term memory (LSTM), bidirectional long short-term memory (BiLSTM), and CNN-BiLSTM were used to process the EMG signals recorded under different gaits. Statistical analysis was performed to compare the accuracy of individual ML algorithms in discriminating gait patterns. The overall accuracy was 95.78 % for SVM, 95.09 % for CNN-LSTM, and 96.28 % for CNN-BiLSTM, respectively. The overall accuracy was 90.25 % for DT, 92.62 ​% for kNN, 91.27 ​% for NB, and 90.34 ​% for CNN, respectively. The accuracy was 67.39 % for LSTM and 74.75 % for BiLSTM, respectively. Most ML algorithms in this study had an accuracy greater than 90 ​% in EMG-based abnormal gait pattern recognition except for LSTM and BiLSTM. This study provides novel technology for evaluation of gait pattern recognition related to flat ground fall.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2590093524000572</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>2590-0935</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3f1e1862-b441-3038-afac-d39f874638a7</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Zhang, Shuo ; Chen, Biao ; Chen, Chaoyang ; Hovorka, Maximillian ; Qi, Jin ; Hu, Jie ; Yin, Gui ; Acosta, Marie ; Bautista, Ruby ; Darwiche, Hussein F. ; Little, Bryan E. ; Palacio, Carlos ; Hovorka, John</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.medntd.2024.100341</doi>
+</record>

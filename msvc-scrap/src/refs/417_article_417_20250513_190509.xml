@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of Research in Science Teaching</source>
+  <bookEdition></bookEdition>
+  <title>Exploring New Depths: Applying Machine Learning for the Analysis of Student Argumentation in Chemistry</title>
+  <pageEnd>1792</pageEnd>
+  <pageStart>1757</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241001</publicationDate>
+  <pageCount>36</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>8</issue>
+  <identifiers></identifiers>
+  <subjects>Science Education ; Chemistry ; Persuasive Discourse ; Writing Evaluation ; Artificial Intelligence ; Natural Language Processing ; Logical Thinking ; Language Patterns ; Pattern Recognition</subjects>
+  <abstract>Constructing arguments is essential in science subjects like chemistry. For example, students in organic chemistry should learn to argue about the plausibility of competing chemical reactions by including various sources of evidence and justifying the derived information with reasoning. While doing so, students face significant challenges in coherently structuring their arguments and integrating chemical concepts. For this reason, a reliable assessment of students' argumentation is critical. However, as arguments are usually presented in open-ended tasks, scoring assessments manually is resource-consuming and conceptually difficult. To augment human diagnostic capabilities, artificial intelligence techniques such as machine learning or natural language processing offer novel possibilities for an in-depth analysis of students' argumentation. In this study, we extensively evaluated students' written arguments about the plausibility of competing chemical reactions based on a methodological approach called "computational grounded theory." By using an unsupervised clustering technique, we sought to evaluate students' argumentation patterns in detail, providing new insights into the "modes of reasoning" and "levels of granularity" applied in students' written accounts. Based on this analysis, we developed a holistic 20-category rubric by combining the data-driven clusters with a theory-driven framework to automate the analysis of the identified argumentation patterns. Pre-trained large language models in conjunction with deep neural networks provided "almost perfect" machine-human score agreement and well-interpretable results, which underpins the potential of the applied state-of-the-art deep learning techniques in analyzing students' argument complexity. The findings demonstrate an approach to combining human and computer-based analysis in uncovering written argumentation.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1449557</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>61</volume>
+  <issns>0022-4308 ; 1098-2736</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=cb45e51b-9b5e-36da-bf75-32df823f2e4f</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Paul P. Martin ; David Kranz ; Peter Wulff ; Nicole Graulich</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1002/tea.21903</doi>
+</record>

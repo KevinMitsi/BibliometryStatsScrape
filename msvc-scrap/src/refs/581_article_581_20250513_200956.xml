@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-1-04-016503-4 ; 978-1-00-353045-9 ; 978-1-03-285550-9 ; 978-1-04-016506-5 ; 1-04-016503-6 ; 1-00-353045-1 ; 1-03-285550-9 ; 1-04-016506-0</isbns>
+  <shortDBName>edsoap</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Energy Efficiency and Robustness of Advanced Machine Learning Architectures</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250310</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>AI ; Cybersecurity ; Deep Learning ; Edge Computing ; Neural Networks ; Processing Element ; Robotics ; Neural networks and fuzzy systems ; Information technology: general topics ; Software Engineering ; Technical design ; Energy ; Electrical engineering</subjects>
+  <abstract>Machine Learning (ML) algorithms have shown a high level of accuracy, and applications are widely used in many systems and platforms. However, developing efficient ML-based systems requires addressing three problems: energy-efficiency, robustness, and techniques that typically focus on optimizing for a single objective/have a limited set of goals. This book tackles these challenges by exploiting the unique features of advanced ML models and investigates cross-layer concepts and techniques to engage both hardware and software-level methods to build robust and energy-efficient architectures for these advanced ML networks. More specifically, this book improves the energy efficiency of complex models like CapsNets, through a specialized flow of hardware-level designs and software-level optimizations exploiting the application-driven knowledge of these systems and the error tolerance through approximations and quantization. This book also improves the robustness of ML models, in particular for SNNs executed on neuromorphic hardware, due to their inherent cost-effective features. This book integrates multiple optimization objectives into specialized frameworks for jointly optimizing the robustness and energy efficiency of these systems. This is an important resource for students and researchers of computer and electrical engineering who are interested in developing energy efficient and robust ML.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edsoap.20.500.12657.99315</an>
+  <docTypes>book</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9483c4e2-b296-3e7e-9dd3-659726b450a8</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis</publisher>
+  <contributors>Marchisio, Alberto ; Shafique, Muhammad</contributors>
+  <coverDate>20250310</coverDate>
+  <longDBName>OAPEN Library</longDBName>
+  <doi>10.1201/9781003530459</doi>
+</record>

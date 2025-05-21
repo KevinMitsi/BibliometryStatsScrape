@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>A labeled medical records corpus for the timely detection of rare diseases using machine learning approaches.</title>
+  <pageEnd>10</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250226</publicationDate>
+  <pageCount>10</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>ARTIFICIAL intelligence ; MACHINE learning ; SUPPORT vector machines ; TRANSFORMER models ; RARE diseases ; DEEP learning</subjects>
+  <abstract>Rare diseases (RDs) are a group of pathologies that individually affect less than 1 in 2000 people but collectively impact around 7% of the world's population. Most of them affect children, are chronic and progressive, and have no specific treatment. RD patients face diagnostic challenges, with an average diagnosis time of 5 years, multiple specialist visits, and invasive procedures. This 'diagnostic odyssey' can be detrimental to their health. Machine learning (ML) has the potential to improve healthcare by providing more personalized and accurate patient management, diagnoses, and in some cases, treatments. Leveraging the MIMIC-III database and additional medical notes from different sources such as in-house data, PubMed and chatGPT, we propose a labeled dataset for early RD detection in hospital settings. Applying various supervised ML methods, including logistic regression, decision trees, support vector machine (SVM), deep learning methods (LSTM and CNN), and Transformers (BERT), we validated the use of the proposed resource, achieving 92.7% F-measure and a 96% AUC using SVM. These findings highlight the potential of ML in redirecting RD patients towards more accurate diagnostic pathways and presents a corpus that can be used for future development and refinements.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183285878</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0658da8c-8195-3e60-bb7a-f138fd73e6a6</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Rolando, Matias ; Raggio, Victor ; Naya, Hugo ; Spangenberg, Lucia ; Cagnina, Leticia</contributors>
+  <coverDate>2/26/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-90450-0</doi>
+</record>

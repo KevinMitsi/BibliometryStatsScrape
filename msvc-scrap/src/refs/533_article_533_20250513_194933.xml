@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Array</source>
+  <bookEdition></bookEdition>
+  <title>Effective depression detection and interpretation: Integrating machine learning, deep learning, language models, and explainable AI</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Deep learning ; Language model ; Explainable AI</subjects>
+  <abstract>Depression is an increasingly prevalent issue, particularly among young people, significantly impacting their well-being and causing persistent distress. Early detection is crucial to address this growing concern. This study utilizes various machine learning, deep learning, and language models to detect depression among Bangladeshi university students. To address data imbalance in the employed dataset, resampling techniques such as SMOTE and Cluster Centroids are applied. Additionally, exhaustive hyperparameter optimization is performed to enhance classification performance. Our results indicate that machine learning algorithms, particularly Random Forest, effectively predict depression with an accuracy of 91.1% and an F1-score of 91.6%. Language models like RoBERTa also achieve strong results, with a recall score of 98.6%. Moreover, explainable AI (XAI) methods, including SHAP and LIME, are employed to interpret model predictions, underscoring the importance of transparency in machine learning. This work contributes to the early identification of depression by integrating machine learning, deep learning, natural language processing, and XAI techniques. While this study focuses on Bangladeshi or similar demographic groups, the proposed approaches are adaptable and can be applied to other populations for generalization.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2590005625000025</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>2590-0056</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=11d2feb1-c70b-37ec-8be4-a5a673ae77f9</plink>
+  <doids></doids>
+  <publisher>Elsevier Inc.</publisher>
+  <contributors>Masud, Gazi Hasan Al ; Shanto, Rejaul Islam ; Sakin, Ishmam ; Kabir, Muhammad Rafsan</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.array.2025.100375</doi>
+</record>

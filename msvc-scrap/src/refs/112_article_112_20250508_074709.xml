@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781803241807 ; 9781803231655</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning on Kubernetes : A Practical Handbook for Building and Using a Complete Open Source Machine Learning Platform on Kubernetes</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20220101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Computer Engineering ; COMPUTERS / Computer Science ; COMPUTERS / Data Science / General ; Machine learning ; Open source software</subjects>
+  <abstract>Build a Kubernetes-based self-serving, agile data science and machine learning ecosystem for your organization using reliable and secure open source technologiesKey FeaturesBuild a complete machine learning platform on KubernetesImprove the agility and velocity of your team by adopting the self-service capabilities of the platformReduce time-to-market by automating data pipelines and model training and deploymentBook DescriptionMLOps is an emerging field that aims to bring repeatability, automation, and standardization of the software engineering domain to data science and machine learning engineering. By implementing MLOps with Kubernetes, data scientists, IT professionals, and data engineers can collaborate and build machine learning solutions that deliver business value for their organization. You'll begin by understanding the different components of a machine learning project. Then, you'll design and build a practical end-to-end machine learning project using open source software. As you progress, you'll understand the basics of MLOps and the value it can bring to machine learning projects. You will also gain experience in building, configuring, and using an open source, containerized machine learning platform. In later chapters, you will prepare data, build and deploy machine learning models, and automate workflow tasks using the same platform. Finally, the exercises in this book will help you get hands-on experience in Kubernetes and open source tools, such as JupyterHub, MLflow, and Airflow. By the end of this book, you'll have learned how to effectively build, train, and deploy a machine learning model using the machine learning platform you built.What you will learnUnderstand the different stages of a machine learning projectUse open source software to build a machine learning platform on KubernetesImplement a complete ML project using the machine learning platform presented in this bookImprove on your organization s collaborative journey toward machine learningDiscover how to use the platform as a data engineer, ML engineer, or data scientistFind out how to apply machine learning to solve real business problemsWho this book is forThis book is for data scientists, data engineers, IT platform owners, AI product owners, and data architects who want to build their own platform for ML development. Although this book starts with the basics, a solid understanding of Python and Kubernetes, along with knowledge of the basic concepts of data science and data engineering will help you grasp the topics covered in this book in a better way.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>3291290</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2d974747-1f5e-3aab-9f4c-317d7f98a224</plink>
+  <doids>NL$3291290$PDF ; NL$3291290$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Faisal Masood ; Ross Brigoli</contributors>
+  <coverDate>2022</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

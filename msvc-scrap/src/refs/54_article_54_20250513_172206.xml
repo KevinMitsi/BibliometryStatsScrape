@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>86WH</mid>
+  <language>eng</language>
+  <source>BioData Mining</source>
+  <bookEdition></bookEdition>
+  <title>MiCML: a causal machine learning cloud platform for the analysis of treatment effects using microbiome profiles.</title>
+  <pageEnd>18</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250130</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>ARTIFICIAL intelligence ; MACHINE learning ; HUMAN microbiota ; INDIVIDUALIZED medicine ; RANDOMIZED controlled trials ; INTERNET servers ; Data Processing, Hosting, and Related Services</subjects>
+  <abstract>Background: The treatment effects are heterogenous across patients due to the differences in their microbiomes, which in turn implies that we can enhance the treatment effect by manipulating the patient's microbiome profile. Then, the coadministration of microbiome-based dietary supplements/therapeutics along with the primary treatment has been the subject of intensive investigation. However, for this, we first need to comprehend which microbes help (or prevent) the treatment to cure the patient's disease. Results: In this paper, we introduce a cloud platform, named microbiome causal machine learning (MiCML), for the analysis of treatment effects using microbiome profiles on user-friendly web environments. MiCML is in particular unique with the up-to-date features of (i) batch effect correction to mitigate systematic variation in collective large-scale microbiome data due to the differences in their underlying batches, and (ii) causal machine learning to estimate treatment effects with consistency and then discern microbial taxa that enhance (or lower) the efficacy of the primary treatment. We also stress that MiCML can handle the data from either randomized controlled trials or observational studies. Conclusion: We describe MiCML as a useful analytic tool for microbiome-based personalized medicine. MiCML is freely available on our web server (http://micml.micloud.kr). MiCML can also be implemented locally on the user's computer through our GitHub repository (https://github.com/hk1785/micml).</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182565298</an>
+  <docTypes>Article</docTypes>
+  <volume>18</volume>
+  <issns>1756-0381</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a0b6feb8-e621-3201-b4c7-075d3610c481</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Koh, Hyunwook ; Kim, Jihun ; Jang, Hyojung</contributors>
+  <coverDate>1/30/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s13040-025-00422-3</doi>
+</record>

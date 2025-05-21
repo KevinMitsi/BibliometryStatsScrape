@@ -1,0 +1,35 @@
+<record>
+  <isbns>9783736972001 ; 9783736962002</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Göttinger Wirtschaftsinformatik</source>
+  <bookEdition></bookEdition>
+  <title>Towards a Theory for Designing Machine Learning Systems for Complex Decision Making Problems</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20200101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Göttingen</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Machine Theory ; COMPUTERS / Artificial Intelligence / Expert Systems ; Machine learning</subjects>
+  <abstract>The ubiquitousness of data and the emergence of data-driven machine learning approaches provide new means of creating insights. However, coping with the great volume, velocity, and variety of data requires improved data analysis methods. This dissertation contributes a nascent design theory, named the Division-of-Labor framework, for developing complex machine learning systems that can not only address the challenges of big data but also leverage their characteristics to perform more sophisticated analyses. I evaluate the proposed design principles in three practical settings, in which I apply the principles to design machine learning systems that (i) support treatment decision making for cancer patients, (ii) provide consumers with recommendations on two-sided platforms, and (iii) address a trade-off between efficiency and comfort in the context of autonomous vehicles. The evaluations partially validate the proposed theory, but also show that some principles require further attention in order to be practicable.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2457002</an>
+  <docTypes>eBook</docTypes>
+  <volume>00101</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b33dcc71-2b5f-3004-8d97-d09446611d6b</plink>
+  <doids>NL$2457002$PDF</doids>
+  <publisher>Cuvillier Verlag</publisher>
+  <contributors>Tofangchi, Schahin</contributors>
+  <coverDate>2020</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

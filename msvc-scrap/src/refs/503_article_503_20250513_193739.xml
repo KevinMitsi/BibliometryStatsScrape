@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Engineering with Computers</source>
+  <bookEdition></bookEdition>
+  <title>Efficient inverse design optimization through multi-fidelity simulations, machine learning, and boundary refinement strategies</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Information and Computing Sciences ; Artificial Intelligence ; Machine Learning and Artificial Intelligence ; Bioengineering ; Networking and Information Technology R&amp;amp;D (NITRD) ; Multi-fidelity optimization ; Machine learning ; Inverse design ; Particle swarm optimization ; Differential evolution ; Applied Mathematics ; Artificial Intelligence and Image Processing ; Computation Theory and Mathematics ; Design Practice &amp;amp; Management ; Engineering ; Information and computing sciences</subjects>
+  <abstract>This paper introduces a methodology designed to augment the inverse design optimization process in scenarios constrained by limited compute, through the strategic synergy of multi-fidelity evaluations, machine learning models, and optimization algorithms. The proposed methodology is analyzed on two distinct engineering inverse design problems: airfoil inverse design and the scalar field reconstruction problem. It leverages a machine learning model trained with low-fidelity simulation data, in each optimization cycle, thereby proficiently predicting a target variable and discerning whether a high-fidelity simulation is necessitated, which notably conserves computational resources. Additionally, the machine learning model is strategically deployed prior to optimization to compress the design space boundaries, thereby further accelerating convergence toward the optimal solution. The methodology has been employed to enhance two optimization algorithms, namely Differential Evolution and Particle Swarm Optimization. Comparative analyses illustrate performance improvements across both algorithms. Notably, this method is adaptable across any inverse design application, facilitating a synergy between a representative low-fidelity ML model, and high-fidelity simulation, and can be seamlessly applied across any variety of population-based optimization algorithms.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt6k289101</an>
+  <docTypes>article</docTypes>
+  <volume>40</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9543feee-8ea3-30ce-86f5-4cca554ee143</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Grbcic, Luka ; Müller, Juliane ; de Jong, Wibe Albert</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

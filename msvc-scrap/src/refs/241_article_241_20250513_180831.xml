@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Analytical Chemistry</source>
+  <bookEdition></bookEdition>
+  <title>Cancer Cell Line Classification Using Raman Spectroscopy of Cancer-Derived Exosomes and Machine Learning.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>13</issue>
+  <identifiers></identifiers>
+  <subjects>Humans ; Spectrum Analysis ; Raman ; Exosomes ; Machine Learning ; Cell Line ; Tumor ; Principal Component Analysis ; Discriminant Analysis ; Neoplasms ; Lipids</subjects>
+  <abstract>Liquid biopsies are an emerging, noninvasive tool for cancer diagnostics, utilizing biological fluids for molecular profiling. Nevertheless, the current methods often lack the sensitivity and specificity necessary for early detection and real-time monitoring. This work explores an advanced approach to improving liquid biopsy techniques through machine learning analysis of the Raman spectra measured to classify distinct exosome solutions by their cancer origin. This was accomplished by conducting principal component analysis (PCA) of the Raman spectra of exosomes from three cancer cell lines (COLO205, A375, and LNCaP) to extract chemically significant features. This reduced set of features was then utilized to train a linear discriminant analysis (LDA) classifier to predict the source of the exosomes. Furthermore, we investigated differences in the lipid composition in these exosomes by their spectra. This spectral similarity analysis revealed differences in lipid profiles between the different cancer cell lines as well as identified the predominant lipids across all exosomes. Our PCA-LDA framework achieved 93.3% overall accuracy and F1 scores of 98.2%, 91.1%, and 91.0% for COLO205, A375, and LNCaP, respectively. Our results from spectral similarity analysis were also shown to support previous findings of lipid dynamics due to cancer pathology and pertaining to exosome function and structure. These findings underscore the benefits of enhancing Raman spectroscopy analysis with machine learning, laying the groundwork for the development of early noninvasive cancer diagnostics and personalized treatment strategies. This work potentially establishes the foundation for refining the classification model and optimizing exosome extraction and detection from clinical samples for clinical translation.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt46g9v6jj</an>
+  <docTypes>article</docTypes>
+  <volume>97</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3fdd7cc6-65c5-305c-bc9f-2183764c3b91</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Villazon, Jorge ; Dela Cruz, Nathaniel ; Shi, Lingyan</contributors>
+  <coverDate>20250408</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

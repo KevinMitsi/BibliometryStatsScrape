@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Education and Information Technologies: The Official Journal of the IFIP Technical Committee on Education</source>
+  <bookEdition></bookEdition>
+  <title>Unlocking the power of machine learning in E-learning: A comprehensive review of predictive models for student performance and engagement</title>
+  <pageEnd>24</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250405</publicationDate>
+  <pageCount>24</pageCount>
+  <publisherLocations>New York</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning (ML) ; Educational Data ; Educational Data mining (EDM) ; Online Learning Platforms ; Predictive Models ; Educational Technologies</subjects>
+  <abstract>The proliferation of digital learning platforms has revolutionized the generation, accessibility, and dissemination of educational resources, fostered collaborative learning environments and producing vast amounts of interaction data. Machine learning (ML) algorithms have emerged as powerful tools for analyzing these complex datasets, uncovering patterns and trends that offer deeper insights into student performance and engagement. This systematic review examines the application of ML models in e-learning, synthesizing current research findings, methodologies, and challenges. Key contributions include the categorization of ML models based on their applications, an analysis of their predictive accuracy in forecasting student performance and engagement, and the identification of critical data types and sources that enhance model effectiveness. The study highlights ML's transformative potential in personalizing educational experiences, enabling targeted interventions, and improving learning outcomes. Furthermore, it explores the role of ML in facilitating data mining activities, predictive algorithms, and outcome-driven educational strategies within diverse online learning environments. By addressing gaps in the literature, this review not only underscores the practical implications of ML in e-learning but also identifies future research directions aimed at advancing the integration of ML technologies in educational systems. These insights provide a foundation for educators, researchers, and technologists to harness ML for enhancing teaching and learning processes.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.8D8E7D49</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>13602357 ; 15737608</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c1a5fea7-a94c-3758-bfdb-527380291783</plink>
+  <doids></doids>
+  <publisher>Springer US</publisher>
+  <contributors>Salem, Maha ; Shaalan, Khaled</contributors>
+  <coverDate>20250405</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10639-025-13526-4</doi>
+</record>

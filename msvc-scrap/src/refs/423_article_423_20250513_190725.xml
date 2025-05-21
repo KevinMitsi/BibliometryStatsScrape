@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Employee Attrition Prediction: a Machine Learning Approach</title>
+  <pageEnd>147</pageEnd>
+  <pageStart>140</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Training ; Deep learning ; Accuracy ; Engineering profession ; Employment ; Transforms ; Receivers ; Predictive models ; Remuneration ; Stock markets ; Employee attrition ; EDA ; Machine learning ; classification model ; Accuracy scores ; ROC ; Prediction</subjects>
+  <abstract>At present organizations are leveraging superior technology to reap their desires more efficiently. Artificial Intelligence (AI), which includes Machine Learning (ML) and Deep Learning, performs a pivotal position in improving organizational development. Machine Learning, transforms employee attrition datasets into actionable insights, permitting a employee overall performance and behaviour. This study uses Machine Learning for organizational by using distinctive classifiers to assess employee attrition. ML classifiers have been analyzed on this dataset that includes features such as Age, Daily Rate, Distance From Home, Environment Satisfaction, Job Involvement, Job Level, Job Satisfaction, Num Companies Worked, Percent Salary Hike, Relationship Satisfaction, Stock Option Level, Total Working Years, Training Times Last Year, Work Life Balance, Years In Current Role, Years Since Last Promotion, Years With Current Manager. Each classifier is evaluated primarily based totally on its accuracy rating in predicting ordinary employee attrition. By evaluating accuracy rankings with the Receiver Operating Characteristic (ROC) curve, this study identifies the best classifier for organizational use. This study provides valuable insights from ML classifiers and their potential to predict employee attrition.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10967866</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1276bbfc-4658-3dcf-997f-8b11bcf088a4</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Suganthi, P. ; Priyadharshini, M. ; Kumar, V. Srinivasa</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10967866</doi>
+</record>

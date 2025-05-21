@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Informatics in Education</source>
+  <bookEdition></bookEdition>
+  <title>Reliability and Validity of an Automated Model for Assessing the Learning of Machine Learning in Middle and High School: Experiences from the 'ML for All!' Course</title>
+  <pageEnd>437</pageEnd>
+  <pageStart>409</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>29</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Measures (Individuals) ; Test Reliability ; Test Validity ; Student Evaluation ; Middle School Students ; High School Students ; Foreign Countries ; Scoring Rubrics ; Brazil</subjects>
+  <abstract>The insertion of Machine Learning (ML) in everyday life demonstrates the importance of popularizing an understanding of ML already in school. Accompanying this trend arises the need to assess the students' learning. Yet, so far, few assessments have been proposed, most lacking an evaluation. Therefore, we evaluate the reliability and validity of an automated assessment of the students' learning of an image classification model created as a learning outcome of the "ML for All!" course. Results based on data collected from 240 students indicate that the assessment can be considered reliable (coefficient Omega = 0.834/Cronbach's alpha [alpha] = 0.83). We also identified moderate to strong convergent and discriminant validity based on the polychoric correlation matrix. Factor analyses indicate two underlying factors "Data Management and Model Training" and "Performance Interpretation", completing each other. These results can guide the improvement of assessments, as well as the decision on the application of this model in order to support ML education as part of a comprehensive assessment.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1428827</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>23</volume>
+  <issns>1648-5831 ; 2335-8971</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7e373296-f50b-31e4-8a06-0e9fe8293683</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Marcelo Fernando Rauber ; Christiane Gresse von Wangenheim ; Pedro Alberto Barbetta ; Adriano Ferreti Borgatto ; Ramon Mayor Martins ; Jean Carlo Rossa Hauck</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

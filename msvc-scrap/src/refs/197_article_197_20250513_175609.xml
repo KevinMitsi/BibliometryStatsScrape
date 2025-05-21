@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781789136364 ; 9781789134698</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Expert Insight</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning for Finance : Principles and Practice for Financial Insiders</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20190101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Business &amp;amp; Productivity Software / Business Intelligence ; COMPUTERS / Data Science / Neural Networks ; Finance--Data processing ; Finance--Mathematical models ; Machine learning</subjects>
+  <abstract>A guide to advances in machine learning for financial professionals, with working Python codeKey FeaturesExplore advances in machine learning and how to put them to work in financial industriesGain expert insights into how machine learning works, with an emphasis on financial applicationsDiscover advanced machine learning approaches, including neural networks, GANs, and reinforcement learningBook DescriptionMachine Learning for Finance explores new advances in machine learning and shows how they can be applied across the financial sector, including insurance, transactions, and lending. This book explains the concepts and algorithms behind the main machine learning techniques and provides example Python code for implementing the models yourself. The book is based on Jannes Klaas'experience of running machine learning training courses for financial professionals. Rather than providing ready-made financial algorithms, the book focuses on advanced machine learning concepts and ideas that can be applied in a wide variety of ways. The book systematically explains how machine learning works on structured data, text, images, and time series. You'll cover generative adversarial learning, reinforcement learning, debugging, and launching machine learning products. Later chapters will discuss how to fight bias in machine learning. The book ends with an exploration of Bayesian inference and probabilistic programming.What you will learnApply machine learning to structured data, natural language, photographs, and written textUnderstand how machine learning can help you detect fraud, forecast financial trends, analyze customer sentiments, and moreImplement heuristic baselines, time series, generative models, and reinforcement learning in Python, scikit-learn, Keras, and TensorFlowDelve into neural networks, and examine the uses of GANs and reinforcement learningDebug machine learning applications and prepare them for launchAddress bias and privacy concerns in machine learningWho this book is forThis book is ideal for readers who understand math and Python, and want to adopt machine learning in financial applications. The book assumes college-level knowledge of math and statistics.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2149485</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=032a72ae-b6f5-309f-9da3-db3307ffe552</plink>
+  <doids>NL$2149485$PDF ; NL$2149485$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>James Le ; Jannes Klaas</contributors>
+  <coverDate>2019</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

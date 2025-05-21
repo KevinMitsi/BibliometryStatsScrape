@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HAYR</mid>
+  <language>eng</language>
+  <source>Ingénierie des Systèmes d'Information</source>
+  <bookEdition></bookEdition>
+  <title>Optimizing Cloud Resource Allocation with Machine Learning: Strategies for Efficient Computing.</title>
+  <pageEnd>9</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Resource allocation ; Resource management ; Operating costs ; Machine learning ; Adaptive computing systems</subjects>
+  <abstract>To improve the computing efficiency on the cloud and reduce operational costs, adaptive resource allocation and optimization have emerged as a standard practice. This paper presents an efficient method for the integration of machine learning (ML) algorithms in cloud resource management to dynamically deploy and configure resources that best meet real-time demand requirements according to prediction results. However, the erratically variable utilization profile of cloud workloads can be complicated to manage using traditional resource management methods and this makes them a potential sinkhole which will never stop hindering itself. We solve this issue by using ML models to predict resource requirements and manage resources accordingly in our approach. The framework uses a combination of ML algorithms, including regression models and neural networks, for analyzing historical data &amp;amp; measuring real-time metrics. This allows the algorithms to accurately predict demand variations, and accordingly, resources can be dynamically redistributed. This makes efficient use of the resources, avoiding both under-utilization and over-provisioning. We measure the effectiveness of our ML-driven resource management via extensive experimental evaluations. Results simulation show that the framework provides up to 30% increased resource utilization compared with traditional static approaches. Furthermore, the dynamic assignment mechanism has been optimized to reduce operational costs by a factor of 25%. Overall system performance has also seen meaningful gains oozing out of this research. Improved resource management will allow the system to deal with higher loads while decreasing latency and increasing throughput, which is essential for service quality in cloud-based applications. The framework is ML-driven and that makes its performance even better with time, automatically adapting the workloads as the system evolves.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182588969</an>
+  <docTypes>Article</docTypes>
+  <volume>30</volume>
+  <issns>1633-1311</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3f5fddde-21e2-3e10-98e5-fb80ebee801c</plink>
+  <doids></doids>
+  <publisher>International Information &amp;amp; Engineering Technology Association (IIETA)</publisher>
+  <contributors>Anbarkhan, Samar Hussni</contributors>
+  <coverDate>Jan2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.18280/isi.300101</doi>
+</record>

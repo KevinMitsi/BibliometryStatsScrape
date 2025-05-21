@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of Technology and Science Education</source>
+  <bookEdition></bookEdition>
+  <title>Some Pattern Recognitions for a Recommendation Framework for Higher Education Students' Generic Competence Development Using Machine Learning</title>
+  <pageEnd>115</pageEnd>
+  <pageStart>104</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230101</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Pattern Recognition ; Artificial Intelligence ; Higher Education ; College Students ; Competence ; Skill Development ; Student Characteristics ; Expectation ; Self Evaluation (Individuals) ; Data Collection ; Programming Languages ; Academic Achievement ; Classification ; Extracurricular Activities ; Grade Point Average ; Second Language Learning ; English (Second Language) ; Foreign Countries ; Hong Kong</subjects>
+  <abstract>The project presented in this paper aims to formulate a recommendation framework that consolidates the higher education students' particulars such as their academic background, current study and student activity records, their attended higher education institution's expectations of graduate attributes and self-assessment of their own generic competencies. The gap between the higher education students' generic competence development and their current statuses such as their academic performance and their student activity involvement was incorporated into the framework to come up with a recommendation for the student activities that lead to their generic competence development. For the formulation of the recommendation framework, the data mining tool Orange with some programming in Python and machine learning models was applied on 14,556 students' activity and academic records in the case higher education institution to find out three major types of patterns between the students' participation of the student activities and (1) their academic performance change, (2) their programmes of studies, and (3) their English results in the public examination. These findings are also discussed in this paper.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1391893</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>13</volume>
+  <issns>2014-5349 ; 2013-6374</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c2950796-0698-3dd8-8184-7bcc82d36360</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>So, Joseph Chi-ho ; Wong, Adam Ka-lok ; Tsang, Kia Ho-yin ; Chan, Ada Pui-ling ; Wong, Simon Chi-wang ; Chan, Henry C. B.</contributors>
+  <coverDate>2023</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

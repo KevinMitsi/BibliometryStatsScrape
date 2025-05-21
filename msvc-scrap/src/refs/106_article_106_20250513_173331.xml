@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3183-6</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 7th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), Radio Electronics, Electrical and Power Engineering (REEPE), 2025 7th International Youth Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Open-Ended Coaxial Probe Based Chloride Concentration Prediction in Water Using Machine Learning Algorithms</title>
+  <pageEnd>6</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Components, Circuits, Devices and Systems ; Computing and Processing ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Nuclear Engineering ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Transportation ; Machine learning algorithms ; Water quality ; Predictive models ; Real-time systems ; Sensors ; Scattering parameters ; Probes ; Public healthcare ; Tuning ; Testing ; Chloride detection ; Open-Ended Coaxial Probe (OECP) ; Machine learning ; Water quality monitoring ; No-destructive testing</subjects>
+  <abstract>Monitoring chloride levels in water is essential for environmental health, industrial processes, and safe drinking water, as both high and low concentrations can cause harm for living being. This paper presents a novel approach to detecting chloride concentrations using Open-Ended Coaxial Probe (OECP) sensing combined with machine learning algorithms. OECP sensing offers real-time, non-destructive, and precise monitoring, enabling early detection of contaminants. Scattering parameter ($S$11) data across a broad frequency range was collected with varying chloride concentrations in controlled laboratory experiments. Thirteen machine learning algorithms were trained to predict chloride concentrations, with different datasets for training and testing to ensure robustness. Among these, CatBoost demonstrated the best performance. After fine tuning and cross-validation, the CatBoost model achieved a test Mean Square Error (MSE) of 0.00627 and Coefficient of Determination (R2) of 0.9936, showcasing its accuracy for applications in water monitoring, corrosion prevention, and safeguarding public health.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10970801</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>28317262</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=79366354-c52c-350f-829b-9df51daa36b2</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>C H, Hanima Kannan ; Venugopal, Veena ; Gupta, Deepa ; Mathur, Parul ; Kurup, Dhanesh G ; Mathur, Priyanka</contributors>
+  <coverDate>20250408</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/REEPE63962.2025.10970801</doi>
+</record>

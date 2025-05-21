@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>4U65</mid>
+  <language>eng</language>
+  <source>CLEAN: Soil, Air, Water</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning‐based regional flood frequency analysis of Indian watersheds.</title>
+  <pageEnd>12</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Weather ; Watersheds ; India ; Machine learning ; Random forest algorithms ; Hydrological research ; Support vector machines ; Flood forecasting</subjects>
+  <abstract>Estimates of the flood quantile for ungauged watersheds are crucial for water resources management but challenging due to the nonlinear complex hydrological system. For ungauged watersheds, estimating flood quantiles relies on various interdependent physiometeorological variables, many of which are not adequately considered in regional flood frequency analysis (RFFA). In this study, we utilized the random forest (RF) and support vector regression (SVR) algorithms, which can learn the nonlinear relationship between the physiometeorological variables and flood quantiles for RFFA. Thirteen physiometeorological variables that were not collectively employed before were used to estimate the 10‐year, 50‐year, and 100‐year return period flood quantiles (Q10, Q50, and Q100), respectively, for 39 watersheds spread across India. The RF and SVR models were trained on 29 (75%) watersheds to estimate individual flood quantiles and were subsequently tested on the remaining ten (25%) ungauged watersheds. The R2 achieved by RF is 0.862, 0.813, and 0.845, and SVR is 0.807, 0.793, and 0.789 for Q10, Q50, and Q100, respectively. Overall, the results indicate that RF can effectively learn the nonlinear relationships, while SVR with a linear kernel requires further improvement to estimate reliable flood quantiles. The study demonstrates that machine learning algorithms, with appropriate physiometeorological input datasets, can be used to estimate flood quantiles even in the sparse data region.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184043346</an>
+  <docTypes>Article</docTypes>
+  <volume>53</volume>
+  <issns>1863-0650</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b3cfe2e5-6d84-3b92-8016-0076364fc5ec</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Mangukiya, Nikunj K. ; Kumar, Abhishek ; Sharma, Ashutosh</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/clen.202300120</doi>
+</record>

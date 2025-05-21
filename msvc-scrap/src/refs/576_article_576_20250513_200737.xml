@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B03X</mid>
+  <language>eng</language>
+  <source>Remote Sensing</source>
+  <bookEdition></bookEdition>
+  <title>A Systematic Review of Machine Learning Algorithms for Soil Pollutant Detection Using Satellite Imagery.</title>
+  <pageEnd></pageEnd>
+  <pageStart>1207</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>7</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ENVIRONMENTAL health ; SOIL pollution ; REMOTE-sensing images ; ARTIFICIAL intelligence</subjects>
+  <abstract>Soil preservation from pollutants is essential for sustaining human and ecological health. This review explores the application of satellite imagery and machine learning (ML) techniques in detecting soil pollution, addressing recent advancements and key challenges in this field. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, a comprehensive search across three major databases yielded 47 articles from an initial pool of 1018 publications spanning the last eight years. Among these, 34 studies focused on direct detection of soil pollutants, while 13 examined relationships between vegetation indicators and soil contaminants. This review evaluates various satellite platforms, highlights limitations of existing spaceborne sensors, and compares the effectiveness of ML models for soil pollution detection. Key challenges include the lack of standardization in datasets and methodologies, variations in evaluation metrics, and differences in algorithmic performance across studies. The findings emphasize the need for standardized frameworks and improved sensor capabilities to enhance detection accuracy. This work provides a foundation for future research, encouraging the integration of advanced ML models and multi-sensor satellite data for comprehensive soil pollution monitoring.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184440685</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>2072-4292</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=cef47c54-9773-3512-8e27-e230599917b2</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>TavallaieNejad, Amir ; Vila, Maria Cristina ; Paneiro, Gustavo ; Baptista, João Santos</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/rs17071207</doi>
+</record>

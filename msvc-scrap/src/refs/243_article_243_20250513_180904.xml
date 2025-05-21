@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>7M5</mid>
+  <language>eng</language>
+  <source>International Journal of Human-Computer Interaction</source>
+  <bookEdition></bookEdition>
+  <title>Perceived User Reachability in Mobile UIs Using Data Analytics and Machine Learning.</title>
+  <pageEnd>2726</pageEnd>
+  <pageStart>2703</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250215</publicationDate>
+  <pageCount>24</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Data analytics ; Smartphones ; Machine learning ; Environmental psychology</subjects>
+  <abstract>One-handed interactions on smartphone interfaces offer a prominent feature of highly mobile inputs. Thus, the design factor of user reachability is essential to realizing the incentive. However, the sole consideration of physical characteristics, such as hand size and thumb length, does not fully reflect the users' perceived choices of hand poses and the corresponding inertia. We first conducted a 6-week questionnaire-based study of UI rating tasks and collected 62,156 responses reflecting user preferences for 3000 clustered UIs. Our analysis of the responses shows that user perceptions of smartphone UI components are divergent from their physical ability of thumb reaches; e.g. they can reach an icon with a thumb reach, but they prefer alternative hand poses. Accordingly, we propose a machine learning model, i.e. XGBoost (XGB), to predict the user's choices of hand poses, with a reasonable prediction accuracy of 64% that can be regarded as a practical preliminary evaluation tool. With illustrative examples, our model can offer auxiliary information in the assessment of perceived user reachability with one-handed interaction on smartphone interfaces, which paves a path toward a computational understanding of UI designs, and such findings can be further extended to 2D UIs in 3D worlds.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183127844</an>
+  <docTypes>Article</docTypes>
+  <volume>41</volume>
+  <issns>1044-7318</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1c7e9ad6-36f7-380b-965e-2d7aa5dcc221</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Lee, Lik-Hang ; Yau, Yui-Pan ; Hui, Pan</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/10447318.2024.2327199</doi>
+</record>

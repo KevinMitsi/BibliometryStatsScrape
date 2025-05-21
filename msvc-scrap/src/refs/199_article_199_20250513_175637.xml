@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>78IE</mid>
+  <language>eng</language>
+  <source>Tropical Medicine &amp;amp; Health</source>
+  <bookEdition></bookEdition>
+  <title>Assessing dengue forecasting methods: a comparative study of statistical models and machine learning techniques in Rio de Janeiro, Brazil.</title>
+  <pageEnd>21</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250410</publicationDate>
+  <pageCount>21</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; BOX-Jenkins forecasting ; MOSQUITO-borne diseases ; TIME series analysis ; PUBLIC health officers</subjects>
+  <abstract>Background: Dengue is a mosquito-borne viral disease that poses a significant public health threat in tropical and subtropical regions worldwide. Accurate forecasting of dengue outbreaks is crucial for effective public health planning and intervention. This study aims to assess the predictive performance and computational efficiency of a number of statistical models and machine learning techniques for dengue forecasting, both with and without the inclusion of climate factors, to inform the design of dengue surveillance systems. Methods: The dengue forecasting methods comparison in this study considers dengue cases in Rio de Janeiro, Brazil, as well as climate factors known to affect disease transmission. Employing a dynamic window approach, various statistical methods and machine learning techniques were used to generate weekly forecasts at several time horizons. Error measures, uncertainty intervals, and computational efficiency obtained with each method were compared. Statistical models considered were Autoregressive (AR), Moving Average (MA), Autoregressive Integrated Moving Average (ARIMA), and Exponential Smoothing State Space Model (ETS). In addition, models incorporating temperature and humidity as covariates, such as Vector Autoregression (VAR) and Seasonal ARIMAX (SARIMAX), were employed. Machine learning techniques evaluated were Random Forest, XGBoost, Support Vector Machine (SVM), Long–Short-Term Memory (LSTM) networks, and Prophet. Ensemble approaches that integrated the top performing methods were also considered. The evaluated methods also incorporated lagged climatic variables to account for delayed effects. Results: Among the statistical models, ARIMA demonstrated the best performance using only historical case data, while SARIMAX significantly improved predictive accuracy by incorporating climate covariates. In general, the LSTM model, particularly when combined with climate covariates, proved to be the most accurate machine learning model, despite being slower to train and predict. For long-term forecasts, Prophet with climate covariates was the most effective. Ensemble models, such as the combination of LSTM and ARIMA, showed substantial improvements over individual models. Conclusions: This study demonstrates the strengths and limitations of various methods for dengue forecasting across multiple timeframes. It highlights the best-performing statistical and machine learning methods, including their computational efficiency, underscoring the significance of machine learning techniques and the integration of climate covariates to improve forecasts. These findings offer valuable insights for public health officials, facilitating the development of dengue surveillance systems for more accurate forecasting and timely allocation of resources to mitigate dengue outbreaks.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184390226</an>
+  <docTypes>Article</docTypes>
+  <volume>53</volume>
+  <issns>1348-8945</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e411f1b2-d526-38f5-9185-98788db4a5f7</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Chen, Xiang ; Moraga, Paula</contributors>
+  <coverDate>4/10/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s41182-025-00723-7</doi>
+</record>

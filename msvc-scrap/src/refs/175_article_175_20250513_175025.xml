@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-2493-7</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 33rd Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP), Parallel, Distributed, and Network-Based Processing (PDP), 2025 33rd Euromicro International Conference on, PDP</source>
+  <bookEdition></bookEdition>
+  <title>Anomaly Detection with Machine Learning on Time Series: Unveiling Lost Transients Data</title>
+  <pageEnd>403</pageEnd>
+  <pageStart>396</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250312</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computing and Processing ; Adaptation models ; Machine learning algorithms ; Gamma-ray bursts ; Time series analysis ; Machine learning ; Detectors ; Software ; Orbits ; Transient analysis ; Anomaly detection ; data analysis ; statistical methods ; machine learning ; gamma-ray bursts</subjects>
+  <abstract>Many modern scientific fields deal with phenomena so complex that the resulting data cannot be accurately described using most statistical techniques. In some fields, such as Astrophysics and Multi-Messenger Astronomy, Machine Learning has offered many tools to help researchers, with techniques capable of understanding the dependencies of many phenomena with the underlying physical models. A common problem is the detection of anomalies in multivariate time series where the data have dependencies with the physics that characterizes the context. We present here a tool to understand the expected evolution of time series in order to discriminate and identify transient events from the normal behavior of a series of data evolving in time. The software employs Machine Learning techniques and was developed upon the use case of identifying high-energy transients, such as Gamma-Ray Bursts, in the data from the Fermi Gammaray Space Telescope, using its background rejection system, the Anti-Coincidence Detector. The latter has not been previously used for scientific purposes, so it offers a fertile ground for the development of this software. In this paper, we introduce our framework starting with the concept of time series, specifically the count rates of particles in the Anti-Coincidence Detector, and the orbit configuration of the Fermi satellite. The software implements Machine Learning models such as Feed-Forward Neural Network and Recurrent Neural Network, employed to learn the orbital Fermi configuration to predict the background. We then implemented a triggering algorithm called FOCuS, which identifies significant deviations from the background, signaling the presence of anomalies and, perhaps, astrophysical transients in the dataset. This tool can be adapted for various signals, making it applicable across different contexts and research.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10974838</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>23775750</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=dab6d175-5730-3308-b22a-b4c2f3fa2697</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Adelfio, Andrea ; Crupi, Riccardo ; Cutini, Sara ; Germani, Stefano ; Longo, Francesco ; Lubrano, Pasquale ; Maldera, Simone</contributors>
+  <coverDate>20250312</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/PDP66500.2025.00062</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning in supply chain management: systematic literature review and future research agenda.</title>
+  <pageEnd>30</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250213</publicationDate>
+  <pageCount>30</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Supply chain management ; Artificial intelligence ; Supply chains ; Language models ; Machine learning</subjects>
+  <abstract>This study conducts a comprehensive systematic literature review of 107 Machine Learning (ML) studies in Supply Chain (SC) Management published from 2019 until 2023. Descriptive analysis (chronological, geographical, publication, ML algorithms) and thematic analysis via iterative theme identification reviewed key ML themes and barriers in the SC context. ML has emerged as a disruptive technology, significantly benefiting supply chain planning, execution, and control. Yet, no review has examined its applicability and barriers in the supply chain context, especially with the advent of Generalised Artificial Intelligence (AI) and Large Language Models (LLMs). This review revealed specific literature gaps and discusses 4 major ML themes and 14 sub-themes in SC: (i) Demand forecasting, (ii) procurement, (iii) supply chain risk and resilience, and (iv) supply chain network optimisation. Further, the analysis uncovered technical (retraining, scalability security), social (resistance to change, ethical), and contextual (dependency, regulations) barriers. This study provides five research propositions. It sets a research agenda based on the 4Vs of ML (Volume, Variety, Variation, Visibility) to provide insights for future research, which can be especially relevant with the emergence of Generalised AI and LLMs. It also discusses the technical, social, and business implications of ML for supply chain practitioners.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183049222</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=380e4767-e5ec-3b32-8763-e5428b927444</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Vlachos, Ilias ; Reddy, Pulagam Gautam</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2025.2466062</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>O5H</mid>
+  <language>eng</language>
+  <source>Environmental Management</source>
+  <bookEdition></bookEdition>
+  <title>Spatiotemporal Variation Assessment and Improved Prediction Of Cyanobacteria Blooms in Lakes Using Improved Machine Learning Model Based on Multivariate Data.</title>
+  <pageEnd>709</pageEnd>
+  <pageStart>694</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Cyanobacteria ; Lakes ; Plankton blooms ; Environmental sciences ; Water management ; Machine learning ; Remote sensing ; Prediction models</subjects>
+  <abstract>Cyanobacterial blooms in shallow lakes pose a significant threat to aquatic ecosystems and public health worldwide, highlighting the urgent need for advanced predictive methodologies. As impounded lakes along the Eastern Route of the South-to-North Water Diversion Project, Lakes Hongze and Luoma play a key role in water resource management, making the prediction of cyanobacterial blooms in these lakes particularly important. To address this, satellite remote sensing data were utilized to analyze the spatiotemporal dynamics of cyanobacterial blooms in these lakes. Subsequently, a precise machine learning model, integrating the Projection Pursuit Model and Random Forest (PP-RF) algorithms, was developed to predict the extent of cyanobacterial blooms, considering a range of influencing factors, including physical, chemical, climatic, and hydrologic variables. The findings indicated pronounced seasonal fluctuations in cyanobacterial blooms, with higher levels in summer than in other seasons. Key determinants for cyanobacterial blooms prediction included solar radiation, temperature and total nitrogen for Lake Hongze, while for Lake Luoma, significant predictors were identified as temperature, water temperature, and solar radiation. Compared with traditional data preprocessing methods, PP-RF model has advantages in addressing multicollinearity. This study provides a feasible method for predicting cyanobacterial blooms in impounded lakes within inter-basin water transfer projects. By inputting region-specific data, this model could be applied broadly, contributing to against the adverse effects of cyanobacterial blooms and provide scientific guidance for the protection and management of aquatic ecosystems.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183283650</an>
+  <docTypes>Article</docTypes>
+  <volume>75</volume>
+  <issns>0364-152X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=57f72056-6d79-3413-8be9-d9de3b0d04ff</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Zhang, Yue ; Hou, Jun ; Gu, Yuwei ; Zhu, Xingyu ; Xia, Jun ; Wu, Jun ; You, Guoxiang ; Yang, Zijun ; Ding, Wei ; Miao, Lingzhan</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1007/s00267-024-02108-8</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Models for Intrusion Detection System</title>
+  <pageEnd>238</pageEnd>
+  <pageStart>235</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>4</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Training ; Analytical models ; Adaptation models ; Machine learning algorithms ; Intrusion detection ; Telecommunication traffic ; Network security ; Real-time systems ; Computer security ; Random forests ; Cybersecurity ; Intrusion Detection Systems ; Real-Time Intrusion Detection ; Network Traffic Analysis ; CICFlowMeter</subjects>
+  <abstract>Protecting networks from mischievous attacks in the scenario of cybersecurity require Intrusion Detection System (IDS). Leveraging machine learning algorithms to develop IDS has gathered substantial consideration due to its capacity to adapt and study from vast datasets. In this research paper, an extensive analysis of intrusion detection has been conducted utilizing various machine learning models trained on the CICIDS2018 dataset. Fifteen distinct models have been explored, ranging from traditional methods to sophisticated deep learning architectures. Subsequently, Random Forest has been identified as the optimal classifier based on its superior performance metrics of F1 score 99.79%, precision 99.79%, and recall 99.81%. Moreover, a framework has been proposed for real-time intrusion detection using the Random Forest classifier, employing CICFlowMeter for data collection, which aligns with the dataset used for model training.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10967597</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=72b59ae6-9c61-3ad1-9127-987826fcc076</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Hiremath, Sourabh ; D B, Rohit ; Singh, Shudhanshu ; S V, Sheela ; K R, Radhika</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10967597</doi>
+</record>

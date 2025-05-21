@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1L4</mid>
+  <language>eng</language>
+  <source>Berkeley Technology Law Journal</source>
+  <bookEdition></bookEdition>
+  <title>USING MACHINE LEARNING TO SCRUTINIZE PAROLE RELEASE HEARINGS.</title>
+  <pageEnd>284</pageEnd>
+  <pageStart>234</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>51</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Natural language processing ; Decision making ; Machine learning ; Legal language ; Criminal procedure ; Justice administration ; Criminal law ; Content analysis</subjects>
+  <abstract>This Article applies a new approach to machine learning in criminal law: rather than building technological tools to predict the behavior of people put through the system, we build tools to scrutinize the decisions and speaking patterns of those who wield power in the system. We deploy our approach in the context of parole release hearings, using natural language processing to analyze thirty-five thousand hearing transcripts which span approximately seven hundred million total words. We find that when the official presiding over a parole release hearing has a historically lower grant rate, the odds of being granted parole are also lower. We further find that privately retained attorneys speak in more sophisticated legal language than appointed attorneys, and that this more sophisticated language is associated with increased odds of parole. In addition to advancing knowledge about parole release decisions, the Article demonstrates how to leverage machine learning as a tool for uncovering patterns of potential inequity in the criminal legal system.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184051257</an>
+  <docTypes>Article</docTypes>
+  <volume>40</volume>
+  <issns>1086-3818</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=102b86cc-d15b-3c33-a257-95ec41610c97</plink>
+  <doids></doids>
+  <publisher>Regents of the University of California, on behalf of its Berkeley Language Center</publisher>
+  <contributors>Bell, Kristen ; Hong, Jenny ; Voss, Catalin ; Todd, Graham ; Alvero, AJ</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi></doi>
+</record>

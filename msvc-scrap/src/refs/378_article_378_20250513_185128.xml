@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>JIN</mid>
+  <language>eng</language>
+  <source>Journal of Information Systems</source>
+  <bookEdition></bookEdition>
+  <title>Integrating Process Mining and Machine Learning for Advanced Internal Control Evaluation in Auditing.</title>
+  <pageEnd>75</pageEnd>
+  <pageStart>55</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>21</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Auditing procedures ; Technological innovations ; Process mining ; Risk assessment ; Machine learning</subjects>
+  <abstract>This study proposes an internal control evaluation model that incorporates process mining and machine learning into audit procedures. The model consists of four components: process mining analysis, rule-based variant analysis, control risk assessment, and anomaly detection. It utilizes process mining to uncover transactions that deviate from normative process flows, assesses the underlying associated controls with these deviations, and applies machine learning algorithms to supply a quantitative measure at a transactional level to determine highly anomalous areas. Using a real-world dataset for demonstration, the model identifies control weaknesses and missing controls, and directs the investigation toward high-risk control areas. This study contributes to the literature on the application of emerging technologies in accounting and auditing and aims to generate practical implications.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183388367</an>
+  <docTypes>Article</docTypes>
+  <volume>39</volume>
+  <issns>0888-7985</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1dd8c185-5e6a-3e21-b02a-9660a6800b35</plink>
+  <doids></doids>
+  <publisher>American Accounting Association</publisher>
+  <contributors>Duan, Huijue Kelly ; Vasarhelyi, Miklos A. ; Codesso, Mauricio</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.2308/ISYS-2022-028</doi>
+</record>

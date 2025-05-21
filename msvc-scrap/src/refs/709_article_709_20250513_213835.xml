@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Computational Economics</source>
+  <bookEdition></bookEdition>
+  <title>Non-linear Phillips Curve for India: Evidence from Explainable Machine Learning: Non-linear Phillips Curve for India: Evidence from Explainable Machine...</title>
+  <pageEnd>44</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250429</publicationDate>
+  <pageCount>44</pageCount>
+  <publisherLocations>New York</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Phillips curve ; Inflation forecasting ; Machine learning ; Shapley values ; Explainable machine learning ; Conformal prediction intervals ; C32 ; C45 ; C52 ; C53 ; E31</subjects>
+  <abstract>The conventional, linear Phillips curve model–while a useful guide for policymaking–falls short in terms of forecasting power amidst structural breaks and inherent non-linearities. This paper addresses these shortcomings by applying machine learning (ML) methods within a New Keynesian Phillips Curve framework to forecast and explain headline inflation in India, a large emerging economy. Our forecasting analysis suggests that ML-based methods provide significant gains in forecasting accuracy over standard linear models. Further, using &lt;i>explainable&lt;/i> ML techniques, we empirically show that the Phillips curve relationship in India is a highly non-linear process which is efficiently captured by ML models. While headline inflation is found to be most strongly influenced by inflation expectations followed by past inflation and output gap, the relationship exhibits non-linearities in the form of thresholds and interaction effects between covariates. Supply shocks, except rainfall, seem to have a marginal impact on headline inflation. ML models, therefore, not only enhance forecast accuracy but also help uncover complex, non-linear relationships in the data in a flexible manner.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.DBAEDDA2</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>09277099 ; 15729974</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6b9c31c0-3a25-3afe-a127-6f34e4ea56e9</plink>
+  <doids></doids>
+  <publisher>Springer US</publisher>
+  <contributors>Pratap, Bhanu ; Pawar, Amit ; Sengupta, Shovon</contributors>
+  <coverDate>20250429</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10614-025-10942-z</doi>
+</record>

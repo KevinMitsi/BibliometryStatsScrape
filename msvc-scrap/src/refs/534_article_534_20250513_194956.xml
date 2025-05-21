@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>MXMK</mid>
+  <language>eng</language>
+  <source>Indonesian Journal of Business &amp;amp; Entrepreunership</source>
+  <bookEdition></bookEdition>
+  <title>EVALUATING MACHINE LEARNING APPROACHES IN STRUCTURAL EQUATION MODELLING TO IMPROVE PREDICTIVE ACCURACY IN MARKETING RESEARCH.</title>
+  <pageEnd>105</pageEnd>
+  <pageStart>93</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>13</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Marketing research ; Small business ; Marketing Research and Public Opinion Polling ; Machine learning ; Structural equation modeling ; Accuracy</subjects>
+  <abstract>Background: This study aimed to fill a critical research gap by comparing traditional Structural Equation Modelling (SEM) with hybrid Bayesian-Machine Learning (ML) models in marketing research, focusing on the limited exploration of these advanced techniques. Purpose: This study aimed to evaluate the effectiveness of integrating Bayesian SEM with advanced machine learning techniques to enhance predictive model performance, manage complex data structures, and improve marketing applications. Design/methodology/approach: The study employed a systematic comparative research design to assess the predictive accuracy and robustness of traditional SEM in comparison to hybrid Bayesian-(Bayesian-ML) models. A rigorous review of 262 scholarly articles from major databases was conducted, with 23 studies meeting inclusion criteria to inform the model development and evaluation. Findings/Result: The findings show that traditional SEM excels in theoretical modelling and interpretability but lacks predictive accuracy and robustness, which Bayesian SEM improves by using prior distributions. ML techniques further enhance predictive accuracy and robustness, while hybrid models combining Bayesian SEM with ML achieve the highest levels of both. Conclusion: Adopting hybrid models can substantially enhance the predictive accuracy of marketing outcomes and the robustness of model analyses. Originality/value (State of the art): This study contributes to knowledge by advancing methodological approaches through challenging existing data analysis paradigms, methods and approaches and therebefore offering practical guidance for future studies.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183673647</an>
+  <docTypes>Article</docTypes>
+  <volume>11</volume>
+  <issns>2407-5434</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5cdaef61-0589-3033-9d7d-19ace3b9a03e</plink>
+  <doids></doids>
+  <publisher>IPB University</publisher>
+  <contributors>Magasi, Chacha</contributors>
+  <coverDate>Jan2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.17358/IJBE.11.1.93</doi>
+</record>

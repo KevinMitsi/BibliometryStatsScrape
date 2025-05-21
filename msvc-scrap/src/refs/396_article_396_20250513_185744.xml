@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KNO</mid>
+  <language>eng</language>
+  <source>Environmetrics</source>
+  <bookEdition></bookEdition>
+  <title>Discussion on Assessing Predictability of Environmental Time Series With Statistical and Machine Learning Models.</title>
+  <pageEnd>8</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Environmental monitoring ; Ecological forecasting ; Machine learning ; Forecasting ; Predictive validity ; Statistical models ; Stochastic analysis ; Dynamical systems</subjects>
+  <abstract>The article "Discussion on Assessing Predictability of Environmental Time Series With Statistical and Machine Learning Models" in Environmetrics compares statistical and machine learning methods in environmetrics. Machine learning methods are found to be more effective for non-linear and non-stationary processes, while statistical methods are better suited for specific inputs and simplicity. The study concludes that machine learning methods offer superior predictions due to the nature of the data. It also emphasizes the significance of uncertainty quantification, comparison study design, and the selection of appropriate models for accurate forecasting of environmental data, such as temperature and wind speed.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183756780</an>
+  <docTypes>Article</docTypes>
+  <volume>36</volume>
+  <issns>1180-4009</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d7130509-ad7a-355c-a517-542c8cde60c0</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Steland, Ansgar</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/env.70003</doi>
+</record>

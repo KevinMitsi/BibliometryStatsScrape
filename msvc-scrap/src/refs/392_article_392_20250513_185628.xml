@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CHU</mid>
+  <language>eng</language>
+  <source>BMC Infectious Diseases</source>
+  <bookEdition></bookEdition>
+  <title>A machine learning model for predicting acute respiratory distress syndrome risk in patients with sepsis using circulating immune cell parameters: a retrospective study.</title>
+  <pageEnd>16</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250421</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ADULT respiratory distress syndrome ; RECEIVER operating characteristic curves ; SUPPORT vector machines ; K-nearest neighbor classification</subjects>
+  <abstract>Background: Acute respiratory distress syndrome (ARDS) is a severe complication associated with a high mortality rate in patients with sepsis. Early identification of patients with sepsis at high risk of developing ARDS is crucial for timely intervention, optimization of treatment strategies, and improvement of clinical outcomes. However, traditional risk prediction methods are often insufficient. This study aimed to develop a machine learning (ML) model to predict the risk of ARDS in patients with sepsis using circulating immune cell parameters and other physiological data. Methods: Clinical data from 10,559 patients with sepsis were obtained from the MIMIC-IV database. Principal component analysis (PCA) was used for dimensionality reduction and to comprehensively evaluate the models' predictive capabilities, we used several ML algorithms, including decision trees, k-nearest neighbors (KNN), logistic regression, naive Bayes, random forests, neural networks, XGBoost, and support vector machines (SVM) to predict ARDS risk. The model performance was assessed using the area under the receiver operating characteristic curve (AUC), accuracy, sensitivity, specificity, and F1 score. Shapley additive explanations (SHAP) were used to interpret the contribution of individual features to model predictions. Results: Among all models, XGBoost showed the best performance with an AUC of 0.764. Feature importance analysis revealed that mean arterial pressure, monocyte count, neutrophil count, pH, and platelet count were key predictors of ARDS risk in patients with sepsis. The SHAP analysis provided further information on how these features contributed to the model's predictions, aiding in interpretability and potential clinical applications. Conclusion: The XGBoost model using circulating immune cell parameters accurately predicted the risk of ARDS in patients with sepsis. This model could be a useful tool for the early identification of high-risk patients and timely intervention; however, further validation and integration into clinical practice are required.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184626293</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1471-2334</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b9437a67-cf8c-3fff-b247-b736ec9be53a</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Zhou, Kaihuan ; Qin, Lian ; Chen, Yin ; Gao, Hanming ; Ling, Yicong ; Qin, Qianqian ; Mou, Chenglin ; Qin, Tao ; Lu, Junyu</contributors>
+  <coverDate>4/21/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12879-025-10974-8</doi>
+</record>

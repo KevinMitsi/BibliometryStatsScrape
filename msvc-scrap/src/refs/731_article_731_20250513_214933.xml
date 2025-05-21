@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781800560796 ; 9781800561694</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Engineering with MLflow : Manage the End-to-end Machine Learning Life Cycle with MLflow</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20210101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / Neural Networks ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; Machine learning</subjects>
+  <abstract>Get up and running, and productive in no time with MLflow using the most effective machine learning engineering approachKey FeaturesExplore machine learning workflows for stating ML problems in a concise and clear manner using MLflowUse MLflow to iteratively develop a ML model and manage itDiscover and work with the features available in MLflow to seamlessly take a model from the development phase to a production environmentBook DescriptionMLflow is a platform for the machine learning life cycle that enables structured development and iteration of machine learning models and a seamless transition into scalable production environments. This book will take you through the different features of MLflow and how you can implement them in your ML project. You will begin by framing an ML problem and then transform your solution with MLflow, adding a workbench environment, training infrastructure, data management, model management, experimentation, and state-of-the-art ML deployment techniques on the cloud and premises. The book also explores techniques to scale up your workflow as well as performance monitoring techniques. As you progress, you'll discover how to create an operational dashboard to manage machine learning systems. Later, you will learn how you can use MLflow in the AutoML, anomaly detection, and deep learning context with the help of use cases. In addition to this, you will understand how to use machine learning platforms for local development as well as for cloud and managed environments. This book will also show you how to use MLflow in non-Python-based languages such as R and Java, along with covering approaches to extend MLflow with Plugins. By the end of this machine learning book, you will be able to produce and deploy reliable machine learning algorithms using MLflow in multiple environments.What you will learnDevelop your machine learning project locally with MLflow's different featuresSet up a centralized MLflow tracking server to manage multiple MLflow experimentsCreate a model life cycle with MLflow by creating custom modelsUse feature streams to log model results with MLflowDevelop the complete training pipeline infrastructure using MLflow featuresSet up an inference-based API pipeline and batch pipeline in MLflowScale large volumes of data by integrating MLflow with high-performance big data librariesWho this book is forThis book is for data scientists, machine learning engineers, and data engineers who want to gain hands-on machine learning engineering experience and learn how they can manage an end-to-end machine learning life cycle with the help of MLflow. Intermediate-level knowledge of the Python programming language is expected.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2972632</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6aaba22a-c842-3abd-91bd-510f459a5dfe</plink>
+  <doids>NL$2972632$PDF ; NL$2972632$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Natu Lauchande</contributors>
+  <coverDate>2021</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

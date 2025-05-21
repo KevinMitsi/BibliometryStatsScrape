@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edspgr</shortDBName>
+  <isiType>PAT</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine learning classifying of data using decision boundaries</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250218</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>Classifier accuracy is increased in machine learning applications by training a machine learning (ML) model including a classifier across classes by determining weighted input points for a contributing set to store the values for true positive and true negative predications. In a following step, input data is provided to the classifier of the machine learning model at runtime, and a classification output is determined from the classifier. For the classification output, values for input during runtime are compared with a sample of inputs stored for training the machine learning model to determine the distance in spread for the classification output. A class is determined from the classification output having a smallest distance and spread. The method can further determine if the class with the smallest distance and spread is a true positive or true negative by comparing the class with the smallest distance and spread with the classification output.</abstract>
+  <pubTypes>Patent</pubTypes>
+  <an>edspgr.12229222</an>
+  <docTypes>Patent</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c685dc67-95e2-3754-af40-16478175cbf8</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>INTERNATIONAL BUSINESS MACHINES CORPORATION</contributors>
+  <coverDate>February 18, 2025</coverDate>
+  <longDBName>USPTO Patent Grants</longDBName>
+  <doi></doi>
+</record>

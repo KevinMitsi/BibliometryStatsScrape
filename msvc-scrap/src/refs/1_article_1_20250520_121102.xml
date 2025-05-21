@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Science Advances</source>
+  <bookEdition></bookEdition>
+  <title>Rapidly self-healing electronic skin for machine learning-assisted physiological and movement evaluation.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250214</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>7</issue>
+  <identifiers></identifiers>
+  <subjects>Machine Learning ; Humans ; Wearable Electronic Devices ; Movement ; Monitoring ; Physiologic</subjects>
+  <abstract>Emerging electronic skins (E-Skins) offer continuous, real-time electrophysiological monitoring. However, daily mechanical scratches compromise their functionality, underscoring urgent need for self-healing E-Skins resistant to mechanical damage. Current materials have slow recovery times, impeding reliable signal measurement. The inability to heal within 1 minute is a major barrier to commercialization. A composition achieving 80% recovery within 1 minute has not yet been reported. Here, we present a rapidly self-healing E-Skin tailored for real-time monitoring of physical and physiological bioinformation. The E-Skin recovers more than 80% of its functionality within 10 seconds after physical damage, without the need of external stimuli. It consistently maintains reliable biometric assessment, even in extreme environments such as underwater or at various temperatures. Demonstrating its potential for efficient health assessment, the E-Skin achieves an accuracy exceeding 95%, excelling in wearable muscle strength analytics and on-site AI-driven fatigue identification. This study accelerates the advancement of E-Skin through rapid self-healing capabilities.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt4rh9n3jd</an>
+  <docTypes>article</docTypes>
+  <volume>11</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=deb1b1ce-47fe-3216-9a02-fb7e65d6356b</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Lee, Yongju ; Tian, Xinyu ; Park, Jaewon ; Nam, Dong ; Wu, Zhuohong ; Choi, Hyojeong ; Kim, Juhwan ; Park, Dong-Wook ; Zhou, Keren ; Lee, Sang ; Tabish, Tanveer ; Cheng, Xuanbing ; Emaminejad, Sam ; Lee, Tae-Woo ; Kim, Hyeok ; Khademhosseini, Ali ; Zhu, Yangzhi</contributors>
+  <coverDate>20250214</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

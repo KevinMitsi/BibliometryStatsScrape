@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>MCH0</mid>
+  <language>eng</language>
+  <source>AgriEngineering</source>
+  <bookEdition></bookEdition>
+  <title>Advancing Grapevine Variety Identification: A Systematic Review of Deep Learning and Machine Learning Approaches.</title>
+  <pageEnd>4888</pageEnd>
+  <pageStart>4851</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>38</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; DEEP learning ; COMPUTER vision ; HORTICULTURAL crops ; GRAPES ; Grape Vineyards ; Fresh fruit and vegetable merchant wholesalers</subjects>
+  <abstract>The Eurasian grapevine (Vitis vinifera L.) is one of the most extensively cultivated horticultural crop worldwide, with significant economic relevance, particularly in wine production. Accurate grapevine variety identification is essential for ensuring product authenticity, quality control, and regulatory compliance. Traditional identification methods have inherent limitations limitations; ampelography is subjective and dependent on skilled experts, while molecular analysis is costly and time-consuming. To address these challenges, recent research has focused on applying deep learning (DL) and machine learning (ML) techniques for grapevine variety identification. This study systematically analyses 37 recent studies that employed DL and ML models for this purpose. The objective is to provide a detailed analysis of classification pipelines, highlighting the strengths and limitations of each approach. Most studies use DL models trained on leaf images captured in controlled environments at distances of up to 1.2 m. However, these studies often fail to address practical challenges, such as the inclusion of a broader range of grapevine varieties, using data directly acquired in the vineyards, and the evaluation of models under adverse conditions. This review also suggests potential directions for advancing research in this field.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181940854</an>
+  <docTypes>Article</docTypes>
+  <volume>6</volume>
+  <issns>2624-7402</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a888a187-d1f4-3879-993e-e159869ae3c7</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Carneiro, Gabriel A. ; Cunha, António ; Aubry, Thierry J. ; Sousa, Joaquim</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/agriengineering6040277</doi>
+</record>

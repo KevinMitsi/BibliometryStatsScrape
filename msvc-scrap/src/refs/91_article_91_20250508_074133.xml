@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-4237-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 International Conference on Automation and Computation (AUTOCOM), Automation and Computation (AUTOCOM), 2025 International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Hydrocephalus Classification From MRI Using Learning Vector Quantization-Based Factorization Machine Deep Learning</title>
+  <pageEnd>1514</pageEnd>
+  <pageStart>1509</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250304</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineering Profession ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Deep learning ; Support vector machines ; Radio frequency ; Accuracy ; Frequency modulation ; Magnetic resonance imaging ; Hydrocephalus ; Vector quantization ; Feature extraction ; Medical diagnostic imaging ; MRI classification ; Learning Vector Quantization ; Factorization Machines</subjects>
+  <abstract>Background: The brain collecting cerebrospinal fluid defines the neurological condition known as hydrocephalus. Appropriate diagnosis of the condition for the patients determines how well hydrocephalus is treated. Although MRI scans are widely used in diagnosis, hand classification can be time-consuming and prone to errors. A method able to regularly and automatically classify hydrocephalus depending on MRI scans is absolutely necessary to improve clinical decision-making responsibilities. Conventional machine learning techniques find it sometimes difficult to detect the intricate patterns in MRI data because of its great dimensionality. The current solutions need feature engineering, which can be time-consuming and prone to errors brought about by human involvement. To thus increase the accuracy of classification, one must use a sophisticated approach combining deep learning and machine learning techniques. Proposed Methodology: This work intends to propose a hybrid model comprising deep learning, Learning Vector Quantisation (LVQ), and factorisation machines (FM). Whereas the LVQ is used for feature learning, the FM captures high-order interactions discovered in MRI features helps to improve model performance. Findings: The model was taught to identify hydrocephalus cases from a dataset including MRI scans. Reaching a 92.5% classification accuracy, the proposed model uses a sensitivity of 91.2% and a specificity of 94.1%. With its improved performance, the model's accuracy, 6% higher than that of conventional machine learning techniques, shown its capacity to effectively identify hydrocephalus from MRI scans.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10957365</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=554cdf1a-0cb0-3bd0-88c9-62c23fd73bcf</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>P, Uma ; S, Perumal</contributors>
+  <coverDate>20250304</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/AUTOCOM64127.2025.10957365</doi>
+</record>

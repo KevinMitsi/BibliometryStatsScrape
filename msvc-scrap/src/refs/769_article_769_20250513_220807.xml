@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Results in Engineering</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning based eddy current testing: A review</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Eddy current testing ; Electromagnetic testing ; Machine learning ; Non-destructive evaluation ; Neural networks ; Deep learning</subjects>
+  <abstract>Highlights •Provided detailed description of data sources and nature of investigations made using machine learning for Eddy current testing (ECT) systems.•Identified various types of probes/sensing elements used to collect ECT data.•Examined characteristics of ECT datasets used to train the machine learning models.•Analyzed various feature extraction approaches.•Reviewed various types of machine learning models used in different areas of investigation within ECT systems.•Evaluated performance measures, hyperparameter optimizations, cross validations, uncertainty quantification and verification and validation of machine learning models for ECT systems.•Discussed research gaps and proposed future directions.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2590123024019674</an>
+  <docTypes>Review Article</docTypes>
+  <volume>25</volume>
+  <issns>2590-1230</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0f9ce3b6-b2e0-3303-b2a5-448b8acc1521</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Munir, Nauman ; Huang, Jingyuan ; Wong, Chak-Nam ; Song, Sung-Jin</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.rineng.2024.103724</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Screening of BindingDB database ligands against EGFR, HER2, Estrogen, Progesterone and NF- κ B receptors based on machine learning and molecular docking</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Biological Sciences ; Bioinformatics and Computational Biology ; Health Services and Systems ; Health Sciences ; Information and Computing Sciences ; Applied Computing ; Cancer ; Women's Health ; Breast Cancer ; Humans ; Breast Neoplasms ; Receptor ; erbB-2 ; NF-kappa B ; Receptors ; Estrogen ; Receptors ; Progesterone ; Ligands ; Databases ; Protein ; Female ; Molecular Docking Simulation ; ErbB Receptors ; Machine Learning ; Breast cancer ; Machine learning ; Molecular docking ; Virtual screening ; Receptor ; ErbB-2 ; Engineering ; Medical and Health Sciences ; Biomedical Engineering ; Bioinformatics and computational biology ; Health services and systems ; Applied computing</subjects>
+  <abstract>Breast cancer, the second most prevalent cancer among women worldwide, necessitates the exploration of novel therapeutic approaches. To target the four subgroups of breast cancer "hormone receptor-positive and HER2-negative, hormone receptor-positive and HER2-positive, hormone receptor-negative and HER2-positive, and hormone receptor-negative and HER2-negative" it is crucial to inhibit specific targets such as EGFR, HER2, ER, NF-κB, and PR. In this study, we evaluated various methods for binary and multiclass classification. Among them, the GA-SVM-SVM:GA-SVM-SVM model was selected with an accuracy of 0.74, an F1-score of 0.73, and an AUC of 0.92 for virtual screening of ligands from the BindingDB database. This model successfully identified 4454, 803, 438, and 378 ligands with over 90% precision in both active/inactive and target prediction for the classes of EGFR+HER2, ER, NF-κB, and PR, respectively, from the BindingDB database. Based on to the selected ligands, we created a dendrogram that categorizes different ligands based on their targets. This dendrogram aims to facilitate the exploration of chemical space for various therapeutic targets. Ligands that surpassed a 90% threshold in the product of activity probability and correct target selection probability were chosen for further investigation using molecular docking. The binding energy range for these ligands against their respective targets was calculated to be between -15 and -5 kcal/mol. Finally, based on general and common rules in medicinal chemistry, we selected 2, 3, 3, and 8 new ligands with high priority for further studies in the EGFR+HER2, ER, NF-κB, and PR classes, respectively.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt3sq9p7w5</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6c114e34-b526-399f-bc35-a38177108988</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Rezaee, Parham ; Rezaee, Shahab ; Maaza, Malik ; Arab, Seyed Shahriar</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

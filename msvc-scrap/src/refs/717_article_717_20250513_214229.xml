@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edspgr</shortDBName>
+  <isiType>PAT</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine learning model trained using features extracted from n-grams of mouse event data</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250218</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>An example system includes a processor to receive mouse event data of a session. The processor is to split the mouse event data of the session into mouse event n-grams. The processor is to extract features from the mouse event n-grams. The processor is to send the extracted features to a trained machine learning model. The processor is to receive an output decision from the trained machine learning model.</abstract>
+  <pubTypes>Patent</pubTypes>
+  <an>edspgr.12229640</an>
+  <docTypes>Patent</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=82f65649-ef70-3b8d-b3a2-5d42115f5f63</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>International Business Machines Corporation</contributors>
+  <coverDate>February 18, 2025</coverDate>
+  <longDBName>USPTO Patent Grants</longDBName>
+  <doi></doi>
+</record>

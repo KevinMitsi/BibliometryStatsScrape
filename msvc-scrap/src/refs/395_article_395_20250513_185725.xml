@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Education and Information Technologies</source>
+  <bookEdition></bookEdition>
+  <title>Deciphering the Impact of Machine Learning on Education: Insights from a Bibliometric Analysis Using Bibliometrix R-Package</title>
+  <pageEnd>22022</pageEnd>
+  <pageStart>21995</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241101</publicationDate>
+  <pageCount>28</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>16</issue>
+  <identifiers></identifiers>
+  <subjects>Bibliometrics ; Programming Languages ; Artificial Intelligence ; Technology Uses in Education ; Research Reports ; Teaching Methods ; Authors ; Trend Analysis ; Institutional Characteristics ; Geographic Location ; Periodicals ; Computer Software ; Ethics ; Instructional Innovation ; Educational Trends</subjects>
+  <abstract>This study leverages bibliometric analysis through the bibliometrix R-package to dissect the expansive influence of machine learning on education, a field where machine learning's adaptability and data-processing capabilities promise to revolutionize teaching and learning methods. Despite its potential, the integration of machine learning in education requires a nuanced understanding to navigate the associated challenges and ethical considerations effectively. Our investigation spans articles from 2000 to 2023, focusing on identifying growth patterns, key contributors, and emerging trends within this interdisciplinary domain. By analyzing 970 selected articles, this study uncovers the developmental trajectory of machine learning in education, revealing significant insights into publication trends, prolific authors, influential institutions, and the geographical distribution of research. Furthermore, it highlights the journals pivotal in disseminating machine learning education research, the most cited works that shape the field, and the dynamic evolution of research themes. This bibliometric exploration not only charts the current landscape but also anticipates future directions, suggesting areas for further inquiry and potential breakthroughs. Through a detailed examination of empirical evidence and a critical analysis of machine learning applications in educational settings, this study aims to provide a foundational understanding of the field's complexities and potentials. The anticipated outcome is a comprehensive roadmap that guides researchers, educators, and policymakers towards a thoughtful integration of machine learning in education, balancing innovation with ethical stewardship.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1450553</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>29</volume>
+  <issns>1360-2357 ; 1573-7608</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3618ae84-c4ed-3b7a-ade2-e30ae0711a92</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Zilong Zhong ; Hui Guo ; Kun Qian</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10639-024-12734-8</doi>
+</record>

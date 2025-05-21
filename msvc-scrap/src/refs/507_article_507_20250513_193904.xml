@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>N0A9</mid>
+  <language>eng</language>
+  <source>FinTech</source>
+  <bookEdition></bookEdition>
+  <title>Collapse of Silicon Valley Bank and USDC Depegging: A Machine Learning Experiment.</title>
+  <pageEnd>590</pageEnd>
+  <pageStart>569</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>22</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Banking industry ; Bank runs ; Cryptocurrencies ; Silicon Valley Bank ; Other Depository Credit Intermediation ; Commercial Banking ; Personal and commercial banking industry ; Savings Institutions ; Machine learning ; Random forest algorithms</subjects>
+  <abstract>The collapse of Silicon Valley Bank (SVB) on 11 March 2023, and the subsequent depegging of the USDC stablecoin highlighted vulnerabilities in the interconnected financial ecosystem. While prior research has explored the systemic risks of stablecoins and their reliance on traditional banking, there has been limited focus on how banking sector shocks affect digital asset markets. This study addresses this gap by analyzing the impact of SVB's collapse on the stability of major stablecoins—USDC, DAI, FRAX, and USDD—and their relationships with Bitcoin and Tether. Using daily data from October 2022 to November 2023, we found that the SVB incident triggered a series of depegging events, with varying effects across stablecoins. Our results indicate that USDC, often viewed as one of the safer stablecoins, was particularly vulnerable due to its reliance on SVB reserves. Other stablecoins experienced different impacts based on their collateral structures. These findings challenge the notion of stablecoins as inherently safe assets and underscore the need for improved risk management and regulatory oversight. Additionally, this study illustrates how machine learning models, including gradient boosting and random forests, can enhance our understanding of financial contagion and market stability.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181940392</an>
+  <docTypes>Article</docTypes>
+  <volume>3</volume>
+  <issns>2674-1032</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1f379174-45cb-309d-83ae-1ac2800c0398</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Diop, Papa Ousseynou ; Chevallier, Julien ; Sanhaji, Bilel</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.3390/fintech3040030</doi>
+</record>

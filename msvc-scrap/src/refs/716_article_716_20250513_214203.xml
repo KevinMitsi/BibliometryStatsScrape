@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Dynamic Electronic Structure Fluctuations in the De Novo Peptide ACC-Dimer Revealed by First-Principles Theory and Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250214</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Macromolecular and Materials Chemistry ; Chemical Sciences ; Theoretical and Computational Chemistry ; Machine Learning and Artificial Intelligence ; Networking and Information Technology R&amp;amp;D (NITRD) ; Medicinal and Biomolecular Chemistry ; Computation Theory and Mathematics ; Medicinal &amp;amp; Biomolecular Chemistry ; Medicinal and biomolecular chemistry ; Theoretical and computational chemistry</subjects>
+  <abstract>Recent studies have reported long-range charge transport in peptide- and protein-based fibers and wires, rendering this class of materials as promising charge-conducting interfaces between biological systems and electronic devices. In the complex molecular environment of biomolecular building blocks, however, it is unclear which chemical and structural dynamic features support electronic conductivity. Here, we investigate the role of finite temperature fluctuations on the electronic structure and its implications for conductivity in a peptide-based fiber material composed of an antiparallel coiled coil hexamer, ACC-Hex, building block. All-atom classical molecular dynamics (MD) and first-principles density functional theory (DFT) are combined with interpretable machine learning (ML) to understand the relationship between physical and electronic structure of the peptide dimer subunit of ACC-Hex. For 1101 unique MD "snapshots" of the ACC peptide dimer, hybrid DFT calculations predict a significant variation of near-gap orbital energies among snapshots, with an increase in the predicted number of nearly degenerate states near the highest occupied molecular orbital (HOMO), which suggests improved conductivity. Interpretable ML is then used to investigate which nuclear conformations increase the number of nearly degenerate states. We find that molecular conformation descriptors of interphenylalanine distance and orientation are, as expected, highly correlated with increased state density near the HOMO. Unexpectedly, we also find that descriptors of tightly coiled peptide backbones, as well as those describing the change in the electrostatic environment around the peptide dimer, are important for predicting the number of hole-accessible states near the HOMO. Our study illustrates the utility of interpretable ML as a tool for understanding complex trends in large-scale ab initio simulations.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt13g0g0s6</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f00f781a-768e-31e8-8c11-9b42bff99fb7</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Mastracco, Peter ; Mohanam, Luke Nambi ; Nagaro, Giacomo ; Prusty, Sangram ; Oh, Younghoon ; Wu, Ruqian ; Cui, Qiang ; Hochbaum, Allon I ; Copp, Stacy M ; Sharifzadeh, Sahar</contributors>
+  <coverDate>20250214</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsjsr</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Military Operations Research</source>
+  <bookEdition></bookEdition>
+  <title>Predicting Enemy Threats in Ground Operations Using Interpretable Machine Learning</title>
+  <pageEnd>116</pageEnd>
+  <pageStart>89</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>28</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>Advanced technology and artificial intelligence (AI) development, driven by the Fourth Industrial Revolution, is bringing about significant changes in various areas of society. However, to apply AI in the defense domain, which aims to protect the lives and property of citizens, it is crucial to ensure the accuracy of the results and the reliability of the underlying thought process. Therefore, various countries and research institutions are studying explainable AI (XAI) for application in the defense sector. In this article, we propose a new interpretable predictive model that combines logical analysis of data (LAD) and neural networks to interpret prediction results, focusing on prediction of enemy threats during real-time military decision making based on the observe, orient, decide, and act (OODA) loop. LAD is an interpretable binary classification method that combines Boolean functions and combinatorial theory. By combining LAD with high-accuracy neural networks, we can accurately predict data and explain the reasons behind the predictions through patterns, rendering the process classifiable as XAI. In the end, our proposed method binarizes virtual enemy unit information and then generates variable patterns using a neural network for prediction of enemy threats. To validate the performance of the newly proposed model, we applied it to well-established data and compared it with existing predictive models. The results showed that our proposed method performed better than or similarly to existing models.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsjsr.27346179</an>
+  <docTypes>research-article</docTypes>
+  <volume>29</volume>
+  <issns>10825983 ; 21632758</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f1d1fa99-2a92-3406-a832-307dc5fef7a1</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Bae, Kyungyeol ; Kim, Dohyun</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>JSTOR Journals</longDBName>
+  <doi></doi>
+</record>

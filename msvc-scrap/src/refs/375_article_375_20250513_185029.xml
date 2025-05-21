@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Chronic Diseases Prediction using Machine Learning and Deep Learning Methods</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250430</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Machine Learning</subjects>
+  <abstract>Chronic diseases, such as cardiovascular disease, diabetes, chronic kidney disease, and thyroid disorders, are the leading causes of premature mortality worldwide. Early detection and intervention are crucial for improving patient outcomes, yet traditional diagnostic methods often fail due to the complex nature of these conditions. This study explores the application of machine learning (ML) and deep learning (DL) techniques to predict chronic disease and thyroid disorders. We used a variety of models, including Logistic Regression (LR), Random Forest (RF), Gradient Boosted Trees (GBT), Neural Networks (NN), Decision Trees (DT) and Native Bayes (NB), to analyze and predict disease outcomes. Our methodology involved comprehensive data pre-processing, including handling missing values, categorical encoding, and feature aggregation, followed by model training and evaluation. Performance metrics such ad precision, recall, accuracy, F1-score, and Area Under the Curve (AUC) were used to assess the effectiveness of each model. The results demonstrated that ensemble methods like Random Forest and Gradient Boosted Trees consistently outperformed. Neutral Networks also showed superior performance, particularly in capturing complex data patterns. The findings highlight the potential of ML and DL in revolutionizing chronic disease prediction, enabling early diagnosis and personalized treatment strategies. However, challenges such as data quality, model interpretability, and the need for advanced computational techniques in healthcare to improve patient outcomes and reduce the burden of chronic diseases. This study was conducted as part of Big Data class project under the supervision of our professors Mr. Abderrahmane EZ-ZAHOUT and Mr. Abdessamad ESSAIDI.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2505.00189</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=15afc2cc-e818-32d1-9bef-74c2b4bcbca9</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Belhad, Houda ; Bourbia, Asmae ; Boughanja, Salma</contributors>
+  <coverDate>20250430</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

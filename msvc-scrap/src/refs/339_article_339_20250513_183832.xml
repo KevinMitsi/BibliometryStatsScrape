@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Metabolites</source>
+  <bookEdition></bookEdition>
+  <title>Targeted Detection of 76 Carnitine Indicators Combined with a Machine Learning Algorithm Based on HPLC-MS/MS in the Diagnosis of Rheumatoid Arthritis.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250318</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>HPLC-MS/MS analysis ; autoimmune disease pathogenesis ; carnitine metabolism ; inflammatory biomarkers ; machine learning diagnostic models ; rheumatoid arthritis diagnosis</subjects>
+  <abstract>BACKGROUND/OBJECTIVES: Early diagnosis and treatment of rheumatoid arthritis (RA) are essential to reducing disability. However, the diagnostic criteria remain unclear, relying on clinical symptoms and blood markers. METHODS: Using high-performance liquid chromatography-mass spectrometry (HPLC-MS/MS) targeted detection, we evaluated 76 carnitine indicators (55 carnitines and 21 corresponding ratios) in the serum of patients with RA to investigate the role of carnitine in RA. A total of 359 patients (207 patients with RA and 152 healthy controls) were included in the study. Screening involved three methods and integrated 76 carnitine indicators and 128 clinical indicators to identify candidate markers to establish a theoretical basis for RA diagnosis and new therapeutic targets. The diagnostic model derived from the screened markers was validated using three machine learning algorithms. RESULTS: The model was refined using eight candidate indicators (C0, C10:1, LYMPH, platelet distribution width, anti-keratin antibody, glucose, urobilinogen, and erythrocyte sedimentation rate (ESR)). The receiver operating characteristic curve, sensitivity, specificity, and accuracy of the V8 model obtained from the training set were &amp;gt;0.948, 79.46%, 92.99%, and 89.18%, whereas those of the test set were &amp;gt;0.925, 78.89%, 89.22%, and 85.87%, respectively. Twenty-four carnitines were identified as risk factors of RA, with three significantly correlating with ESR, four with anti-cyclic citrullinated peptide antibody activity, two with C-reactive protein, five with immunoglobulin-G, eight with immunoglobulin-A levels, and eleven with immunoglobulin-M levels. CONCLUSIONS: Carnitine is integral in the progression of RA. The diagnostic model developed shows excellent diagnostic capacity, improving early detection and enabling timely intervention to minimize disability associated with RA.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt4pr5n6np</an>
+  <docTypes>article</docTypes>
+  <volume>15</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2cb4e41e-35bb-39d8-ba5f-f3e7bd1cb841</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Zhang, Rui ; Wang, Juan ; Zhai, Xiaonan ; Guo, Yuanbing ; Zhou, Lei ; Hao, Xiaoyan ; Yang, Liu ; Xing, Ruiqing ; Hu, Juanjuan ; Gao, Jiawei ; Wang, Fengjuan ; Yang, Jun ; Liu, Jiayun</contributors>
+  <coverDate>20250318</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

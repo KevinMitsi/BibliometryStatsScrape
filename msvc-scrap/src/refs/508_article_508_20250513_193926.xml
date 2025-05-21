@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3183-6</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 7th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), Radio Electronics, Electrical and Power Engineering (REEPE), 2025 7th International Youth Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning in Non-Stationary Object Classification Tasks in Cardiology</title>
+  <pageEnd>6</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Components, Circuits, Devices and Systems ; Computing and Processing ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Nuclear Engineering ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Transportation ; Performance evaluation ; Power engineering ; Accuracy ; Time series analysis ; Electrocardiography ; Predictive models ; Automated machine learning ; Cardiology ; Cardiovascular diseases ; Medical diagnostic imaging ; cardiovascular disease ; Automated Machine Learning ; classification ; Electrocardiogram ; machine learning ; Healthcare</subjects>
+  <abstract>The aim of the study is to analyse approaches to classification of non-stationary objects in cardiology using modern Automated Machine Learning (AutoML) frameworks. The work focuses on Electrocardiogram (ECG) data, which are key for diagnosing cardiovascular diseases. The paper compares two AutoML frameworks-TPOT and FLAML, examines their capabilities in time series processing, model optimisation and prediction accuracy. As a result of the experiments, conclusions are drawn that TPOT handles the classification task better than FLAML on the selected amount of data. Also, conclusions about the prospects of using AutoML frameworks for use in cardiology and, in particular, for working with multimodal medical data when analysing ECG data are made.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10971163</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>28317262</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=72c32a01-242d-37d8-920c-c02bcf732ad4</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Platonova, Valeria O. ; Platonov, Kirill D. ; Skvortsova, Maria A. ; Andrikov, Denis A.</contributors>
+  <coverDate>20250408</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/REEPE63962.2025.10971163</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Scientific reports</source>
+  <bookEdition></bookEdition>
+  <title>Predicting responsiveness to fixed-dose methylene blue in adult patients with septic shock using interpretable machine learning: a retrospective study.</title>
+  <pageEnd></pageEnd>
+  <pageStart>7254</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Methylene Blue administration &amp;amp; dosage ; Methylene Blue therapeutic use ; Shock, Septic drug therapy ; Machine Learning ; Humans ; Retrospective Studies ; Female ; Male ; Middle Aged ; Aged ; Adult ; Support Vector Machine ; Treatment Outcome</subjects>
+  <abstract>Declarations. Competing interests: The authors declare that they have no competing interests.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40021734</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f4e67ee3-9cf9-3c2c-9ded-46f165b9a6d9</plink>
+  <doids></doids>
+  <publisher>Nature Publishing Group</publisher>
+  <contributors>Xue, Shasha ; Li, Li ; Liu, Zhuolun ; Lyu, Feng ; Wu, Fan ; Shi, Panxiao ; Zhang, Yongmin ; Zhang, Lina ; Qian, Zhaoxin</contributors>
+  <coverDate>2025 Mar 01</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1038/s41598-025-89934-w</doi>
+</record>

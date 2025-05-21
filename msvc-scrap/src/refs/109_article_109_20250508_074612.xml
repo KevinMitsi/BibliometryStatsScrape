@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>K5CC</mid>
+  <language>eng</language>
+  <source>Journal of Clinical Medicine</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Classification of Pediatric Health Status Based on Cardiorespiratory Signals with Causal and Information Domain Features Applied—An Exploratory Study.</title>
+  <pageEnd></pageEnd>
+  <pageStart>7353</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>23</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; CHILD patients ; COUPLINGS (Gearing) ; CLASSIFICATION ; Other engine and power transmission equipment manufacturing ; Mechanical Power Transmission Equipment Manufacturing</subjects>
+  <abstract>Background/Objectives: This study aimed to evaluate the accuracy of machine learning (ML) techniques in classifying pediatric individuals—cardiological patients, healthy participants, and athletes—based on cardiorespiratory features from short-term static measurements. It also examined the impact of cardiorespiratory coupling (CRC)-related features (from causal and information domains) on the modeling accuracy to identify a preferred cardiorespiratory feature set that could be further explored for specialized tasks, such as monitoring training progress or diagnosing health conditions. Methods: We utilized six self-prepared datasets that comprised various subsets of cardiorespiratory parameters and applied several ML algorithms to classify subjects into three distinct groups. This research also leveraged explainable artificial intelligence (XAI) techniques to interpret model decisions and investigate feature importance. Results: The highest accuracy, over 89%, was obtained using the dataset that included most important demographic, cardiac, respiratory, and interrelated (causal and information) domain features. The dataset that comprised the most influential features but without demographic data yielded the second best accuracy, equal to 85%. Incorporation of the causal and information domain features significantly improved the classification accuracy. The use of XAI tools further highlighted the importance of these features with respect to each individual group. Conclusions: The integration of ML algorithms with a broad spectrum of cardiorespiratory features provided satisfactory efficiency in classifying pediatric individuals into groups according to their actual health status. This study underscored the potential of ML and XAI in advancing the analysis of cardiorespiratory signals and emphasized the importance of CRC-related features. The established set of features that appeared optimal for the classification of pediatric patients should be further explored for their potential in assessing individual progress through training or rehabilitation.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181665125</an>
+  <docTypes>Article</docTypes>
+  <volume>13</volume>
+  <issns>2077-0383</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fbdc0095-344c-351e-b7ec-35a4a96357f7</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Rosoł, Maciej ; Gąsior, Jakub S. ; Korzeniewski, Kacper ; Łaba, Jonasz ; Makuch, Robert ; Werner, Bożena ; Młyńczak, Marcel</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/jcm13237353</doi>
+</record>

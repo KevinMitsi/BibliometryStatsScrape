@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine learning algorithms to predict stroke in China based on causal inference of time series analysis</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250310</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Quantitative Biology - Quantitative Methods ; Computer Science - Machine Learning ; Statistics - Applications ; Statistics - Machine Learning</subjects>
+  <abstract>Participants: This study employed a combination of Vector Autoregression (VAR) model and Graph Neural Networks (GNN) to systematically construct dynamic causal inference. Multiple classic classification algorithms were compared, including Random Forest, Logistic Regression, XGBoost, Support Vector Machine (SVM), K-Nearest Neighbor (KNN), Gradient Boosting, and Multi Layer Perceptron (MLP). The SMOTE algorithm was used to undersample a small number of samples and employed Stratified K-fold Cross Validation. Results: This study included a total of 11,789 participants, including 6,334 females (53.73%) and 5,455 males (46.27%), with an average age of 65 years. Introduction of dynamic causal inference features has significantly improved the performance of almost all models. The area under the ROC curve of each model ranged from 0.78 to 0.83, indicating significant difference (P &amp;lt; 0.01). Among all the models, the Gradient Boosting model demonstrated the highest performance and stability. Model explanation and feature importance analysis generated model interpretation that illustrated significant contributors associated with risks of stroke. Conclusions and Relevance: This study proposes a stroke risk prediction method that combines dynamic causal inference with machine learning models, significantly improving prediction accuracy and revealing key health factors that affect stroke. The research results indicate that dynamic causal inference features have important value in predicting stroke risk, especially in capturing the impact of changes in health status over time on stroke risk. By further optimizing the model and introducing more variables, this study provides theoretical basis and practical guidance for future stroke prevention and intervention strategies.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2503.14512</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e2304817-c9ca-3490-9a70-f5c2feae3c67</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Zheng, Qizhi ; Zhao, Ayang ; Wang, Xinzhu ; Bai, Yanhong ; Wang, Zikun ; Wang, Xiuying ; Zeng, Xianzhang ; Dong, Guanghui</contributors>
+  <coverDate>20250310</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

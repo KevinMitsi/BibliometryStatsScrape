@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>OI8</mid>
+  <language>eng</language>
+  <source>Journal of Intelligent Manufacturing</source>
+  <bookEdition></bookEdition>
+  <title>Enhanced modeling method of thermal behaviors in machine tool motorized spindles based on the mixture of thermal mechanism and machine learning.</title>
+  <pageEnd>242</pageEnd>
+  <pageStart>221</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>22</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Standard deviations ; Artificial intelligence ; Industrial capacity ; Machine learning ; Spindles (Machine tools) ; Digital twin</subjects>
+  <abstract>The thermal behavior of the motorized spindle is a key issue that restricts the accuracy and efficiency of machining centers. Spindle thermal error modeling and compensation methods usually predict thermal errors based on temperature sensors on the spindle. However, the undetectable temperature region inside the spindle is an important source of thermal deformation, which leads to the lack of sufficient robustness of existing thermal error models. To improve the robustness of real-time prediction of spindle thermal error, an enhanced modeling method based on a mixture of the mechanism model and machine learning is proposed. First, the thermal network of the spindle is developed to predict the transient temperature field by determining the parameters through finite element (FE) simulation and thermal behavior experiments. Then, a data-fusion approach of the predicted temperature field and the measured data was established to enhance thermal error models by providing more thermal characteristic information inside the spindle to the machine learning process. Cross-validation shows that this method is universal to various types of machine learning modeling methods, including GRU, LSTM, LSSVM, BP, and MLR. Compared with the traditional method of using only basic sensors, this proposed method greatly improves the accuracy and robustness at the same hardware cost. The root mean square error (RMSE) decreased by 17–59%, and the fluctuation range decreased by 38–60%. Compared with the traditional method of attaching additional temperature sensors on the spindle, it saves 85.7% of the sensor cost and reduces the average RMSE by −0.27–27% and the fluctuation range by 10–40%. Finally, a digital twin system with a physical-edge-cloud layer structure is established for real-time prediction of spindle thermal behavior based on the best cost–benefit configuration, the enhanced LSTM model with basic sensors. It improves the accuracy and robustness of thermal error prediction results with lower sensor cost and can monitor the temperature changes inside the spindle in real-time, providing the possibility for potential industrial applications of intelligent spindles.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182077339</an>
+  <docTypes>Article</docTypes>
+  <volume>36</volume>
+  <issns>0956-5515</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=14fa478a-dde4-31eb-8e02-494404616c6b</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Yang, Yun ; Lv, Jun ; Xiao, Yukun ; Feng, Xiaobing ; Du, Zhengchun</contributors>
+  <coverDate>Jan2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1007/s10845-023-02234-w</doi>
+</record>

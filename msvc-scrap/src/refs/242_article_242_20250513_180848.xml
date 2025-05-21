@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KSD</mid>
+  <language>eng</language>
+  <source>Environmental Monitoring &amp;amp; Assessment</source>
+  <bookEdition></bookEdition>
+  <title>Integrating Sentinel-1 data and machine learning for effective paddy field monitoring in Cauvery Delta Zone, Tamil Nadu, India.</title>
+  <pageEnd>19</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>19</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Agriculture ; Machine learning ; Artificial intelligence ; Bowls (Tableware) ; Support vector machines</subjects>
+  <abstract>Paddy crop mapping is essential for agricultural monitoring, ensuring food security, and enhancing resource allocation. This study observes the Cauvery Delta Zone (CDZ), recognized as the rice bowl of Tamil Nadu and a crucial area for paddy farming in India. The study seeks to elucidate rice-growing trends over three years (2021–2023) by examining the regional variability of the Radar Vegetation Index (RVI) throughout a paddy crop growing season (June to September). A temporal examination of the RVI and the cross-polarization ratio (VH/VV) demonstrates a good correlation of 0.79, enhancing the comprehension of paddy crop dynamics. Additionally, machine learning algorithms such as random forest (RF), support vector machine (SVM), and decision tree (DT) are utilized on radar data in both VV and VH polarizations to improve the classification of paddy fields. The accuracy evaluation indicates that the RF algorithm exhibits superior performance, achieving accuracies of 86.72% in VH mode and 86.42% in VV mode. The results underscore the efficacy of integrating radar-based indices with machine learning methodologies for proficient agricultural surveillance. These findings offer essential assistance for enhancing crop yield, optimizing resource management, and enabling informed decision-making in the Cauvery Delta Zone.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182279423</an>
+  <docTypes>Article</docTypes>
+  <volume>197</volume>
+  <issns>0167-6369</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=63745a4c-c5aa-3fbe-a6ac-b5dff5853262</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Niraimathi, Janardhanam ; Saravanan, Subbarayan</contributors>
+  <coverDate>Jan2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1007/s10661-024-13487-0</doi>
+</record>

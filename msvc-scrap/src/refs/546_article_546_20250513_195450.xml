@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Machine Learning with Applications</source>
+  <bookEdition></bookEdition>
+  <title>Improving mango ripeness grading accuracy: A comprehensive analysis of deep learning, traditional machine learning, and transfer learning techniques</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Deep learning ; Ripeness ; Transfer learning ; Convolutional neural network ; Image processing</subjects>
+  <abstract>Bangladesh ranks among the top 10 countries globally in mango output. Mangoes can be classified based on their ripeness, with skin color being the most significant aspect. The current classification procedure is done manually, leading to mistakes and vulnerability to human error. Most research often focuses on using a single method to assess the ripeness of fruits. The study comprises a set of comprehensive tests showcasing different tactics for determining the most efficient methods through various models. One unique dataset was used for all five models: Gaussian Naive Bayes (GNB), Support Vector Machine (SVM), Gradient Boosting (GB), Random Forest (RF), and K-Nearest Neighbors (KNN). Utilizing convolutional neural networks (CNNs) and VGG16, a pre-trained CNN model, to extract features and train the dataset. Used these training datasets as input to calculate the average accuracy of the five models during testing. In addition to these experiments, these five models using standard techniques also evaluated. The study also included a comparative analysis that emphasized the best performance of each model in various scenarios. This analysis shows that the CNN model consistently performs better than the transfer learning model (VGG16) and classical machine learning methods. Except for the KNN and Naive Bayes scenarios, the VGG16 model achieved much higher accuracy compared to typical machine learning methods. In three other models, classical machine learning outperforms the VGG16 model. The Gradient Boosting model in deep learning (CNN) demonstrated the highest accuracy of 96.28 % compared to other models and techniques.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2666827025000027</an>
+  <docTypes>Article</docTypes>
+  <volume>19</volume>
+  <issns>2666-8270</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fa078f12-7da7-3610-b405-9e71dc107469</plink>
+  <doids></doids>
+  <publisher>Elsevier Ltd</publisher>
+  <contributors>Sikder, Md․ Saon ; Islam, Mohammad Shamsul ; Islam, Momenatul ; Reza, Md․ Suman</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.mlwa.2025.100619</doi>
+</record>

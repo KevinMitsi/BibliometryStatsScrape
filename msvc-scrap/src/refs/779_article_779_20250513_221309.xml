@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Scientific reports</source>
+  <bookEdition></bookEdition>
+  <title>Prognostic model for log odds of negative lymph node in locally advanced rectal cancer via interpretable machine learning.</title>
+  <pageEnd></pageEnd>
+  <pageStart>7924</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Rectal Neoplasms pathology ; Rectal Neoplasms therapy ; Rectal Neoplasms mortality ; Machine Learning ; Lymph Nodes pathology ; Humans ; Male ; Female ; Middle Aged ; Prognosis ; Aged ; Neoadjuvant Therapy ; Lymphatic Metastasis ; Adult ; ROC Curve ; Disease-Free Survival ; Neoplasm Staging</subjects>
+  <abstract>Declarations. Competing interests: The authors declare no competing interests.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40050297</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0371e070-93eb-31b7-886c-b7599751fe5c</plink>
+  <doids></doids>
+  <publisher>Nature Publishing Group</publisher>
+  <contributors>Wang, Ye ; Pan, Zhen ; Cai, Huajun ; Li, Shoufeng ; Huang, Ying ; Zhuang, Jinfu ; Liu, Xing ; Guan, Guoxian</contributors>
+  <coverDate>2025 Mar 07</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1038/s41598-025-90191-0</doi>
+</record>

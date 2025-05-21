@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BAUW</mid>
+  <language>eng</language>
+  <source>Procedia Computer Science</source>
+  <bookEdition></bookEdition>
+  <title>Enhancing Amblyopia Screening with Machine Learning: Challenges and Solutions in Data Preparation.</title>
+  <pageEnd>1097</pageEnd>
+  <pageStart>1092</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Clinical decision support systems ; Optical character recognition ; Vision disorders ; Pediatric ophthalmology ; Machine learning</subjects>
+  <abstract>Amblyopia, a developmental disorder of the visual system, can lead to long-term visual impairment if not diagnosed and treated early. In Portugal, the "Rastreio de Sáude Visual Infantil" (RSVI) program aims to detect amblyogenic risk factors in young children through photoscreening but, despite its potential, the program faces challenges related to high referral rates. This paper addresses the data preparation challenges encountered in the development of a clinical decision support system for amblyopia screening. A multi-step process is presented for transforming unstructured data from RSVI screening reports into a structured format suitable for machine learning applications. The key steps include PDF-to-image conversion, Optical Character Recognition (OCR) and data preprocessing to enhance data quality and consistency. This work highlights the importance of comprehensive data preparation strategies in improving the quality of clinical datasets and supporting more effective data-driven healthcare solutions.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184754008</an>
+  <docTypes>Article</docTypes>
+  <volume>257</volume>
+  <issns>1877-0509</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d9600557-f9c2-3335-8209-b118cc5d3ebe</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Mendes, Inês ; Miranda, Vasco ; Salazar, Maria ; Peixoto, Hugo ; Abelha, António</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.1016/j.procs.2025.03.143</doi>
+</record>

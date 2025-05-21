@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Malaysian Journal of Computing</source>
+  <bookEdition></bookEdition>
+  <title>EXAMINING THE IMPACT OF FEATURE SELECTION TECHNIQUES ON MACHINE AND DEEP LEARNING MODELS FOR THE PREDICTION OF COVID-19</title>
+  <pageEnd>2158</pageEnd>
+  <pageStart>2135</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>24</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>covid-19 ; deep learning ; extreme learning machine ; feature selection ; machine learning models ; prediction ; Electronic computers. Computer science ; QA75.5-76.95</subjects>
+  <abstract>Feature selection is a vital preprocessing step for identifying the most informative features in complex datasets, enhancing the efficiency and accuracy of machine learning models. Its applications extend across various domains, including big data analytics, finance, chemometrics, medical diagnostics, biological research, intrusion detection systems, and renewable energy solutions. In medical contexts, feature selection serves a dual purpose: it reduces dimensionality while simultaneously improving the comprehension of disease etiology. This study delves into key variable selection methods—specifically Recursive Feature Elimination (RFE), Principal Component Analysis (PCA) and Least Absolute Shrinkage and Selection Operator (LASSO). We evaluate the interaction of these methods with Support Vector Machines (SVM), Logistic Regression (LR), and eXtreme Gradient Boosting (XGBoost) for COVID-19 prediction. Key performance metrics, including F1-score, precision, recall, and accuracy. LASSO with SVM performed the best overall in terms of accuracy = 0.7679 and precision=0.8236, but PCA outperformed RFE with XGBoost, underscoring the importance of matching feature selection methods to model types. In addition, we employ a deep learning Feature Selection method based on Extreme Learning Machine (FSELM) and compare its effectiveness against the established feature selection techniques. Our work reveals that Lactate Dehydrogenase (LDH) is the most relevant feature while predicting COVID-19. This research aims to provide insights into the optimal integration of feature selection techniques with advanced machine learning models for accurate prediction of COVID-19 virus.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.bf57af1a52304a93a6d6ec3af3b3b046</an>
+  <docTypes>article</docTypes>
+  <volume>10</volume>
+  <issns>26008238</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=70f563e3-02ac-39f4-849b-b9b80d2a91ac</plink>
+  <doids></doids>
+  <publisher>UiTM Press</publisher>
+  <contributors>Hafiza Zoya Mojahid ; Jasni Mohamad Zain ; Marina Yusoff ; Abdul Basit ; Abdul Kadir Jumaat ; Mushtaq Ali</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.24191/mjoc.v10i1.4475</doi>
+</record>

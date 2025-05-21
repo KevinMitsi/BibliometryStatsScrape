@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3503-6836-9</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE Wireless Communications and Networking Conference (WCNC), Wireless Communications and Networking Conference (WCNC), 2025 IEEE</source>
+  <bookEdition></bookEdition>
+  <title>FMCW Radar-Based Human Activity Recognition: A Machine Learning Approach for Elderly Care</title>
+  <pageEnd>6</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250324</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Support vector machines ; Deep learning ; Radar imaging ; Millimeter wave radar ; Feature extraction ; Vectors ; Human activity recognition ; Older adults ; Millimeter wave communication ; Long short term memory ; mmWave ; FMCW radar ; human activity recog-nition ; machine learning ; deep learning ; elderly care ; ambient assisted living</subjects>
+  <abstract>In this paper, we propose a novel system prototype for human activity recognition using a low-cost, low-power millimeter-wave (mmWave) frequency-modulated continuous wave (FMCW) radar. Our approach applies the Fast Fourier Transform on the slow time axis and employs a Capon filter to generate range-Doppler, range-azimuth, and range-elevation maps, respectively. It can also effectively mitigate noise and multipath effects. We then use principal component analysis for feature reduction, reducing the dimensionality of the feature vectors extracted from these maps, which can be used to train conventional machine learning classifiers. This approach aims to achieve a balance between computational complexity, accuracy, and overall system performance. Our proposed system demon-strates promising recognition rates and robustness across varying levels of activity granularity, achieving recognition rates from 90.28% for four activities up to 70.97% for seven fine-grained ac-tivities. These findings highlight the potential of millimeter wave radar and suggested range maps combined with conventional machine learning classifiers for noninvasive, privacy-preserving activity recognition, with significant implications for healthcare, elderly care, and ambient assisted living.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10978639</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>15582612</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2f8c0d2d-51c5-3853-b091-41a7c4883c9d</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Mashhadigholamali, Mohammadreza ; Fard, Ali Samimi ; Zolfaghari, Samaneh ; Abedi, Hajar ; Chakraborty, Mainak ; Borzl, Luigi ; Daneshtalab, Masoud ; Shaker, George</contributors>
+  <coverDate>20250324</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/WCNC61545.2025.10978639</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Journal of Materials Research and Technology</source>
+  <bookEdition></bookEdition>
+  <title>Predicting the high-strain-rate deformation behavior and constructing processing maps of 304L stainless steel through machine learning and deep learning</title>
+  <pageEnd>7518</pageEnd>
+  <pageStart>7507</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Stainless steel ; Thermomechanical processing ; Machine learning ; Deep learning ; Random forest ; Processing map</subjects>
+  <abstract>This study deals with predicting the high-temperature compressive flow behavior of stainless steel 304L employing the machine learning and deep learning algorithms. An special focus has been laid on the high strain rate regime, where the phenomenological models are basically incapable of precise predicting. Uniaxial compression tests were conducted at temperatures of 700, 800, and 900 °C and strain rates of 0.1, 1, 10, 30, 50 and 100 s−1. An Arrhenius-type model was employed as the phenomenological approach. However, due to the significant variation of activation energy and strain rate sensitivity parameters across the wide range of strain rates, it exhibited limited accuracy in predicting the flow stress behavior. Random forest and artificial neural network, demonstrated superior performance. These models were optimized through hyperparameter tuning to enhance their predictive capabilities, and the models were evaluated using standard statistical metrics. Both the random forest and artificial neural network models effectively predicted flow stress levels and captured the strain hardening and flow softening behavior of the material. The Random Forest model was optimized with various parameters, and the best performance came from a tree depth of 15, 150 estimators, and 150 leaf nodes. The Artificial Neural Network (ANN) was tested with various hidden layer and neuron configurations. The optimal model was a three-layer architecture with an input layer, a hidden layer of 20 neurons, and an output layer. Furthermore, the random forest model was used to construct processing maps, identifying safe and unsafe processing zones.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2238785425011639</an>
+  <docTypes>Article</docTypes>
+  <volume>36</volume>
+  <issns>2238-7854</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8bcabb16-33d2-3dba-9611-6495db42e4ec</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Ghaffari Farid, M. ; Abedi, H.R. ; Ghasempour, R. ; Taylor, A. ; Khoddam, S. ; Hodgson, P.D.</contributors>
+  <coverDate>May-June 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.jmrt.2025.05.009</doi>
+</record>

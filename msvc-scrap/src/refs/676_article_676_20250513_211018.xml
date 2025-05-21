@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Geoscience Frontiers</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning of pyrite geochemistry reconstructs the multi-stage history of mineral deposits</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Random forest ; Support vector machine ; Pyrite ; Multi-stage genesis ; Keketale deposit</subjects>
+  <abstract>Highlights •Big balanced data using RF/SVM can identify the origins of minerals.•Pyrites at Keketale deposit are distinguished between early VMS and later orogenic types.•Machine learning revealed a two-stage ore-forming history of the Keketale deposit.•Machine learning methods can reconstruct complicated history of mineral deposits.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S1674987125000118</an>
+  <docTypes>Article</docTypes>
+  <volume>16</volume>
+  <issns>1674-9871</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=dbe27ac8-3ebf-38a1-92d7-cd63b4d64135</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Yu, Pengpeng ; Liu, Yuan ; Wang, Hanyu ; Chen, Xi ; Zheng, Yi ; Cao, Wei ; Xiong, Yiqu ; Shan, Hongxiang</contributors>
+  <coverDate>May 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.gsf.2025.102011</doi>
+</record>

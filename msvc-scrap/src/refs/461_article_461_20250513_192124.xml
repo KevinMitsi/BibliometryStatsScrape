@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B74E</mid>
+  <language>eng</language>
+  <source>Future Internet</source>
+  <bookEdition></bookEdition>
+  <title>Data-Driven Diagnostics for Pediatric Appendicitis: Machine Learning to Minimize Misdiagnoses and Unnecessary Surgeries.</title>
+  <pageEnd></pageEnd>
+  <pageStart>147</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; RECEIVER operating characteristic curves ; MULTILAYER perceptrons ; APPENDICITIS ; CHILD patients</subjects>
+  <abstract>Pediatric appendicitis remains a challenging condition to diagnose accurately due to its varied clinical presentations and the non-specific nature of symptoms, particularly in younger patients. Traditional diagnostic approaches often result in delayed treatments or unnecessary surgical interventions, highlighting the need for more robust diagnostic tools. In this study, we explore the potential of machine learning (ML) algorithms to improve the diagnosis, management, and prediction of appendicitis severity in pediatric patients. Using a dataset of pediatric patients with suspected appendicitis, we developed and compared several ML models, including logistic regression (LR), random forests (RFs), gradient boosting machines (GBMs), and Multilayer Perceptrons (MLPs). These models were trained using clinical, laboratory, and imaging data to predict three key outcomes: diagnosis accuracy, management strategy, and the likelihood of negative appendectomies. Our results demonstrate that the RF model achieved the highest overall performance with an Area Under the Receiver Operating Characteristic curve (AUC-ROC) score of 0.94 for diagnosing appendicitis, 0.92 for determining the appropriate management strategy, and 0.70 for predicting appendicitis severity. Furthermore, by employing advanced feature selection techniques, the models were able to reduce the number of unnecessary surgical interventions by up to 17%, highlighting their potential for clinical application. The findings of this study suggest that ML models can significantly enhance diagnostic accuracy and provide valuable insights for managing pediatric appendicitis, potentially reducing unnecessary surgeries and improving patient outcomes.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184749648</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>1999-5903</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fe7a05a4-d76d-3003-8717-b9ce74f06b63</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Maffezzoni, Deborah ; Barbierato, Enrico ; Gatti, Alice</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/fi17040147</doi>
+</record>

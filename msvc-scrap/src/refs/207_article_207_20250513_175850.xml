@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Exploration of the Application of Big Data and Machine Learning Algorithms in Electric Shock Prevention Warning</title>
+  <pageEnd>174</pageEnd>
+  <pageStart>169</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Support vector machines ; Machine learning algorithms ; Accuracy ; Electric shock ; Prevention and mitigation ; Big Data ; Predictive models ; Real-time systems ; Personnel ; Accidents ; big data ; machine learning algorithm ; electric shock prevention warning ; real-time monitoring</subjects>
+  <abstract>In view of the high incidence of electric shock accidents and the imperfect early warning system, big data analysis and machine learning algorithms are applied to precisely predict potential electric shock risks and give early warnings, thereby reducing the occurrence of electric shock accidents. First, various environmental, equipment, and personnel behavior data related to electric shock are collected and integrated, including indicators such as temperature and humidity, current fluctuations, and equipment usage frequency. Then, data preprocessing technology is used to clean the noise data to ensure data quality. Next, the support vector machine (SVM) machine learning algorithm is used to build a prediction model and train it through historical electric shock cases. Finally, the electric shock risk is predicted by inputting the model into the real-time monitoring data, and automatic warning is realized by combining the warning threshold. Studies have shown that the electric shock prevention warning system based on big data and machine learning has significantly improved in accuracy and response speed. Compared with traditional methods, the model can respond within 30 seconds after the electric shock event occurs, and the recall rate is close to 92%. The application of big data and machine learning algorithms in electric shock prevention warning has high practical value and potential. It not only improves the accuracy and real-time nature of warning, but also provides data support for preventive measures and reduces the risk of electric shock accidents.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10968690</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=59c424d5-ea34-363a-a1e2-2451487d9025</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Zhang, Kan ; Li, Yong ; Cui, Yichen ; Zheng, Ke ; Zhang, Peiyi ; Yang, Qian</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10968690</doi>
+</record>

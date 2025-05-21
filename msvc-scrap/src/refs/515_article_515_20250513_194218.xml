@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781803232416 ; 9781803246796</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition>Second edition</bookEdition>
+  <title>Mastering Azure Machine Learning : Execute Large-scale End-to-end Machine Learning with Azure</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20220101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Computer Science ; Microsoft Azure (Computing platform) ; Cloud computing ; Machine learning</subjects>
+  <abstract>Supercharge and automate your deployments to Azure Machine Learning clusters and Azure Kubernetes Service using Azure Machine Learning servicesKey FeaturesImplement end-to-end machine learning pipelines on AzureTrain deep learning models using Azure compute infrastructureDeploy machine learning models using MLOpsBook DescriptionAzure Machine Learning is a cloud service for accelerating and managing the machine learning (ML) project life cycle that ML professionals, data scientists, and engineers can use in their day-to-day workflows. This book covers the end-to-end ML process using Microsoft Azure Machine Learning, including data preparation, performing and logging ML training runs, designing training and deployment pipelines, and managing these pipelines via MLOps. The first section shows you how to set up an Azure Machine Learning workspace; ingest and version datasets; as well as preprocess, label, and enrich these datasets for training. In the next two sections, you'll discover how to enrich and train ML models for embedding, classification, and regression. You'll explore advanced NLP techniques, traditional ML models such as boosted trees, modern deep neural networks, recommendation systems, reinforcement learning, and complex distributed ML training techniques - all using Azure Machine Learning. The last section will teach you how to deploy the trained models as a batch pipeline or real-time scoring service using Docker, Azure Machine Learning clusters, Azure Kubernetes Services, and alternative deployment targets. By the end of this book, you'll be able to combine all the steps you've learned by building an MLOps pipeline.What you will learnUnderstand the end-to-end ML pipelineGet to grips with the Azure Machine Learning workspaceIngest, analyze, and preprocess datasets for ML using the Azure cloudTrain traditional and modern ML techniques efficiently using Azure MLDeploy ML models for batch and real-time scoringUnderstand model interoperability with ONNXDeploy ML models to FPGAs and Azure IoT EdgeBuild an automated MLOps pipeline using Azure DevOpsWho this book is forThis book is for machine learning engineers, data scientists, and machine learning developers who want to use the Microsoft Azure cloud to manage their datasets and machine learning experiments and build an enterprise-grade ML architecture using MLOps. This book will also help anyone interested in machine learning to explore important steps of the ML process and use Azure Machine Learning to support them, along with building powerful ML cloud applications. A basic understanding of Python and knowledge of machine learning are recommended.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>3274268</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8f5ce4fe-4c10-3b6d-b60a-6502ce023b70</plink>
+  <doids>NL$3274268$PDF ; NL$3274268$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Christoph Korner ; Marcel Alsdorf</contributors>
+  <coverDate>2022</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

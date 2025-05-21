@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HAYR</mid>
+  <language>eng</language>
+  <source>Ingénierie des Systèmes d'Information</source>
+  <bookEdition></bookEdition>
+  <title>Predicting Stock Prices of Digital Banks: A Machine Learning Approach Combining Historical Data and Social Media Sentiment from X.</title>
+  <pageEnd>701</pageEnd>
+  <pageStart>687</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Stock prices ; Online banking ; Market sentiment ; Sentiment analysis ; Natural language processing ; Indonesia ; Commercial Banking ; Personal and commercial banking industry ; Machine learning ; Historical source material ; Prediction models</subjects>
+  <abstract>This research aims to develop a stock price prediction model for PT Bank Jago Tbk, a digital bank from Indonesia, by utilizing historical stock price data and market sentiment from X, using machine learning algorithms. Market sentiment is extracted from tweets related to PT Bank Jago Tbk using sentiment analysis based on Natural Language Processing (NLP), which is then combined with historical stock price fluctuations. Several machine learning algorithms, such as linear regression, Random Forest, and Neural Networks, are applied to evaluate the predictive performance of stock prices. The results show that the linear regression-based model provides the most accurate predictions, with lower Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE) compared to other models. Furthermore, the model that relies solely on historical stock price data delivers predictions that are almost as accurate as the model integrating Twitter sentiment. Consequently, this study indicates that sentiment analysis from Twitter has a limited impact on the case of PT Bank Jago Tbk, although its potential to influence stock markets in other companies or sectors still warrants further exploration. This study contributes to the development of more comprehensive predictive models by integrating market sentiment factors and offers new insights into the role of social media in the stock market.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184436917</an>
+  <docTypes>Article</docTypes>
+  <volume>30</volume>
+  <issns>1633-1311</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e793e07c-e502-3e41-9d8a-433b9a8c7e85</plink>
+  <doids></doids>
+  <publisher>International Information &amp;amp; Engineering Technology Association (IIETA)</publisher>
+  <contributors>Arif, Erman ; Suherman, Suherman ; Widodo, Aris Puji</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.18280/isi.300313</doi>
+</record>

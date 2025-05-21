@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781784399689 ; 9781784394011</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Community Experience Distilled</source>
+  <bookEdition></bookEdition>
+  <title>Practical Machine Learning : Learn How to Build Machine Learning Applications to Solve Real-world Data Analysis Challenges with This Machine Learning Book – Packed with Practical Tutorials</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20160101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Business &amp;amp; Productivity Software / Business Intelligence ; COMPUTERS / Languages / Java ; COMPUTERS / Languages / Python ; Machine learning</subjects>
+  <abstract>Tackle the real-world complexities of modern machine learning with innovative, cutting-edge techniquesKey Features[•]Fully-coded working examples using a wide range of machine learning libraries and tools, including Python, R, Julia, and Spark[•]Comprehensive practical solutions taking you into the future of machine learning[•]Go a step further and integrate your machine learning projects with HadoopBook DescriptionThis book explores an extensive range of machine learning techniques uncovering hidden tricks and tips for several types of data using practical and real-world examples. While machine learning can be highly theoretical, this book offers a refreshing hands-on approach without losing sight of the underlying principles. Inside, a full exploration of the various algorithms gives you high-quality guidance so you can begin to see just how effective machine learning is at tackling contemporary challenges of big data This is the only book you need to implement a whole suite of open source tools, frameworks, and languages in machine learning. We will cover the leading data science languages, Python and R, and the underrated but powerful Julia, as well as a range of other big data platforms including Spark, Hadoop, and Mahout. Practical Machine Learning is an essential resource for the modern data scientists who want to get to grips with its real-world application. With this book, you will not only learn the fundamentals of machine learning but dive deep into the complexities of real world data before moving on to using Hadoop and its wider ecosystem of tools to process and manage your structured and unstructured data. You will explore different machine learning techniques for both supervised and unsupervised learning; from decision trees to Naïve Bayes classifiers and linear and clustering methods, you will learn strategies for a truly advanced approach to the statistical analysis of data. The book also explores the cutting-edge advancements in machine learning, with worked examples and guidance on deep learning and reinforcement learning, providing you with practical demonstrations and samples that help take the theory–and mystery–out of even the most advanced machine learning methodologies.What you will learn[•]Implement a wide range of algorithms and techniques for tackling complex data[•]Get to grips with some of the most powerful languages in data science, including R, Python, and Julia[•]Harness the capabilities of Spark and Hadoop to manage and process data successfully[•]Apply the appropriate machine learning technique to address real-world problems[•]Get acquainted with Deep learning and find out how neural networks are being used at the cutting-edge of machine learning[•]Explore the future of machine learning and dive deeper into polyglot persistence, semantic data, and moreWho this book is forThis book has been created for data scientists who want to see machine learning in action and explore its real-world application. With guidance on everything from the fundamentals of machine learning and predictive analytics to the latest innovations set to lead the big data revolution into the future, this is an unmissable resource for anyone dedicated to tackling current big data challenges. Knowledge of programming (Python and R) and mathematics is advisable if you want to get started immediately.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1163839</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bf0adfda-a0f4-344d-9637-54557067ca84</plink>
+  <doids>NL$1163839$PDF ; NL$1163839$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Sunila Gollapudi</contributors>
+  <coverDate>2016</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

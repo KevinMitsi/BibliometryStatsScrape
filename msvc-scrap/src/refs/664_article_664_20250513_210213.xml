@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Development and validation of interpretable machine learning models to predict distant metastasis and prognosis of muscle-invasive bladder cancer patients.</title>
+  <pageEnd>21</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250406</publicationDate>
+  <pageCount>21</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; NON-muscle invasive bladder cancer ; CANCER invasiveness ; DATABASES ; BLADDER cancer</subjects>
+  <abstract>Muscle-Invasive Bladder Cancer (MIBC) is a more aggressive disease than non-muscle-invasive bladder cancer (NMIBC), with greater chances of metastasis. We sought to develop machine learning (ML) models to predict metastasis and prognosis in MIBC patients. Clinical data of MIBC cases from 2000 to 2020 were sourced from the Surveillance, Epidemiology, and End Results (SEER) database. Clinical variables used to predict DM were identified through univariate and multivariate logistic regression, and Recursive Feature Elimination (RFE). Thirteen ML models predicting DM were evaluated based on AUC, PRAUC, accuracy, sensitivity, specificity, precision, cross-entropy, Brier score, balanced accuracy, and F-beta score. SHapley Additive exPlanations (SHAP) framework helped interpret the best model. Additionally, we utilized ML algorithm combinations to predict prognosis in MIBC patients with metastasis. A total of 43,951 T2-T4 MIBC patients aged over 18 years old from the SEER database were enrolled consecutively. Nine clinical variables were selected to predict DM. The CatBoost model was identified as the optimal predictor, with AUC values of 0.956 [0.933, 0.969] for the training set, 0.882 [0.857, 0.919] for the internal test set, and 0.839 [0.723, 0.936] for the external test set. The model achieved an accuracy of 0.875 [0.854, 0.896], sensitivity of 0.869 [0.851, 0.889], specificity of 0.883 [0.823, 0.912], and precision of 0.917 [0.885, 0.944]. SHAP analysis revealed that tumor size was the most influential factor in predicting distant metastasis. For prognosis, the "RSF + Enet[alpha = 0.8]" model emerged as the top performer, with C-index values of 0.683 in training, 0.688 in the internal test, and 0.666 in the external test sets. Our ML models provide high accuracy and dependability, delivering refined, individualized predictions for metastasis risk and prognosis in MIBC patients.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184302377</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f95d0e45-447b-34c5-aa61-7c0b3b5d5225</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Deng, Qian ; Li, Shan ; Zhang, Yuxiang ; Jia, Yuanyuan ; Yang, Yanhui</contributors>
+  <coverDate>4/6/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-96089-1</doi>
+</record>

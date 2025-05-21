@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Franklin Open</source>
+  <bookEdition></bookEdition>
+  <title>A review of quantum communication and information networks with advanced cryptographic applications using machine learning, deep learning techniques</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Quantum communication and networking ; Protocols ; Security ; Privacy ; AI ; Machine learning and deep learning ; Industry, innovation, and infrastructure ; Sustainable cities and communities</subjects>
+  <abstract>Quantum communication and information networks offer unprecedented processing efficiency and security for data transfers. Technologies like quantum key distribution (QKD), quantum repeaters, quantum memory, and quantum entanglement sources are enabling technologies that ensure secure communication. QKD methods use quantum physics concepts to establish cryptographic keys, while quantum repeaters compensate for signal loss in fiber optic cables. Quantum memory enables storage and retrieval of quantum information, while quantum entanglement generators generate entangled photon pairs. Artificial intelligence and machine learning have significantly improved the efficacy and security of quantum communication. These methods can facilitate ultra-secure, reliable, large-scale communication and even a future quantum internet by analyzing quantum protocols and mitigating noise-induced errors. QKD protocols ensure secure communication channels, while quantum repeaters establish secure long-distance communication lines by mitigating signal loss. Traditional Internet technology is susceptible to surveillance due to Shannon's information theory and mathematics. The quantum internet (QI) uses satellite-based quantum communication and quantum cryptographic protocols for physical QI. Quantum entanglement sources fortify secure communication protocols, improving resistance to attacks. Quantum information networks (QINs) enhance computing, sensing, and security capabilities over extended distances. The development of reliable, robust communication systems depends on these technologies. Quantum-secured networks enhance urban security, smart management, and infrastructure protection by providing data privacy and facilitating secure data transmission, thereby facilitating robust infrastructure and technological development.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2773186325000131</an>
+  <docTypes>Review Article</docTypes>
+  <volume>10</volume>
+  <issns>2773-1863</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=db8e3385-9ccc-3067-aa24-a7813a466d8d</plink>
+  <doids></doids>
+  <publisher>Elsevier Inc.</publisher>
+  <contributors>Ramya, R. ; Kumar, P. ; Dhanasekaran, D. ; Kumar, R. Satheesh ; Sharavan, S. Amithesh</contributors>
+  <coverDate>1 March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.fraope.2025.100223</doi>
+</record>

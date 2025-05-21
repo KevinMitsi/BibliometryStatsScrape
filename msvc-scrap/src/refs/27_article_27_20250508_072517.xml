@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B9L0</mid>
+  <language>eng</language>
+  <source>Journal of International Commerce, Economics &amp;amp; Policy</source>
+  <bookEdition></bookEdition>
+  <title>Leveraging Tree-based Machine Learning for Predicting Earnings Management.</title>
+  <pageEnd></pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250312</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Corporate finance ; Decision trees ; Financial statements ; Earnings management ; Consumer Lending ; Machine learning ; Random forest algorithms</subjects>
+  <abstract>Earnings management poses a critical challenge in corporate finance, as firms often manipulate financial statements to achieve specific targets, potentially misleading stakeholders. Traditional detection techniques, such as discretionary accrual models, face limitations in identifying the complex, nonlinear patterns of earnings manipulation. This research utilizes tree-based machine learning models — Decision Trees, Random Forests, and Gradient Boosting Machines (GBM) — to forecast earnings management in firms listed on Vietnamese stock exchanges, including the Ho Chi Minh City Stock Exchange (HOSE), Hanoi Stock Exchange (HNX), and Unlisted Public Company Market (UPCoM). The study analyzes data from 1,652 firms, covering the period from 2008 to 2023, resulting in 17,215 observations. Following rigorous data preprocessing to remove errors and outliers, the performance of the models was assessed based on their ability to predict earnings management, as indicated by discretionary accruals. The findings demonstrate that GBM surpasses the other models in key performance metrics, such as accuracy, precision, recall, and F1 score, establishing it as the most effective tool for detecting earnings manipulation. Furthermore, the study identifies Operating Cash Flow (OCF) as the most significant predictor, with Return on Assets (ROA) and firm size also playing vital roles. These results contribute to the expanding body of research on machine learning in financial analysis and provide valuable insights for financial analysts, auditors, corporate governance professionals, and regulators in improving the detection and prevention of earnings management.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183610781</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>1793-9933</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=61e7d9b2-3c3a-3444-af38-d1c653dcf088</plink>
+  <doids></doids>
+  <publisher>World Scientific Publishing Company</publisher>
+  <contributors>Huy, Tam Phan ; Hong, Tuyet Pham ; Quoc, An Bui Nguyen</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1142/s1793993325500085</doi>
+</record>

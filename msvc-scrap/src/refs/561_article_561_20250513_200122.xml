@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edspgr</shortDBName>
+  <isiType>PAT</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Hybrid user contributed rules and machine learning framework</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>A machine learning model can be run with a first input data to obtain a first output from the machine learning model. A first rule representing an interpretable explanation for the machine learning model predicting the first output can be obtained. A modified rule can be received, which changes the first rule. A transformation function can be generated, which transforms a given input data for inputting to the machine learning model to a new input data based on decision boundaries of the machine learning model and the modified rule. The first rule, the first output, the modified rule, and the transformation function can be stored in a first table.</abstract>
+  <pubTypes>Patent</pubTypes>
+  <an>edspgr.12271788</an>
+  <docTypes>Patent</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=756eb388-84f7-3dd2-bd78-51b6a22bd8b8</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>International Business Machines Corporation</contributors>
+  <coverDate>April 08, 2025</coverDate>
+  <longDBName>USPTO Patent Grants</longDBName>
+  <doi></doi>
+</record>

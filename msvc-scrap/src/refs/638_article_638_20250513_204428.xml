@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Introduction to Quantum Machine Learning and Quantum Architecture Search</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250421</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Quantum Physics ; Computer Science - Artificial Intelligence ; Computer Science - Emerging Technologies ; Computer Science - Machine Learning ; Computer Science - Neural and Evolutionary Computing</subjects>
+  <abstract>Recent advancements in quantum computing (QC) and machine learning (ML) have fueled significant research efforts aimed at integrating these two transformative technologies. Quantum machine learning (QML), an emerging interdisciplinary field, leverages quantum principles to enhance the performance of ML algorithms. Concurrently, the exploration of systematic and automated approaches for designing high-performance quantum circuit architectures for QML tasks has gained prominence, as these methods empower researchers outside the quantum computing domain to effectively utilize quantum-enhanced tools. This tutorial will provide an in-depth overview of recent breakthroughs in both areas, highlighting their potential to expand the application landscape of QML across diverse fields.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.16131</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=45316ffa-c00d-3c2b-b253-a2c3c0d4a65f</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Chen, Samuel Yen-Chi ; Liang, Zhiding</contributors>
+  <coverDate>20250421</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

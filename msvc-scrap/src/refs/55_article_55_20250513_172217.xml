@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>BMC cancer</source>
+  <bookEdition></bookEdition>
+  <title>Integration of intratumoral and peritumoral CT radiomic features with machine learning algorithms for predicting induction therapy response in locally advanced non-small cell lung cancer.</title>
+  <pageEnd></pageEnd>
+  <pageStart>461</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250313</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Carcinoma, Non-Small-Cell Lung diagnostic imaging ; Carcinoma, Non-Small-Cell Lung pathology ; Lung Neoplasms diagnostic imaging ; Lung Neoplasms pathology ; Machine Learning ; Tomography, X-Ray Computed methods ; Nomograms ; Humans ; Male ; Female ; Middle Aged ; Aged ; Algorithms ; Adult ; Support Vector Machine ; Induction Chemotherapy ; Aged, 80 and over ; Tumor Burden ; Retrospective Studies ; Treatment Outcome ; Radiomics</subjects>
+  <abstract>Declarations. Ethics approval and consent to participate: This study was approved by the Ethics Committee of Sichuan University West China Longquan Hospital (Approval No. IRB-C-F10/AF-KY-2024028) and conducted in accordance with the Declaration of Helsinki. Given that this is a retrospective analysis and all patient data were anonymized, the Ethics Committee waived the requirement for individual informed consent. Similarly, approval for the external validation cohort was obtained from the Ethics Committee of the Cancer Center of the Second Affiliated Hospital of Chongqing Medical University (Approval No. KY2024394). All data processing procedures adhered to relevant ethical standards and privacy protection regulations. Consent for publication: Not applicable. Competing interests: The authors declare no competing interests.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40082786</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>25</volume>
+  <issns>1471-2407 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a09fa2ed-4bb5-32fe-b9f0-a81661dc74aa</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Cai, FangHao ; Guo, Zhengjun ; Wang, GuoYu ; Luo, FuPing ; Yang, Yang ; Lv, Min ; He, JiMin ; Xiu, ZhiGang ; Tang, Dan ; Bao, XiaoHui ; Zhang, XiaoYue ; Yang, ZhenZhou ; Chen, Zhi</contributors>
+  <coverDate>2025 Mar 13</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1186/s12885-025-13804-x</doi>
+</record>

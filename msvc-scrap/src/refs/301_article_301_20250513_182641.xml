@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>International Journal of Technology in Education and Science</source>
+  <bookEdition></bookEdition>
+  <title>Predicting Secondary School Students' Academic Performance in Science Course by Machine Learning</title>
+  <pageEnd>62</pageEnd>
+  <pageStart>41</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>22</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Secondary School Students ; Science Achievement ; Artificial Intelligence ; Foreign Countries ; Grade 5 ; Grade 6 ; Grade 7 ; Grade 8 ; Reading Habits ; Predictor Variables ; Accuracy ; Data Analysis ; Student Characteristics ; Turkey</subjects>
+  <abstract>Our research aims to predict students' academic performance by considering the variables affecting academic performance in science courses using the deep learning method from machine learning algorithms and to determine the importance of independent variables affecting students' academic performance in science courses. 445 students from 5th, 6th, 7th, and 8th grades attending a school in Central Anatolian City in Turkey, participated in this study in the 2022-2023 school year. Data was collected with a. A deep learning method called deep neural network, one of the ways of machine learning, was used in data analysis. The average number of books read per year had the highest importance among the variables affecting academic performance in science courses. In addition, deep learning predicted students' final science scores with 90% accuracy. According to the results of this study, the percentage of the academic achievement prediction might be raised by reproducing the required data set for the data analysis method with deep learning. A forecast of the student's academic achievement with artificial intelligence and detecting the importance of variables' percentage might be researched for other courses in addition to the Science course.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1415061</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>8</volume>
+  <issns>2651-5369</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fcd0ef9b-873f-3a46-815c-10106efb8a3a</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Munise Seçkin Kapucu ; I?brahim Özcan ; Hülya Özcan ; Ahmet Aypay</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

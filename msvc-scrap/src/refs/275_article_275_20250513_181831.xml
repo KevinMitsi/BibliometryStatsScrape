@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-4237-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 International Conference on Automation and Computation (AUTOCOM), Automation and Computation (AUTOCOM), 2025 International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning-Enhanced Wireless Communication Protocols for Ultra-Reliable and Low-Latency Applications in Smart Cities</title>
+  <pageEnd>261</pageEnd>
+  <pageStart>257</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250304</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineering Profession ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Wireless communication ; Protocols ; Adaptive systems ; Systematics ; Smart cities ; Machine learning ; Telecommunication traffic ; Public security ; Reliability ; Low latency communication ; Machine Learning ; Wireless Communication Protocols ; Ultra-Reliable ; Low-Latency ; Smart Cities ; Internet of Things ; Data Processing ; Adaptive Algorithms ; Performance Metrics ; Traffic Management</subjects>
+  <abstract>In this study, we develop and evaluate machine learning enhanced wireless communication protocols to satisfy the ultra reliable and low latency requirements in smart city applications. In today's urban areas where smart technologies are increasingly incorporated, traditional wireless protocol limitations are obvious, especially related to its incapability to handle fluctuating traffic situations. The proposed methodology consists of a whole process that encompasses data collection, feature engineering, machine learning model development, protocol enhancement, and performance evaluation. We train multiple machine learning models using the key datasets including network traffic patterns and measurements of latency, and integrate them into the existing communication protocols. In particular, the results show a spectacular performance, achieving a latency of five milliseconds on average and a packet delivery ratio of 98%, which is far beyond the performance achieved by traditional protocols. Of special interest in this research is its contribution toward the design of adaptive communication systems that can support the burgeoning needs of smart urban environments, thus spurring new developments in the field of wireless communication technology.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10957124</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c4b05a91-17e8-3f77-b108-9c881409b23a</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Biswas, Debarghya ; Tiwari, Ankita</contributors>
+  <coverDate>20250304</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/AUTOCOM64127.2025.10957124</doi>
+</record>

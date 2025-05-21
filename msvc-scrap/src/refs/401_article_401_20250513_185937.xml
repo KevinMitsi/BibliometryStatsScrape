@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-1611-6 ; 979-8-3315-1610-9</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE Applied Power Electronics Conference and Exposition (APEC), Applied Power Electronics Conference and Exposition (APEC), 2025 IEEE</source>
+  <bookEdition></bookEdition>
+  <title>Conveniently Identify Coils in Inductive Power Transfer System Using Machine Learning</title>
+  <pageEnd>2850</pageEnd>
+  <pageStart>2846</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250316</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Components, Circuits, Devices and Systems ; Power, Energy and Industry Applications ; Coils ; Q-factor ; Parameter estimation ; Proximity effects ; Machine learning ; Network analyzers ; Software ; Skin ; Power electronics ; Impedance ; Very-High-frequency IPT ; machine learning ; parameter identification</subjects>
+  <abstract>High-frequency inductive power transfer (IPT) has garnered significant attention in recent years due to its long transmission distance and high efficiency. The inductance values (L) and quality factors (Q) of the transmitting and receiving coils greatly influence the system’s operation. Traditional methods involved impedance analyzers or network analyzers for measurement, which required bulky and costly equipment. Moreover, disassembling it for re-measurement is impractical once the product is packaged. Alternatively, simulation software such as HYSS can serve for the identification. Nevertheless, in the case of very high frequencies, the simulation process consumes a significant amount of time due to the skin and proximity effects. More importantly, obtaining parameters through simulation software becomes impractical when the coil design is more complex. This paper firstly employs a machine learning approach for the identification task. We simply input images of the coils and operating frequency into a well-trained model. This method enables rapid identification of the coil’s L and Q values anytime and anywhere, without the need for expensive machinery or coil disassembly.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10977283</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24706647</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4339bfa1-957c-3278-b3df-b46d232a28cf</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Zhao, Yifan ; Lu, Mowei ; Chen, Ting ; Li, Heyuan ; Gao, Xiang ; Zhang, Zhenbin ; Fu, Minfan ; Goetz, Stefan M.</contributors>
+  <coverDate>20250316</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/APEC48143.2025.10977283</doi>
+</record>

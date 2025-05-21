@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>O5H</mid>
+  <language>eng</language>
+  <source>Environmental Management</source>
+  <bookEdition></bookEdition>
+  <title>Long-term Evaluation of Machine Learning Based Methods for Air Emission Monitoring.</title>
+  <pageEnd>693</pageEnd>
+  <pageStart>680</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>14</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Air pollution monitoring ; Environmental monitoring ; Nitrogen oxides ; Machine learning ; Computer performance ; Regulatory compliance ; Prediction models</subjects>
+  <abstract>Machine learning (ML) techniques have been researched and used in various environmental monitoring applications. Few studies have reported the long-term evaluation of such applications. Discussions regarding the risks and regulatory frameworks of ML applications in environmental monitoring have been rare. We monitored the performance of six predictive models developed using ML and statistical methods for 28 months. The six models used to predict NO&lt;sub>x&lt;/sub> emissions were developed using six different algorithms. The model developed with a moderate complexity algorithm, adaptive boosting, had the best performance in long-term monitoring, with a root mean square error (RMSE) of 0.48 kg/hr in the 28-month monitoring period, and passed two of the three relative accuracy test audits. High complexity models based on gradient boosting and neural network algorithms had the best training performance, with a minimum RMSE of 0.23 kg/hr and 0.26 kg/hr, but also had the worst RMSE scores, of 0.51 kg/hr and 0.57 kg/hr, during the monitoring period. In addition, all six models failed all three relative accuracy test audits. The following problems were observed: (1) Complex ML models tended to have overfitting problems, thus indicating the importance of the trade-off between model accuracy and complexity. (2) Model input sensor drift or out of high-frequency ranges from the training data resulted in inaccurate predictions or an accuracy lower than the minimum allowed by regulators. (3) Existing regulatory frameworks must be modernized to keep pace with current machine learning practices. Some statistical tests are unsuitable for applications developed by using ML methods.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183283638</an>
+  <docTypes>Article</docTypes>
+  <volume>75</volume>
+  <issns>0364-152X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7cbc2e90-c5bd-3b03-9018-7cb5b96c95f6</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Si, Minxing ; Wiens, Brett M. ; Du, Ke</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1007/s00267-024-02057-2</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>GBNN</mid>
+  <language>eng</language>
+  <source>Acta Commercii</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning and company failure prediction: Evidence from South Africa.</title>
+  <pageEnd>11</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Emerging markets ; South Africa ; Machine learning ; Failure (Psychology) ; Prediction models ; Experimental design</subjects>
+  <abstract>Orientation: Machine learning has advanced substantially over the past two decades and exhibits the potential to overcome the limitations of traditional statistical methods for predicting company failure. While extensive research has been conducted globally to predict company failure using machine learning, these techniques are relatively unexplored in an emerging market context. Research purpose: The accuracy of company failure prediction was assessed when applying an array of fundamental machine learning algorithms in South Africa. Motivation for the study: Given the significant social and economic impact of company failures, insights are provided into appropriate company failure prediction techniques in an emerging market context. Research design, approach and method: The study sample consisted of 56 companies (of which 28 were classified as failed) that were listed on the Johannesburg Stock Exchange during 2010–2021. Company failure prediction up to 3 years in advance was measured by applying eight fundamental machine learning techniques and the traditional logit analysis statistical method. Main findings: Two machine learning algorithms outperformed the traditional method in some years. Furthermore, not all machine learning techniques were suited to predict company failure in all years. Practical implications: Machine learning is not necessarily more accurate than traditional statistical methods. Applying the appropriate technique in company failure prediction models requires a clear understanding of the available methodologies for the task at hand. Contribution: This study provides a benchmark for predictive accuracy in the South African context and lays the ground for a more sophisticated ensemble of methods to assess the accuracy of machine learning.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183845775</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>2413-1903</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e722eab7-a127-3e04-bf7d-1c3cd219f743</plink>
+  <doids></doids>
+  <publisher>African Online Scientific Information System PTY LTD</publisher>
+  <contributors>Wesson, Nicolene ; Mienie, Dewald ; Myatt, Anthea</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.4102/ac.v25i1.1365</doi>
+</record>

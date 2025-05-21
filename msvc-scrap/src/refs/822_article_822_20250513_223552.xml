@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>A Hardware Trojan Detection using Machine Learning Technique</title>
+  <pageEnd>13</pageEnd>
+  <pageStart>7</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>7</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Adaptation models ; Technological innovation ; Accuracy ; Prevention and mitigation ; Logic gates ; Hardware ; Trojan horses ; Reliability ; Logic testing ; Random forests ; cyberscurity ; hardware trojan ; machine learning techniques ; netwrork security ; data security</subjects>
+  <abstract>Hardware Trojan is a major vulnerability in the security of the system. Various researchers have worked on the hardware Trojan detection and prevention techniques as solutions that are based on traditional methods such as side-channel analysis, logic testing, and IC fingerprinting. These methods focus on detecting anomalies in the system's behavior or physical characteristics. In this paper, we are giving insights of hardware trojan detection and prevention along with experimental study using several machine learning techniques. We used an open-source circuit dataset for the design phase known as Gate Level Netlist (GLN) that is available on the trust-hub data repository. In experiments we found that Hierarchical Machine learning Methods such as decision tree and random forest classified the hardware trojan infected and non-infected chips with 98-99% accuracy</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10968175</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e71ca620-cccb-3551-98bc-5249cff8c611</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Jaiswal, Yashasvi ; Sitaraman, S. Harihara</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10968175</doi>
+</record>

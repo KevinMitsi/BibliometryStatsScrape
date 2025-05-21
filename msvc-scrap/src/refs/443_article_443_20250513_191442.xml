@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781801079259 ; 9781801077101</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Engineering with Python : Manage the Production Life Cycle of Machine Learning Models Using MLOps with Practical Examples</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20210101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / General ; COMPUTERS / Data Science / Data Warehousing ; COMPUTERS / Machine Theory ; Python (Computer program language) ; Machine learning</subjects>
+  <abstract>Supercharge the value of your machine learning models by building scalable and robust solutions that can serve them in production environmentsKey FeaturesExplore hyperparameter optimization and model management toolsLearn object-oriented programming and functional programming in Python to build your own ML libraries and packagesExplore key ML engineering patterns like microservices and the Extract Transform Machine Learn (ETML) pattern with use casesBook DescriptionMachine learning engineering is a thriving discipline at the interface of software development and machine learning. This book will help developers working with machine learning and Python to put their knowledge to work and create high-quality machine learning products and services. Machine Learning Engineering with Python takes a hands-on approach to help you get to grips with essential technical concepts, implementation patterns, and development methodologies to have you up and running in no time. You'll begin by understanding key steps of the machine learning development life cycle before moving on to practical illustrations and getting to grips with building and deploying robust machine learning solutions. As you advance, you'll explore how to create your own toolsets for training and deployment across all your projects in a consistent way. The book will also help you get hands-on with deployment architectures and discover methods for scaling up your solutions while building a solid understanding of how to use cloud-based tools effectively. Finally, you'll work through examples to help you solve typical business problems. By the end of this book, you'll be able to build end-to-end machine learning services using a variety of techniques and design your own processes for consistently performant machine learning engineering.What you will learnFind out what an effective ML engineering process looks likeUncover options for automating training and deployment and learn how to use themDiscover how to build your own wrapper libraries for encapsulating your data science and machine learning logic and solutionsUnderstand what aspects of software engineering you can bring to machine learningGain insights into adapting software engineering for machine learning using appropriate cloud technologiesPerform hyperparameter tuning in a relatively automated wayWho this book is forThis book is for machine learning engineers, data scientists, and software developers who want to build robust software solutions with machine learning components. If you're someone who manages or wants to understand the production life cycle of these systems, you'll find this book useful. Intermediate-level knowledge of Python is necessary.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>3046740</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=ed6e32a3-ba00-39a3-8e0b-33a3374766d7</plink>
+  <doids>NL$3046740$PDF ; NL$3046740$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Andrew P. McMahon</contributors>
+  <coverDate>2021</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

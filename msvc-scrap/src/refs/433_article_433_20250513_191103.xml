@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Ontology-guided machine learning outperforms zero-shot foundation models for cardiac ultrasound text reports.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250214</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Echocardiography report ; Large language models ; Machine learning ; Natural language processing ; Ontology ; Machine Learning ; Humans ; Natural Language Processing ; Echocardiography</subjects>
+  <abstract>Big data can revolutionize research and quality improvement for cardiac ultrasound. Text reports are a critical part of such analyses. Cardiac ultrasound reports include structured and free text and vary across institutions, hampering attempts to mine text for useful insights. Natural language processing (NLP) can help and includes both statistical- and large language model based techniques. We tested whether we could use NLP to map cardiac ultrasound text to a three-level hierarchical ontology. We used statistical machine learning (EchoMap) and zero-shot inference using GPT. We tested eight datasets from 24 different institutions and compared both methods against clinician-scored ground truth. Despite all adhering to clinical guidelines, institutions differed in their structured reporting. EchoMap performed best with validation accuracy of 98% for the first ontology level, 93% for first and second levels, and 79% for all three. EchoMap retained performance across external test datasets and could extrapolate to examples not included in training. EchoMaps accuracy was comparable to zero-shot GPT at the first level of the ontology and outperformed GPT at second and third levels. We show that statistical machine learning can map text to structured ontology and may be especially useful for small, specialized text datasets.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt6sf7t41c</an>
+  <docTypes>article</docTypes>
+  <volume>15</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=dfd9c750-dd9b-3b06-80f4-d5ce11f82ed4</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Subramaniam, Suganya ; Rizvi, Sara ; Ramesh, Ramya ; Sehgal, Vibhor ; Gurusamy, Brinda ; Arif, Hikmatullah ; Tran, Jeffrey ; Thamman, Ritu ; Anyanwu, Emeka ; Mastouri, Ronald ; Mackensen, G ; Arnaout, Rima</contributors>
+  <coverDate>20250214</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

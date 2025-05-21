@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B86S</mid>
+  <language>eng</language>
+  <source>Journal of Geophysical Research. Earth Surface</source>
+  <bookEdition></bookEdition>
+  <title>Controls of Morphometric and Climatic Catchment Characteristics on Debris Flow and Flood Hazard on Alluvial Fans in High Mountain Asia: A Machine Learning Approach.</title>
+  <pageEnd>23</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Debris avalanches ; Hazard mitigation ; Watersheds ; Machine learning ; Alluvial fans</subjects>
+  <abstract>Debris flows and floods pose considerable hazards to populated areas of High Mountain Asia (HMA). Debris flows are generally more hazardous than floods, and therefore identification of process type is important for hazard assessment and mitigation. Prior statistical assessments, though informative, typically considered a limited number of parameters, excluded climatic variables, and failed to address classification probability and uncertainty. Here we developed a machine learning model to determine process type and its likelihood for a diverse set of 1,793 catchments in HMA using a wide range of morphometric and climatic parameters. We classified the alluvial fans of these catchments as either debris flow or flood dominated based on surface morphology. A data set of morphometric (e.g., catchment area, slope, relief, Melton ratio) and climatic features (e.g., temperature and precipitation regime, freeze–thaw cycles, glacier and permafrost presence) per catchment was subsequently built, and a CatBoost machine learning model to quantify debris flow and flood probabilities was employed. The CatBoost model has a high classification accuracy compared to traditional approaches, and offers the advantage of providing classification uncertainty. Results show that catchment slope, area, and perimeter are the main morphometric controls on process type across HMA, in line with previous work, and further show that including climate information leads to a minor improvement of model performance. These findings shed light on controls on debris flow and flood occurrence in mountainous area, showcase the potential of machine learning models in mountain hazard research, and provide insights for assessing risks. Plain Language Summary: High Mountain Asia, a densely populated mountain region, is at risk from debris flows and floods, with debris flows being more dangerous. To assess and better understand these hazards, it is crucial to identify whether floods or debris flows are more likely to occur on a given alluvial fan—which are preferred sites for settlement in mountain areas. Previous studies used simple models with limited catchment characteristics and did not consider climate variables or uncertainties. In our research, we used a machine learning model to identify the type and likelihood of these processes on 1,793 alluvial fans based on the characteristics of their catchments across HMA. We studied the importance of various parameters describing the shape of the catchments and their climate characteristics on the dominant process type on their alluvial fan. Our findings show that the slope and size of a catchment are key factors in determining process type. Climatic characteristics, on the other hand, only have a limited effect on the model predictions. This research helps us understand the controls on debris flows and floods on alluvial fans in mountain areas, demonstrates the effectiveness of machine learning in mountain hazard research, and provides insights for assessing risks. Key Points: A machine learning model to classify debris flow and flood systems provides a probabilistic approach and insights into controlling mechanismsCatchment slope, area, and perimeter are the prime controls on dominant process type across high‐mountain AsiaClimatic variables have a comparatively small control on prediction of dominant process type on alluvial fans</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184014372</an>
+  <docTypes>Article</docTypes>
+  <volume>130</volume>
+  <issns>2169-9003</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6297a5be-e18d-3313-9515-20e47fd5f3e7</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Bazilova, Varvara O. ; de Haas, Tjalling ; Immerzeel, Walter W.</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1029/2024JF008029</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>ADC</mid>
+  <language>eng</language>
+  <source>Applied Economics</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning-driven asset pricing models: an exploration of feature sparsification and model optimisation.</title>
+  <pageEnd>16</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250405</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Data mining ; Data structures ; Machine learning ; Scientific method ; Prediction models</subjects>
+  <abstract>Owing to their powerful modelling capabilities and efficient learning mechanisms, machine learning algorithms have achieved notable success in both academic and practical applications. This study employs machine learning methods to explore asset data information. Since the existing response variables are right-skewed, we propose a new modelling approach using a log-transformation method to achieve effectiveness and robustness. In addition, we observed high linear correlations among the features, which led to computational redundancy and diminished model interpretability. To address this issue, we introduced a sparse module, the LASSO method, which effectively eliminates redundant features and extracts those that significantly influence the model, thereby further optimizing model fitting. Empirical analysis demonstrates that machine learning methods exhibit scientific interpretive capabilities and excellent stability in constructing asset pricing frameworks. This research not only underscores the importance of machine learning algorithms in handling complex data structures and optimizing predictive models but also highlights their significant achievements in practical applications, thereby offering robust justification for further exploration in related fields.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184290670</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>0003-6846</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=ec80bd4d-1c12-3ee7-9e51-fcfd91fb428e</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Mai, Jifang ; Zhang, Shaohua ; Zhang, Xiyue</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00036846.2025.2484026</doi>
+</record>

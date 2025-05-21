@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>The International Journal of Advanced Manufacturing Technology</source>
+  <bookEdition></bookEdition>
+  <title>Towards Frugal Industrial AI: a framework for the development of scalable and robust machine learning models in the shop floor</title>
+  <pageEnd>191</pageEnd>
+  <pageStart>169</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations>London</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Frugal machine learning ; Flexible manufacturing ; Continual learning ; Semantic modelling ; MLOps</subjects>
+  <abstract>Artificial intelligence (AI) among other digital technologies promise to deliver the next level of process efficiency of manufacturing systems. Although these solutions such as machine learning (ML) based condition monitoring and quality inspection are becoming popular, these work under very limited conditions. Solutions do not scale-up in the real environment, where there is a mix of manufacturing equipment, where the quality and quantity of data available changes from machine to machine, or where the process changes, changing the distribution of data (i.e. concept drift). This is particularly challenging in highly reconfigurable and flexible environments. Having to develop machine learning models from scratch every single time is not cost-effective, time-consuming, requires expert knowledge that is typically not available in the manufacturing environment as well as can be challenging when data is not available in high volumes. Model robustness, reusability, adaptability and life cycle management are the keys to scale-up this technology in the manufacturing industry. In this work, a conceptual framework to enable simple and robust ML model development for the shop floor is introduced. Referred here as &lt;i>Frugal Industrial AI&lt;/i>, the approach takes advantage of existing models and their context to build more robust ones in a data-efficient manner. Using a semantic knowledge base of how to construct these models for different manufacturing applications and semi-automating the development or reuse of solutions through semantic similarity, it is demonstrated how models can be developed in a more streamlined way. In addition, it is demonstrated how capturing process context information is important for the effective reuse of existing models through continual learning. This is key to building more robust ML solutions that can deal with real changing manufacturing environments, avoiding retraining from scratch as well as enabling the non-expert to use AI effectively on the shop floor.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.D2FECD0F</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>138</volume>
+  <issns>02683768 ; 14333015</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=97a12ec1-0ad9-3eb7-8ffe-6794c1d01a44</plink>
+  <doids></doids>
+  <publisher>Springer London</publisher>
+  <contributors>Martínez-Arellano, Giovanna ; Ratchev, Svetan</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s00170-024-14508-5</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Computational, Data-Driven, and Physics-Informed Machine Learning Approaches for Microstructure Modeling in Metal Additive Manufacturing</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250502</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Machine Learning</subjects>
+  <abstract>Metal additive manufacturing enables unprecedented design freedom and the production of customized, complex components. However, the rapid melting and solidification dynamics inherent to metal AM processes generate heterogeneous, non-equilibrium microstructures that significantly impact mechanical properties and subsequent functionality. Predicting microstructure and its evolution across spatial and temporal scales remains a central challenge for process optimization and defect mitigation. While conventional experimental techniques and physics-based simulations provide a physical foundation and valuable insights, they face critical limitations. In contrast, data-driven machine learning offers an alternative prediction approach and powerful pattern recognition but often operate as black-box, lacking generalizability and physical consistency. To overcome these limitations, physics-informed machine learning, including physics-informed neural networks, has emerged as a promising paradigm by embedding governing physical laws into neural network architectures, thereby enhancing accuracy, transparency, data efficiency, and extrapolation capabilities. This work presents a comprehensive evaluation of modeling strategies for microstructure prediction in metal AM. The strengths and limitations of experimental, computational, and data-driven methods are analyzed in depth, and highlight recent advances in hybrid PIML frameworks that integrate physical knowledge with ML. Key challenges, such as data scarcity, multi-scale coupling, and uncertainty quantification, are discussed alongside future directions. Ultimately, this assessment underscores the importance of PIML-based hybrid approaches in enabling predictive, scalable, and physically consistent microstructure modeling for site-specific, microstructure-aware process control and the reliable production of high-performance AM components.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2505.01424</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=ddd2de0d-8144-3c6d-b2ab-a5799e290843</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Patel, D. ; Sharma, R. ; Guo, Y. B.</contributors>
+  <coverDate>20250502</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KS2A</mid>
+  <language>eng</language>
+  <source>International Journal of Professional Business Review (JPBReview)</source>
+  <bookEdition></bookEdition>
+  <title>OPTIMIZING MAINTENANCE STRATEGIES FOR ELECTRICAL AND MECHANICAL EQUIPMENT IN PVC MANUFACTURING: A MACHINE LEARNING AND SIMULATION FRAMEWORK.</title>
+  <pageEnd>19</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>19</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Polyvinyl chloride industry ; Process optimization ; Plastics Material and Resin Manufacturing ; Machine learning ; Random forest algorithms ; Prediction models ; Simulation software</subjects>
+  <abstract>Objectives: This paper examines real-world data from a PVC manufacturing plant in Saudi Arabia to develop predictive statistical models using machine learning techniques. Theoretical Framework: A framework to optimize a maintenance strategy in a PVC production line begins with obtaining historical data. This data provides insights into the behavior of each station, highlighting performance patterns, failure rates, and maintenance histories. Analyzing this data helps identify critical areas prone to downtime or inefficiencies. Method: The method begins with collecting real-world historical data from the PVC manufacturing line for four years, spanning from 2021 to 2024. This data includes key performance metrics, maintenance records, and failure incidents. The collected data was then analyzed using statistical methods to identify trends and patterns in station behavior and downtime. Following this, machine learning techniques were employed, explicitly utilizing a Random-Forest-classifier to classify failure risks and predict future maintenance needs. The model's performance was validated by comparing it with actual maintenance outcomes to ensure accuracy. Finally, the data analyzed was used to simulate the manufacturing line, enabling the selection of the optimal maintenance strategy to minimize downtime and operational costs for the PVC production process. Results and Discussion: The results of the simulation study suggest an opportunistic maintenance strategy, as a hybrid approach, is the most effective for the PVC production line. This strategy combines preventive and corrective maintenance elements, offering flexibility in responding to various failure scenarios. The proposed approach can serve as a test environment, allowing for the evaluation of different maintenance strategies under real-world conditions to optimize performance and minimize downtime. Implications of the Research: This study promotes the adoption of data analytics to drive continuous improvements, contributing to the transition towards Industry 4.0, where the Internet of Things (IoT) plays a central role. By leveraging real-time data, organizations can optimize their processes daily. Additionally, the research proposes using simulation techniques to test maintenance strategies before their actual implementation. This risk-free approach allows for the evaluation of methods in a controlled environment, ultimately leading to significant reductions in both time and costs. Originality/Value: This study's results are derived from a real-world PVC manufacturing plant in Saudi Arabia, with data collected through site visits and original plant logs. The value of this research lies in its practical application: the approach can be adapted and deployed across various production lines, serving as a benchmark for simulating new maintenance techniques or implementing changes in existing systems. This provides a robust framework for improving operational efficiency and optimizing maintenance strategies in diverse industrial settings. The main objective is to identify common failures and forecast their occurrence based on past incidents. The study employs the Random-Forest-Classifier algorithm to process the dataset and improve prediction accuracy. The results are then integrated into simulation modeling, offering valuable insights into proactive measures and opportunistic maintenance strategies within PVC manufacturing. The research aims to minimize unexpected breakdowns and provide practical recommendations to optimize maintenance practices, thereby improving operational efficiency. The paper concludes with a simulation model that demonstrates how opportunistic actions can enhance Overall Equipment Efficiency (OEE) by leveraging insights from the predictive model.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184493753</an>
+  <docTypes>Article</docTypes>
+  <volume>10</volume>
+  <issns>2525-3654</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1c280607-4a25-3d0b-8567-690efd614013</plink>
+  <doids></doids>
+  <publisher>Open Access Publications LLC</publisher>
+  <contributors>Kiki, Mazen ; Shengyong Wang</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.26668/businessreview/2025.v10i3.5399</doi>
+</record>

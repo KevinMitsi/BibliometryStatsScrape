@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Soft Computing: A Fusion of Foundations, Methodologies and Applications</source>
+  <bookEdition></bookEdition>
+  <title>A novel stochastic machine learning approach for resilient-leagile supplier selection: a circular supply chain in the era of industry 4.0: A novel stochastic machine learning approach…</title>
+  <pageEnd>22</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250428</publicationDate>
+  <pageCount>22</pageCount>
+  <publisherLocations>Berlin/Heidelberg</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Supplier selection problem ; Resilient supplier selection ; Leagile supplier selection ; Machine learning ; Decision-making</subjects>
+  <abstract>Due to significant changes in supply chain environments and the importance of environmental and economic issues, various supply chain paradigms have been developed to address different challenges. As supplier evaluation and selection is one of the critical issues in supply chain management, in this paper a data-driven model is developed for this purpose. Considering the significance of different components in the case study of the home appliance industry, the leagile, resilience, circular economy, and Industry 4.0 paradigms are simultaneously considered for the first time in supplier evaluation. The key evaluation indicators in this study are recycled product, financial ability, waste management and delivery speed. The methodology used in this paper involves the use of data-driven stochastic model. In this regard, a stochastic VIKOR method has been developed based on scenarios, which improves evaluation effectiveness by considering different scenarios. Additionally, a neural network algorithm with a learning rate optimized using a genetic algorithm has been used to evaluate supplier performance. The findings demonstrate that the developed algorithm surpasses other algorithms, achieving an accuracy rate of 98 percent, and is effective for predicting supplier performance.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.CA113041</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>14327643 ; 14337479</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=04545f70-ca5f-3522-a950-2d49db256ac5</plink>
+  <doids></doids>
+  <publisher>Springer Berlin Heidelberg</publisher>
+  <contributors>Molaei, Bahar Javan ; Ghanavati-Nejad, Mohssen ; Tajally, Amirreza ; Sheikhalishahi, Mohammad</contributors>
+  <coverDate>20250428</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s00500-025-10578-z</doi>
+</record>

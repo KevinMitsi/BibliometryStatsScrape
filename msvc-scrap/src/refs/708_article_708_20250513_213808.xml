@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FU4S</mid>
+  <language>eng</language>
+  <source>Immunity, Inflammation &amp;amp; Disease</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning‐Based Immuno‐Inflammatory Index Integrating Clinical Characteristics for Predicting Coronary Artery Plaque Rupture.</title>
+  <pageEnd>9</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ACUTE coronary syndrome ; INFLAMMATION ; IMMUNE response ; ATHEROSCLEROTIC plaque ; MEDICAL records ; PREDICTION models</subjects>
+  <abstract>Background: Coronary artery plaque rupture (PR) is closely associated with immune‐inflammatory responses. The systemic inflammatory index (SII) and the systemic inflammatory response index (SIRI) have shown potential in predicting the occurrence of PR. Objective: This study aims to establish a machine learning (ML) model that integrates baseline patient characteristics, SII, and SIRI to predict PR. The goal is to identify high‐risk PR patients before intravascular imaging examinations. Methods: We included 337 patients with acute coronary syndrome who underwent emergency percutaneous coronary intervention and coronary optical coherence tomography (OCT) at the Affiliated Hospital of Zunyi Medical University, China, from May 2023 to October 2023. PR was determined by OCT images. Through manual feature selection, nine features, including SII and SIRI, were included, and an ML model was built using the XGBoost algorithm. Model performance was evaluated using receiver operating characteristic curves and calibration curves. SHAP values were used to assess the contribution of each feature to the model. Results: The ML model demonstrated a higher area under the curve value (AUC = 0.81) compared to using SII or SIRI alone for prediction. The ML model also showed good calibration. SHAP values revealed that the top three features in the ML model were SII, LDL‐C, and SIRI. Conclusion: The immuno‐inflammatory index, which integrates comprehensive clinical characteristics, can predict the occurrence of PR. However, large‐scale, multicenter studies are needed to confirm the generalizability of the predictive model.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184799803</an>
+  <docTypes>Article</docTypes>
+  <volume>13</volume>
+  <issns>2050-4527</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0a990c7b-19e0-32cd-98a9-c4286c735502</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Wang, Xi ; Xia, Qianhang ; Yang, Shuangya ; Deng, Chancui ; Gu, Ning ; Shen, Youcheng ; Wang, Zhenglong ; Shi, Bei ; Zhao, Ranzun</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1002/iid3.70162</doi>
+</record>

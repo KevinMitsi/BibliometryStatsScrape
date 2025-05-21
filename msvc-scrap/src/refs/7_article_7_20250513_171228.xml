@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Predicting schedule adherence of engineering changes – a case study on effectivity date adherence prediction using machine learning.</title>
+  <pageEnd>25</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241127</publicationDate>
+  <pageCount>25</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Automated planning &amp;amp; scheduling ; Machine learning ; Deep learning ; Prediction models</subjects>
+  <abstract>Engineering changes (EC), redesigns of components, are common with complex products. Their realisation into production systems is a lengthy process and thorough control is imperative. As with most complex processes, however, this is a resource-intensive task and support is required to direct scarce resources. In other domains, predictive business process monitoring (PBPM) research has demonstrated that complex processes can be monitored using machine learning approaches. However, it is indicated that predictive performance is domain sensitive. Therefore, we investigate and show how PBPM can be applied to the EC process by predicting adherence to planned implementation dates. As the outcome of a case study comparing 30 predictive models, our research indicates that EC effectivity date adherence prediction, and thus pre-emptive EC schedule monitoring, is possible. However, performance comparison hints that shallow learning algorithms outperform deep learning algorithms. Furthermore, as the optimal algorithm depends on the deployment scenario, it is demonstrated how cost curves are better decision criteria for choosing models compared to threshold dependent metrics. Based on these findings, this article offers a blueprint for developing machine learning models for predicting the EC schedule adherence and lays the base for further research towards automatic EC scheduling and control.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181129436</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a931c71d-c1f3-3d33-b7ac-85eb19a252a0</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Radisic-Aberger, Ognjen ; Burggräf, Peter ; Steinberg, Fabian ; Becher, Alexander ; Weisser, Tim</contributors>
+  <coverDate>Nov2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2024.2432465</doi>
+</record>

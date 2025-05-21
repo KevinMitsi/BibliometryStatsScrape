@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Knowledge and Information Systems: An International Journal</source>
+  <bookEdition></bookEdition>
+  <title>Artificial intelligence and machine learning in cybersecurity: a deep dive into state-of-the-art techniques and future paradigms</title>
+  <pageEnd>87</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250430</publicationDate>
+  <pageCount>87</pageCount>
+  <publisherLocations>London</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence in cybersecurity ; Machine learning techniques ; Intrusion detection systems (IDS) ; Malware classification ; Threat intelligence automation ; Adversarial machine learning ; Quantum computing in cybersecurity</subjects>
+  <abstract>The integration of artificial intelligence (AI) and machine learning (ML) into cybersecurity has driven a transformational shift, significantly enhancing the ability to detect, respond to, and mitigate complex cyber threats. Traditional defense mechanisms are increasingly inadequate against sophisticated attacks, necessitating the adoption of AI-driven security solutions. This review paper presents a novel, in-depth analysis of state-of-the-art AI and ML techniques applied to intrusion detection, malware classification, behavioral analysis, and threat intelligence. Unlike existing studies, this work not only synthesizes current advancements but also identifies key limitations and emerging research gaps in AI-powered cybersecurity. A key novelty of this paper lies in its comprehensive evaluation of adversarial defense mechanisms, addressing how AI models can be hardened against adversarial attacks and data manipulation techniques. Additionally, we explore the growing role of federated learning in collaborative threat intelligence, offering privacy-preserving security models that enhance real-time cyber defense across decentralized networks. Another major contribution is our discussion on the integration of AI with quantum computing for cryptographic resilience, as well as its convergence with IoT security, shaping the next generation of adaptive cybersecurity frameworks. Furthermore, this paper proposes a forward-looking roadmap for sustainable AI-driven cybersecurity, emphasizing the need for adaptive adversarial defense systems, federated learning for global threat mitigation, and AI-enhanced cyber resilience frameworks. By bridging the gap between current AI-driven security solutions and future paradigms, this work serves as a valuable resource for researchers, cybersecurity professionals, and policymakers aiming to develop intelligent, scalable, and resilient cybersecurity architectures. While AI and ML are reshaping modern cybersecurity, their effectiveness hinges on continuous innovation, adversarial robustness, and interdisciplinary collaboration to combat an ever-evolving threat landscape.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.3E2184B4</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>02191377 ; 02193116</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c82d6b1d-0683-3628-8f5f-ae3703549b8e</plink>
+  <doids></doids>
+  <publisher>Springer London</publisher>
+  <contributors>Mohamed, Nachaat</contributors>
+  <coverDate>20250430</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10115-025-02429-y</doi>
+</record>

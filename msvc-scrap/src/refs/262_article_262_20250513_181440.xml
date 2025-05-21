@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine learning to predict dementia for American Indian and Alaska native peoples: a retrospective cohort study.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>All-cause dementia ; Alzheimer’s disease and related dementia (ADRD) ; American Indian and Alaska Native Peoples ; LASSO ; Machine learning ; Risk prediction ; XGBoost</subjects>
+  <abstract>BACKGROUND: Dementia is an increasing concern among American Indian and Alaska Native (AI/AN) communities, yet machine learning models utilizing electronic health record (EHR) data have not been developed or validated for this population. This study aimed to develop a two-year dementia risk prediction model for AI/AN individuals actively using Indian Health Service (IHS) and Tribal health services. METHODS: Seven years of data were obtained from the IHS National Data Warehouse and related EHR databases and divided into a five-year baseline period (FY2007-2011) and a two-year dementia prediction period (FY2012-2013). Four algorithms were assessed: logistic regression, Least Absolute Shrinkage and Selection Operator (LASSO), random forest, and eXtreme Gradient Boosting (XGBoost). Dementia Risk Score (DRS)-based and extended models were developed for each algorithm, with performance evaluated by the area under the receiver operating characteristic curve (AUC). FINDINGS: The study cohort included 17,398 AI/AN adults aged ≥ 65 years who were dementia-free at baseline, of whom 59.8% were female. Over the two-year follow-up, 611 individuals (3.5%) were diagnosed with incident dementia. Extended models for logistic regression, LASSO, and XGBoost performed comparably: AUCs (95% CI) of 0.83 (0.79, 0.86), 0.83 (0.79, 0.86), and 0.82 (0.79, 0.86). These top-performing models shared 12 of the 15 highest-ranked predictors, with novel predictors including service utilization. INTERPRETATION: Machine learning algorithms utilizing EHR data can effectively predict two-year dementia risk among AI/AN older adults. These models could aid IHS and Tribal health clinicians in identifying high-risk individuals, facilitating timely interventions and improved care coordination. FUNDING: NIH.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt7991h7gs</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3c99c6aa-ca09-330d-a639-db664f3903c1</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Ports, Kayleen ; Dai, Jiahui ; Conniff, Kyle ; Corrada, Maria ; Manson, Spero ; OConnell, Joan ; Jiang, Luohua</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

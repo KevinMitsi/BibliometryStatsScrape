@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-2018-2</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE Green Technologies Conference (GreenTech), Green Technologies Conference (GreenTech), 2025 IEEE</source>
+  <bookEdition></bookEdition>
+  <title>Integrating Machine Learning Models to Enhance the Efficiency of a Desalination Process</title>
+  <pageEnd>35</pageEnd>
+  <pageStart>31</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250326</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Transportation ; Support vector machines ; Adaptation models ; Salt ; Green products ; Transfer learning ; Desalination ; Water quality ; Regression tree analysis ; Optimization ; Overfitting ; Water scarcity ; desalination ; superhydrophobic membranes ; machine learning ; Support Vector Regression ; Decision Tree Regression</subjects>
+  <abstract>Freshwater scarcity is a critical global challenge, with over two billion people lacking access to safe drinking water. Desalination technologies, particularly Air Gap Membrane Distillation (AGMD) offer a sustainable solution by utilizing superhydrophobic membranes to enhance efficiency and reduce environmental impact. This study integrates material science and machine learning (ML) to optimize AGMD systems, employing Ridge Regression (RR), Support Vector Regression (SVR), and Decision Tree Regression (DTR) models to predict important desalination metrics such as desalination water produced and salt rejection rates. The results demonstrate RR's superior performance with a better R-squared and lowest mean square error (MSE), highlighting its robustness for handling multicollinearity. SVR effectively captures nonlinear relationships, while DTR provides interpretability despite its overfitting tendencies. This research advances sustainable desalination by combining inno-vative materials with ML-driven optimization, paving the way for scalable and environmentally friendly water management solutions.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10977633</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>21665478</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5d242659-1d0c-389e-bc2b-1b0650155897</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Paranjpe, Nikhil ; Kshirsagar, Shruti ; Asmatulu, Ramazan</contributors>
+  <coverDate>20250326</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/GreenTech62170.2025.10977633</doi>
+</record>

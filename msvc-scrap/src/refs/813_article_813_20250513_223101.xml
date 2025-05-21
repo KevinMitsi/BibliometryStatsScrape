@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Scientific reports</source>
+  <bookEdition></bookEdition>
+  <title>Proposing a machine learning-based model for predicting nonreassuring fetal heart.</title>
+  <pageEnd></pageEnd>
+  <pageStart>7812</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250306</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Machine Learning ; Fetal Heart physiopathology ; Humans ; Female ; Pregnancy ; Retrospective Studies ; Adult ; Male ; Gestational Age ; Infant, Newborn ; ROC Curve</subjects>
+  <abstract>Declarations. Competing interests: The authors declare no competing interests. Ethical approval and consent to participate: This research adhered to the Declaration of Helsinki and was conducted following the approval of the ethics committee. The study was approved by the Ethics and Research Committee of Hormozgan University of Medical Sciences (IR.HUMS.REC.1403.127). The files of every patient who gave informed consent for the use of their data in research were examined. For individuals below eighteen years old, consent was obtained from their guardians. Statistical analysis was conducted while maintaining patient anonymity in accordance with ethics committee guidelines.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40050357</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=108dfe8e-9ebc-306b-a58f-6cb18776c17b</plink>
+  <doids></doids>
+  <publisher>Nature Publishing Group</publisher>
+  <contributors>Roozbeh, Nasibeh ; Montazeri, Farideh ; Farashah, Mohammadsadegh Vahidi ; Mehrnoush, Vahid ; Darsareh, Fatemeh</contributors>
+  <coverDate>2025 Mar 06</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1038/s41598-025-92810-2</doi>
+</record>

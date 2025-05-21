@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdia</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>LatIA, Nº. 3, 2025 (Ejemplar dedicado a: LatIA)</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning and AI for security mechanisms: A Systematic Literature Review Using a PRISMA Framework</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Machine Learning ; PRISMA Framework ; Cybersecurity ; Security Defense Mechanism ; Systematic Literature review ; Intrusion Detection ; Malware Analysis ; Anomaly Detection</subjects>
+  <abstract>Cyber threats are evolving rapidly, posing significant risks to individuals, organizations, and digital infrastructure. Traditional cybersecurity measures, which rely on predefined rules and static defence mechanisms, struggle to counter emerging threats such as zero-day attacks and advanced persistent threats (APTs). The integration of artificial intelligence (AI) and machine learning (ML) into cybersecurity presents a transformative approach, enhancing threat detection, anomaly identification, and automated response mechanisms. This study systematically reviews the role of ML and AI in cybersecurity defence using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) framework. A comprehensive literature search was conducted across multiple academic databases, identifying and analyzing studies published within the last decade. The review focuses on AI-driven cybersecurity applications, including intrusion detection systems (IDS), malware analysis, and anomaly detection in cloud and IoT environments. Findings indicate that ML models, such as neural networks, support vector machines, and ensemble learning techniques, improve detection accuracy and adaptability to evolving threats. AI-driven automated response systems enhance incident mitigation, reducing reliance on human intervention. However, challenges such as adversarial attacks, data privacy concerns, and computational resource demands persist. The study concludes that AI and ML significantly enhance cybersecurity resilience but require continuous advancements in model robustness, interpretability, and ethical considerations. Future research should focus on refining AI-driven security mechanisms, addressing adversarial vulnerabilities, and improving regulatory frameworks to maximize AI’s potential in cybersecurity.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdia.ART0001750530</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns>3046403X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=71573d76-5d57-3289-9915-1237cbb4985f</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Mambwe, Hockings ; Chavula, Petros ; Kayusi, Fredrick ; Lungu, Gilbert ; Uwimbabazi, Agnes</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Dialnet</longDBName>
+  <doi></doi>
+</record>

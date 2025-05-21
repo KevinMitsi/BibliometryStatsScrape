@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>HydroStartML: A combined machine learning and physics-based approach to reduce hydrological model spin-up time</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250424</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Physics - Geophysics ; Computer Science - Machine Learning</subjects>
+  <abstract>Finding the initial depth-to-water table (DTWT) configuration of a catchment is a critical challenge when simulating the hydrological cycle with integrated models, significantly impacting simulation outcomes. Traditionally, this involves iterative spin-up computations, where the model runs under constant atmospheric settings until steady-state is achieved. These so-called model spin-ups are computationally expensive, often requiring many years of simulated time, particularly when the initial DTWT configuration is far from steady state. To accelerate the model spin-up process we developed HydroStartML, a machine learning emulator trained on steady-state DTWT configurations across the contiguous United States. HydroStartML predicts, based on available data like conductivity and surface slopes, a DTWT configuration of the respective watershed, which can be used as an initial DTWT. Our results show that initializing spin-up computations with HydroStartML predictions leads to faster convergence than with other initial configurations like spatially constant DTWTs. The emulator accurately predicts configurations close to steady state, even for terrain configurations not seen in training, and allows especially significant reductions in computational spin-up effort in regions with deep DTWTs. This work opens the door for hybrid approaches that blend machine learning and traditional simulation, enhancing predictive accuracy and efficiency in hydrology for improving water resource management and understanding complex environmental interactions.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.17420</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=818d1428-e453-3deb-8115-28609252df5b</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Pawusch, Louisa ; Scheurer, Stefania ; Nowak, Wolfgang ; Maxwell, Reed</contributors>
+  <coverDate>20250424</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

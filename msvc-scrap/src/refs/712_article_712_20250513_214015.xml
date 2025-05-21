@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Education and Information Technologies</source>
+  <bookEdition></bookEdition>
+  <title>Early Prediction of Student Academic Performance Based on Machine Learning Algorithms: A Case Study of Bachelor's Degree Students in KSA</title>
+  <pageEnd>13270</pageEnd>
+  <pageStart>13247</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240801</publicationDate>
+  <pageCount>24</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>11</issue>
+  <identifiers></identifiers>
+  <subjects>Prediction ; Academic Achievement ; Artificial Intelligence ; Algorithms ; Undergraduate Students ; Foreign Countries ; Grades (Scholastic) ; Saudi Arabia</subjects>
+  <abstract>In the current educational landscape, where large amounts of data are being produced by institutions, Educational Data Mining (EDM) emerges as a critical discipline that plays a crucial role in extracting knowledge from this data to help academic policymakers make decisions. EDM has a primary focus on predicting students' academic performance. Numerous studies have been conducted for this purpose, but they are plagued by challenges including limited dataset size, disparities in grade distributions, and feature selection issues. This paper introduces a Machine Learning (ML) based method for the early prediction of bachelor students' final academic grade as well as drop-out cases. It focuses on identifying, from the first semester of study, the students requiring specific attention because of their academic weaknesses. The research employs nine classification models on students' data from a Saudi university, subsequently implementing a majority voting algorithm. The experimental outcomes are noteworthy, with the Extra Trees (ET) algorithm achieving a promising accuracy of 82.8% and the Majority Voting (MV) model outperforming all existing models by an accuracy reaching 92.7%. Moreover, the study identifies the factors exerting the greatest impact on students' academic performance, which belong to the three considered feature types: demographic, pre-admission, and academic.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1437363</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>29</volume>
+  <issns>1360-2357 ; 1573-7608</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=862c35fe-65cd-3a44-9793-6d846a8dc557</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Mouna Ben Said ; Yessine Hadj Kacem ; Abdulmohsen Algarni ; Atef Masmoudi</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10639-023-12370-8</doi>
+</record>

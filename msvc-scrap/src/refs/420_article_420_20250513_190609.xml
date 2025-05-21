@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781803248363 ; 9781803242637</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning for Streaming Data with Python : Rapidly Build Practical Online Machine Learning Solutions Using River and Other Top Key Frameworks</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20220101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Information Theory ; COMPUTERS / Machine Theory ; Machine learning ; Python (Computer program language)</subjects>
+  <abstract>Apply machine learning to streaming data with the help of practical examples, and deal with challenges that surround streamingKey FeaturesWork on streaming use cases that are not taught in most data science coursesGain experience with state-of-the-art tools for streaming dataMitigate various challenges while handling streaming dataBook DescriptionStreaming data is the new top technology to watch out for in the field of data science and machine learning. As business needs become more demanding, many use cases require real-time analysis as well as real-time machine learning. This book will help you to get up to speed with data analytics for streaming data and focus strongly on adapting machine learning and other analytics to the case of streaming data. You will first learn about the architecture for streaming and real-time machine learning. Next, you will look at the state-of-the-art frameworks for streaming data like River. Later chapters will focus on various industrial use cases for streaming data like Online Anomaly Detection and others. As you progress, you will discover various challenges and learn how to mitigate them. In addition to this, you will learn best practices that will help you use streaming data to generate real-time insights. By the end of this book, you will have gained the confidence you need to stream data in your machine learning models.What you will learnUnderstand the challenges and advantages of working with streaming dataDevelop real-time insights from streaming dataUnderstand the implementation of streaming data with various use cases to boost your knowledgeDevelop a PCA alternative that can work on real-time dataExplore best practices for handling streaming data that you absolutely need to rememberDevelop an API for real-time machine learning inferenceWho this book is forThis book is for data scientists and machine learning engineers who have a background in machine learning, are practice and technology-oriented, and want to learn how to apply machine learning to streaming data through practical examples with modern technologies. Although an understanding of basic Python and machine learning concepts is a must, no prior knowledge of streaming is required.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>3320918</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1ae10575-7f41-3c2c-92b6-6d721532b74d</plink>
+  <doids>NL$3320918$PDF ; NL$3320918$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Joos Korstanje</contributors>
+  <coverDate>2022</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

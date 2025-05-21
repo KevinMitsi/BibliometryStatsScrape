@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KBFH</mid>
+  <language>chi</language>
+  <source>Chinese Journal of Tissue Engineering Research / Zhongguo Zuzhi Gongcheng Yanjiu</source>
+  <bookEdition></bookEdition>
+  <title>机器学习预测肱骨近端骨折钢板内固定后继发性螺钉切出的风险.</title>
+  <pageEnd>3187</pageEnd>
+  <pageStart>3179</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250528</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>15</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; RECEIVER operating characteristic curves ; HUMERAL fractures ; SUBACROMIAL impingement syndrome ; SUPPORT vector machines ; TOTAL shoulder replacement</subjects>
+  <abstract>BACKGROUND: Secondary screw perforation of the articular surface is one of the major complications after locking plate internal fixation of proximal humerus fracture, and cut-out screws can damage shoulder function by abrading the glenoid and causing impingement of the acromion. Therefore, accurate risk prediction has positive clinical significance. OBJECTIVE: To screen risk factors for secondary screw perforation after proximal humerus fracture plating by machine learning methods, and to develop and validate a risk prediction model that facilitates clinicians to identify and intervene in high-risk patients at an early stage. METHODS: Clinical data of 214 patients with proximal humerus fractures who underwent locking plate internal fixation from June 2013 to June 2022 were collected as a training group to establish the model, and 61 similar patients from another hospital in the same period were included in the external validation group. The patients were divided into secondary screw perforation and screw maintenance groups according to whether they developed secondary screw perforation after surgery. The training group used three machine learning algorithms, namely, random forest, support vector machine, and logistic regression, to construct the prediction model. The recursive feature elimination method was used, and 10-fold cross-validation resampling was used as the screening method for the variables, and the intersection of the variables that were included when the accuracy of the three models was the highest was taken as the highly correlated with the secondary screw perforation reliable risk variables. The dynamic predictive model was constructed by R language software and presented as a web calculator, and the model was internally and externally validated. The internal test of the model was conducted by the Bootstrap method with 1 000 resamples, and the area under the receiver operating characteristic curve, the calibration curve, and the clinical decision curve were used to evaluate the differentiation, calibration ability, and clinical application value of the model. The Youden index was used to determine the optimal risk threshold of the prediction model, according to which the patients in the external validation group were divided into high- and low-risk groups, and the stability and extensibility of the model were evaluated according to the accuracy of its risk prediction ability. RESULTS AND CONCLUSION: (1) The machine learning algorithm identified four risk variables that were highly correlated with secondary screw perforation, namely cortical support of the proximal medial humeral column, deltoid tuberosity index, fracture type, and postoperative reduction. (2) The constructed risk prediction model showed good discrimination and accuracy [area under the curve=0.874, 95% confidence interval (0.827, 0.922)], and the calibration curve showed good agreement between the model predicted risk and the actual occurrence risk. (3) The clinical decision curve suggested that the model had good clinical applicability when the probability of the risk threshold was in the 0.1-0.75 range. (4) A risk probability of 26% was the optimal threshold for model risk stratification, and the external validation group used model risk stratification to predict secondary screw perforation with an overall accuracy rate of 84%. (5) The risk prediction model has good accuracy and extrapolation, and may provide a basis for guiding clinical treatment.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181393975</an>
+  <docTypes>Article</docTypes>
+  <volume>29</volume>
+  <issns>2095-4344</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=07ddd25d-5dad-339c-a856-e5bfae512558</plink>
+  <doids></doids>
+  <publisher>Chinese Journal of Tissue Engineering Research</publisher>
+  <contributors>徐大星 ; 涂泽松 ; 纪木强 ; 许伟鹏 ; 牛 维</contributors>
+  <coverDate>5/28/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.12307/2025.169</doi>
+</record>

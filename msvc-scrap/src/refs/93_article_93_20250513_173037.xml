@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>16V5</mid>
+  <language>eng</language>
+  <source>Journal of Business Forecasting</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning in Demand Forecasting: Embracing Technological Advancements for Predictive Accuracy.</title>
+  <pageEnd>18</pageEnd>
+  <pageStart>14</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Technological innovations ; Technological forecasting ; Demand forecasting ; Machine learning ; Recurrent neural networks</subjects>
+  <abstract>Artificial Intelligent (AI) driven by machine learning has generated significant excitement in the realm of demand forecasting due to advancements in data collection, storage, and processing, as well as technological improvements. Machine learning (ML) can certainly be integrated as another method within the suite of existing forecasting approaches. It's important to note that there isn't a single tool-- whether a mathematical equation or an algorithm--solely dedicated to demand forecasting. This article delves deeper into Recurrent Neural Networks (RNNs) and their variants, which have gained significant popularity in recent years due to their remarkable ability to handle unstructured sequential (time series) data. These models are called "recurrent" because they process data that unfolds in a sequence, such as text and time-stamped information.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184656744</an>
+  <docTypes>Article</docTypes>
+  <volume>44</volume>
+  <issns>1930-126X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c65a78b2-c16b-3056-b582-d68957b53e38</plink>
+  <doids></doids>
+  <publisher>Graceway Publishing Company</publisher>
+  <contributors>Chase, Charles</contributors>
+  <coverDate>Spring2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi></doi>
+</record>

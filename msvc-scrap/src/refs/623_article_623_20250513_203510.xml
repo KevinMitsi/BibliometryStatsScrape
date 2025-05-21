@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>8ZNA</mid>
+  <language>eng</language>
+  <source>Environmental Progress &amp;amp; Sustainable Energy</source>
+  <bookEdition></bookEdition>
+  <title>Application of machine learning for optimization and modeling of turbidity removal from aqueous solution.</title>
+  <pageEnd>11</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial neural networks ; Machine learning ; Response surfaces (Statistics) ; Support vector machines ; Aqueous solutions</subjects>
+  <abstract>Turbidity affects the aesthetic and overall quality of water and therefore, its prediction and modeling are essential for designing treatment strategies. In the present research, the outcomes of altering parameters and optimizing the removal of turbidity using response surface methodology (RSM), artificial neural network (ANN), support vector machine (SVM), and K‐nearest neighbor (KNN) based on a statistically designed set of experiments are examined. pH, coagulant dose, and settling time are considered process variables. The optimum removal of turbidity was obtained at a pH range of 6–8, coagulant dosage of 20–35 mg/L, and settling time of 30–45 min for the coagulants. The best turbidity reduction (60%) was achieved using alum coagulant (30 mg/L), at a pH of 7.5 and settling time for 45 min. All the models proved to be effective in demonstrating how the operating variables being studied influence the removal of turbidity from the aqueous solution. In contrast to the RSM, SVM, and KNN models, the ANN more accurately characterized the parametric impact.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183983507</an>
+  <docTypes>Article</docTypes>
+  <volume>44</volume>
+  <issns>1944-7442</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0b5b2777-44b3-34e9-9861-543af49df8f1</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Dutta, Neelanjan ; Dey, Pankaj ; Pal, Joy</contributors>
+  <coverDate>Jan/Feb2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/ep.14494</doi>
+</record>

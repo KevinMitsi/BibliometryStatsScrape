@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>A hybrid model combining environmental analysis and machine learning for predicting AI education quality.</title>
+  <pageEnd>17</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250416</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>ARTIFICIAL intelligence ; MACHINE learning ; SEARCH algorithms ; EDUCATIONAL quality ; COLLEGE teaching</subjects>
+  <abstract>Due to the evolution of the management system of educational institutions, the need to use artificial intelligence-based tools in the university is felt more and more. Therefore, platforms based on artificial intelligence (AI) are getting more developed day by day. Therefore, in this study, firstly, by dividing the macro environment into three different parts, including external, intermediate, and internal, a set of corrective measures in the university teaching and learning management in the background of AI education is proposed, and also the effects of their application in the management of teaching and learning in universities were discussed. Also, in order to evaluate the quality of AI training programs in higher education, a new approach based on the multilayer perceptron (MLP) algorithm was presented in which the capuchin search algorithm (CapSA) was used to adjust the weight vector of the neural network. According to the results, Proposed and ANN (SCG) models had the best and worst performance respectively in reproducing observations. The results showed that corrective measures in all environments can help the development of AI education in universities. The results of conducting a case study and examining various evaluation indicators showed that the proposed approach in this study has a good accuracy in predicting the target variable (quality of education). The values of CCC, SROCC, PLCC and R&lt;sup>2&lt;/sup> indices related to the proposed model are equal to 0.9611, 0.9805, 0.9731, and 0.9803, respectively, which are all higher than the corresponding values in other models.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184519912</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c763a2de-f842-3f51-85c1-3fb484b3c162</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Ren, Xinyu</contributors>
+  <coverDate>4/16/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-92556-x</doi>
+</record>

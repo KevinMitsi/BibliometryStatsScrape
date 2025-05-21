@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3503-6836-9</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE Wireless Communications and Networking Conference (WCNC), Wireless Communications and Networking Conference (WCNC), 2025 IEEE</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning-Based Tail Sequence Detection in LDPC-Coded Space Transmissions</title>
+  <pageEnd>6</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250324</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Space communications ; Tail ; Machine learning ; Decoding ; Error correction codes ; Noise measurement ; Synchronization ; Iterative methods ; Iterative decoding ; Satellite communications ; LDPC codes ; Machine Learning ; Satellite Communications ; Tail Sequence ; TeleCommand</subjects>
+  <abstract>In the context of space communications, as per the recommendation from the Consultative Committee for Space Data Systems regarding TeleCommand synchronization and coding, the Communications Link Transmission Unit is composed of a start sequence, coded data, and a tail sequence, which might be optional depending on the employed error correcting code. The task of detecting the tail sequence must be handled along with that of decoding the codewords containing the transmitted data, and this poses some challenges. In this paper, we propose a machine learning model for recognizing the tail sequence based on the analysis of metrics calculated during decoding, when the transmission is coded with Low-Density Parity-Check (LDPC) codes. The model is trained on data produced by an iterative decoder, commonly used in LDPC decoding, with noisy (random) codewords or the noisy tail sequence as inputs. We report the results of some preliminary experiments showing that this approach is capable of achieving very high levels of accuracy using multiple classifiers.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10978413</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>15582612</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2d1fd457-05de-3a7f-b2f4-0c5282fbe3c1</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Battaglioni, Massimo ; Giuliani, Rebecca ; Chiaraluce, Franco ; Baldi, Marco</contributors>
+  <coverDate>20250324</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/WCNC61545.2025.10978413</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>ADC</mid>
+  <language>eng</language>
+  <source>Applied Economics</source>
+  <bookEdition></bookEdition>
+  <title>Forecasting realized volatility of the oil future prices via machine learning.</title>
+  <pageEnd>24</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250202</publicationDate>
+  <pageCount>24</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Energy futures ; Market volatility ; Petroleum sales &amp;amp; prices ; Crude Petroleum and Natural Gas Extraction ; Pipeline Transportation of Crude Oil ; Petroleum Bulk Stations and Terminals ; Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) ; Petroleum and petroleum products merchant wholesalers ; Machine learning ; Petroleum</subjects>
+  <abstract>This paper explores the potential use of machine learning models in crude oil realized volatility forecasting through a variety of empirical analyses and robustness checks. Although the conventional Heterogeneous Autoregressive (HAR) model is widely accepted, the machine learning models with the HAR factors can significantly improve its forecasting performance. We also found that macroeconomic variables such as supply factors, implied volatility indices and uncertainty factors can be useful in forecasting oil volatility.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182633360</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>0003-6846</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0779153f-f441-3615-9268-75188821846e</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Kim, Myung Jun ; Kim, Byung-June ; Kim, Taeyoon ; Jang, Bong-Gyu</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00036846.2025.2458248</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>auto-fpt: Automating Free Probability Theory Calculations for Machine Learning Theory</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250414</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Machine Learning ; Computer Science - Mathematical Software</subjects>
+  <abstract>A large part of modern machine learning theory often involves computing the high-dimensional expected trace of a rational expression of large rectangular random matrices. To symbolically compute such quantities using free probability theory, we introduce auto-fpt, a lightweight Python and SymPy-based tool that can automatically produce a reduced system of fixed-point equations which can be solved for the quantities of interest, and effectively constitutes a theory. We overview the algorithmic ideas underlying auto-fpt and its applications to various interesting problems, such as the high-dimensional error of linearized feed-forward neural networks, recovering well-known results. We hope that auto-fpt streamlines the majority of calculations involved in high-dimensional analysis, while helping the machine learning community reproduce known and uncover new phenomena.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.10754</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6834e773-1b26-3299-a7f7-07076c3f6cf9</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Subramonian, Arjun ; Dohmatob, Elvis</contributors>
+  <coverDate>20250414</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

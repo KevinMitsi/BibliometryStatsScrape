@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Informatics in Education</source>
+  <bookEdition></bookEdition>
+  <title>Teaching Machine Learning to Middle and High School Students from a Low Socio-Economic Status Background</title>
+  <pageEnd>678</pageEnd>
+  <pageStart>647</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>32</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Middle School Students ; High School Students ; Low Income Students ; Socioeconomic Status ; Artificial Intelligence ; Teaching Methods ; Foreign Countries ; Knowledge Level ; Equal Education ; Technological Literacy ; Student Attitudes ; Courses ; Brazil</subjects>
+  <abstract>Knowledge about Machine Learning (ML) is becoming essential, yet it remains a restricted privilege that may not be available to students from a low socio-economic status background. Thus, in order to provide equal opportunities, we taught ML concepts and applications to 158 middle and high school students from a low socio-economic background in Brazil. Results show that these students can understand how ML works and execute the main steps of a human-centered process for developing an image classification model. No substantial differences regarding class periods, educational stage, and sex assigned at birth were observed. The course was perceived as fun and motivating, especially to girls. Despite the limitations in this context, the results show that they can be overcome. Mitigating solutions involve partnerships between social institutions and university, an adapted pedagogical approach as well as increased on-by-one assistance. These findings can be used to guide course designs for teaching ML in the context of underprivileged students from a low socio-economic status background and thus contribute to the inclusion of these students.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1443804</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>23</volume>
+  <issns>1648-5831 ; 2335-8971</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d0837de1-b3e5-3782-a6a8-3175455a08db</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Ramon Mayor Martins ; Christiane Gresse Von Wangenheim ; Marcelo Fernando Rauber ; Jean Carlo Rossa Hauck ; Melissa Figueiredo Silvestre</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

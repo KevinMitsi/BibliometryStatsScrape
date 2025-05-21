@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>German</language>
+  <source>Österreichische Wasser- und Abfallwirtschaft</source>
+  <bookEdition></bookEdition>
+  <title>Sortierung von Mehrschichtfolien durch Anwendung von Transflektion und Machine-Learning-Ansätzen</title>
+  <pageEnd>50</pageEnd>
+  <pageStart>42</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240201</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations>Vienna</publisherLocations>
+  <issue>1-2</issue>
+  <identifiers></identifiers>
+  <subjects>Multilayer-Folien-Sortierung ; Maschinelles Lernen ; Sensorgestützte Sortierung ; Abfallvermeidung ; Recycling ; Multilayer Film Sorting ; Machine Learning ; Sensor-Based Sorting ; Waste Reduction</subjects>
+  <abstract>Zusammenfassung: Die Verbreitung von Mehrschichtfolien im Bereich der Kunststoffverpackungen bringt viele Vorteile für Verbraucher, Logistik und die Umwelt mit sich, stellt jedoch gleichzeitig neue Herausforderungen für das Abfallmanagement dar. Aufgrund eines Mangels an geeigneten Technologien im industriellen Maßstab ist der Materialverbund der dünnsten verschiedenen Kunststoffe bisher kaum vom übrigen Kunststoffverpackungsstrom zu unterscheiden. Die Mischung unerwünschter Materialien führt zu Inkompatibilität zwischen den Kunststoffen im Recyclingprodukt und infolgedessen zu einer Verringerung der Qualität der Sekundärrohstoffe. Projekte wie „Multilayer Detection“ des AVAW der Montanuniversität bieten Lösungen, die vorhandene NIR-Sortiertechnologie in bestehenden Kunststoffrecyclinganlagen so anzupassen, dass die Identifizierung und Ausscheidung von Mehrschichtfolien problemlos nachgerüstet werden können. Mit der Entwicklung der neuen Recyclingmethode können die bestehenden Vorteile von leichter Folienverpackung auf bestmögliche und umweltfreundliche Weise genutzt werden. Eine Herausforderung im Abfallmanagement kann gemeistert und in einen wertvollen Beitrag zur Kreislaufwirtschaft umgewandelt werden. Dazu werden adaptierte Messmethoden in der Nahinfrarotspektroskopie wie die Akquise von Spektraldaten in Transflektion angewandt. Weiters wird gezeigt, wie Machine-Learning-Klassifikationsmethoden Herausforderungen, die aus schierer Vielfalt an Mehrschichtfolien erwachsen, lösen können. Schlussendlich wird anhand einer Lebenszyklusanalyse von Folienverpackungen die Notwendigkeit einer verbesserten Sammlung und Sortierung gezeigt.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.C034B85C</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>76</volume>
+  <issns>0945358X ; 16137566</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f9c5a230-bf9a-3896-b331-dcede04b8105</plink>
+  <doids></doids>
+  <publisher>Springer Vienna</publisher>
+  <contributors>Koinig, Gerald ; Kuhn, Nikolai ; Tischberger-Aldrian, Alexia</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s00506-023-01000-9</doi>
+</record>

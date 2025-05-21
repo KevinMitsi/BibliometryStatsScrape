@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Science Advances</source>
+  <bookEdition></bookEdition>
+  <title>FlyVISTA, an integrated machine learning platform for deep phenotyping of sleep in Drosophila.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250314</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>11</issue>
+  <identifiers></identifiers>
+  <subjects>Animals ; Sleep ; Machine Learning ; Phenotype ; Drosophila ; Drosophila melanogaster ; Behavior ; Animal ; Isoxazoles ; Deep Learning ; Video Recording</subjects>
+  <abstract>There is great interest in using genetically tractable organisms such as Drosophila to gain insights into the regulation and function of sleep. However, sleep phenotyping in Drosophila has largely relied on simple measures of locomotor inactivity. Here, we present FlyVISTA, a machine learning platform to perform deep phenotyping of sleep in flies. This platform comprises a high-resolution closed-loop video imaging system, coupled with a deep learning network to annotate 35 body parts, and a computational pipeline to extract behaviors from high-dimensional data. FlyVISTA reveals the distinct spatiotemporal dynamics of sleep and wake-associated microbehaviors at baseline, following administration of the sleep-inducing drug gaboxadol, and with dorsal fan-shaped body drivers. We identify a microbehavior (haltere switch) exclusively seen during quiescence that indicates a deeper sleep stage. These results enable the rigorous analysis of sleep in Drosophila and set the stage for computational analyses of microbehaviors in quiescent animals.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt7s7418nv</an>
+  <docTypes>article</docTypes>
+  <volume>11</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8c3b5bf7-327d-37b3-93cf-03438a1f10f6</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Keleş, Mehmet ; Sapci, Ali Osman Berk ; Brody, Casey ; Palmer, Isabelle ; Mehta, Anuradha ; Ahmadi, Shahin ; Le, Christin ; Taştan, Öznur ; Keleş, Sündüz ; Wu, Mark</contributors>
+  <coverDate>20250314</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

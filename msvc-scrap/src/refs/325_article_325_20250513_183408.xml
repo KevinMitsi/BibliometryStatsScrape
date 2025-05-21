@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Mixed-Integer Optimization for Responsible Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250509</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Machine Learning ; Mathematics - Optimization and Control ; Statistics - Machine Learning</subjects>
+  <abstract>In the last few decades, Machine Learning (ML) has achieved significant success across domains ranging from healthcare, sustainability, and the social sciences, to criminal justice and finance. But its deployment in increasingly sophisticated, critical, and sensitive areas affecting individuals, the groups they belong to, and society as a whole raises critical concerns around fairness, transparency, robustness, and privacy, among others. As the complexity and scale of ML systems and of the settings in which they are deployed grow, so does the need for responsible ML methods that address these challenges while providing guaranteed performance in deployment. Mixed-integer optimization (MIO) offers a powerful framework for embedding responsible ML considerations directly into the learning process while maintaining performance. For example, it enables learning of inherently transparent models that can conveniently incorporate fairness or other domain specific constraints. This tutorial paper provides an accessible and comprehensive introduction to this topic discussing both theoretical and practical aspects. It outlines some of the core principles of responsible ML, their importance in applications, and the practical utility of MIO for building ML models that align with these principles. Through examples and mathematical formulations, it illustrates practical strategies and available tools for efficiently solving MIO problems for responsible ML. It concludes with a discussion on current limitations and open research questions, providing suggestions for future work.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2505.05857</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9e8591f3-6915-3c82-a4fd-8a82a2a7e2fe</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Justin, Nathan ; Sun, Qingshi ; Gómez, Andrés ; Vayanos, Phebe</contributors>
+  <coverDate>20250509</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

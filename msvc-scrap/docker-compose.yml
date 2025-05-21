@@ -1,0 +1,13 @@
+version: '3.8' 
+services:
+  msvc-stats:
+    image: kevinmitsi/msvc-stats
+    container_name: msvc-stats
+    ports:
+      - "8001:8001"
+
+  msvc-texts:
+    image: kevinmitsi/msvc-texts
+    container_name: msvc-texts
+    ports:
+      - "8003:8003"

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Education and Information Technologies</source>
+  <bookEdition></bookEdition>
+  <title>Optimized Machine Learning Model Discourse Analysis</title>
+  <pageEnd>16363</pageEnd>
+  <pageStart>16345</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240901</publicationDate>
+  <pageCount>19</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>13</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Discourse Analysis ; Classification ; Comparative Analysis ; Online Courses ; Teaching Methods ; Teacher Behavior ; Behavior Patterns ; Teacher Student Relationship ; Attendance ; Language Usage ; Classroom Communication ; Correlation ; Student Behavior</subjects>
+  <abstract>In recent years, online education has been given more and more attention with the widespread use of the internet. The teaching procedure divides space and makes time for online learning; though teachers cannot control the learners accurately, the state of education calculates learners' learning situation. This paper explains that the discourse analysis method is utilized to examine the online teaching behavior of teachers and student behavior like class attendance, how many are active in class, and learning behavior in online education. Also, discourse analysis will optimize and enhance the classification of the text understood according to their language. After pre-processing, feature extraction was done by utilizing Term Frequency-Inverse Document Frequency, and feature selection was calculated via utilizing chi-square examination for teacher discourse like learning behavior, languages understood by students, and language types. Moreover, the machine learning-based classification technique Support Vector Machine (SVM) is considered to analyze the teacher discourse in class automatically, and results are compared with existing techniques.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1443823</an>
+  <docTypes>Journal Articles ; Reports - Evaluative</docTypes>
+  <volume>29</volume>
+  <issns>1360-2357 ; 1573-7608</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f0a42ccd-af4c-3370-b62e-9e773240832b</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>E. Gothai ; S. Saravanan ; C. Thirumalai Selvan ; Ravi Kumar</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10639-024-12515-3</doi>
+</record>

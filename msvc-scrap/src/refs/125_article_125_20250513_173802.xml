@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3467-7</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), Software Testing, Verification and Validation Workshops (ICSTW), 2025 IEEE International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Quantifying Correlations of Machine Learning Models</title>
+  <pageEnd>417</pageEnd>
+  <pageStart>410</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250331</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computing and Processing ; Training ; Software testing ; Analytical models ; Correlation ; Machine learning algorithms ; Prevention and mitigation ; Machine learning ; Predictive models ; Data models ; Safety ; Model vulnerabilities ; AI safety ; Error analysis ; Foundation models</subjects>
+  <abstract>Machine Learning models are being extensively used in safety critical applications where errors from these models could cause harm to the user. Such risks are amplified when multiple machine learning models, which are deployed concurrently, interact and make errors simultaneously. This paper explores three scenarios where error correlations between multiple models arise, resulting in such aggregated risks. Using real-world data, we simulate these scenarios and quantify the correlations in errors of different models. Our findings indicate that aggregated risks are substantial, particularly when models share similar algorithms, training datasets, or foundational models. Overall, we observe that correlations across models are pervasive and likely to intensify with increased reliance on foundational models and widely used public datasets, highlighting the need for effective mitigation strategies to address these challenges.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10962482</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=042ef998-51a5-382a-9ae6-32832090102b</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Li, Yuanyuan ; Sarna, Neeraj ; Lin, Yang</contributors>
+  <coverDate>20250331</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/ICSTW64639.2025.10962482</doi>
+</record>

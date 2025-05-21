@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>IEEE Sensors Journal, Sensors Journal, IEEE, IEEE Sensors J.</source>
+  <bookEdition></bookEdition>
+  <title>High-Precision Readout Circuits for Portable Biosensor Devices—A Review of IA</title>
+  <pageEnd>9249</pageEnd>
+  <pageStart>9233</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250315</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Signal Processing and Analysis ; Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Robotics and Control Systems ; Noise ; Circuits ; Electrodes ; Sensors ; Impedance ; DSL ; Biosensors ; Choppers (circuits) ; Boosting ; Biomedical monitoring ; Analog front end (AFE) ; DC servo loop (DSL) ; input impedance boosting technology ; instrumentation amplifier (IA)</subjects>
+  <abstract>The physiological information transmitted by biological signals is of great importance for the function of biomedical sensors. In the initial stage of sensor signal acquisition, the acquisition accuracy of the analog front end (AFE) directly determines the full preservation of signal quality. As the core component of AFE, the instrumentation amplifier (IA), as the first stage amplifier not only significantly amplifies the input signal, but also effectively suppresses the corresponding noise at the input of the subsequent circuit. Therefore, the low-noise design of IA plays an important role in the overall design of AFE. This article focuses on the two core technologies of dc servo loop (DSL) technology and input impedance boosting technology to improve IA accuracy. An in-depth analysis of the specific implementation methods of these technologies in IA design reveals their respective significant advantages and potential limitations in optimizing signal quality and improving system performance. In addition, a comparative analysis of commercial versus academic IAs is provided, highlighting their performance, applications, and cost-effectiveness. The article concludes with a synthesis of recent advancements in IA design and projections for future developments, informed by current trends.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edseee.10871920</an>
+  <docTypes>Periodical</docTypes>
+  <volume>25</volume>
+  <issns>1530437X ; 15581748 ; 23799153</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2e4b0b23-4bac-3e0c-b24f-cb98a3ac0359</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Yang, H. ; Yan, J. ; Tan, J. ; Ren, M. ; Li, X. ; Wang, S.</contributors>
+  <coverDate>20250315</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/JSEN.2025.3536079</doi>
+</record>

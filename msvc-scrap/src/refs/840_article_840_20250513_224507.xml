@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-3-031-47062-2 ; 978-3-031-47061-5 ; 3-031-47062-1 ; 3-031-47061-3</isbns>
+  <shortDBName>edsoap</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning for Cyber-Physical Systems</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240716</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Cyber-physical systems ; Neural networks ; Computer Science ; Network architecture ; Automatic validation ; Machine learning ; Electronics engineering ; Cybernetics and systems theory ; Computer hardware ; Artificial intelligence ; Mathematical modelling</subjects>
+  <abstract>This open access proceedings presents new approaches to Machine Learning for Cyber-Physical Systems, experiences and visions. It contains some selected papers from the international Conference ML4CPS – Machine Learning for Cyber-Physical Systems, which was held in Hamburg (Germany), March 29th to 31st, 2023. Cyber-physical systems are characterized by their ability to adapt and to learn: They analyze their environment and, based on observations, they learn patterns, correlations and predictive models. Typical applications are condition monitoring, predictive maintenance, image processing and diagnosis. Machine Learning is the key technology for these developments. This is an open access book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edsoap.20.500.12657.92296</an>
+  <docTypes>book</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4dc153ae-2f16-3231-a673-810de9dfd84c</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Niggemann, Oliver ; Beyerer, Jürgen ; Krantz, Maria ; Kühnert, Christian</contributors>
+  <coverDate>20240716</coverDate>
+  <longDBName>OAPEN Library</longDBName>
+  <doi>10.1007/978-3-031-47062-2</doi>
+</record>

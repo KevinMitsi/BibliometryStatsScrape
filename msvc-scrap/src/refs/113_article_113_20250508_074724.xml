@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FDU4</mid>
+  <language>eng</language>
+  <source>Brain Sciences (2076-3425)</source>
+  <bookEdition></bookEdition>
+  <title>Can Saccade and Vergence Properties Discriminate Stroke Survivors from Individuals with Other Pathologies? A Machine Learning Approach.</title>
+  <pageEnd></pageEnd>
+  <pageStart>230</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; EYE movement disorders ; EYE movements ; LEARNING disabilities ; ARTIFICIAL intelligence</subjects>
+  <abstract>Recent studies applying machine learning (ML) to saccade and vergence eye movements have demonstrated the ability to distinguish individuals with dyslexia, learning disorders, or attention disorders from healthy individuals or those with other pathologies. Stroke patients are known to exhibit visual deficits and eye movement disorders. This study focused on saccade and vergence measurements using REMOBI technology V3 and the Pupil Core eye tracker. Eye movement data were automatically analyzed with the AIDEAL V3 (Artificial Intelligence Eye Movement Analysis) cloud software developed by Orasis-Ear. This software computes multiple parameters for each type of eye movement, including the latency, accuracy, velocity, duration, and disconjugacy. Three ML models (logistic regression, support vector machine, random forest) were applied to the saccade and vergence eye movement features provided by AIDEAL to identify stroke patients from other groups: a population of children with learning disorders and a population with a broader spectrum of dysfunctions or pathologies (including children and adults). The different classifiers achieved macro F1 scores of up to 75.9% in identifying stroke patients based on the saccade and vergence parameters. An additional ML analysis using age-matched groups of stroke patients and adults or seniors reduced the influence of large age differences. This analysis resulted in even higher F1 scores across all three ML models, as the comparison group predominantly included healthy individuals, including some with presbycusis. In conclusion, ML applied to saccade and vergence eye movement parameters, as measured by the REMOBI and AIDEAL technology, is a sensitive method for the detection of stroke-related sequelae. This approach could be further developed as a clinical tool to evaluate recovery, compensation, and the evolution of neurological deficits in stroke patients.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184129033</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2076-3425</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=63e2a839-70b4-3ebb-826e-636723ead472</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>El Hmimdi, Alae Eddine ; Kapoula, Zoï</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/brainsci15030230</doi>
+</record>

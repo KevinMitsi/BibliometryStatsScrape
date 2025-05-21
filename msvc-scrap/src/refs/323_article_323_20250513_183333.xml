@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Comunicar: Media Education Research Journal</source>
+  <bookEdition></bookEdition>
+  <title>Towards Learner Performance Evaluation in iVR Learning Environments Using Eye-Tracking and Machine-Learning</title>
+  <pageEnd>19</pageEnd>
+  <pageStart>9</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230701</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>76</issue>
+  <identifiers></identifiers>
+  <subjects>Student Evaluation ; Computer Simulation ; Eye Movements ; Technology Integration ; Artificial Intelligence ; Prediction ; Accuracy ; Game Based Learning ; Learning Experience</subjects>
+  <abstract>At present, the use of eye-tracking data in immersive Virtual Reality (iVR) learning environments is set to become a powerful tool for maximizing learning outcomes, due to the low-intrusiveness of eye-tracking technology and its integration in commercial iVR Head Mounted Displays. However, the most suitable technologies for data processing should first be identified before their use in learning environments can be generalized. In this research, the use of machine-learning techniques is proposed for that purpose, evaluating their capabilities to classify the quality of the learning environment and to predict user learning performance. To do so, an iVR learning experience simulating the operation of a bridge crane was developed. Through this experience, the performance of 63 students was evaluated, both under optimum learning conditions and under stressful conditions. The final dataset included 25 features, mostly temporal series, with a dataset size of up to 50M data points. The results showed that different classifiers (KNN, SVM and Random Forest) provided the highest accuracy when predicting learning performance variations, while the accuracy of user learning performance was still far from optimized, opening a new line of future research. This study has the objective of serving as a baseline for future improvements to model accuracy using complex machine-learning techniques.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1394970</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>31</volume>
+  <issns>1134-3478 ; 1988-3293</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=18d54dcb-4dd1-364f-aad0-b6f74fe2a38e</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Serrano-Mamolar, Ana ; Miguel-Alonso, Ines ; Checa, David ; Pardo-Aguilar, Carlos</contributors>
+  <coverDate>Jul 2023</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

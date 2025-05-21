@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781785882104 ; 9781785883903</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning With Go : Implement Regression, Classification, Clustering, Time-series Models, Neural Networks, and More Using the Go Programming Language</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20170101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Artificial Intelligence / Natural Language Processing ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / Neural Networks ; Machine learning ; Go (Computer program language) ; Application software--Development ; Big data</subjects>
+  <abstract>Build simple, maintainable, and easy to deploy machine learning applications.Key Features[•] Build simple, but powerful, machine learning applications that leverage Go's standard library along with popular Go packages.[•] Learn the statistics, algorithms, and techniques needed to successfully implement machine learning in Go[•] Understand when and how to integrate certain types of machine learning model in Go applications.Book DescriptionThe mission of this book is to turn readers into productive, innovative data analysts who leverage Go to build robust and valuable applications. To this end, the book clearly introduces the technical aspects of building predictive models in Go, but it also helps the reader understand how machine learning workflows are being applied in real-world scenarios. Machine Learning with Go shows readers how to be productive in machine learning while also producing applications that maintain a high level of integrity. It also gives readers patterns to overcome challenges that are often encountered when trying to integrate machine learning in an engineering organization. The readers will begin by gaining a solid understanding of how to gather, organize, and parse real-work data from a variety of sources. Readers will then develop a solid statistical toolkit that will allow them to quickly understand gain intuition about the content of a dataset. Finally, the readers will gain hands-on experience implementing essential machine learning techniques (regression, classification, clustering, and so on) with the relevant Go packages. Finally, the reader will have a solid machine learning mindset and a powerful Go toolkit of techniques, packages, and example implementations. What you will learnLearn about data gathering, organization, parsing, and cleaning.Explore matrices, linear algebra, statistics, and probability.See how to evaluate and validate models.Look at regression, classification, clustering.Learn about neural networks and deep learningUtilize times series models and anomaly detection.Get to grip with techniques for deploying and distributing analyses and models.Optimize machine learning workflow techniquesWho this book is forThis book is for Go developers who are familiar with the Go syntax and can develop, build, and run basic Go programs. If you want to explore the field of machine learning and you love Go, then this book is for you! Machine Learning with Go will give readers the practical skills to perform the most common machine learning tasks with Go. Familiarity with some statistics and math topics is necessary.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1607084</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2e4d4cb4-19c4-36d0-90e9-9070c88ce82b</plink>
+  <doids>NL$1607084$PDF ; NL$1607084$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Joseph Langstaff Whitenack</contributors>
+  <coverDate>2017</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

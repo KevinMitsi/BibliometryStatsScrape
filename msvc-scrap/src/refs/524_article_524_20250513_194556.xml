@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-3-031-83096-9 ; 978-3-031-83097-6</isbns>
+  <shortDBName>edssjb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Informed Machine Learning</source>
+  <bookEdition></bookEdition>
+  <title>Informed Machine Learning to Maximize Robustness and Computational Performance of Linear Solvers</title>
+  <pageEnd>311</pageEnd>
+  <pageStart>285</pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>27</pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>It is crucial for the efficiency and robustness of numerical simulations that the linear solver strategy therein is adjusted to the type of simulation in a grey-box manner (Stüben et al., Algebraic multigrid - from academia to industry. In: Scientific computing and algorithms in industrial simulations, 2017). Sophisticated solver methods can then provide a remarkable computational performance along with the required precision in various fields of simulation. And they still comprise a lot of options for a fine-grained control, where an optimal parameter setting is a highly individual and rather volatile trade-off between robustness and computational efficiency—depending on properties of a particular simulation, computing environment and accuracy requirements. We apply methods of evolutionary and surrogate machine learning for these remaining optimizations. With the hundreds and thousands of different control options, an uninformed learning approach was practically impossible within a simulation. Instead, along with the general application-tailored solver strategy, a parameter optimization space is provided for the learning methods. These also evaluate data within the simulations. A deep integration into the solver method allows for accessing all relevant data for decision and learning processes and helps to reduce overhead costs. It also allows for reducing the number of solver setups within a simulation run and guarantees robustness by quickly reacting to convergence break-downs. We will demonstrate the benefits for simulations from different industrial use cases from fluid dynamics and geological simulations towards structural mechanics and battery aging simulations.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edssjb.978.3.031.83097.6.13</an>
+  <docTypes></docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fbf3ae90-50d2-3fbe-ad20-6633ab74ac9b</plink>
+  <doids></doids>
+  <publisher>Springer Nature Switzerland</publisher>
+  <contributors>Gries, Sebastian</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature eBooks</longDBName>
+  <doi>10.1007/978-3-031-83097-6_13</doi>
+</record>

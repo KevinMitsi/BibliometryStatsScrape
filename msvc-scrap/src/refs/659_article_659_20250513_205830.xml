@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Правовое государство: теория и практика</source>
+  <bookEdition></bookEdition>
+  <title>AUTOMATION OF LAW ENFORCEMENT: PROBLEMS AND SOLUTIONS USING MACHINE LEARNING AND MACHINE-READABLE LAW</title>
+  <pageEnd>237</pageEnd>
+  <pageStart>227</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1(78)</issue>
+  <identifiers></identifiers>
+  <subjects>automation of law enforcement ; machine-readable law ; algorithmisation of law ; machine learning ; artificial intelligence ; large language models ; neural networks ; interpretation of law ; sources of law ; legal uncertainty ; Law in general. Comparative and uniform law. Jurisprudence ; K1-7720</subjects>
+  <abstract>The article explores the prospects for automating human activity in the application of law. The purpose of the study is to analyse the theoretical possibility of automating the law enforcement process through the use of modern information technologies and new approaches to the formation of law. The research methodology includes systematic approach, abstraction, analysis and synthesis. The author provides a list of fundamental problems that hinder automation of law enforcement, arising from the specifics of modern law, the process of its creation and application. Such problems include the lack of a single official database of sources of law, the imperfection of natural language, the need to use additional information about the world and society, etc. In addition, the article proposes possible solutions to these problems based on the application of machine learning and the introduction of machine-readable law. In particular, the author considers the use of neural networks for recognising printed text, vector models for organising semantic search through normative texts, large language models for performing cognitive operations and storing information about the world and society, computer vision systems for evaluating facts of objective reality. The author concludes that modern technologies and new approaches to the formation of law potentially allow, if not to achieve full automation of law enforcement, then significantly approach this goal.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.b0305c36be13466e93acdbe2e5b27ed3</an>
+  <docTypes>article</docTypes>
+  <volume>21</volume>
+  <issns>25000217</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5817f139-1287-3947-aa84-3087607f1e22</plink>
+  <doids></doids>
+  <publisher>Bashkir State University</publisher>
+  <contributors>PEREVOZKIN Andrey Andreevich</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.33184/pravgos-2025.1.25</doi>
+</record>

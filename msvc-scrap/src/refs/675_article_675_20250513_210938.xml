@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-3-031-39354-9 ; 978-3-031-39355-6</isbns>
+  <shortDBName>edssjb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Artificial Intelligence and Machine Learning in Health Care and Medical Sciences : Best Practices and Pitfalls</source>
+  <bookEdition></bookEdition>
+  <title>Artificial Intelligence (AI) and Machine Learning (ML) for Healthcare and Health Sciences: The Need for Best Practices Enabling Trust in AI and ML</title>
+  <pageEnd>31</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>31</pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning (ML) ; Artificial intelligence (AI) ; Algorithm ; Model ; AI trust ; Acceptance ; Adoption</subjects>
+  <abstract>In the opening chapter we first introduce essential concepts about Artificial Intelligence and Machine Learning (AI/ML) in Health Care and the Health Sciences (aka Biomedical AI/ML). We then provide a brief historical perspective of the field including highlights of achievements of Biomedical AI/ML, the various generations of AI/ML efforts, and the recent explosive interest in such methods and future growth expectations. We summarize how biomedical AI and ML differ from general-purpose AI/ML. We show that pitfalls and related lack of best practices undermine practice and potential of Biomedical AI/ML. We introduce high-level requirements for biomedical AI/ML and 7 dimensions of trust, acceptance and ultimately adoption, which serve as the driving principles of the present volume. We outline the contents of the volume, both overall and chapter-by-chapter, noting the interconnections. We discuss the intended audience, and differences from other AI/ML books. We finally discuss format, style/tone, and state a few important caveats and disclosures.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edssjb.978.3.031.39355.6.1</an>
+  <docTypes></docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e4ef1bf8-923d-383b-acf5-500bec48272f</plink>
+  <doids></doids>
+  <publisher>Springer International Publishing</publisher>
+  <contributors>Aliferis, Constantin ; Simon, Gyorgy</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>Springer Nature eBooks</longDBName>
+  <doi>10.1007/978-3-031-39355-6_1</doi>
+</record>

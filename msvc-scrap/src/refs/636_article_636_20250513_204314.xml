@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781803230061 ; 9781803245980</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Feature Store for Machine Learning : Curate, Discover, Share and Serve ML Features at Scale</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20220101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Computer Science ; COMPUTERS / Data Science / General ; COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; Machine learning</subjects>
+  <abstract>Learn how to leverage feature stores to make the most of your machine learning modelsKey FeaturesUnderstand the significance of feature stores in the ML life cycleDiscover how features can be shared, discovered, and re-usedLearn to make features available for online models during inferenceBook DescriptionFeature store is one of the storage layers in machine learning (ML) operations, where data scientists and ML engineers can store transformed and curated features for ML models. This makes them available for model training, inference (batch and online), and reuse in other ML pipelines. Knowing how to utilize feature stores to their fullest potential can save you a lot of time and effort, and this book will teach you everything you need to know to get started. Feature Store for Machine Learning is for data scientists who want to learn how to use feature stores to share and reuse each other's work and expertise. You'll be able to implement practices that help in eliminating reprocessing of data, providing model-reproducible capabilities, and reducing duplication of work, thus improving the time to production of the ML model. While this ML book offers some theoretical groundwork for developers who are just getting to grips with feature stores, there's plenty of practical know-how for those ready to put their knowledge to work. With a hands-on approach to implementation and associated methodologies, you'll get up and running in no time. By the end of this book, you'll have understood why feature stores are essential and how to use them in your ML projects, both on your local system and on the cloud.What you will learnUnderstand the significance of feature stores in a machine learning pipelineBecome well-versed with how to curate, store, share and discover features using feature storesExplore the different components and capabilities of a feature storeDiscover how to use feature stores with batch and online modelsAccelerate your model life cycle and reduce costsDeploy your first feature store for production use casesWho this book is forIf you have a solid grasp on machine learning basics, but need a comprehensive overview of feature stores to start using them, then this book is for you. Data/machine learning engineers and data scientists who build machine learning models for production systems in any domain, those supporting data engineers in productionizing ML models, and platform engineers who build data science (ML) platforms for the organization will also find plenty of practical advice in the later chapters of this book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>3296295</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7476bb41-9ef3-3f17-b6d5-33e3900ac73a</plink>
+  <doids>NL$3296295$PDF ; NL$3296295$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Jayanth Kumar M J</contributors>
+  <coverDate>2022</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

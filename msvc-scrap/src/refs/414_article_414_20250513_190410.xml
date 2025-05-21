@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B8NA</mid>
+  <language>eng</language>
+  <source>Telkomnika</source>
+  <bookEdition></bookEdition>
+  <title>Advanced crop yield prediction using machine learning and deep learning: a comprehensive review.</title>
+  <pageEnd>415</pageEnd>
+  <pageStart>402</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>14</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; CROP yields ; ART techniques ; REMOTE sensing ; DISTANCE education ; DEEP learning ; All Other Miscellaneous Schools and Instruction ; Administration of Education Programs</subjects>
+  <abstract>The advancement of machine learning (ML) and deep learning (DL) techniques has significantly improved crop yield prediction, making it more accurate and reliable. In this review, the implementation of ML and DL algorithms for crop yield prediction is thoroughly investigated, focusing on their crucial role in enhancing crop productivity. Along with ML and DL algorithms examine, the review analyses the use of remote sensing technologies, such as satellite and drone data, in providing high-resolution inputs essential for accurate yield predictions. The study identifies the state of art algorithms, most used features, data sources and evaluation metrics, providing a comparison of ML and DL. The findings indicate that DL models are more effective with large datasets, while ML models remain robust for smaller datasets. The future directions are proposed to develop the generalised models for different crops and regions. The review aims to assist researchers by summarising state of art techniques and identifying the present.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184180242</an>
+  <docTypes>Article</docTypes>
+  <volume>23</volume>
+  <issns>1693-6930</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f89862bd-2512-3875-8edc-e0b4179ff9d6</plink>
+  <doids></doids>
+  <publisher>Department of Electrical Engineering, Ahmad Dahlan University</publisher>
+  <contributors>Anand, Ayush ; Jhajharia, Kavita</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.12928/TELKOMNIKA.v23i2.26621</doi>
+</record>

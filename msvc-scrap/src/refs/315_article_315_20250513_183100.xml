@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781785886607 ; 9781785888724</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Community Experience Distilled</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning for the Web</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20160101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / Data Analytics ; Python (Computer program language) ; Machine learning</subjects>
+  <abstract>About This BookTargets two big and prominent markets where sophisticated web apps are of need and importance.Practical examples of building machine learning web application, which are easy to follow and replicate.A comprehensive tutorial on Python libraries and frameworks to get you up and started.Who This Book Is ForThe book is aimed at upcoming and new data scientists who have little experience of machine learning or users who are interested in and are working on developing smart (predictive) web applications. Knowledge of Django would be beneficial. The reader is expected to have a background in Python programming and good knowledge of statistics.What You Will LearnBecome familiar with the fundamental concepts and some of the jargon used in the machine learning communityUse tools and techniques to mine data from websitesGrasp the core concepts of the Django frameworkGet to know the most useful clustering and classification techniques and implement them in PythonAcquire all the necessary knowledge to build a web application with DjangoSuccessfully build and deploy a movie recommendation system application using the Django framework in PythonIn DetailPython is a general-purpose and also a comparatively easy to learn programming language. Hence, it is the language of choice for data scientists to prototype, visualize, and run data analyses on small and medium-sized data sets.This is a unique book that helps bridge the gap between machine learning and web development. It focuses on the difficulties of implementing predictive analytics in web applications. We focus on the Python language, frameworks, tools, and libraries, showing you how to build a machine learning system. You will explore the core machine learning concepts and then develop and deploy the data into a web application using the Django framework. You will also learn how to carry out web, document, and server mining tasks, and build recommendation engines.Later, you will explore Python's impressive Django framework and find out how to build a modern simple web app with machine learning features.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1295356</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c019bbe8-1e61-38ac-a6ae-e3be80e9fb35</plink>
+  <doids>NL$1295356$PDF ; NL$1295356$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Andrea Isoni</contributors>
+  <coverDate>2016</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

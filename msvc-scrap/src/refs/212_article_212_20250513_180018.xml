@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Bayesian Pseudo Posterior Mechanism for Differentially Private Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250327</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Statistics - Machine Learning ; Computer Science - Cryptography and Security ; Computer Science - Machine Learning</subjects>
+  <abstract>Differential privacy (DP) is becoming increasingly important for deployed machine learning applications because it provides strong guarantees for protecting the privacy of individuals whose data is used to train models. However, DP mechanisms commonly used in machine learning tend to struggle on many real world distributions, including highly imbalanced or small labeled training sets. In this work, we propose a new scalable DP mechanism for deep learning models, SWAG-PPM, by using a pseudo posterior distribution that downweights by-record likelihood contributions proportionally to their disclosure risks as the randomized mechanism. As a motivating example from official statistics, we demonstrate SWAG-PPM on a workplace injury text classification task using a highly imbalanced public dataset published by the U.S. Occupational Safety and Health Administration (OSHA). We find that SWAG-PPM exhibits only modest utility degradation against a non-private comparator while greatly outperforming the industry standard DP-SGD for a similar privacy budget.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2503.21528</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=211c5424-8c28-3e07-9b7d-5138303d2d71</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Chew, Robert ; Williams, Matthew R. ; Segarra, Elan A. ; Preiss, Alexander J. ; Konet, Amanda ; Savitsky, Terrance D.</contributors>
+  <coverDate>20250327</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

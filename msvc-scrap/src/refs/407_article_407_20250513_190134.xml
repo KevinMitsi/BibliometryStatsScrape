@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KNO</mid>
+  <language>eng</language>
+  <source>Environmetrics</source>
+  <bookEdition></bookEdition>
+  <title>Discussion on Assessing Predictability of Environmental Time Series With Statistical and Machine Learning Models.</title>
+  <pageEnd>6</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Statistical models ; Machine learning ; Conditional expectations ; Inferential statistics ; Geographic spatial analysis ; Multivariate analysis</subjects>
+  <abstract>Building on the insights from Bonas et al. (2024), we explore the relationship between statistical and machine learning models in the analysis of environmental time series. We specifically address the unique challenges of environmental time series data, including the need to consider the multivariate approach and account for spatial dependence. Emphasizing the importance of various types of statistical inference in environmental studies—not limited to forecasting—we propose that viewing statistical and machine learning approaches as complementary rather than alternative methods can unlock innovative modeling strategies that enhance both predictive accuracy and interpretive power. To illustrate these concepts, we present a case study that highlights the key points raised in the discussion.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183756774</an>
+  <docTypes>Article</docTypes>
+  <volume>36</volume>
+  <issns>1180-4009</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b3a64f2e-8ce4-3778-9387-eac8b66a2384</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Finazzi, Francesco ; Rodeschini, Jacopo ; Tedesco, Lorenzo</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/env.2900</doi>
+</record>

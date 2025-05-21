@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CGX</mid>
+  <language>eng</language>
+  <source>BioMedical Engineering OnLine</source>
+  <bookEdition></bookEdition>
+  <title>Performance and limitation of machine learning algorithms for diabetic retinopathy screening and its application in health management: a meta-analysis.</title>
+  <pageEnd>15</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250314</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; DIABETIC retinopathy ; ONLINE databases ; RETINAL imaging ; DEEP learning</subjects>
+  <abstract>Background: In recent years, artificial intelligence and machine learning algorithms have been used more extensively to diagnose diabetic retinopathy and other diseases. Still, the effectiveness of these methods has not been thoroughly investigated. This study aimed to evaluate the performance and limitations of machine learning and deep learning algorithms in detecting diabetic retinopathy. Methods: This study was conducted based on the PRISMA checklist. We searched online databases, including PubMed, Scopus, and Google Scholar, for relevant articles up to September 30, 2023. After the title, abstract, and full-text screening, data extraction and quality assessment were done for the included studies. Finally, a meta-analysis was performed. Results: We included 76 studies with a total of 1,371,517 retinal images, of which 51 were used for meta-analysis. Our meta-analysis showed a significant sensitivity and specificity with a percentage of 90.54 (95%CI [90.42, 90.66], P &amp;lt; 0.001) and 78.33% (95%CI [78.21, 78.45], P &amp;lt; 0.001). However, the AUC (area under curvature) did not statistically differ across studies, but had a significant figure of 0.94 (95% CI [− 46.71, 48.60], P = 1). Conclusions: Although machine learning and deep learning algorithms can properly diagnose diabetic retinopathy, their discriminating capacity is limited. However, they could simplify the diagnosing process. Further studies are required to improve algorithms.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183748396</an>
+  <docTypes>Literature Review</docTypes>
+  <volume>24</volume>
+  <issns>1475-925X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4690051e-11f6-310c-8b9e-e960fa9bcec4</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Moannaei, Mehrsa ; Jadidian, Faezeh ; Doustmohammadi, Tahereh ; Kiapasha, Amir Mohammad ; Bayani, Romina ; Rahmani, Mohammadreza ; Jahanbazy, Mohammad Reza ; Sohrabivafa, Fereshteh ; Asadi Anar, Mahsa ; Magsudy, Amin ; Sadat Rafiei, Seyyed Kiarash ; khakpour, Yaser</contributors>
+  <coverDate>3/14/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12938-025-01336-1</doi>
+</record>

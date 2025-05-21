@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B74H</mid>
+  <language>eng</language>
+  <source>Information (2078-2489)</source>
+  <bookEdition></bookEdition>
+  <title>AI-Based Breast Cancer Detection System: Deep Learning and Machine Learning Approaches for Ultrasound Image Analysis.</title>
+  <pageEnd></pageEnd>
+  <pageStart>278</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; CONVOLUTIONAL neural networks ; SUPPORT vector machines ; EARLY detection of cancer ; DEEP learning</subjects>
+  <abstract>This work addresses the critical need for the early detection of breast cancer, a significant health concern worldwide. Using a combination of advanced deep learning and machine learning techniques, we offer a comprehensive solution to enhance breast cancer detection accuracy. By leveraging state-of-the-art convolutional neural networks (CNNs) like GoogLeNet, AlexNet, and ResNet18, alongside traditional classifiers such as k-nearest neighbors (KNN) and support vector machine (SVM), we ensure robust prediction capabilities. Our preprocessing methods significantly improve input data quality, leading to promising detection accuracies. For instance, ResNet-18 achieved impressive results, outperforming other models. Furthermore, our integration of these algorithms into a user-friendly MATLAB R2024b application ensures easy access for medical professionals, facilitating timely diagnosis and treatment. This work represents a vital step towards more effective breast cancer diagnosis, underscoring the importance of early intervention for improved patient outcomes.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184748388</an>
+  <docTypes>Article</docTypes>
+  <volume>16</volume>
+  <issns>2078-2489</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=482d1148-8fa4-33e2-84b8-6334b4260784</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Moursi, Amro ; Aboumadi, Abdulrahman ; Qidwai, Uvais</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/info16040278</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>A knowledge empowered graph learning feature selection method based on variation propagation effect representation and analysis for human-centric manufacturing systems.</title>
+  <pageEnd>18</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241113</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Manufacturing processes ; Industry 4.0 ; Industrial Process Furnace and Oven Manufacturing ; Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables ; Machine learning ; Knowledge graphs ; Feature selection</subjects>
+  <abstract>As the construction goals of manufacturing systems shift from Industry 4.0 to Industry 5.0, the development goals of manufacturing systems have also shifted from technology driven to human-centric&amp;lt;bold&amp;gt;.&amp;lt;/bold&amp;gt; Feature Selection (FS) of manufacturing systems plays an important role in helping human control and upgrade manufacturing system quality. However, due to the propagation of variations in manufacturing systems, traditional FS methods cannot accurately select the key features that have an important disturbance to quality indicator. In this paper, a process knowledge-enabled FS method is proposed to obtain key features of quality indictor (QI) that would cause bias of prediction model accuracy. Firstly, a process representation learning algorithm embedded in the process knowledge graph is proposed, which represents the manufacturing variation propagation process during the manufacturing process. Secondly, a feature importance evaluation algorithm based on disturbance intensity judgment rules is proposed to evaluate the importance of process features. Finally, the top k important features are selected as key features based on feature importance ranking. Experimental results demonstrate the proposed method outperforms state-of-art and classic methods in four evaluated indicators. Moreover, the four indicators of MSE, MAE, RMSE, and &amp;lt;italic&amp;gt;R&amp;lt;/italic&amp;gt;&lt;sup>2&lt;/sup> have respectively increased by 18%, 16%, 18%, and 33% with 7 features compared to the cutting-edge method.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>180872448</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1cd1c917-a9e3-3743-ac0f-42831be17dbd</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Xu, Qiuhao ; Gao, Pengjie ; Wang, Junliang ; Zhang, Jie</contributors>
+  <coverDate>Nov2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2024.2423802</doi>
+</record>

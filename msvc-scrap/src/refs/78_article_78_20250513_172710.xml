@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Advanced science (Weinheim, Baden-Wurttemberg, Germany)</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning-Enabled Drug-Induced Toxicity Prediction.</title>
+  <pageEnd></pageEnd>
+  <pageStart>e2413405</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Germany</publisherLocations>
+  <issue>16</issue>
+  <identifiers></identifiers>
+  <subjects>Machine Learning ; Drug-Related Side Effects and Adverse Reactions ; Humans ; Animals ; Databases, Factual</subjects>
+  <abstract>Unexpected toxicity has become a significant obstacle to drug candidate development, accounting for 30% of drug discovery failures. Traditional toxicity assessment through animal testing is costly and time-consuming. Big data and artificial intelligence (AI), especially machine learning (ML), are robustly contributing to innovation and progress in toxicology research. However, the optimal AI model for different types of toxicity usually varies, making it essential to conduct comparative analyses of AI methods across toxicity domains. The diverse data sources also pose challenges for researchers focusing on specific toxicity studies. In this review, 10 categories of drug-induced toxicity is examined, summarizing the characteristics and applicable ML models, including both predictive and interpretable algorithms, striking a balance between breadth and depth. Key databases and tools used in toxicity prediction are also highlighted, including toxicology, chemical, multi-omics, and benchmark databases, organized by their focus and function to clarify their roles in drug-induced toxicity prediction. Finally, strategies to turn challenges into opportunities are analyzed and discussed. This review may provide researchers with a valuable reference for understanding and utilizing the available resources to bridge prediction and mechanistic insights, and further advance the application of ML in drugs-induced toxicity prediction.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>39899688</an>
+  <docTypes>Journal Article ; Review</docTypes>
+  <volume>12</volume>
+  <issns>2198-3844 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=94181312-d20d-3879-a08e-b70774972820</plink>
+  <doids></doids>
+  <publisher>WILEY-VCH</publisher>
+  <contributors>Bai, Changsen ; Wu, Lianlian ; Li, Ruijiang ; Cao, Yang ; He, Song ; Bo, Xiaochen</contributors>
+  <coverDate>2025 Apr</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1002/advs.202413405</doi>
+</record>

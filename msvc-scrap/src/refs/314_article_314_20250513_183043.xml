@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250313</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Quantitative Biology - Quantitative Methods ; Computer Science - Machine Learning ; Quantum Physics</subjects>
+  <abstract>Whole-slide image classification represents a key challenge in computational pathology and medicine. Attention-based multiple instance learning (MIL) has emerged as an effective approach for this problem. However, the effect of attention mechanism architecture on model performance is not well-documented for biomedical imagery. In this work, we compare different methods and implementations of MIL, including deep learning variants. We introduce a new method using higher-dimensional feature spaces for deep MIL. We also develop a novel algorithm for whole-slide image classification where extreme machine learning is combined with attention-based MIL to improve sensitivity and reduce training complexity. We apply our algorithms to the problem of detecting circulating rare cells (CRCs), such as erythroblasts, in peripheral blood. Our results indicate that nonlinearities play a key role in the classification, as removing them leads to a sharp decrease in stability in addition to a decrease in average area under the curve (AUC) of over 4%. We also demonstrate a considerable increase in robustness of the model with improvements of over 10% in average AUC when higher-dimensional feature spaces are leveraged. In addition, we show that extreme learning machines can offer clear improvements in terms of training efficiency by reducing the number of trained parameters by a factor of 5 whilst still maintaining the average AUC to within 1.5% of the deep MIL model. Finally, we discuss options of enriching the classical computing framework with quantum algorithms in the future. This work can thus help pave the way towards more accurate and efficient single-cell diagnostics, one of the building blocks of precision medicine.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2503.10510</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=054ac7c5-8600-33a4-ac86-57d0bb486d1a</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Krishnakumar, Rajiv ; Baglio, Julien ; Flöther, Frederik F. ; Ruiz, Christian ; Habringer, Stefan ; Romano, Nicole H.</contributors>
+  <coverDate>20250313</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

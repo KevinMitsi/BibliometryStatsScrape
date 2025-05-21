@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B6M</mid>
+  <language>eng</language>
+  <source>Applied Artificial Intelligence</source>
+  <bookEdition></bookEdition>
+  <title>Optimized Fake News Classification: Leveraging Ensembles Learning and Parameter Tuning in Machine and Deep Learning Methods.</title>
+  <pageEnd>35</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>35</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Decision making ; Fake news ; Machine learning ; Logistic regression analysis ; Misinformation ; Deep learning</subjects>
+  <abstract>The proliferation of misinformation across various domains necessitates robust detection mechanisms. With its ability to analyze vast datasets, machine learning emerges as a powerful tool. This research aims to explore fake news detection and emphasize the crucial role of preprocessing techniques. In addition to using individual models for training like SVMs, Logistic Regression, and LSTMs, we investigated the combined power of these methods through Stacking and Delegation. This paper analyzes frequently used preprocessing techniques like counter-vectorizer and TF-IDF to understand their impact on detection effectiveness. This is also aligned with the United Nations SDG 16, which seeks to promote informed decision-making by fighting against misinformation. The outcomes of this study underscored the significance of preprocessing steps for optimal classification performance. The ensemble methods consistently excelled, particularly with the probability-based stacking, achieving an AUC of 0.9394 and 0.9509 along with F1 Scores of 0.956248 and 0.945644. On the other hand, the delegation strategies also emerged as solid alternatives, with delegation (iterated) reaching AUCs of 0.9280 and 0.9477. The findings of this study confirm the efficacy of ensemble techniques and delegation for effective fake news detection. This study offers insights into model selection and optimization.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181704414</an>
+  <docTypes>Article</docTypes>
+  <volume>38</volume>
+  <issns>0883-9514</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a619aa20-6ed3-36bb-b7df-617e672383a6</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Alguttar, Abubaker A. ; Shaaban, Osama A. ; Yildirim, Remzi</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/08839514.2024.2385856</doi>
+</record>

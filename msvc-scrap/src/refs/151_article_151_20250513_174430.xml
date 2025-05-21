@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B617</mid>
+  <language>eng</language>
+  <source>Insights into Imaging</source>
+  <bookEdition></bookEdition>
+  <title>Harnessing routine MRI for the early screening of Parkinson's disease: a multicenter machine learning study using T2-weighted FLAIR imaging.</title>
+  <pageEnd>11</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250426</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>PARKINSON'S disease ; MACHINE learning ; FEATURE extraction ; MAGNETIC resonance imaging ; ARTIFICIAL intelligence ; Diagnostic Imaging Centers</subjects>
+  <abstract>Objective: To explore the potential of radiomics features derived from T2-weighted fluid-attenuated inversion recovery (T2W FLAIR) images to distinguish idiopathic Parkinson's disease (PD) patients from healthy controls (HCs). Methods: T2W FLAIR images from 1727 subjects were retrospectively obtained from five cohorts and divided into a training set (395 PD/574 HC), an internal test set (99 PD/144 HC) and an external test set (295 PD/220 HC). Regions of interest (ROIs), including bilateral globus pallidus (GP), putamen (PU), substantia nigra (SN), and red nucleus (RN), were manually delineated. The radiomics features were extracted from ROIs. Six independent machine learning (ML) classifiers were trained on the training set, and validated on the internal and external test sets. Results: A selection of five, two, three, and ten highly correlated diagnostic features were identified from SN, RN, GP, and PU regions, respectively. Six ML classifiers were implemented based on the combined 20 radiomics features. In the internal test cohort, the six models achieved AUC of 0.96–0.98 with the accuracy ranging from 0.80 to 0.90. In the external test cohort, the multilayer perceptron model demonstrated the highest AUC of 0.85 (95% CI: 0.80–0.89) with an accuracy of 0.78. Conclusion: ML models based on the conventional T2W FLAIR images demonstrated promising diagnostic performance for PD and those models may serve as a basis for future investigations on PD diagnosis with the aid of ML methods. Critical relevance statement: Our study confirmed that early screening of Parkinson's Disease based on the conventional T2W FLAIR images was feasible with the aid of machine learning algorithms in a large multicenter cohort and those models had certain generalization. Key Points: Conventional head MRI is routinely performed in Parkinson's disease (PD) but exhibits inadequate specificity for diagnosis. Machine learning (ML) models based on conventional T2W FLAIR images showed favorable accuracy for PD diagnosis. ML algorithm enables early screening of PD on routine T2W FLAIR sequence.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184745143</an>
+  <docTypes>Article</docTypes>
+  <volume>16</volume>
+  <issns>1869-4101</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c6c39a80-afd6-3857-ac31-cbc3e1ff897c</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Fu, Junyan ; Chen, Hongyi ; Xu, Chengling ; Jia, Zhongzheng ; Lu, Qingqing ; Zhang, Haiyan ; Hu, Yue ; Lv, Kun ; Zhang, Jun ; Geng, Daoying</contributors>
+  <coverDate>4/26/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s13244-025-01961-3</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1038</mid>
+  <language>eng</language>
+  <source>Physical Geography</source>
+  <bookEdition></bookEdition>
+  <title>Improved flood risk assessment using multi-model ensemble machine-learning techniques in a tropical river basin of Southern India.</title>
+  <pageEnd>155</pageEnd>
+  <pageStart>127</pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>29</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Flood risk ; Global warming ; Support vector machines ; Machine learning ; Watersheds ; Flood warning systems</subjects>
+  <abstract>Addressing flood risk by integrating flood hazard, vulnerability and exposure is crucial for managing growing flood threats under warming climate. Among various flood risk indicators, flood hazard is significant, as it quantifies the spatial extent, depth and intensity of flooding. Hence, accurate assessment of flood hazard is essential for effective flood risk assessment. Recent developments in machine-learning (ML) techniques enhanced flood hazard assessment through integrating multi model dataset and increased predictive accuracy. The present investigation developed a weighted ensemble ML technique by integrating - Generalised Linear Model, Support Vector Machine, Random Forest, and Maximum Entropy models and tested in a tropical river basin (Kadalundi River basin) of southern India, prone to frequent flooding. Results show that weighted ensemble ML technique outweigh standalone models with an accuracy over 90% (AUROC 0.910) and a kappa index of 0.769. Subsequently, the Analytical Heirarchy Process (AHP) technique is applied to estimate flood vulnerability and exposure by combining various physical and socio-economic parameters. Finally, improved flood risk is estimated by combining hazard, vulnerability and exposure. The proposed methodology, integrating ensemble ML technique with physical and socio-economic factors is useful for effective disaster risk reduction and achieving Sustainable Development Goals (SDGs), particularly SDG 11 and SDG 13.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183842988</an>
+  <docTypes>Article</docTypes>
+  <volume>46</volume>
+  <issns>0272-3646</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=20cbbada-20c8-3e20-b80a-f03bbffe07f5</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Achu, A. L. ; Aju, C. D ; Raicy, M. C. ; Bhadran, Arun ; George, Amal ; Surendran, U. ; Girishbai, Drishya ; Ajayakumar, P. ; Gopinath, Girish ; Pradhan, Biswajeet</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.1080/02723646.2025.2464536</doi>
+</record>

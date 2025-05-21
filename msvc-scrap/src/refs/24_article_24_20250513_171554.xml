@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1XDI</mid>
+  <language>eng</language>
+  <source>Sensors (14248220)</source>
+  <bookEdition></bookEdition>
+  <title>Interpretable Machine Learning for Explaining and Predicting Collapse Hazards in the Changbai Mountain Region.</title>
+  <pageEnd></pageEnd>
+  <pageStart>1512</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; SUPPORT vector machines ; RANDOM forest algorithms ; DATA structures</subjects>
+  <abstract>This study analyzes collapse hazards for complex interactions between geology, meteorology, and human activities in the Changbai Mountain region, focusing on how to cope with these features through machine learning. Using a dataset of 651 collapse events, this study evaluates four machine learning methods, Support Vector Machine (SVM), Random Forest (RF), Extreme Gradient Boosting (XGBoost), and Light Gradient Boosting Machine (LightGBM), to deal with complex nonlinear data structures. To overcome the limitations of a single-feature selection method, a variance inflation factor is introduced to optimize the selection of collapse risk factors. The transparency and interpretability of the modeling results are enhanced by combining the Shapley Additive Explanations (SHAP) with interpretable artificial intelligence. Model performance is evaluated on a test set by several statistical metrics, which shows that the optimized random forest model performs best and outperforms SVM, XGBoost, and LightGBM. The SHAP analysis results indicate that distance from the road is a key factor for collapse hazard. This study emphasizes the need for collapse management strategies that provide interpretable solutions for collapse hazard assessment.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183648704</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1424-8220</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=36819017-ea91-3f78-ae10-e1b002773469</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>He, Xiangyang ; Lang, Qiuling ; Zhang, Jiquan ; Zhang, Yichen ; Jin, Qingze ; Xu, Jinyuan</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/s25051512</doi>
+</record>

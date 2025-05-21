@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Water Resources Management: An International Journal - Published for the European Water Resources Association (EWRA)</source>
+  <bookEdition></bookEdition>
+  <title>A Comparative Assessment of Machine Learning and Deep Learning Models for the Daily River Streamflow Forecasting</title>
+  <pageEnd>1930</pageEnd>
+  <pageStart>1911</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>20</pageCount>
+  <publisherLocations>Dordrecht</publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Machine Learning ; Deep Learning ; River Streamflow ; Forecasting ; Standalone and Hybrid Models</subjects>
+  <abstract>Forecasting river streamflow is crucial for hydrological science and optimal water resources management. In this study, six predictive methods were developed, including three machine learning models—random forest (RF), decision tree (DT), and K-nearest neighbors (KNN)—and three deep learning frameworks comprising convolutional neural networks (CNN), long short-term memory (LSTM), and a hybrid CNN-LSTM model. Two gauging stations on the McKenzie River in the United States (USGS 14162500 and USGS 14163900) were selected as case studies for model performance evaluation. Error metrics including root mean square error (RMSE), mean absolute error (MAE), determination coefficient (R²), and Kling-Gupta efficiency (KGE) were applied. Results demonstrated that the deep learning models consistently outperformed the machine learning methods for river streamflow forecasting at both sites. The hybrid CNN-LSTM model yielded the most accurate predictions. Specifically, the error metrics for the superior CNN-LSTM model during testing stage were as follows: at USGS 14162500, RMSE = 14.68 m³/s, MAE = 6.29 m³/s, R² = 0.930, and KGE = 0.960; at USGS 14163900, RMSE = 22.54 m³/s, MAE = 8.48 m³/s, R² = 0.882, and KGE = 0.935.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.DB63EAA1</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>39</volume>
+  <issns>09204741 ; 15731650</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7c5e940b-311a-3439-be6e-a93149ea97c2</plink>
+  <doids></doids>
+  <publisher>Springer Netherlands</publisher>
+  <contributors>Danesh, Malihe ; Gharehbaghi, Amin ; Mehdizadeh, Saeid ; Danesh, Amirhossein</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s11269-024-04052-y</doi>
+</record>

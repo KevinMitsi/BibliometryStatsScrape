@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Physics-informed machine learning for automatic model reduction in chemical reaction networks: Physics-informed machine learning for automatic model reduction...: J. Pateras et al.</title>
+  <pageEnd>15</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250310</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; CHEMICAL reduction ; CHEMICAL models ; ALZHEIMER'S disease</subjects>
+  <abstract>Physics-informed machine learning bridges the gap between the high fidelity of mechanistic models and the adaptive insights of artificial intelligence. In chemical reaction network modeling, this synergy proves valuable, addressing the high computational costs of detailed mechanistic models while leveraging the predictive power of machine learning. This study applies this fusion to the biomedical challenge of A fibril aggregation, a key factor in Alzheimer's disease. Central to the research is the introduction of an automatic reaction order model reduction framework, designed to optimize reduced-order kinetic models. This framework represents a shift in model construction, automatically determining the appropriate level of detail for reaction network modeling. The proposed approach significantly improves simulation efficiency and accuracy, particularly in systems like A aggregation, where precise modeling of nucleation and growth kinetics can reveal potential therapeutic targets. Additionally, the automatic model reduction technique has the potential to generalize to other network models. The methodology offers a scalable and adaptable tool for applications beyond biomedical research. Its ability to dynamically adjust model complexity based on system-specific needs ensures that models remain both computationally feasible and scientifically relevant, accommodating new data and evolving understandings of complex phenomena.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183578418</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b32adcbf-b7ce-3327-9a39-15bdaded4920</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Pateras, Joseph ; Zhang, Colin ; Majumdar, Shriya ; Pal, Ayush ; Ghosh, Preetam</contributors>
+  <coverDate>3/10/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-92680-8</doi>
+</record>

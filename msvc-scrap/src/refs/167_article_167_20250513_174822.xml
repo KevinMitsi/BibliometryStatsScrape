@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781789347999 ; 9781789345483</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition>2nd ed</bookEdition>
+  <title>Machine Learning Algorithms : Popular Algorithms for Data Science and Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20180101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Machine Theory ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; Computer algorithms ; Machine learning</subjects>
+  <abstract>An easy-to-follow, step-by-step guide for getting to grips with the real-world application of machine learning algorithmsKey FeaturesExplore statistics and complex mathematics for data-intensive applicationsDiscover new developments in EM algorithm, PCA, and bayesian regressionStudy patterns and make predictions across various datasetsBook DescriptionMachine learning has gained tremendous popularity for its powerful and fast predictions with large datasets. However, the true forces behind its powerful output are the complex algorithms involving substantial statistical analysis that churn large datasets and generate substantial insight. This second edition of Machine Learning Algorithms walks you through prominent development outcomes that have taken place relating to machine learning algorithms, which constitute major contributions to the machine learning process and help you to strengthen and master statistical interpretation across the areas of supervised, semi-supervised, and reinforcement learning. Once the core concepts of an algorithm have been covered, you'll explore real-world examples based on the most diffused libraries, such as scikit-learn, NLTK, TensorFlow, and Keras. You will discover new topics such as principal component analysis (PCA), independent component analysis (ICA), Bayesian regression, discriminant analysis, advanced clustering, and gaussian mixture. By the end of this book, you will have studied machine learning algorithms and be able to put them into production to make your machine learning applications more innovative.What you will learnStudy feature selection and the feature engineering processAssess performance and error trade-offs for linear regressionBuild a data model and understand how it works by using different types of algorithmLearn to tune the parameters of Support Vector Machines (SVM)Explore the concept of natural language processing (NLP) and recommendation systemsCreate a machine learning architecture from scratchWho this book is forMachine Learning Algorithms is for you if you are a machine learning engineer, data engineer, or junior data scientist who wants to advance in the field of predictive analytics and machine learning. Familiarity with R and Python will be an added advantage for getting the best from this book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1881497</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=dbc4952e-92af-340b-9914-693ac0c86ad8</plink>
+  <doids>NL$1881497$PDF ; NL$1881497$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Giuseppe Bonaccorso</contributors>
+  <coverDate>2018</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

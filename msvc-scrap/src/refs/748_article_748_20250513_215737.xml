@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of Computer Assisted Learning</source>
+  <bookEdition></bookEdition>
+  <title>Evaluating Sentence-BERT-Powered Learning Analytics for Automated Assessment of Students' Causal Diagrams</title>
+  <pageEnd>2680</pageEnd>
+  <pageStart>2667</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>14</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Learning Analytics ; Automation ; Student Evaluation ; Causal Models ; Visual Aids ; Learning Processes ; Natural Language Processing ; Artificial Intelligence ; Semantics ; Foreign Countries ; Reliability ; Performance Based Assessment ; Man Machine Systems ; Electronic Learning ; Netherlands</subjects>
+  <abstract>Background: When learning causal relations, completing causal diagrams enhances students' comprehension judgements to some extent. To potentially boost this effect, advances in natural language processing (NLP) enable real-time formative feedback based on the automated assessment of students' diagrams, which can involve the correctness of both the responses and their position in the causal chain. However, the responsible adoption and effectiveness of automated diagram assessment depend on its reliability. Objectives: In this study, we compare two Dutch pre-trained models (i.e., based on RobBERT and BERTje) in combination with two machine-learning classifiers--Support Vector Machine (SVM) and Neural Networks (NN), in terms of different indicators of automated diagram assessment reliability. We also contrast two techniques (i.e., semantic similarity and machine learning) for estimating the correct position of a student diagram response in the causal chain. Methods: For training and evaluation of the models, we capitalize on a human-labelled dataset containing 2900+ causal diagrams completed by 700+ secondary school students, accumulated from previous diagramming experiments. Results and Conclusions: In predicting correct responses, 86% accuracy and Cohen's ? of 0.69 were reached, with combinations using SVM being roughly three-times faster (important for real-time applications) than their NN counterparts. In terms of predicting the response position in the causal diagrams, 92% accuracy and 0.89 Cohen's K were reached. Implications: Taken together, these evaluation figures equip educational designers for decision-making on when these NLP-powered learning analytics are warranted for automated formative feedback in causal relation learning; thereby potentially enabling real-time feedback for learners and reducing teachers' workload.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1448407</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>40</volume>
+  <issns>0266-4909 ; 1365-2729</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3645328b-ec01-3a06-bc32-55f19d2af88b</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Héctor J. Pijeira-Díaz ; Shashank Subramanya ; Janneke van de Pol ; Anique de Bruin</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1111/jcal.12992</doi>
+</record>

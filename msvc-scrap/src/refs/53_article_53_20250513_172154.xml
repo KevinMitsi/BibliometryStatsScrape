@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Flexible material handling system for multi-load autonomous mobile robots in manufacturing environments: a hierarchical reinforcement learning approach.</title>
+  <pageEnd>21</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250207</publicationDate>
+  <pageCount>21</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Industrial robots ; Materials handling ; Robotics ; Machine learning ; Reinforcement learning</subjects>
+  <abstract>The increasing complexity of customer demands has led to the implementation of flexible job-shop scheduling and automated material handling systems across manufacturing sectors. In particular, advances in robotic technology have made autonomous mobile robots (AMRs) essential for material handling tasks within these sectors. The capability of free movement, path planning, and loading multiple work-in-processes (WIPs) can significantly enhance the efficiency of material handling operations. However, the full flexibility of AMRs cannot be utilised when their decisions regarding the sequence of loading and unloading multiple WIPs are made by specific rule-based operations, resulting in inefficiencies in the throughput of WIPs in manufacturing environments. To address this inefficiency, we introduce a hierarchical reinforcement learning algorithm to optimise material handling with AMRs, thereby maximising the throughput of WIPs. In this approach, a graph attention network (GAT) serves as an encoder for the hierarchical reinforcement learning (HRL) input, effectively capturing the complex relationships between different nodes. Computational experiments demonstrate that our approach enhances the efficiency of the material handling system more effectively than existing rule-based methods.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182812051</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3c78727a-99ba-3a0a-8dfc-9990f827d234</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Park, Keonwoo ; Jo, Seongbae ; Shin, Youngchul ; Moon, Ilkyeong</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2025.2461131</doi>
+</record>

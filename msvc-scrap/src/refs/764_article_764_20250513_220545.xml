@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781838644338 ; 9781838647056</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning with R Quick Start Guide : A Beginner's Guide to Implementing Machine Learning Techniques From Scratch Using R 3.5</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20190101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / General ; COMPUTERS / Machine Theory ; Machine learning ; R (Computer program language)</subjects>
+  <abstract>Learn how to use R to apply powerful machine learning methods and gain insight into real-world applications using clustering, logistic regressions, random forests, support vector machine, and more.Key FeaturesUse R 3.5 to implement real-world examples in machine learningImplement key machine learning algorithms to understand the working mechanism of smart modelsCreate end-to-end machine learning pipelines using modern libraries from the R ecosystemBook DescriptionMachine Learning with R Quick Start Guide takes you on a data-driven journey that starts with the very basics of R and machine learning. It gradually builds upon core concepts so you can handle the varied complexities of data and understand each stage of the machine learning pipeline.From data collection to implementing Natural Language Processing (NLP), this book covers it all. You will implement key machine learning algorithms to understand how they are used to build smart models. You will cover tasks such as clustering, logistic regressions, random forests, support vector machines, and more. Furthermore, you will also look at more advanced aspects such as training neural networks and topic modeling.By the end of the book, you will be able to apply the concepts of machine learning, deal with data-related problems, and solve them using the powerful yet simple language that is R.What you will learnIntroduce yourself to the basics of machine learning with R 3.5Get to grips with R techniques for cleaning and preparing your data for analysis and visualize your resultsLearn to build predictive models with the help of various machine learning techniquesUse R to visualize data spread across multiple dimensions and extract useful featuresUse interactive data analysis with R to get insights into dataImplement supervised and unsupervised learning, and NLP using R librariesWho this book is forThis book is for graduate students, aspiring data scientists, and data analysts who wish to enter the field of machine learning and are looking to implement machine learning techniques and methodologies from scratch using R 3.5. A working knowledge of the R programming language is expected.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2094784</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8b812e18-71c9-3381-9cc4-7756a830bb03</plink>
+  <doids>NL$2094784$PDF ; NL$2094784$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Iván Pastor Sanz</contributors>
+  <coverDate>2019</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>0UX</mid>
+  <language>eng</language>
+  <source>Psychology, Health &amp;amp; Medicine</source>
+  <bookEdition></bookEdition>
+  <title>Enhancing smart healthcare with female students’ stress and anxiety detection using machine learning.</title>
+  <pageEnd>20</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250331</publicationDate>
+  <pageCount>20</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>STANDARD deviations ; MACHINE learning ; STATE-Trait Anxiety Inventory ; K-means clustering ; MULTIPLE regression analysis ; ADOLESCENT smoking</subjects>
+  <abstract>Machine learning (ML) is widely used to predict and detect stress and anxiety. Early detection of stress or anxiety is crucial for clinical pathways to enhance the supportive environment in society, particularly among female students. This study aims to assess and improve the accuracy of detecting stress and anxiety among female students using machine learning algorithms and functions. Three primary features are cigarette smoking, physical activity and grade point average (GPA). The multiple linear regression analysis conducted on 160 datasets obtained from the State-Trait Anxiety Inventory (STAI) at the University of Belgrade was selected. A heat map was utilised to identify the least engaging areas of the model along with most state anxiety factors. Additionally, R-squared (R&lt;sup>2&lt;/sup>), mean absolute error (MAE), mean squared error (MSE) and root mean squared error (RMSE) were employed to assess the errors of the linear regression model for both pre-intervention and post-intervention, focusing on key features related to female students’ anxiety. Using the K-Means algorithm, cluster analysis was executed on samples (&amp;lt;italic&amp;gt;N&amp;lt;/italic&amp;gt; = 160) with three key features. The total average anxiety score was 44.39% (out of 80%) and is considered moderate. The heat map indicated a strong relationship between the variables. Overall, the post-intervention stage yielded acceptable results compared to the pre-intervention stage. Two clusters of anxiety among female students were identified, demonstrating that these features can accurately detect anxiety in female students. This research aims to analyse female students’ stress and anxiety better using the linear regression algorithm. Additionally, ML functions demonstrated that smoking cigarettes, physical activity and GPA related to the stress and anxiety of female students have reduced errors during anxiety detection.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184079647</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>1354-8506</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=778d6fc4-a65f-3c0d-9f66-52b2fbfe9629</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Lotfi, Farhad ; Lotfi, Amin ; Lotfi, Matin ; Bjelica, Artur ; Bogdanović, Zorica</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1080/13548506.2025.2484698</doi>
+</record>

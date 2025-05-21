@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FS6O</mid>
+  <language>eng</language>
+  <source>Journal of Behavioral Addictions</source>
+  <bookEdition></bookEdition>
+  <title>Insights into the temporal dynamics of identifying problem gambling on an online casino: A machine learning study on routinely collected individual account data.</title>
+  <pageEnd>500</pageEnd>
+  <pageStart>490</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; COMPULSIVE gambling ; GAMBLING behavior ; INTERNET gambling ; CASINOS ; Casinos (except Casino Hotels) ; Casino Hotels ; All other gambling industries ; Other Gambling Industries</subjects>
+  <abstract>The digitalization of gambling provides unprecedented opportunities for early identification of problem gambling, a well-recognized public health issue. This study aimed to advance current practices by employing advanced machine learning techniques to predict problem gambling behaviors and assess the temporal stability of these predictions. We analyzed player account data from a major Swedish online gambling provider, covering a 4.5-year period. Feature engineering was applied to capture gambling behavior dynamics. We trained machine learning models, XGBoost, to classify players into low-risk and higher-risk categories. Temporal stability was evaluated by progressively truncating the training dataset at various time points (30, 60, and 90 days) and assessing model performance across truncations. The models demonstrated considerable predictive accuracy and temporal stability. Key features such as loss-chasing behavior and net balance trend consistently contributed to accurate predictions across all truncation periods. The model's performance evaluated on a separate holdout set, measured by metrics like F1 score and ROC AUC, remained robust, with no significant decline observed even with reduced data, supporting the feasibility of early and reliable detection. These findings indicate that machine learning can reliably predict problem gambling behaviors over time, offering a scalable alternative to traditional methods. Temporal stability highlights their potential for real-time application in gambling operators' Duty of Care. Consequently, advanced techniques could strengthen early identification and intervention strategies, potentially improving public health outcomes by preventing the escalation of harmful behaviors.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184136044</an>
+  <docTypes>Article</docTypes>
+  <volume>14</volume>
+  <issns>2062-5871</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=13784985-4f3c-38b7-8dc9-175c168d99e5</plink>
+  <doids></doids>
+  <publisher>Akademiai Kiado</publisher>
+  <contributors>Andersson, Sam ; Carlbring, Per ; Lyon, Keenan ; Bermell, Måns ; Lindner, Philip</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1556/2006.2025.00013</doi>
+</record>

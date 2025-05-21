@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-2493-7</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 33rd Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP), Parallel, Distributed, and Network-Based Processing (PDP), 2025 33rd Euromicro International Conference on, PDP</source>
+  <bookEdition></bookEdition>
+  <title>Improving Cloud Energy Efficiency through Machine Learning Models</title>
+  <pageEnd>251</pageEnd>
+  <pageStart>247</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250312</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computing and Processing ; Energy consumption ; Data centers ; Cloud computing ; Machine learning ; Predictive models ; Virtual machines ; Energy efficiency ; Servers ; Resource management ; Optimization ; Cloud energy optimization ; machine learning for energy efficiency ; green and sustainable computing ; Virtual Machines (VMs) consolidation</subjects>
+  <abstract>The rapid growth of Cloud Computing and the expansion of large data centers have led to significant increases in energy consumption for hardware and cooling systems. This surge in power usage has raised operational costs, making energy efficiency a pressing issue for data center management. Virtual Machines (VMs) consolidation is a widely studied strategy to mitigate these costs by minimizing the number of active physical servers while maintaining user Service Level Agreements (SLAs). However, the success of consolidation largely depends on accurately forecasting VM resource needs. This paper presents the design and development of an energy-aware VMs allocation system that leverages predictive machine learning models to forecast future computational demands (CPU) of each VM. By anticipating these needs, the system optimally allocates VMs to available servers, effectively balancing energy savings with performance. A preliminary experimental evaluation, conducted on synthetic data, leverages predictive modeling within a server simulation to assess CPU and energy usage, demonstrating the effectiveness of energy-aware VMs allocation in optimizing resource utilization and reducing energy consumption.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10974836</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>23775750</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6c8f1d7a-ad3e-3551-a38c-2cbecfb8136c</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Cesario, Eugenio ; Lindia, Paolo ; Lobello, Federica ; Vinci, Andrea ; Zarin, Shabnam ; Capalbo, Santina</contributors>
+  <coverDate>20250312</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/PDP66500.2025.00041</doi>
+</record>

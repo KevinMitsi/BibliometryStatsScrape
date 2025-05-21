@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FQA</mid>
+  <language>eng</language>
+  <source>Journal of Financial &amp;amp; Quantitative Analysis</source>
+  <bookEdition></bookEdition>
+  <title>Double Machine Learning: Explaining the Post-Earnings Announcement Drift.</title>
+  <pageEnd>1030</pageEnd>
+  <pageStart>1003</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240501</publicationDate>
+  <pageCount>28</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Earnings management ; Finance ; Regression analysis ; Machine learning ; Research methodology ; High-dimensional model representation ; Inference (Logic)</subjects>
+  <abstract>We demonstrate the benefits of merging traditional hypothesis-driven research with new methods from machine learning that enable high-dimensional inference. Because the literature on post-earnings announcement drift (PEAD) is characterized by a "zoo" of explanations, limited academic consensus on model design, and reliance on massive data, it will serve as a leading example to demonstrate the challenges of high-dimensional analysis. We identify a small set of variables associated with momentum, liquidity, and limited arbitrage that explain PEAD directly and consistently, and the framework can be applied broadly in finance.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>177111305</an>
+  <docTypes>Article</docTypes>
+  <volume>59</volume>
+  <issns>0022-1090</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=64b58f28-0519-30d2-8f3f-23d47693e610</plink>
+  <doids></doids>
+  <publisher>Cambridge University Press</publisher>
+  <contributors>Hansen, Jacob H. ; Siggaard, Mathias V.</contributors>
+  <coverDate>May2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1017/S0022109023000133</doi>
+</record>

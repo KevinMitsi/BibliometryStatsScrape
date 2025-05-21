@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Reliable machine learning models in genomic medicine using conformal prediction.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>conformal prediction ; genomic medicine ; machine learning ; perspective review ; reliable predictions ; uncertainty estimate</subjects>
+  <abstract>Machine learning and genomic medicine are the mainstays of research in delivering personalized healthcare services for disease diagnosis, risk stratification, tailored treatment, and prediction of adverse effects. However, potential prediction errors in healthcare services can have life-threatening impact, raising reasonable skepticism about whether these applications have practical benefit in clinical settings. Conformal prediction offers a versatile framework for addressing these concerns by quantifying the uncertainty of predictive models. In this perspective review, we investigate potential applications of conformalized models in genomic medicine and discuss the challenges towards bridging genomic medicine applications with clinical practice. We also demonstrate the impact of a binary transductive model and a regression-based inductive model in predicting drug response as well as the performance of a multi-class inductive predictor in addressing distribution shifts in molecular subtyping. The main conclusion is that as machine learning and genomic medicine are increasingly infiltrating healthcare services, conformal prediction has the potential to overcome the safety limitations of current methods and could be effectively integrated into uncertainty-informed applications within clinical environments.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt37k7k4gs</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2048c777-86ea-3153-9a81-339389e24b7f</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Papangelou, Christina ; Kyriakidis, Konstantinos ; Natsiavas, Pantelis ; Chouvarda, Ioanna ; Malousi, Andigoni</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-1326-9</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 59th Annual Conference on Information Sciences and Systems (CISS), Information Sciences and Systems (CISS), 2025 59th Annual Conference on</source>
+  <bookEdition></bookEdition>
+  <title>SmartPattern: A Machine Learning Framework for Detecting Reentrancy Vulnerabilities in Blockchain Smart Contracts</title>
+  <pageEnd>6</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250319</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Bioengineering ; Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Signal Processing and Analysis ; Accuracy ; Graph convolutional networks ; Biological system modeling ; Smart contracts ; Ecosystems ; Transformers ; Vectors ; Blockchains ; Security ; Random forests ; Machine Learning ; Reentracy attack ; Blockchain and Smart Contract</subjects>
+  <abstract>This study introduces SmartPattern, a novel machine learning-based framework to detect reentrancy attacks in smart contracts, a critical threat to blockchain security. Analyzing 40,000 smart contract, SmartPattern achieves 94% detection accuracy with Random Forest and Support Vector Classifier, outperforming Bidirectional Encoder Representations Transformers embeddings, which produced inconsistent accuracies of 84% and 78% Random Forest and Support Vector Classifier, respectively. Unlike traditional tools like Slither, which rely on static analysis and predefined heuristics, SmartPattern overcomes limitations related to dynamic invocation patterns and non-linear state changes. By leveraging machine learning models and targeted pattern recognition, SmartPattern effectively detects obfuscated attack patterns and generalizes to unseen vulnerabilities. This scalable, automated framework significantly enhances blockchain security by safeguarding billions of dollars in digital assets and promoting trust in decentralized ecosystems. The results demonstrate that SmartPattern is a viable alternative to state-of-the-art models, including those using Graph Convolutional Networks, and provides a comprehensive solution for fortifying smart contract ecosystems against reentrancy attacks.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10944738</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>2837178X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=30ed5ab9-6bf0-3d68-a247-e244ce4d64a2</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Ajibola, Temitope Ezekiel ; Adeniran, Opeyemi Taiwo ; Taiwo, Peter</contributors>
+  <coverDate>20250319</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CISS64860.2025.10944738</doi>
+</record>

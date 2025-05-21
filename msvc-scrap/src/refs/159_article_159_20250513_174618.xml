@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HAYR</mid>
+  <language>eng</language>
+  <source>Ingénierie des Systèmes d'Information</source>
+  <bookEdition></bookEdition>
+  <title>Implementation of an Intelligent Power Management System for Building Using Machine Learning Model.</title>
+  <pageEnd>347</pageEnd>
+  <pageStart>335</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>13</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Energy consumption ; Heating &amp;amp; ventilation industry ; Energy management ; User interfaces ; Electronic Computer Manufacturing ; Computer and Computer Peripheral Equipment and Software Merchant Wholesalers ; Computer and peripheral equipment manufacturing ; Plumbing, Heating, and Air-Conditioning Contractors ; Steam and Air-Conditioning Supply ; Facilities Support Services ; Other Services to Buildings and Dwellings ; Nonresidential Property Managers ; Machine learning ; Embedded computer systems ; Wireless sensor networks</subjects>
+  <abstract>This paper discusses the design and implementation of an intelligent power management system (IPMS) with the goal of optimizing energy consumption within buildings. The system incorporates wireless sensor networks (WSNs), a machine learning (ML) model, and embedded hardware for monitoring and controlling the power consumption of Heating, Ventilation, and Air Conditioning (HVAC) systems, which are the predominant energy consumers in buildings. The IPMS architecture comprises of local units (LUs) which are equipped with ESP32 microcontrollers and a range of environmental sensors. Additionally, there is a central unit (CU) which is built on a Raspberry Pi4. The CU utilizes a Random Forest machine learning model to analyze real-time sensor data and ascertain the optimal operational mode for each room. This includes transitioning between Shutdown, Select, and Full modes based on factors such as occupancy and environmental conditions. The system is effectively managed and closely monitored using a Node-RED dashboard, which offers a user-friendly interface for seamless control and comprehensive data visualization in real time. The proposed system shows a remarkable level of accuracy in forecasting operational modes and attains substantial energy conservation, as confirmed by different case studies.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183420581</an>
+  <docTypes>Article</docTypes>
+  <volume>30</volume>
+  <issns>1633-1311</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6eef5c3b-7b52-3e74-817c-d74fff754b19</plink>
+  <doids></doids>
+  <publisher>International Information &amp;amp; Engineering Technology Association (IIETA)</publisher>
+  <contributors>Talib, Marwa Mushtaq ; Croock, Muayad Sadik</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.18280/isi.300205</doi>
+</record>

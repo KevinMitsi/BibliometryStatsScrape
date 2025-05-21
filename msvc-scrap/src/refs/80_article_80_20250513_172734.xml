@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>N4GJ</mid>
+  <language>eng</language>
+  <source>Neurospine</source>
+  <bookEdition></bookEdition>
+  <title>The Ever-Evolving Regulatory Landscape Concerning Development and Clinical Application of Machine Intelligence: Practical Consequences for Spine Artificial Intelligence Research.</title>
+  <pageEnd>143</pageEnd>
+  <pageStart>134</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>10</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>ARTIFICIAL intelligence ; MACHINE learning ; SPINAL surgery ; MEDICAL equipment ; RESEARCH personnel ; Professional machinery, equipment and supplies merchant wholesalers ; Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers ; Surgical and Medical Instrument Manufacturing ; Medical equipment and supplies manufacturing ; Other Electronic and Precision Equipment Repair and Maintenance</subjects>
+  <abstract>This paper analyzes the regulatory frameworks for artificial intelligence/machine learning AI/ML-enabled medical devices in the European Union (EU), the United States (US), and the Republic of Korea, with a focus on applications in spine surgery. The aim is to provide guidance for developers and researchers navigating regulatory pathways. A review of current literature, regulatory documents, and legislative frameworks was conducted. Key differences in regulatory bodies, risk classification, submission requirements, and approval pathways for AI/ML medical devices were examined in the EU, US, and Republic of Korea. The EU AI Act (2024) establishes a risk-based framework, requiring regulatory review based on device risk, with high-risk devices subject to stricter oversight. The US applies a more flexible approach, allowing multiple submission pathways and incorporating a focus on continuous learning. The Republic of Korea emphasizes possibilities of streamlined approval and with growing use of real-world data to support validation. Developers must ensure regulatory alignment early in the development process, focusing on key aspects like dataset quality, transparency, and continuous monitoring. Across all regions, the need for technical documentation, quality management systems, and bias mitigation are essential for approval. Developers are encouraged to adopt adaptable strategies to comply with evolving regulatory standards, ensuring models remain transparent, fair, and reliable. The EU's comprehensive AI Act enforces stricter oversight, while the US and Korea offer more flexible pathways. Developers of spine surgery AI/ML devices must tailor development strategies to align with regional regulations, emphasizing transparent development, quality assurance, and postmarket monitoring to ensure approval success.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184655686</an>
+  <docTypes>Article</docTypes>
+  <volume>22</volume>
+  <issns>2586-6583</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fe417b0a-a483-3351-8ef0-e74eb0570177</plink>
+  <doids></doids>
+  <publisher>Korean Spinal Neurosurgery Society</publisher>
+  <contributors>Bottini, Massimo ; Ryu, Seung-Jun ; Terander, Adrian Elmi ; Voglis, Stefanos ; Maldaner, Nicolai ; Bellut, David ; Regli, Luca ; Serra, Carlo ; Staartjes, Victor E.</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.14245/ns.2449186.593</doi>
+</record>

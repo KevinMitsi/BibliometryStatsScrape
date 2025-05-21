@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Molecular Diversity</source>
+  <bookEdition></bookEdition>
+  <title>QMGBP-DL: a deep learning and machine learning approach for quantum molecular graph band-gap prediction</title>
+  <pageEnd>15</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250419</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Band gap ; Graph convolutional networks ; Molecular property prediction ; Deep learning ; Machine learning ; Latent space representation ; Encoder ; Random forest ; Support vector regression ; Multi-layer perceptron ; Materials discovery ; Molecular graph representation ; Kullback–Leibler divergence ; Mean-absolute error ; Mean-squared error</subjects>
+  <abstract>Predicting molecular and quantum material properties, especially the band gap, is crucial for accelerating discoveries in drug design and material science. Although graph neural networks and probabilistic encoders are well established in molecular data analysis, their targeted integration and application for band-gap prediction remain an active research area. This paper introduces QMGBP-DL, a deep learning approach that combines a molecular graph encoder with machine learning models to improve the prediction accuracy of molecular and material band-gap energy. The encoder uses graph convolutional networks to derive latent representations of chemical structures from SMILES strings, optimized via Kullback–Leibler divergence loss. These representations serve as inputs for training various machine learning models to predict properties. QMGBP-DL’s effectiveness is assessed using the QM9, PCQM4M, and OPV datasets, demonstrating significant improvements, particularly with a random forest model for property prediction. A comparative analysis against established approaches DenseGNN, MEGNet, and ALIGNN reveals that QMGBP-DL excels in predicting HOMO, LUMO, and band gap, achieving notably lower MAE values. The integration of GCN-derived latent spaces with traditional machine learning models, especially Random Forest, provides a powerful approach for band-gap prediction. The results highlight the efficacy of our integrated approach, showcasing that graph-based molecular encoding combined with machine learning, particularly Random Forest, is highly effective for accurate band-gap prediction, thereby facilitating material discovery and design.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.9A88B98B</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>13811991 ; 1573501X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1ded1ef2-8f16-35d2-a7f7-14b93b20c40f</plink>
+  <doids></doids>
+  <publisher>Springer International Publishing</publisher>
+  <contributors>Abbassi, Outhman ; Ziti, Soumia</contributors>
+  <coverDate>20250419</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s11030-025-11178-7</doi>
+</record>

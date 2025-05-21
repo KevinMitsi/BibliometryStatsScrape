@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781789616729 ; 9781789617559</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition>Second edition</bookEdition>
+  <title>Python Machine Learning By Example : Implement Machine Learning Algorithms and Techniques to Build Intelligent Systems</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20190101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Machine Theory ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / Neural Networks ; Python (Computer program language) ; Machine learning</subjects>
+  <abstract>Grasp machine learning concepts, techniques, and algorithms with the help of real-world examples using Python libraries such as TensorFlow and scikit-learnKey FeaturesExploit the power of Python to explore the world of data mining and data analyticsDiscover machine learning algorithms to solve complex challenges faced by data scientists todayUse Python libraries such as TensorFlow and Keras to create smart cognitive actions for your projectsBook DescriptionThe surge in interest in machine learning (ML) is due to the fact that it revolutionizes automation by learning patterns in data and using them to make predictions and decisions. If you're interested in ML, this book will serve as your entry point to ML. Python Machine Learning By Example begins with an introduction to important ML concepts and implementations using Python libraries. Each chapter of the book walks you through an industry adopted application. You'll implement ML techniques in areas such as exploratory data analysis, feature engineering, and natural language processing (NLP) in a clear and easy-to-follow way. With the help of this extended and updated edition, you'll understand how to tackle data-driven problems and implement your solutions with the powerful yet simple Python language and popular Python packages and tools such as TensorFlow, scikit-learn, gensim, and Keras. To aid your understanding of popular ML algorithms, the book covers interesting and easy-to-follow examples such as news topic modeling and classification, spam email detection, stock price forecasting, and more. By the end of the book, you'll have put together a broad picture of the ML ecosystem and will be well-versed with the best practices of applying ML techniques to make the most out of new opportunities.What you will learnUnderstand the important concepts in machine learning and data scienceUse Python to explore the world of data mining and analyticsScale up model training using varied data complexities with Apache SparkDelve deep into text and NLP using Python libraries such NLTK and gensimSelect and build an ML model and evaluate and optimize its performanceImplement ML algorithms from scratch in Python, TensorFlow, and scikit-learnWho this book is forIf you're a machine learning aspirant, data analyst, or data engineer highly passionate about machine learning and want to begin working on ML assignments, this book is for you. Prior knowledge of Python coding is assumed and basic familiarity with statistical concepts will be beneficial although not necessary.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2037541</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b6ef3a53-bc93-3194-bd46-d0e47fedeaf0</plink>
+  <doids>NL$2037541$PDF ; NL$2037541$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Yuxi (Hayden) Liu</contributors>
+  <coverDate>2019</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

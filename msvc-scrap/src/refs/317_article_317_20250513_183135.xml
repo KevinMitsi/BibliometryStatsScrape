@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Minimising makespan in distributed assembly hybrid flowshop scheduling problems.</title>
+  <pageEnd>1691</pageEnd>
+  <pageStart>1674</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Production planning ; Linear programming ; Manufacturing processes ; Industrial Process Furnace and Oven Manufacturing ; Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables ; Process, Physical Distribution, and Logistics Consulting Services ; Machine learning ; Reinforcement learning</subjects>
+  <abstract>To enhance the manufacturing flexibility, resilience, and production efficiency, the integration of scheduling for distributed manufacturing with assembly systems has become a pivotal driver of production planning evolution. In this research endeavour, we present a Mixed-Integer Linear Programming model and an innovative Iterated Epsilon-Greedy Reinforcement Learning algorithm to address the distributed assembly hybrid flowshop scheduling problem. Empirical validation, conducted through computational experiments on a benchmark problem set, is used to gain important managerial insights. The computational results demonstrate that the proposed algorithms significantly reduce the makespan for the addressed problem. This study has the potential to make valuable contributions to ongoing research endeavours within the realm of multi-stage shop scheduling, an area that continues to warrant progressive advancement.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183415970</an>
+  <docTypes>Article</docTypes>
+  <volume>63</volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=33a18e50-9c88-32fb-8d6f-c13e1363f185</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Ying, Kuo-Ching ; Lin, Shih-Wei ; Chen, Kuan-Fu</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2024.2383781</doi>
+</record>

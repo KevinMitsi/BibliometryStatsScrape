@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>German</language>
+  <source>Arthroskopie</source>
+  <bookEdition></bookEdition>
+  <title>Chance und Risken von künstlicher Intelligenz und Machine Learning in der bildgebenden Diagnostik</title>
+  <pageEnd>164</pageEnd>
+  <pageStart>159</pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240601</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations>Heidelberg</publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Röntgenbildgebung ; Radiologische Parameter ; Machine Learning ; Deep Learning ; Validierung ; X‑ray imaging ; Radiological parameters ; Validation</subjects>
+  <abstract>Zusammenfassung: Künstliche Intelligenz (KI) findet zunehmend Anwendung in der bildgebenden Diagnostik. Dieser umfassende Begriff bezieht sich auf Computerprogramme, die in der Lage sind, intelligente Aufgaben zu übernehmen und zu lösen. Die stetige Weiterentwicklung der KI-Architekturen ermöglicht es, auch anspruchsvolle Aufgaben wie die Erkennung und Quantifizierung von radiologischen Parametern auf einem höheren Niveau zu bewältigen. Gegenwärtig erfolgen die Beurteilung und Beschreibung solcher Parameter größtenteils auf manuelle Weise und in narrativer Form. Diese manuelle Vorgehensweise ist nicht nur zeitintensiv, sondern auch anfällig für Interrater- und Intrarater-Variabilität, da sie stark von der beurteilenden Person und äußeren Einflüssen beeinflusst wird. Mithilfe von KI-Algorithmen können standardisierte und reproduzierbare Ergebnisse entstehen, da sie unabhängig von externen Einflüssen Informationen in Bilddaten auf den Pixel genau auswerten kann. Ein entscheidender Vorteil besteht darin, dass die KI im Gegensatz zur manuellen Beurteilung auch auf umfangreiche Hintergrunddaten zurückgreifen kann, was zu einer weiteren Verbesserung der Genauigkeit führt. In der Rolle eines unterstützenden Tools trägt die KI dazu bei, die Qualität der Röntgenbildbeurteilung zu steigern, während gleichzeitig die Arbeitsbelastung reduziert wird.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.EE9D27BB</an>
+  <docTypes>Review Paper</docTypes>
+  <volume>37</volume>
+  <issns>09337946 ; 14343924</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0e8783d3-f6b4-3fb9-ae3f-3d4b2153dc0e</plink>
+  <doids></doids>
+  <publisher>Springer Medizin</publisher>
+  <contributors>Nehrer, Stefan ; Chen, Kenneth ; Ljuhar, Richard ; Götz, Christoph</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s00142-024-00669-8</doi>
+</record>

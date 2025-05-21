@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Alcohol and Alcoholism</source>
+  <bookEdition></bookEdition>
+  <title>Identifying responders to gabapentin for the treatment of alcohol use disorder: an exploratory machine learning approach.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250325</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Humans ; Male ; Machine Learning ; Female ; Adult ; Alcoholism ; Middle Aged ; Gabapentin ; Treatment Outcome ; gamma-Aminobutyric Acid ; Delayed-Action Preparations ; Double-Blind Method ; Carbamates</subjects>
+  <abstract>BACKGROUND: Gabapentin, an anticonvulsant medication, has been proposed as a treatment for alcohol use disorder (AUD). A multisite study tested gabapentin enacarbil extended-release (GE-XR; 600 mg/twice a day), a prodrug formulation, combined with a computerized behavioral intervention, for AUD. In this multisite trial, the gabapentin GE-XR group did not differ significantly from placebo on the primary outcome of percent of subjects with no heavy drinking days. Despite the null findings, there is considerable interest in using machine learning methods to identify responders to GE-XR. The present study applies interaction tree machine learning methods to identify positive and iatrogenic (i.e. individuals who responded better to placebo than to GE-XR) treatment responders in the trial. METHODS: Baseline characteristics taken from the multisite trial were examined as potential moderators of treatment response using qualitative interaction trees (QUINT; N = 338; 223 M/115F). QUINT models are an exploratory decision tree approach that iteratively splits the data into leaves based on predictor variables to maximize a specific criterion. RESULTS: Analyses identified key factors that are associated with the efficacy (or iatrogenic effects) of GE-XR for AUD. Such factors are baseline drinking levels, motivation for change, confidence in their ability to reach drinking goals (i.e. self-efficacy), cognitive impulsivity, and baseline anxiety levels. CONCLUSION: Baseline drinking levels and anxiety levels may be associated with the protracted withdrawal syndrome, previously implicated in the clinical response to gabapentin. However, these analyses underscore motivation for change and self-efficacy as predictors of clinical response to GE-XR, suggesting these established constructs should receive further attention in gabapentin research and clinical practice. Multiple studies using different machine learning methods are valuable as these novel analytic tools are applied to medication development for AUD.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt3jw3m6zk</an>
+  <docTypes>article</docTypes>
+  <volume>60</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=51adf45a-a8d2-38bb-bdad-edf93db550b9</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Ray, Lara ; Grodin, Erica ; Baskerville, Wave-Ananda ; Donato, Suzanna ; Cruz, Alondra ; Montoya, Amanda</contributors>
+  <coverDate>20250325</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

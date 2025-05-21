@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Scientific reports</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning for risk prediction of acute kidney injury in patients with diabetes mellitus combined with heart failure during hospitalization.</title>
+  <pageEnd></pageEnd>
+  <pageStart>10728</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250328</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Heart Failure complications ; Machine Learning ; Acute Kidney Injury diagnosis ; Acute Kidney Injury etiology ; Acute Kidney Injury epidemiology ; Hospitalization ; Humans ; Male ; Female ; Aged ; Risk Factors ; Middle Aged ; Diabetes Mellitus epidemiology ; Risk Assessment methods ; Prognosis ; Algorithms</subjects>
+  <abstract>Declarations. Competing interests: The authors declare no competing interests. Ethics approval and consent to participate: The data used in this study originated from the MIMIC-IV database developed by the Beth Israel Deaconess Medical Center between 2008 and 2019, and therefore, patient consent and ethical approval were not required. Consent for publication: Not applicable.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40155666</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=13edc5de-9d58-3286-8212-c5049fed9af1</plink>
+  <doids></doids>
+  <publisher>Nature Publishing Group</publisher>
+  <contributors>Li, Guojing ; Zhao, Zhiqiang ; Yu, Zongliang ; Liao, Junyi ; Zhang, Mengyao</contributors>
+  <coverDate>2025 Mar 28</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1038/s41598-025-87268-1</doi>
+</record>

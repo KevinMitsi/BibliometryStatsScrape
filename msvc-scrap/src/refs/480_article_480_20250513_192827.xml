@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Cancer Management and Research</source>
+  <bookEdition></bookEdition>
+  <title>A Machine Learning Model for Predicting Breast Cancer Recurrence and Supporting Personalized Treatment Decisions Through Comprehensive Feature Selection and Explainable Ensemble Learning</title>
+  <pageEnd>932</pageEnd>
+  <pageStart>917</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>Issue 1</issue>
+  <identifiers></identifiers>
+  <subjects>Breast cancer recurrence ; Machine learning ; LASSO feature selection ; Ensemble learning ; SHAP value analysis ; Neoplasms. Tumors. Oncology. Including cancer and carcinogens ; RC254-282</subjects>
+  <abstract>Tsair-Fwu Lee,1– 4 Jun-Ping Shiau,1,5 Chia-Hui Chen,1 Wen-Ping Yun,1 Cheng-Shie Wuu,6 Yu-Jie Huang,7 Shyh-An Yeh,1,8,9 Hui-Chun Chen,7 Pei-Ju Chao1,7 1Medical Physics and Informatics Laboratory of Electronics Engineering, National Kaohsiung University of Science and Technology, Kaohsiung, 80778, Taiwan, Republic of China; 2Graduate Institute of Clinical Medicine, Kaohsiung Medical University, Kaohsiung, 807, Taiwan, Republic of China; 3Department of Medical Imaging and Radiological Sciences, Kaohsiung Medical University, Kaohsiung, 80708, Taiwan, Republic of China; 4School of Dentistry, College of Dental Medicine, Kaohsiung Medical University, Kaohsiung, 80708, Taiwan, Republic of China; 5Division of Breast Oncology and Surgery, Kaohsiung Medical University Chung-Ho Memorial Hospital, Kaohsiung, 807, Taiwan, Republic of China; 6Department of Radiation Oncology, Columbia University, New York, NY, USA; 7Department of Radiation Oncology, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University College of Medicine, Kaohsiung, Taiwan, Republic of China; 8Department of Medical Imaging and Radiological Sciences, I-Shou University, Kaohsiung, 82445, Taiwan, Republic of China; 9Department of Radiation Oncology, E-DA Hospital, Kaohsiung, 82445, Taiwan, Republic of ChinaCorrespondence: Pei-Ju Chao; Hui-Chun Chen, Department of Radiation Oncology, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University College of Medicine, Kaohsiung, Taiwan, Republic of China, Tel +886-7-731-7123 ext 7060, Fax +886-7-732-2813, Email pjchao99@gmail.com; kuas999@gmail.comPurpose: This study investigates the efficiency of a machine learning model integrating least absolute shrinkage and selection operator (LASSO) feature selection with ensemble learning in predicting recurrence risk and supporting personalized treatment decisions in breast cancer patients.Materials and Methods: Clinical data from 1,131 breast cancer patients (1,056 nonrecurrent and 75 recurrent) were collected from Kaohsiung Medical University Hospital’s electronic health record system. After preprocessing and standardization, LASSO was applied for feature selection. An ensemble learning model was developed based on multiple machine learning algorithms, with SHAP (Shapley additive explanations) used for interpretability.Results: The ensemble model achieved an AUC of 0.817, outperforming the best single model (AUC 0.711), demonstrating improved predictive accuracy and stability. LASSO identified six key predictors: regional lymph node positivity, ER status, Ki-67, lymphovascular invasion, tumor size, and age at diagnosis. SHAP analysis enhanced transparency by quantifying the contribution of each feature to recurrence risk, improving clinical understanding.Conclusion: This LASSO-enhanced ensemble model significantly improves the accuracy and interpretability of breast cancer recurrence prediction. By identifying individualized recurrence risks through SHAP analysis, the model supports more precise, data-driven clinical decision-making. These findings demonstrate its potential as a clinical decision support tool for guiding personalized treatment strategies, contributing to more effective breast cancer management.Plain language summary: Breast cancer is the most common cancer in women worldwide, and despite treatment, some patients experience recurrence, meaning the cancer returns after initial therapy. Identifying which patients are at higher risk of recurrence is crucial for personalized treatment. However, traditional risk prediction models often lack accuracy and do not fully capture the complexity of patient data.This study developed an ensemble learning model to predict breast cancer recurrence more accurately by integrating LASSO feature selection and multiple machine learning models. Using data from 1,131 breast cancer patients, the model identified six key predictors of recurrence, including lymph node positivity, ER status, Ki-67, lymphovascular invasion, tumor size, and age at diagnosis. The ensemble model achieved higher accuracy (AUC = 0.817) compared to traditional models.To enhance interpretability, SHAP analysis was applied to explain how each factor influences predictions. This transparency helps clinicians understand individualized risk and supports personalized treatment decisions. The model can assist in tailoring treatments—allowing high-risk patients to receive more aggressive care while helping low-risk patients avoid unnecessary treatments.Future research should focus on validating the model in different populations and incorporating additional data sources like genomics and imaging to further improve precision. This study demonstrates the potential of ensemble learning in advancing personalized breast cancer care.Keywords: breast cancer recurrence, machine learning, LASSO feature selection, ensemble learning, SHAP value analysis</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.f3c298cd2d114e8d98336d3797dbf6f2</an>
+  <docTypes>article</docTypes>
+  <volume>ume 17</volume>
+  <issns>11791322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=ea532a73-9457-378a-9013-d37cb3d6a96a</plink>
+  <doids></doids>
+  <publisher>Dove Medical Press</publisher>
+  <contributors>Lee TF ; Shiau JP ; Chen CH ; Yun WP ; Wuu CS ; Huang YJ ; Yeh SA ; Chen HC ; Chao PJ</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi></doi>
+</record>

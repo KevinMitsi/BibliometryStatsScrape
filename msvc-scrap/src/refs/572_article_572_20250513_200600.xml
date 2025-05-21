@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Results in Engineering</source>
+  <bookEdition></bookEdition>
+  <title>A hybrid machine learning algorithm approach to predictive maintenance tasks: A comparison with machine learning algorithms</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250601</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Predictive maintenance ; Machine learning ; Reinforcement learning ; Supervised learning</subjects>
+  <abstract>Digital transformation has enabled the industrial sector to digitize all of its production processes, generating a vast quantity of data from sensors and actuators deployed along production lines. This data can provide valuable insights into the behavior of a specific machine, enabling optimization or the prediction of potential malfunctions. Supervised machine learning algorithms are capable of predicting the remaining useful life (RUL) of a machine. However, there is room for improvement in this prediction. In this paper, a hybrid approach that combines supervised learning (multi-layer perceptron MLP) and reinforcement learning (Q-learning) algorithms is proposed with the aim of improving the accuracy and precision of predicting the RUL. To test the efficacy of the proposed hybrid algorithm, a dataset comprising data from C-MAPPS aircraft engines is utilized. To assess the effectiveness of the hybrid algorithm, it was compared with a supervised learning algorithm. The results indicate that the proposed hybrid approach increases accuracy by 15% compared to models that use a single supervised learning algorithm, such as support vector regression (SVR), multi-layer perceptron (MLP), convolutional neural networks (CNN), and long short-term memory (LSTM), and an increase in accuracy of 4% over other hybrid algorithms, such as convolutional neural networks and long short-term memory. Additionally, the hybrid approach enables early predictions of approximately 17 cycles and late predictions of only 2%, while other learning algorithms, such as linear regression, do not make early predictions but 100% of their predictions are late. Implementing a hybrid approach would prevent unexpected machine downtime, enhancing reliability and reducing maintenance times and costs.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2590123025012125</an>
+  <docTypes>Article</docTypes>
+  <volume>26</volume>
+  <issns>2590-1230</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=98d65b68-968e-3917-8a7a-5ca28e2e02bd</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Paredes, Jorge ; Chávez, Danilo ; Isa-Jara, Ramiro ; Vargas, Diego</contributors>
+  <coverDate>June 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.rineng.2025.105137</doi>
+</record>

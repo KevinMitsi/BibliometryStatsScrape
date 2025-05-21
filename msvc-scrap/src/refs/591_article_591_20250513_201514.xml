@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edspgr</shortDBName>
+  <isiType>PAT</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Generation of machine learning model lineage events</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250311</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>A method, system, and computer program product for generating lineage events of machine learning models. The method may include identifying a machine learning model with missing lineage. The method may also include generating a creation event and deployment event for the machine learning model. The method may also include generating a version change event for the machine learning model. Generating the version change event may include identifying one or more predicted data points with a low model confidence; rescoring the one or more predicted data points based on the machine learning model at a second time period; determining that the updated one or more predicted data points are significantly different than the one or more predicted data points; and determining that there is a new version of the machine learning model. The method may also include creating a lineage path for the machine learning model.</abstract>
+  <pubTypes>Patent</pubTypes>
+  <an>edspgr.12248853</an>
+  <docTypes>Patent</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fee16593-cf1b-3266-8f41-3371b0d61e22</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>International Business Machines Corporation</contributors>
+  <coverDate>March 11, 2025</coverDate>
+  <longDBName>USPTO Patent Grants</longDBName>
+  <doi></doi>
+</record>

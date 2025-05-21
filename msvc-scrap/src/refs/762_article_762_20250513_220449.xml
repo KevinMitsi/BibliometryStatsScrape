@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B1V5</mid>
+  <language>eng</language>
+  <source>Energies (19961073)</source>
+  <bookEdition></bookEdition>
+  <title>Parametric Forecast of Solar Energy over Time by Applying Machine Learning Techniques: Systematic Review.</title>
+  <pageEnd></pageEnd>
+  <pageStart>1460</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250315</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>ARTIFICIAL neural networks ; MACHINE learning ; SURFACE of the earth ; SOLAR energy ; SOLAR radiation ; Solar Electric Power Generation</subjects>
+  <abstract>To maximize photovoltaic (PV) production, it is necessary to estimate the amount of solar radiation that is available on Earth's surface, as it can occasionally vary. This study aimed to systematize the parametric forecast (PF) of solar energy over time, adopting the validation of estimates by machine learning models (MLMs), with highly complex analyses as inclusion criteria and studies not validated in the short or long term as exclusion criteria. A total of 145 scholarly sources were examined, with a value of 0.17 for bias risk. Four components were analyzed: atmospheric, temporal, geographic, and spatial components. These quantify dispersed, absorbed, and reflected solar energy, causing energy to fluctuate when it arrives at the surface of a PV plant. The results revealed strong trends towards the adoption of artificial neural network (ANN), random forest (RF), and simple linear regression (SLR) models for a sample taken from the Nipepe station in Niassa, validated by a PF model with errors of 0.10, 0.11, and 0.15. The included studies' statistically measured parameters showed high trends of dependence on the variability in transmittances. The synthesis of the results, hence, improved the accuracy of the estimations produced by MLMs, making the model applicable to any reality, with a very low margin of error for the calculated energy. Most studies adopted large time intervals of atmospheric parameters. Applying interpolation models can help extrapolate short scales, as their inference and treatment still require a high investment cost. Due to the need to access the forecasted energy over land, this study was funded by CS–OGET.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184100384</an>
+  <docTypes>Article</docTypes>
+  <volume>18</volume>
+  <issns>1996-1073</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0b2899f4-a6e8-330f-989d-76f3b02b2b84</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Mucomole, Fernando Venâncio ; Silva, Carlos Augusto Santos ; Magaia, Lourenço Lázaro</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/en18061460</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FDU7</mid>
+  <language>eng</language>
+  <source>Diagnostics (2075-4418)</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Based Multi-Parameter Modeling for Prediction of Post-Inflammatory Lung Changes.</title>
+  <pageEnd></pageEnd>
+  <pageStart>783</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250315</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; OXYGENATORS ; PULMONARY function tests ; COMPUTED tomography ; Irradiation Apparatus Manufacturing</subjects>
+  <abstract>Objectives: Prediction of lung function deficits following pulmonary infection is challenging and suffers from inaccuracy. We sought to develop machine-learning models for prediction of post-inflammatory lung changes based on COVID-19 recovery data. Methods: In the prospective CovILD study (n = 420 longitudinal observations from n = 140 COVID-19 survivors), data on lung function testing (LFT), chest CT including severity scoring by a human radiologist and density measurement by artificial intelligence, demography, and persistent symptoms were collected. This information was used to develop models of numeric readouts and abnormalities of LFT with four machine learning algorithms (Random Forest, gradient boosted machines, neural network, and support vector machines). Results: Reduced DLCO (diffusion capacity for carbon monoxide &amp;lt;80% of reference) was found in 94 (22%) observations. Those observations were modeled with a cross-validated accuracy of 82–85%, AUC of 0.87–0.9, and Cohen's κ of 0.45–0.5. No reliable models could be established for FEV1 or FVC. For DLCO as a continuous variable, three machine learning algorithms yielded meaningful models with cross-validated mean absolute errors of 11.6–12.5% and R&lt;sup>2&lt;/sup> of 0.26–0.34. CT-derived features such as opacity, high opacity, and CT severity score were among the most influential predictors of DLCO impairment. Conclusions: Multi-parameter machine learning trained with demographic, clinical, and artificial intelligence chest CT data reliably and reproducibly predicts LFT deficits and outperforms single markers of lung pathology and human radiologist's assessment. It may improve diagnostic and foster personalized treatment.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184134151</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2075-4418</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=65618f11-c919-39ae-8daf-2b79d6496a4b</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Widmann, Gerlig ; Luger, Anna Katharina ; Sonnweber, Thomas ; Schwabl, Christoph ; Cima, Katharina ; Gerstner, Anna Katharina ; Pizzini, Alex ; Sahanic, Sabina ; Boehm, Anna ; Coen, Maxmilian ; Wöll, Ewald ; Weiss, Günter ; Kirchmair, Rudolf ; Gruber, Leonhard ; Feuchtner, Gudrun M. ; Tancevski, Ivan ; Löffler-Ragg, Judith ; Tymoszuk, Piotr</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/diagnostics15060783</doi>
+</record>

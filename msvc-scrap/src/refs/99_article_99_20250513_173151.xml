@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B3IK</mid>
+  <language>eng</language>
+  <source>Symmetry (20738994)</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning-Based Stacking Ensemble Model for Prediction of Heart Disease with Explainable AI and K-Fold Cross-Validation: A Symmetric Approach.</title>
+  <pageEnd></pageEnd>
+  <pageStart>185</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; DELAYED diagnosis ; DECISION trees ; HEART diseases</subjects>
+  <abstract>One of the most complex and prevalent diseases is heart disease (HD). It is among the main causes of death around the globe. With changes in lifestyles and the environment, its prevalence is rising rapidly. The prediction of the disease in its early stages is crucial, as delays in diagnosis can cause serious complications and even death. Machine learning (ML) can be effective in this regard. Many researchers have used different techniques for the efficient detection of the disease and to overcome the drawbacks of existing models. Several ensemble models have also been applied. We proposed a stacking ensemble model named NCDG, which uses Naive Bayes, Categorical Boosting, and Decision Tree as base learners, with Gradient Boosting serving as the meta-learner classifier. We performed preprocessing using a factorization method to convert string columns into integers. We employ the Synthetic Minority Oversampling TEchnique (SMOTE) and BorderLineSMOTE balancing techniques to address the issue of data class imbalance. Additionally, we implemented hard and soft voting using voting classifier and compared the results with the proposed stacking model. For the Artificial Intelligence-based eXplainability of our proposed NCDG model, we use the SHapley Additive exPlanations (SHAP) technique. The outcomes show that our suggested stacking model, NCDG, performs better than the benchmark existing techniques. The experimental results of our proposed stacking model achieved the highest accuracy, F1-Score, precision and recall of 0.91, 0.91, 0.91 and 0.91, respectively, and an execution time of 653 s. Moreover, we have also utilized K-Fold Cross-Validation method to validate our predicted results. It is worth mentioning that our prediction results and their validation strongly coincide with each other which proves our approach to be symmetric.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183288305</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>2073-8994</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=064ceab3-e9ba-31a3-8210-aac4bf371111</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Sultan, Sara Qamar ; Javaid, Nadeem ; Alrajeh, Nabil ; Aslam, Muhammad</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/sym17020185</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3381-6 ; 979-8-3315-3380-9</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 17th International Conference on Computer and Automation Engineering (ICCAE), Computer and Automation Engineering (ICCAE), 2025 17th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Weather Forecasts-Based Machine Learning Models to Predict Wildfire Characteristics</title>
+  <pageEnd>217</pageEnd>
+  <pageStart>213</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250320</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computing and Processing ; Robotics and Control Systems ; Wildfires ; Accuracy ; Shape ; Biological system modeling ; Brightness ; Weather forecasting ; Predictive models ; Data models ; Complexity theory ; Risk management ; Wildfire prediction ; Machine Learning ; fire burned area ; Weather Forecasts ; fire brightness ; fire radiative power ; wildfire characteristics</subjects>
+  <abstract>Wildfires are increasingly severe global challenges, driven by environmental, economic, and health impacts. This study investigates the use of weather forecasts into machine learning models to predict wildfire characteristics across seven Australian regions. Various machine learning models were evaluated for their ability to predict wildfire attributes, including fire area, brightness, and radiative power. Results show that mean fire brightness predictions achieved moderate success nationally ($\mathbf{R}^{2}$: 0.504), while fire area and radiative power remained challenging due to their complexity. Region-specific analysis revealed better predictive performance in New South Wales and Queensland, with lower accuracy in regions like Northern Territory and Tasmania, emphasizing the need for region-specific approaches. This study highlights the potential of integrating real-time weather data into predictive frameworks and calls for enhanced feature engineering and regional modeling to improve accuracy, and wildfire management strategies.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10980578</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>21544360</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=95cec0d0-fb0e-3fc7-a94f-860b7644e2b9</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Abohaia, Zina ; Elkhouly, Abeer ; Elbarachi, Mai</contributors>
+  <coverDate>20250320</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/ICCAE64891.2025.10980578</doi>
+</record>

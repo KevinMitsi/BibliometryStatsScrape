@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>MSNV</mid>
+  <language>eng</language>
+  <source>AI</source>
+  <bookEdition></bookEdition>
+  <title>Explainable Machine Learning in Critical Decision Systems: Ensuring Safe Application and Correctness.</title>
+  <pageEnd>2896</pageEnd>
+  <pageStart>2864</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>33</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; INFRASTRUCTURE (Economics) ; EVIDENCE gaps ; DECISION making</subjects>
+  <abstract>Machine learning (ML) is increasingly used to support or automate decision processes in critical decision systems such as self driving cars or systems for medical diagnosis. These systems require decisions in which human lives are at stake and the decisions should therefore be well founded and very reliable. This need for reliability contrasts with the black-box nature of many ML models, making it difficult to ensure that they always behave as intended. In face of the high stakes involved, the resulting uncertainty is a significant challenge. Explainable artificial intelligence (XAI) addresses the issue by making black-box models more interpretable, often to increase user trust. However, many current XAI applications focus more on transparency and usability than on enhancing safety of ML applications. In this work, we therefore conduct a systematic literature review to examine how XAI can be leveraged to increase safety of ML applications in critical decision systems. We strive to find out for what purposes XAI is currently used in critical decision systems, what are the most common XAI techniques in critical decision systems and how XAI can be harnessed to increase safety of ML applications in critical decision systems. Using the SPAR-4-SLR protocol, we are able to answer these questions and provide a foundational resource for researchers and practitioners seeking to mitigate risks of ML applications. Essentially, we identify promising approaches of XAI which go beyond increasing trust to actively ensure correctness of decisions. Our findings propose a three-layered framework to enhance safety of ML in critical decision systems by means of XAI. The approach consists of Reliability, Validation and Verification. Furthermore, we point out gaps in research and propose future directions of XAI research for enhancing safety of ML applications in critical decision systems.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181945744</an>
+  <docTypes>Article</docTypes>
+  <volume>5</volume>
+  <issns>2673-2688</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=ebd7008e-4c64-3c97-ab2c-51e8034bddfe</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Wiggerthale, Julius ; Reich, Christoph</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/ai5040138</doi>
+</record>

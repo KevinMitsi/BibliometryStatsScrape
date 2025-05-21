@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781838826048 ; 9781838823580</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Hands-On Machine Learning with Scikit-learn and Scientific Python Toolkits : A Practical Guide to Implementing Supervised and Unsupervised Machine Learning Algorithms in Python</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20200101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Machine Theory ; COMPUTERS / Languages / Python ; COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; Python (Computer program language) ; Machine learning</subjects>
+  <abstract>Integrate scikit-learn with various tools such as NumPy, pandas, imbalanced-learn, and scikit-surprise and use it to solve real-world machine learning problemsKey FeaturesDelve into machine learning with this comprehensive guide to scikit-learn and scientific PythonMaster the art of data-driven problem-solving with hands-on examplesFoster your theoretical and practical knowledge of supervised and unsupervised machine learning algorithmsBook DescriptionMachine learning is applied everywhere, from business to research and academia, while scikit-learn is a versatile library that is popular among machine learning practitioners. This book serves as a practical guide for anyone looking to provide hands-on machine learning solutions with scikit-learn and Python toolkits. The book begins with an explanation of machine learning concepts and fundamentals, and strikes a balance between theoretical concepts and their applications. Each chapter covers a different set of algorithms, and shows you how to use them to solve real-life problems. You'll also learn about various key supervised and unsupervised machine learning algorithms using practical examples. Whether it is an instance-based learning algorithm, Bayesian estimation, a deep neural network, a tree-based ensemble, or a recommendation system, you'll gain a thorough understanding of its theory and learn when to apply it. As you advance, you'll learn how to deal with unlabeled data and when to use different clustering and anomaly detection algorithms. By the end of this machine learning book, you'll have learned how to take a data-driven approach to provide end-to-end machine learning solutions. You'll also have discovered how to formulate the problem at hand, prepare required data, and evaluate and deploy models in production.What you will learnUnderstand when to use supervised, unsupervised, or reinforcement learning algorithmsFind out how to collect and prepare your data for machine learning tasksTackle imbalanced data and optimize your algorithm for a bias or variance tradeoffApply supervised and unsupervised algorithms to overcome various machine learning challengesEmploy best practices for tuning your algorithm's hyper parametersDiscover how to use neural networks for classification and regressionBuild, evaluate, and deploy your machine learning solutions to productionWho this book is forThis book is for data scientists, machine learning practitioners, and anyone who wants to learn how machine learning algorithms work and to build different machine learning models using the Python ecosystem. The book will help you take your knowledge of machine learning to the next level by grasping its ins and outs and tailoring it to your needs. Working knowledge of Python and a basic understanding of underlying mathematical and statistical concepts is required.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2562942</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d771323f-2940-3224-b2aa-60edb34def1f</plink>
+  <doids>NL$2562942$PDF ; NL$2562942$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Tarek Amr</contributors>
+  <coverDate>2020</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

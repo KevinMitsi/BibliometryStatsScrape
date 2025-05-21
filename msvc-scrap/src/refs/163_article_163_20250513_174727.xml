@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>International Journal of Technology in Education and Science</source>
+  <bookEdition></bookEdition>
+  <title>Frameworks and Challenges for Implementing Machine Learning Curriculum in Secondary Education</title>
+  <pageEnd>181</pageEnd>
+  <pageStart>164</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Secondary School Students ; Artificial Intelligence ; High School Teachers ; College Faculty ; Workshops ; Active Learning ; Student Projects ; Wyoming</subjects>
+  <abstract>Artificial Intelligence (AI) and, more specifically, Machine Learning (ML) methodologies have successfully tailored commercial applications for decades. However, the recent profound success of large language models like ChatGPT and the enormous subsequent funding from governments and investors have positioned ML to emerge as a paradigm-shifting technology across numerous domains in the coming years. To cultivate a competent workforce and prepare students for success in this new AI-focused evolving world, the integration of ML is proposed to begin in compulsory education rather than in college courses or expensive boot camps. Unfortunately, ML is a complex and intimidating topic for high school teachers to engage with, let alone high school students. Based on our experiences hosting Machine Learning for High School Teachers (ML4HST) workshops for teachers teaching ML topics at our institution, we present in this paper various considerations for educating educators on the topic of ML. In particular, we discuss (a) overarching pedagogic strategies, (b) accessibility of resources such as computational hardware and datasets, (c) balancing theory and implementation, (d) appropriate selection of topics and activities for fostering understanding and engagement, and perhaps most importantly, (e) a compilation of pitfalls to avoid. Synthesizing these insights, we propose a framework for successfully empowering educators to introduce ML in the classroom.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1415057</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>8</volume>
+  <issns>2651-5369</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b3720697-4756-39a9-a29a-4e571285b494</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Fletcher Wadsworth ; Josh Blaney ; Matthew Springsteen ; Bruce Coburn ; Nischal Khanal ; Tessa Rodgers ; Chase Livingston ; Suresh Muknahallipatna</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

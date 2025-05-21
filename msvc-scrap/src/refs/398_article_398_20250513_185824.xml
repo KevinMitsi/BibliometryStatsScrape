@@ -1,0 +1,35 @@
+<record>
+  <isbns>9789815079197 ; 9789815079180</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Methods for Engineering Application Development</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20220101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Piraí</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / Machine Learning ; COMPUTERS / Programming / Algorithms ; TECHNOLOGY &amp;amp; ENGINEERING / Engineering (General) ; Machine learning</subjects>
+  <abstract>This book is a quick review of machine learning methods for engineering applications. It provides an introduction to the principles of machine learning and common algorithms in the first section. Proceeding chapters summarize and analyze the existing scholarly work and discuss some general issues in this field. Next, it offers some guidelines on applying machine learning methods to software engineering tasks. Finally, it gives an outlook into some of the future developments and possibly new research areas of machine learning and artificial intelligence in general.Techniques highlighted in the book include: Bayesian models, support vector machines, decision tree induction, regression analysis, and recurrent and convolutional neural network. Finally, it also intends to be a reference book.Key Features:- Describes real-world problems that can be solved using machine learning- Explains methods for directly applying machine learning techniques to concrete real-world problems- Explains concepts used in Industry 4.0 platforms, including the use and integration of AI, ML, Big Data, NLP, and the Internet of Things (IoT).- It does not require prior knowledge of the machine learning. This book is meant to be an introduction to artificial intelligence (AI), machine earning, and its applications in Industry 4.0. It explains the basic mathematical principles but is intended to be understandable for readers who do not have a background in advanced mathematics.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>3466668</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=13534ce6-36d1-34fe-a6d9-6f9990867608</plink>
+  <doids>NL$3466668$PDF ; NL$3466668$EPUB</doids>
+  <publisher>Bentham Science Publishers</publisher>
+  <contributors>Prasad, Lokulwar ; Basant, Verma ; N, Thillaiarasu ; Kailash, Kumar ; Mahip, Bartere ; Dharam, Singh</contributors>
+  <coverDate>2022</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

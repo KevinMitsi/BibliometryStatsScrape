@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>N3SZ</mid>
+  <language>aze</language>
+  <source>Scientific Work / Elmi Iş</source>
+  <bookEdition></bookEdition>
+  <title>Kibertəhlükəsizlikdə süni intellekt və maşın öyrənməsi.</title>
+  <pageEnd>153</pageEnd>
+  <pageStart>146</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; SUPERVISED learning ; COMPUTER network traffic ; DEEP learning ; CYBERTERRORISM ; DENIAL of service attacks</subjects>
+  <abstract>Artificial Intelligence (AI) and its subfield, Machine Learning (ML), are technologies that enable computers to think, learn, and make decisions like humans. The main algorithms of ML include supervised learning, unsupervised learning, and deep learning. Supervised learning works with labeled data to train models, while unsupervised learning identifies hidden patterns in unlabeled data. Deep learning, on the other hand, is based on multi-layered neural networks that mimic the human brain and solve complex problems using large datasets. In the field of cybersecurity, AI and ML algorithms play critical roles in threat detection, identifying anomalies, and automating response systems. For example, deep learning algorithms can detect anomalies in network traffic and prevent DDoS attacks. Additionally, AI systems can reduce false positives, predict threats, and automate security measures. However, the human factor remains irreplaceable in the application of AI in cybersecurity. Human expertise is crucial in areas such as strategic thinking, ethical decision-making, and creative problem-solving. In the future, collaboration between humans and AI in cybersecurity will increase, but challenges such as data quality, skill gaps, and ethical issues will also arise. Therefore, the future of cybersecurity will depend on the synergy between humans and AI. This article examines the application, shortcomings, and advantages of AI and ML in various areas of cybersecurity, as well as the challenges ahead.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184007472</an>
+  <docTypes>Article</docTypes>
+  <volume>19</volume>
+  <issns>2663-4619</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3d9adfd6-f611-30d1-9d03-de96664f0db0</plink>
+  <doids></doids>
+  <publisher>Azerbaijan Science Center</publisher>
+  <contributors>Haqverdiyeva, Sevil ; Həsənov, Ceyhun ; Kazımova, Elnarə ; Həsənova, Nailə ; Quliyev, Anar</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.36719/2663-4619/112/146-153</doi>
+</record>

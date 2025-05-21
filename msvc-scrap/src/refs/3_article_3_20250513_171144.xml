@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Analysis of informatization-related factors for digital transformation in manufacturing small and medium-sized enterprises using machine learning techniques.</title>
+  <pageEnd>21</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>21</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Digital transformation ; Innovations in business ; Artificial intelligence ; Resource allocation ; Small business ; Machine learning ; Digital technology</subjects>
+  <abstract>This study explores informatization factors influencing digital transformation (DT) in manufacturing small and medium-sized enterprises (SMEs). Unlike previous research that focuses on large enterprises, this study addresses the unique challenges faced by SMEs, such as resource constraints and limited IT infrastructure, by applying a data-driven approach enhanced with explainable AI (XAI) methods to ensure interpretability and actionable insights. Using a dataset of 112 variables from manufacturing SMEs, this study applies machine learning techniques including light gradient boosting machine and Shapley Additive exPlanations analysis to identify and prioritize factors influencing DT. The results highlight key factors such as IT investment, information security, and business innovation, which are crucial to DT success. Moreover, interactions between factors such as enterprise resource planning and groupware utilization create synergies that enhance DT effectiveness. These findings offer actionable insights for SME managers and policymakers, emphasizing strategic resource allocation and prioritization of critical factors to overcome DT challenges. By leveraging a data-driven framework, this study provides practical guidance to address the specific needs of SMEs and facilitate effective DT implementation.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184515092</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b0db1417-f87d-393b-959b-3171696ab752</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Choi, Doowon ; Cho, Insu</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2025.2481182</doi>
+</record>

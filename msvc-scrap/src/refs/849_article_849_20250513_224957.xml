@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Sensors (Basel, Switzerland)</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning-Based Computer Vision for Depth Camera-Based Physiotherapy Movement Assessment: A Systematic Review.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250305</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Switzerland</publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Machine Learning ; Movement physiology ; Algorithms ; Humans ; Physical Therapy Modalities instrumentation ; Image Processing, Computer-Assisted methods</subjects>
+  <abstract>Machine learning-based computer vision techniques using depth cameras have shown potential in physiotherapy movement assessment. However, a comprehensive understanding of their implementation, effectiveness, and limitations remains needed. Following PRISMA guidelines, we systematically reviewed studies from 2020 to 2024 across Web of Science, Scopus, PubMed, and Astrophysics Data System to explore recent advancements. From 371 initially identified publications, 18 met the inclusion criteria for detailed analysis. The analysis revealed three primary implementation scenarios: local (50%), clinical (33.4%), and remote (22.3%). Depth cameras, particularly the Kinect series (65.4%), dominated data collection methods. Data processing approaches primarily utilized RGB-D (55.6%) and skeletal data (27.8%), with algorithms split between traditional machine learning (44.4%) and deep learning (41.7%). Key challenges included limited real-world validation, insufficient dataset diversity, and algorithm generalization issues, while machine learning-based computer vision systems demonstrated effectiveness in movement assessment tasks, further research is needed to address validation in clinical settings and improve algorithm generalization. This review provides a foundation for enhancing computer vision-based assessment tools in physiotherapy practice.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40096440</an>
+  <docTypes>Journal Article ; Systematic Review ; Review</docTypes>
+  <volume>25</volume>
+  <issns>1424-8220 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=79b5df48-9f90-397d-bd32-27bfe7909f99</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Zhou, Yafeng ; Rashid, Fadilla 'Atyka Nor ; Mat Daud, Marizuana ; Hasan, Mohammad Kamrul ; Chen, Wangmei</contributors>
+  <coverDate>2025 Mar 05</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.3390/s25051586</doi>
+</record>

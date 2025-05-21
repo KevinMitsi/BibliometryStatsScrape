@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HE0M</mid>
+  <language>eng</language>
+  <source>International Journal of Financial Studies</source>
+  <bookEdition></bookEdition>
+  <title>Towards Economic Sustainability: A Comprehensive Review of Artificial Intelligence and Machine Learning Techniques in Improving the Accuracy of Stock Market Movements.</title>
+  <pageEnd></pageEnd>
+  <pageStart>28</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Sustainable development ; Artificial intelligence ; Economic indicators ; Administration of General Economic Programs ; Machine learning ; Deep learning</subjects>
+  <abstract>Accurately predicting stock market movements remains a critical challenge in finance, driven by the increasing role of algorithmic trading and the centrality of financial markets in economic sustainability. This study examines the incorporation of artificial intelligence (AI) and machine learning (ML) technologies to address gaps in identifying predictive factors, integrating diverse data sources, and optimizing methodologies. Employing a systematic review, recent advancements in ML techniques like deep learning, ensemble methods, and neural networks are analyzed, alongside emerging data sources such as traders' sentiment and real-time economic indicators. Results highlight the potential of unified datasets and adaptive models to enhance prediction accuracy while overcoming market volatility and data heterogeneity. The research underscores the necessity of integrating diverse predictive factors, innovative data sources, and advanced ML techniques to develop robust and adaptable forecasting frameworks. These findings offer valuable insights for academics and financial professionals, paving the way for more reliable and real-time predictive models that can enhance decision-making in dynamic market environments. This study contributes to advancing economic sustainability by proposing methodologies that align with the complexities and rapid evolution of modern financial markets.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184134540</an>
+  <docTypes>Article</docTypes>
+  <volume>13</volume>
+  <issns>2227-7072</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1ab63434-f3db-3657-a761-db9fa948c6bb</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Rezaei, Atoosa ; Abdellatif, Iheb ; Umar, Amjad</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.3390/ijfs13010028</doi>
+</record>

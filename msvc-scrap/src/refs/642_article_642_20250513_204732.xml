@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Advancing plant leaf disease detection integrating machine learning and deep learning</title>
+  <pageEnd>14</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>14</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Deep learning (DL) ; Machine learning (ML) ; Plant leaf disease detection ; Convolutional neural networks (CNNs) ; Feature extraction ; Classification ; Medicine ; Science</subjects>
+  <abstract>Abstract Conventional techniques for identifying plant leaf diseases can be labor-intensive and complicated. This research uses artificial intelligence (AI) to propose an automated solution that improves plant disease detection accuracy to overcome the difficulty of the conventional methods. Our proposed method uses deep learning (DL) to extract features from photos of plant leaves and machine learning (ML) for further processing. To capture complex illness patterns, convolutional neural networks (CNNs) such as VGG19 and Inception v3 are utilized. Four distinct datasets—Banana Leaf, Custard Apple Leaf and Fruit, Fig Leaf, and Potato Leaf—were used in this investigation. The experimental results we received are as follows: for the Banana Leaf dataset, the combination of Inception v3 with SVM proved good with an Accuracy of 91.9%, Precision of 92.2%, Recall of 91.9%, F1 score of 91.6%, AUC of 99.6% and MCC of 90.4%, FFor the Custard Apple Leaf and Fruit dataset, the combination of VGG19 with kNN with an Accuracy of 99.1%, Precision of 99.1%, Recall of 99.1%, F1 score of 99.1%, AUC of 99.1%, and MCC of 99%, and for the Fig Leaf dataset with Accuracy of 86.5%, Precision of 86.5%, Recall of 86.5%, F1 score of 86.5%, AUC of 93.3%, and MCC of 72.2%. The Potato Leaf dataset displayed the best performance with Inception v3 + SVM by an Accuracy of 62.6%, Precision of 63%, Recall of 62.6%, F1 score of 62.1%, AUC of 89%, and MCC of 54.2%. Our findings explored the versatility of the amalgamation of ML and DL techniques while providing valuable references for practitioners seeking tailored solutions for specific plant diseases.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.01385174f6c8450589e8ebab5a6db802</an>
+  <docTypes>article</docTypes>
+  <volume>15</volume>
+  <issns>20452322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c1828744-82ef-3fec-ade3-feebf06c61b6</plink>
+  <doids></doids>
+  <publisher>Nature Portfolio</publisher>
+  <contributors>R. Sujatha ; Sushil Krishnan ; Jyotir Moy Chatterjee ; Amir H. Gandomi</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.1038/s41598-024-72197-2</doi>
+</record>

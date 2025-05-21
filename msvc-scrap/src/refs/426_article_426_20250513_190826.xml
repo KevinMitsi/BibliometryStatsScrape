@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CHK</mid>
+  <language>eng</language>
+  <source>BMC Emergency Medicine</source>
+  <bookEdition></bookEdition>
+  <title>Predicting emergency department admissions using a machine-learning algorithm: a proof of concept with retrospective study.</title>
+  <pageEnd>11</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250106</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; MEDICAL personnel ; PUBLIC health ; MEDICAL sciences ; Health and Welfare Funds</subjects>
+  <abstract>Introduction: Overcrowding in emergency departments (ED) is a major public health issue, leading to increased workload and exhaustion for the teams, resulting poor outcomes. It seems interesting to be able to predict the admissions of patients in the ED. Aim: The main objective of this study was to build and test a prediction tool for ED admissions using artificial intelligence. Methods: We performed a retrospective multicenter study in two French ED from January 1st, 2010 to December 31st, 2019.We tested several machine learning algorithms and compared the results. Results: The arrival and departure times from the ED of 2 hospitals were collected from all consultations during the study period, then grouped into 87 600 one-hour slots. Through the development of two models (one for each location), we found that the XGBoost method with hyperparameter adaptations was the best, suggesting that the studied data could be predicted (mean absolute error) at 2.63 for Hospital 1 and 2.64 for Hospital 2). Conclusions: This study ran the construction and validation of a powerful tool for predicting ED admissions in 2 French ED. This type of tool should be integrated into the overall organization of an ED, to optimize the resources of healthcare professionals.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182304084</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1471-227X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1491488a-cede-305c-98e6-47af555a2071</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Brossard, Cyrielle ; Goetz, Christophe ; Catoire, Pierre ; Cipolat, Lauriane ; Guyeux, Christophe ; Gil Jardine, Cédric ; Akplogan, Mahuna ; Abensur Vuillaume, Laure</contributors>
+  <coverDate>1/6/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12873-024-01141-4</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3473-8</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 Integrated Communications, Navigation and Surveillance Conference (ICNS), Integrated Communications, Navigation and Surveillance Conference (ICNS), 2025</source>
+  <bookEdition></bookEdition>
+  <title>Predicting Aircraft Climb and Descent Times in Conflict Resolution Maneuvers Using Machine Learning Models</title>
+  <pageEnd>7</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>7</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Aerospace ; Communication, Networking and Broadcast Technologies ; Computing and Processing ; Robotics and Control Systems ; Signal Processing and Analysis ; Transportation ; Deep learning ; Accuracy ; Atmospheric modeling ; Predictive models ; Real-time systems ; Data models ; Aircraft navigation ; Air traffic control ; Fuels ; Aircraft ; Air traffic management ; Conflict resolution ; Climb and descent times ; Machine learning</subjects>
+  <abstract>This study proposes a machine learning-based approach to predict aircraft climb and descent times during conflict resolution maneuvers using data collected from on-board flight data recorders. The proposed framework utilizes features such as the magnitude of altitude change, wind speed, true airspeed, and initial altitude to provide real-time predictions of climb and descent durations. Three machine learning models—Random Forest, XGBoost, and Deep Learning—are developed and evaluated. The magnitude of altitude change is identified as the most influential factor affecting climb and descent times, followed by initial altitude, true airspeed, and temperature, with variations depending on the selected model. The models are assessed using multiple performance metrics, including Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and Mean Absolute Percentage Error (MAPE). The Deep Learning model outperforms the others, achieving a MAE of 31.37 and a MAPE of 17.38. This research has the potential to improve the predictability of altitude maneuvers in conflict resolution, enabling the models to assist air traffic controllers in making informed altitude change decisions, reducing conflict risks, and enhancing efficiency.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10976849</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>21554951</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=42dec7b0-c9d9-327e-a43f-dbede3efcba4</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Ozdemir, Mustafa</contributors>
+  <coverDate>20250408</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/ICNS65417.2025.10976849</doi>
+</record>

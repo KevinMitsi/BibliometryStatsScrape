@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-3-031-74227-9 ; 978-3-031-74226-2 ; 3-031-74227-3 ; 3-031-74226-5</isbns>
+  <shortDBName>edsoap</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Applying Machine Learning in Science Education Research</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250313</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Natural language processing ; science education research ; supervised and unsupervised learning ; Probabilistic modeling ; artificial intelligence in Science education ; Machine learning models ; Human-machine interactions ; Pattern recognition ; computational grounded theory ; reinforcement learning ; deep neural networks ; multimodal learning ; transfer learning ; qualitative and quantitative research methods ; computer-aided tutoring ; human-machine interaction ; big data ; complex systems theory ; Teaching of a specific subject ; Science: general issues ; Study and learning skills: general</subjects>
+  <abstract>This open access textbook offers science education researchers a hands-on guide for learning, critically examining, and integrating machine learning (ML) methods into their science education research projects. These methods power many artificial intelligence (AI)-based technologies and are widely adopted in science education research. ML can expand the methodological toolkit of science education researchers and provide novel opportunities to gain insights on science-related learning and teaching processes, however, applying ML poses novel challenges and is not suitable for every research context. The volume first introduces the theoretical underpinnings of ML methods and their connections to methodological commitments in science education research. It then presents exemplar case studies of ML uses in both formal and informal science education settings. These case studies include open-source data, executable programming code, and explanations of the methodological criteria and commitments guiding ML use in each case. The textbook concludes with a discussion of opportunities and potential future directions for ML in science education. This textbook is a valuable resource for science education lecturers, researchers, under-graduate, graduate and postgraduate students seeking new ways to apply ML in their work.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edsoap.20.500.12657.99864</an>
+  <docTypes>book</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=62461ce3-fd0f-3a68-bf33-d1967b7a1384</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Wulff, Peter ; Kubsch, Marcus ; Krist, Christina</contributors>
+  <coverDate>20250313</coverDate>
+  <longDBName>OAPEN Library</longDBName>
+  <doi>10.1007/978-3-031-74227-9</doi>
+</record>

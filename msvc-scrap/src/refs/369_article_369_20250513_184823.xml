@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>NDZ3</mid>
+  <language>eng</language>
+  <source>Receptors</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Classification of 3D Intracellular Trafficking Using Custom and Imaris-Derived Motion Features.</title>
+  <pageEnd></pageEnd>
+  <pageStart>6</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; CLASSIFICATION ; TRAJECTORIES (Mechanics) ; DIFFUSION kinetics ; SPATIAL analysis (Statistics) ; BIOLOGICAL transport ; BOOSTING algorithms</subjects>
+  <abstract>Background: Detecting intracellular diffusion dynamics with high spatiotemporal resolution is critical for understanding the complex molecular mechanisms that govern viral infection, drug delivery, and sustained receptor signaling within cellular compartments. Although considerable progress has been made, accurately distinguishing between different types of diffusion in three dimensions remains a significant challenge. Methods: This study extends a previously established two-dimensional, machine learning-based diffusional fingerprinting approach into a three-dimensional framework to overcome this limitation. It presents an algorithm that predicts intracellular motion types based on a comprehensive feature set, including custom statistical descriptors and standard Imaris-derived trajectory features, which capture subtle variations in individual trajectories. The approach employs an extended gradient-boosted decision trees classifier trained on an array of synthetic trajectories designed to simulate diffusion behaviors typical of intracellular environments. Results: The machine learning classifier demonstrated a classification accuracy of over 90% on synthetic datasets, effectively capturing and distinguishing complex diffusion patterns. Subsequent validation using an experimental dataset confirmed the robustness of the approach. The incorporation of the Imaris track features streamlined diffusion classification and enhanced adaptability across diverse volumetric imaging modalities. Conclusions: This work advances our ability to classify intracellular diffusion dynamics in three dimensions and provides a method that is well-suited for high-resolution analysis of intracellular receptor trafficking, intracellular transport of pathogenic agents, and drug delivery mechanisms.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184202509</an>
+  <docTypes>Article</docTypes>
+  <volume>4</volume>
+  <issns>2813-2564</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0b441b14-3d65-3c5d-a43e-43ec232b4e49</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Kovtun, Oleg</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/receptors4010006</doi>
+</record>

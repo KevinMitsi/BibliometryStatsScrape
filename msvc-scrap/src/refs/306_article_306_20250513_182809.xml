@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FXS8</mid>
+  <language>eng</language>
+  <source>Marmara University Journal of Economic &amp;amp; Administrative Sciences</source>
+  <bookEdition></bookEdition>
+  <title>GREEN BOND INDEX PRICE FORECASTING: COMPARATIVE ANALYSIS OF MACHINE LEARNING MODELS.</title>
+  <pageEnd>589</pageEnd>
+  <pageStart>568</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>22</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Business forecasting ; Artificial intelligence ; Green bonds ; Bonds (Finance) ; Machine learning</subjects>
+  <abstract>The aim of this study is to compare the performance of different models using machine learning algorithms to predict the price of the green bond index in Japan. In the study, 693-day dataset collected between 06.05.2021-02.05.2024 was used. Nikkei225, USD/JPY and crude oil prices were determined as input data. 80% of the data was reserved for training and 20% for testing. RF, MLP, GBR, XGBoost, LSTM, SVR, Catboost and Linear Regression methods were used as prediction models. Performance evaluations were made on metrics such as MSE, RMSE, MAE, MAPE and R2. The GBR model showed the best performance in the training set, while XGBoost and RF models produced more successful predictions in the test set. The contribution of this study to the literature is to demonstrate the usability of artificial intelligence-based prediction models in sustainable finance and green bond markets. The results obtained serve as a guide for investors and analysts and offer practical solutions to increase interest in green projects.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182787252</an>
+  <docTypes>Article</docTypes>
+  <volume>46</volume>
+  <issns>2149-1844</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=955ee9dd-6c90-31b6-a8d1-068c5a0c760f</plink>
+  <doids></doids>
+  <publisher>Marmara University, Faculty of Economic &amp;amp; Administrative Sciences</publisher>
+  <contributors>İŞGÜZAR, Seda ; FENDOĞLU, Eda ; ŞİMŞEK, Ahmed İhsan ; TÜRKOĞLU, Muammer</contributors>
+  <coverDate>ara2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.14780/muiibd.1481251</doi>
+</record>

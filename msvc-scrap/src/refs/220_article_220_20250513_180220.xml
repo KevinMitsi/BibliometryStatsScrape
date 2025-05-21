@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Feature-Enhanced Machine Learning for All-Cause Mortality Prediction in Healthcare Data</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250327</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Machine Learning ; Computer Science - Artificial Intelligence ; Statistics - Machine Learning</subjects>
+  <abstract>Accurate patient mortality prediction enables effective risk stratification, leading to personalized treatment plans and improved patient outcomes. However, predicting mortality in healthcare remains a significant challenge, with existing studies often focusing on specific diseases or limited predictor sets. This study evaluates machine learning models for all-cause in-hospital mortality prediction using the MIMIC-III database, employing a comprehensive feature engineering approach. Guided by clinical expertise and literature, we extracted key features such as vital signs (e.g., heart rate, blood pressure), laboratory results (e.g., creatinine, glucose), and demographic information. The Random Forest model achieved the highest performance with an AUC of 0.94, significantly outperforming other machine learning and deep learning approaches. This demonstrates Random Forest's robustness in handling high-dimensional, noisy clinical data and its potential for developing effective clinical decision support tools. Our findings highlight the importance of careful feature engineering for accurate mortality prediction. We conclude by discussing implications for clinical adoption and propose future directions, including enhancing model robustness and tailoring prediction models for specific diseases.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2503.21241</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=028ff1a8-f56a-3e85-838e-07400e448d5e</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Lee, HyeYoung ; Tsoi, Pavel</contributors>
+  <coverDate>20250327</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

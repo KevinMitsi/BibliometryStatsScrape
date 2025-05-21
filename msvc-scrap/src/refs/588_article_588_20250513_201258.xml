@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>OPR</mid>
+  <language>eng</language>
+  <source>Operations Research</source>
+  <bookEdition></bookEdition>
+  <title>Mixed-Integer Optimization with Constraint Learning.</title>
+  <pageEnd>1028</pageEnd>
+  <pageStart>1011</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Scholarships ; Decision trees ; Grantmaking Foundations ; Ensemble learning ; Machine learning ; Multilayer perceptrons</subjects>
+  <abstract>In today's data-driven world, there is a growing opportunity for optimization models to more closely resemble real-world scenarios, namely through learning constraints or objective functions that are not explicitly known and must be estimated through data. In "Mixed-Integer Optimization with Constraint Learning," the authors establish a novel methodological framework for data-driven decision making. Their approach enables constraints and objectives to be embedded directly from trained machine learning models that are mixed-integer optimization representable including linear models, decision trees, ensembles, and neural networks. The authors propose two different strategies to manage uncertainty in learned constraints. The first is based on the concept of trust region where the convex hull of data points is used to avoid extrapolation. Additionally, they present an ensemble learning method for enforcing constraints across multiple estimators, improving the robustness of the downstream prediction accuracy. Practitioners can access this framework through the "OptiCL" Python package. Case studies on World Food Programme humanitarian aid planning and chemotherapy regimen optimization demonstrate the methodology's ability to produce scalable and data-informed prescriptions. We establish a broad methodological foundation for mixed-integer optimization with learned constraints. We propose an end-to-end pipeline for data-driven decision making in which constraints and objectives are directly learned from data using machine learning, and the trained models are embedded in an optimization formulation. We exploit the mixed-integer optimization representability of many machine learning methods, including linear models, decision trees, ensembles, and multilayer perceptrons, which allows us to capture various underlying relationships between decisions, contextual variables, and outcomes. We also introduce two approaches for handling the inherent uncertainty of learning from data. First, we characterize a decision trust region using the convex hull of the observations to ensure credible recommendations and avoid extrapolation. We efficiently incorporate this representation using column generation and propose a more flexible formulation to deal with low-density regions and high-dimensional data sets. Then, we propose an ensemble learning approach that enforces constraint satisfaction over multiple bootstrapped estimators or multiple algorithms. In combination with domain-driven components, the embedded models and trust region define a mixed-integer optimization problem for prescription generation. We implement this framework as a Python package (OptiCL) for practitioners. We demonstrate the method in both World Food Programme planning and chemotherapy optimization. The case studies illustrate the framework's ability to generate high-quality prescriptions and the value added by the trust region, the use of ensembles to control model robustness, the consideration of multiple machine learning methods, and the inclusion of multiple learned constraints. Funding: This work was supported by the Dutch Scientific Council [Grant OCENW.GROOT.2019.015] and the National Science Foundation [Grant 174530]. Additionally, H. Wiberg was supported by the National Science Foundation Graduate Research Fellowship [Grant 174530]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/opre.2021.0707.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183976560</an>
+  <docTypes>Article</docTypes>
+  <volume>73</volume>
+  <issns>1526-5463</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=cc3811bb-74d2-3e2a-935a-fcd1dbe4f26b</plink>
+  <doids></doids>
+  <publisher>INFORMS: Institute for Operations Research &amp;amp; the Management Sciences</publisher>
+  <contributors>Maragno, Donato ; Wiberg, Holly ; Bertsimas, Dimitris ; Birbil, Ş. İlker ; den Hertog, Dick ; Fajemisin, Adejuyigbe O.</contributors>
+  <coverDate>Mar/Apr2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1287/opre.2021.0707</doi>
+</record>

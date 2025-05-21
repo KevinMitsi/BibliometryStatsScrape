@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CRL</mid>
+  <language>eng</language>
+  <source>International Journal of Molecular Sciences</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning-Guided Screening and Molecular Docking for Proposing Naturally Derived Drug Candidates Against MERS-CoV 3CL Protease.</title>
+  <pageEnd></pageEnd>
+  <pageStart>3047</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>7</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; MOLECULAR dynamics ; MOLECULAR docking ; RANDOM forest algorithms ; BINDING energy</subjects>
+  <abstract>In this study, we utilized machine learning techniques to identify potential inhibitors of the MERS-CoV 3CL protease. Among the models evaluated, the Random Forest (RF) algorithm exhibited the highest predictive performance, achieving an accuracy of 0.97, an ROC-AUC score of 0.98, and an F1-score of 0.98. Following model validation, we applied it to a dataset of 14,194 naturally occurring compounds from PubChem. The top-ranked compounds were subsequently subjected to molecular docking, which identified Perenniporide B, Phellifuropyranone A, and Terrestrol G as the most promising candidates, with binding energies of −9.17, −9.08, and −8.71 kcal/mol, respectively. These compounds formed strong interactions with key catalytic residues, suggesting significant inhibitory potential against the viral protease. Furthermore, molecular dynamics simulations confirmed their stability within the active site, reinforcing their viability as antiviral agents. This study demonstrates the effectiveness of integrating machine learning with molecular modeling to accelerate the discovery of therapeutic candidates against emerging viral threats.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184438469</an>
+  <docTypes>Article</docTypes>
+  <volume>26</volume>
+  <issns>1661-6596</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=15744776-b904-360b-8b28-e6818a359d09</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Ouassaf, Mebarka ; Mazri, Radhia ; Khan, Shafi Ullah ; Rengasamy, Kannan R. R. ; Alhatlani, Bader Y.</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/ijms26073047</doi>
+</record>

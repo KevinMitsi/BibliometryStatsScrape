@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-4237-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 International Conference on Automation and Computation (AUTOCOM), Automation and Computation (AUTOCOM), 2025 International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Blockchain-Enhanced Factorization Machine-Deep Learning Based Lightning Search Algorithm for Secure Cloud Data Processing</title>
+  <pageEnd>1222</pageEnd>
+  <pageStart>1218</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250304</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineering Profession ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Deep learning ; Cloud computing ; Accuracy ; Frequency modulation ; Data security ; Lightning ; Artificial neural networks ; Prediction algorithms ; Data models ; Blockchains ; Blockchain technology ; Factorization Machine ; Deep Learning ; Lightning Search Algorithm ; Cloud Data Security</subjects>
+  <abstract>Cloud-based data storage and processing is expanding exponentially, security of data and optimising search techniques become even more important than ever. Search and recommendation systems have been improved using Factorisation Machine (FM) and Deep Learning (DL) models; blockchain technology presents a distributed and safe method of data storage. On the other hand, including these technologies to achieve fast and safe data processing in cloud systems still presents a great challenge. Data kept on the cloud is prone to leaks and attacks, hence search systems often suffer in processing enormous amounts of data. If one is to get search results that are lightning fast, safe, and accurate, then one absolutely must find a solution that is ideal and combines blockchain technology with innovative machine learning approaches. We propose a new method called the Lightning Search Algorithm (LSA) which combines recommendations based on the Factorisation Machine with Deep Learning models in order to achieve improved prediction accuracy. Blockchain technology for data security ensures distributed and safe services, thus this model gets even more improvement. Using FM's capacity to control sparse data and DL's capacity to learn intricate patterns, the approach searches fast and effectively. Blockchain technology concurrently provides distributed decentralised verification and smart contracts to ensure data security. Clearly, the experimental results show that the proposed LSA performs much better than more conventional search techniques. The system was able to increase prediction accuracy by 22% and search speed by 35% compared to baseline versions. When compared to methods free of blockchain technologies, forty percent less data security breaches were recorded.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10956748</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fc1ca8ed-26b7-3440-ad6e-57596fff8e29</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>K, Shruthi ; M, Kavitha ; G S, Maheswari</contributors>
+  <coverDate>20250304</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/AUTOCOM64127.2025.10956748</doi>
+</record>

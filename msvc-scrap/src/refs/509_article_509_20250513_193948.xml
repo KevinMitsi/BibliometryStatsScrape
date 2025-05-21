@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>PM&lt;sub>2.5&lt;/sub> concentration prediction using machine learning algorithms: an approach to virtual monitoring stations.</title>
+  <pageEnd>11</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250308</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; AIR quality monitoring ; COVID-19 pandemic ; PARTICULATE matter ; STAY-at-home orders</subjects>
+  <abstract>One of the most important pollutants is PM&lt;sub>2.5&lt;/sub>, which is particularly important to monitor pollutant levels to keep the pollutant concentration under control. In this research, an attempt has been made to predict the concentrations of PM&lt;sub>2.5&lt;/sub> using four Machine Learning (ML) models. The ML methods include Light Gradient Boosting Machine (LGBM), Extreme Gradient Boosting Regressor (XGBR), Random Forest (RF) and Gradient Boosting Regressor (GBR). The mean and maximum concentration of PM&lt;sub&gt;2.5&lt;/sub> were recorded 32.84 µg/m&lt;sup>3&lt;/sup> and 160.25 µg/m&lt;sup>2&lt;/sup>, respectively, indicating the occurrence of occasional episodes of high pollution levels from 2016 to 2022. The PM2.5 concentrations dropped below 30 µg/m&lt;sup>2&lt;/sup> in 2018 due to reduced human activities during COVID-19 lockdowns but PM&lt;sub>2.5&lt;/sub> levels were significantly increased because of the ongoing operation of heavy industries post-COVID-19 lockdowns during 2021. The ML models performed very well in predicting the concentrations of PM&lt;sub>2.5&lt;/sub> with around 95% of their predictions falling within the factor of the observed concentration. The results presented that among the four ML algorithms, GBR confirmed good model performance compared to the other models, with the lowest MSE (5.33) and RMSE (2.31), as well as high accuracy measures. This suggests that GBR is the best model for reducing large errors, making it more robust in capturing variations in PM2.5 levels. In conclusion, the study proposed a method to obtain high-accuracy PM&lt;sub>2.5&lt;/sub> prediction results using ML which are useful for air quality monitoring on a global scale and improving acute exposure assessment in epidemiological research.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183535707</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=90891524-25b8-3f22-b5cf-4108a212438a</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Makhdoomi, Ahmad ; Sarkhosh, Maryam ; Ziaei, Somayyeh</contributors>
+  <coverDate>3/8/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-92019-3</doi>
+</record>

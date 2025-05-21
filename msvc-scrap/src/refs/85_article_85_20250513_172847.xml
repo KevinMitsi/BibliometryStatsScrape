@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Federated machine learning for privacy preserving, collective supply chain risk prediction.</title>
+  <pageEnd>8132</pageEnd>
+  <pageStart>8115</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20231201</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>23</issue>
+  <identifiers></identifiers>
+  <subjects>Supply chains ; Artificial intelligence ; Federated learning ; Machine learning ; Privacy ; Popularity</subjects>
+  <abstract>The use of Artificial Intelligence (AI) for predicting supply chain risk has gained popularity. However, proposed approaches are based on the premise that organisations act alone, rather than a collective when predicting risk, despite the interconnected nature of supply chains. This yields a problem: organisations that have inadequate datasets cannot predict risk. While data-sharing has been proposed to evaluate risk, in practice this does not happen due to privacy concerns. We propose a federated learning approach for collective risk prediction without the risk of data exposure. We ask: Can organisations who have inadequate datasets tap into collective knowledge? This raises a second question: Under what circumstances would collective risk prediction be beneficial? We present an empirical case study where buyers predict order delays from their shared suppliers before and after Covid-19. Results show that federated learning can indeed help supply chain members predict risk effectively, especially for buyers with limited datasets. Training data-imbalance, disruptions, and algorithm choice are significant factors in the efficacy of this approach. Interestingly, data-sharing or collective risk prediction is not always the best choice for buyers with disproportionately larger order-books. We thus call for further research on on local and collective learning paradigms in supply chains.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>173436842</an>
+  <docTypes>Article</docTypes>
+  <volume>61</volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3eae2764-7629-3665-a02a-1e03b38ceaad</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Zheng, Ge ; Kong, Lingxuan ; Brintrup, Alexandra</contributors>
+  <coverDate>Dec2023</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2022.2164628</doi>
+</record>

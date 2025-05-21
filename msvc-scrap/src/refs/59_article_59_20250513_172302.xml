@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>LEVO</mid>
+  <language>eng</language>
+  <source>IISE Transactions</source>
+  <bookEdition></bookEdition>
+  <title>Exact algorithm and machine learning-based heuristic for the stochastic lot streaming and scheduling problem.</title>
+  <pageEnd>422</pageEnd>
+  <pageStart>408</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Flow shop scheduling ; Dynamic programming ; Setup time ; Machine learning ; Heuristic algorithms</subjects>
+  <abstract>This article presents a probabilistic variant of the classic Lot Streaming and Scheduling Problem (LSSP), in which the arrival times of products are stochastic. The LSSP involves a multi-product lot streaming problem and a sublot scheduling problem with a flow shop model and sequence-dependent setup times. Although the deterministic LSSP has been studied in the literature, the problem with stochastic arrival times of products has not been explored. In this article, we first derive some properties of the LSSP solution and propose closed-form expressions to compute the objective function of a given solution under three commonly used stochastic distributions. Based on these expressions, we develop a new exact Dynamic Programming (DP) algorithm and propose an efficient DP-based heuristic algorithm. Additionally, we build a machine learning model to predict whether a DP transition needs to be considered in the heuristic to improve its efficiency. Our computational study of test instances with various arrival time distributions shows that our algorithms can achieve promising results. Furthermore, we find that the machine learning model can simultaneously reduce the computational complexity and improve the algorithm's accuracy.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182296687</an>
+  <docTypes>Article</docTypes>
+  <volume>57</volume>
+  <issns>2472-5854</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=84c5c98c-f3cc-32f9-94ae-752125e8ae7f</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Liu, Ran ; Wang, Chengkai ; Ouyang, Huiyin ; Wu, Zerui</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/24725854.2023.2294816</doi>
+</record>

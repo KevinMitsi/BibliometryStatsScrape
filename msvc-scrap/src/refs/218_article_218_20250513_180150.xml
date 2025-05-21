@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>International Journal of Artificial Intelligence in Education</source>
+  <bookEdition></bookEdition>
+  <title>Automated Gaze-Based Identification of Students' Strategies in Histogram Tasks through an Interpretable Mathematical Model and a Machine Learning Algorithm</title>
+  <pageEnd>973</pageEnd>
+  <pageStart>931</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240901</publicationDate>
+  <pageCount>43</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Eye Movements ; Learning Strategies ; Problem Solving ; Automation ; Identification ; Task Analysis ; Graphs ; Mathematical Models ; Artificial Intelligence ; Algorithms ; Computer Uses in Education ; Classification ; Feedback (Response) ; Electronic Learning ; Homework ; MOOCs</subjects>
+  <abstract>As a first step toward automatic feedback based on students' strategies for solving histogram tasks we investigated how strategy recognition can be automated based on students' gazes. A previous study showed how students' task-specific strategies can be inferred from their gazes. The research question addressed in the present article is how data science tools (interpretable mathematical models and machine learning analyses) can be used to automatically identify students' task-specific strategies from students' gazes on single histograms. We report on a study of cognitive behavior that uses data science methods to analyze its data. The study consisted of three phases: (1) using a supervised machine learning algorithm (MLA) that provided a baseline for the next step, (2) designing an interpretable mathematical model (IMM), and (3) comparing the results. For the first phase, we used random forest as a classification method implemented in a software package (Wolfram Research Mathematica, 'Classify Function') that automates many aspects of the data handling, including creating features and initially choosing the MLA for this classification. The results of the random forests (1) provided a baseline to which we compared the results of our IMM (2). The previous study revealed that students' horizontal or vertical gaze patterns on the graph area were indicative of most students' strategies on single histograms. The IMM captures these in a model. The MLA (1) performed well but is a black box. The IMM (2) is transparent, performed well, and is theoretically meaningful. The comparison (3) showed that the MLA and IMM identified the same task-solving strategies. The results allow for the future design of teacher dashboards that report which students use what strategy, or for immediate, personalized feedback during online learning, homework, or massive open online courses (MOOCs) through measuring eye movements, for example, with a webcam.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1446581</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>34</volume>
+  <issns>1560-4292 ; 1560-4306</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=175cec82-bc5d-3c82-9b1c-367b7491389e</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Lonneke Boels ; Enrique Garcia Moreno-Esteva ; Arthur Bakker ; Paul Drijvers</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s40593-023-00368-9</doi>
+</record>

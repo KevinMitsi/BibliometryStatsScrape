@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Biological Psychiatry Global Open Science</source>
+  <bookEdition></bookEdition>
+  <title>Oscillating Mindfully: Using Machine Learning to Characterize Systems-Level Electrophysiological Activity During Focused Attention Meditation.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Complex systems ; EEG ; Machine learning ; Meditation ; Mindfulness</subjects>
+  <abstract>BACKGROUND: There has been rapid growth of neuroelectrophysiological studies that aspire to uncover the black box of mindfulness and meditation. Reliance on traditional data analysis methods hinders understanding of the complex, nonlinear, multidimensional, and systemic nature of the functional neuroelectrophysiology of meditation states. METHODS: Thus, to reveal the complex systemic neuroelectrophysiology of meditation, we applied a machine learning extreme gradient boosting classification algorithm and 4 complementary feature importance methods to extract systemic electroencephalography features characterizing mindful states from electroencephalography recorded during a focused attention meditation and a control mind-wandering state among 26 experienced meditators. RESULTS: The algorithm classified meditation versus mind-wandering states with 83% accuracy, with an area under the receiver operating characteristic curve of 79% and F1 score of 74%. Feature importance techniques identified 10 electroencephalography features associated with increased power and coherence of high-frequency oscillations during focused attention meditation relative to an instructed mind-wandering state. CONCLUSIONS: The findings help delineate the complex systemic oscillatory activity that characterizes meditation.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt0zz3q1bx</an>
+  <docTypes>article</docTypes>
+  <volume>5</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b6fa44b7-92d5-3ca4-b5ec-c61e64a800ed</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Aviad, Noga ; Moskovich, Oz ; Orenstein, Ophir ; Benger, Etam ; Delorme, Arnaud ; Bernstein, Amit</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

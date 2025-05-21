@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Physics-informed features in supervised machine learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250423</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Statistics - Machine Learning ; Computer Science - Machine Learning ; Mathematics - Numerical Analysis ; 68Q32, 62J07, 65J20</subjects>
+  <abstract>Supervised machine learning involves approximating an unknown functional relationship from a limited dataset of features and corresponding labels. The classical approach to feature-based machine learning typically relies on applying linear regression to standardized features, without considering their physical meaning. This may limit model explainability, particularly in scientific applications. This study proposes a physics-informed approach to feature-based machine learning that constructs non-linear feature maps informed by physical laws and dimensional analysis. These maps enhance model interpretability and, when physical laws are unknown, allow for the identification of relevant mechanisms through feature ranking. The method aims to improve both predictive performance in regression tasks and classification skill scores by integrating domain knowledge into the learning process, while also enabling the potential discovery of new physical equations within the context of explainable machine learning.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.17112</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=ff7603c3-9d10-346b-bce2-5ddac0ca476a</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Lampani, Margherita ; Guastavino, Sabrina ; Piana, Michele ; Benvenuto, Federico</contributors>
+  <coverDate>20250423</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

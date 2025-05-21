@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsjsr</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Oceanography</source>
+  <bookEdition></bookEdition>
+  <title>THE PROMISE AND PITFALLS OF MACHINE LEARNING IN OCEAN REMOTE SENSING</title>
+  <pageEnd>63</pageEnd>
+  <pageStart>52</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240901</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>The proliferation of easily accessible machine learning algorithms and their apparent successes at inference and classification in computer vision and the sciences has motivated their increased adoption in ocean remote sensing. Our field, however, runs the risk of developing these models on limited training datasets—with sparse geographical and temporal sampling or ignoring the real data dimensionality—thereby constructing over-fitted or non-generalized algorithms. These models may perform poorly in new regimes or on new, anomalous phenomena that emerge in a changing climate. We highlight these issues and strategies for mitigating them, share a few heuristics to help users develop intuition for machine learning methods, and provide a vision for areas we believe are underexplored at the intersection of machine learning and ocean remote sensing. The ocean is a complex physical-biogeochemical system that we cannot mechanistically model well despite our best efforts. Machine learning has the potential to play an important role in improved process understanding, but we must always ask what we are learning after the model has learned.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsjsr.27333923</an>
+  <docTypes>research-article</docTypes>
+  <volume>37</volume>
+  <issns>10428275 ; 2377617X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6a57d564-128a-3755-bd2d-c8f0de698b24</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Gray, Patrick Clifton ; Boss, Emmanuel ; Prochaska, J. Xavier ; Kerner, Hannah ; Demeaux, Charlotte Begouen ; Lehahn, Yoav</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>JSTOR Journals</longDBName>
+  <doi></doi>
+</record>

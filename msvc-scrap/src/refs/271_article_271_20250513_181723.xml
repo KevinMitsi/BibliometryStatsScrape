@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781788295758 ; 9781788291224</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Statistics for Machine Learning : Techniques for Exploring Supervised, Unsupervised, and Reinforcement Learning Models with Python and R</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20170101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Mathematical &amp;amp; Statistical Software ; COMPUTERS / Data Science / General ; COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; R (Computer program language) ; Big data--Statistical methods ; Machine learning ; Python (Computer program language)</subjects>
+  <abstract>Build Machine Learning models with a sound statistical understanding.Key FeaturesLearn about the statistics behind powerful predictive models with p-value, ANOVA, and F- statistics.Implement statistical computations programmatically for supervised and unsupervised learning through K-means clustering.Master the statistical aspect of Machine Learning with the help of this example-rich guide to R and Python.Book DescriptionComplex statistics in machine learning worry a lot of developers. Knowing statistics helps you build strong machine learning models that are optimized for a given problem statement. This book will teach you all it takes to perform the complex statistical computations that are required for machine learning. You will gain information on the statistics behind supervised learning, unsupervised learning, reinforcement learning, and more. You will see real-world examples that discuss the statistical side of machine learning and familiarize yourself with it. You will come across programs for performing tasks such as modeling, parameter fitting, regression, classification, density collection, working with vectors, matrices, and more. By the end of the book, you will have mastered the statistics required for machine learning and will be able to apply your new skills to any sort of industry problem.What you will learnUnderstand the statistical and machine learning fundamentals necessary tobuild modelsUnderstand the major differences and parallels between the statistical way and the machine learning way to solve problemsLearn how to prepare data and feed models by using the appropriate machine learning algorithms from the more-than-adequate R and Python packagesAnalyze the results and tune the model appropriately to your own predictive goalsUnderstand the concepts of the statistics required for machine learningIntroduce yourself to necessary fundamentals required for building supervised and unsupervised deep learning modelsLearn reinforcement learning and its application in the field of artificial intelligence domainWho this book is forThis book is intended for developers with little to no background in statistics, who want to implement Machine Learning in their systems. Some programming knowledge in R or Python will be useful.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1560931</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=678b567a-7f8a-379a-ad6c-70898656cfd2</plink>
+  <doids>NL$1560931$PDF ; NL$1560931$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Pratap Dangeti</contributors>
+  <coverDate>2017</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

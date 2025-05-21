@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>24QQ</mid>
+  <language>eng</language>
+  <source>Atmospheric Science Letters (John Wiley &amp;amp; Sons, Inc. )</source>
+  <bookEdition></bookEdition>
+  <title>Improving vertical detail in simulated temperature and humidity data using machine learning.</title>
+  <pageEnd>12</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Temperature ; Humidity ; Weather balloons ; Climate change forecasts ; Machine learning ; Cloud dynamics ; Atmospheric models</subjects>
+  <abstract>Atmospheric models used for weather forecasting and climate predictions discretise the atmosphere onto a vertical grid. There are however atmospheric phenomena that occur on scales smaller than the thickness of those model layers. The formation of low‐level clouds due to temperature inversions is an example. This leads to atmospheric models underestimating, or even missing, these clouds and their radiative effects. Using radiosonde observations as training data, a machine learning model is used to improve the vertical detail of modelled profiles of temperature and specific humidity. In addition, a physics‐informed machine learning model is developed and compared to the traditional approach; showing improvements in the cloud fraction profiles calculated from its predictions. The vertically enhanced profiles also improve the representation of layers of convective inhibition and anomalous refractivity gradients. This work facilitates targeted improvements to the representation of certain atmospheric processes without the burden of increased memory and computational cost from increasing vertical resolution throughout the whole model.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183912351</an>
+  <docTypes>Article</docTypes>
+  <volume>26</volume>
+  <issns>1530-261X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a2b2c0ba-dd4a-38f8-b265-5bc5b43b7e62</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>da Silva Rodrigues, Joana D. ; Morcrette, Cyril J.</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/asl.1288</doi>
+</record>

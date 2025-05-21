@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BAUW</mid>
+  <language>eng</language>
+  <source>Procedia Computer Science</source>
+  <bookEdition></bookEdition>
+  <title>Data-Driven Prediction of Vehicle-Vulnerable Road User Collisions at Road Intersections Using Machine Learning Models.</title>
+  <pageEnd>784</pageEnd>
+  <pageStart>777</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Intelligent transportation systems ; Road users ; Random forest algorithms ; City traffic ; Traffic safety</subjects>
+  <abstract>This paper presents a hybrid machine learning framework to enhance traffic safety in urban road intersections. The framework employs a two-stage approach: Decision Trees predict vehicle trajectories by identifying turning behaviors, while Random Forests estimate collision probabilities involving vehicles and vulnerable road users (VRUs) such as pedestrians and cyclists. Engineered spatial, temporal, and motion-related features are derived from high-resolution trajectory data collected via connected camera systems in busy urban cores. The experimental results demonstrate high predictive accuracy, achieving an F1-Score of 0.97 for turning vehicle classification and a ROC-AUC of 0.98 for collision risk estimation. Compared to computationally intensive deep learning models, the proposed framework balances robust performance with computational efficiency, making it suitable for realtime deployment in complex urban environments. The framework integrates with in-vehicle Human-Machine Interfaces (HMIs) to enhance driver awareness and enable proactive safety interventions. This study addresses the need for interpretable and scalable road safety solutions in connected traffic systems.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184753965</an>
+  <docTypes>Article</docTypes>
+  <volume>257</volume>
+  <issns>1877-0509</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4e9ef18e-ff5e-3a8c-8c0f-0c474ed40739</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Atif, Yacine ; Tarakanov, Yuri ; Lebram, Mikael ; Steinhauer, H. Joe ; Karlsson, Alexander ; Hemeren, Paul</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.1016/j.procs.2025.03.100</doi>
+</record>

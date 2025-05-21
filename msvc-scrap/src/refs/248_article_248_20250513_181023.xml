@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Education and Information Technologies</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Investigation of Optimal Psychoemotional Well-Being Factors for Students' Reading Literacy</title>
+  <pageEnd>18285</pageEnd>
+  <pageStart>18257</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241001</publicationDate>
+  <pageCount>29</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>14</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Electronic Learning ; Well Being ; Psychological Patterns ; Reading Skills ; Literacy ; Foreign Countries ; Socioeconomic Status ; Educational Objectives ; Academic Ability ; Scores ; China</subjects>
+  <abstract>Psychoemotional well-being factors have been recognized to have a significant impact on students' reading literacy. However, identifying which key psychoemotional well-being factors most significantly influence students' reading performance is still not fully explored. This research examines the psychoemotional well-being factors that distinguish the reading literacy of high-level students from low-level ones using machine learning methods in four regions of China, including Beijing, Shanghai, Jiangsu, and Zhejiang. In total, 3497 samples were drawn from the public database of the PISA 2018, including 2935 high-level students (with proficiency level at or above Level 5) and 562 low-achieving students (at Level 2 or below). By applying Recursive Feature Elimination with Cross-Validation feature selection and Support Vector Machine classifiers approach, this study successfully identifies 15 key factors (e.g., students' socioeconomic status and learning goals) from the total 25 psychoemotional well-being factors that synergistically distinguish high-level students from low-level students with a high accuracy score (0.905). Further, using the Shapley Additive exPlanations method, the feature importance of the features set is shown, and 10 factors relevant to the psychoemotional well-being show the feature importance of reading literacy of high-level students. This study provides important insights into the factors of psychoemotional well-being that influence students' reading literacy development.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1445841</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>29</volume>
+  <issns>1360-2357 ; 1573-7608</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9b6e1b68-3660-3782-a96d-5b5281bb3cbd</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Xuetan Zhai ; Wei Yuan ; Tianyu Liu ; Qiang Wang</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10639-024-12580-8</doi>
+</record>

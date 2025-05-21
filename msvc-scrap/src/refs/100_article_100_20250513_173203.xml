@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Aging cell</source>
+  <bookEdition></bookEdition>
+  <title>Proteome profiling of cerebrospinal fluid using machine learning shows a unique protein signature associated with APOE4 genotype.</title>
+  <pageEnd></pageEnd>
+  <pageStart>e14439</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Apolipoprotein E4 genetics ; Apolipoprotein E4 cerebrospinal fluid ; Machine Learning ; Proteome metabolism ; Alzheimer Disease cerebrospinal fluid ; Alzheimer Disease genetics ; Proteomics methods ; Humans ; Male ; Female ; Aged ; Genotype ; Cognitive Dysfunction cerebrospinal fluid ; Cognitive Dysfunction genetics ; Biomarkers cerebrospinal fluid ; Aged, 80 and over</subjects>
+  <abstract>Proteome changes associated with APOE4 variant carriage that are independent of Alzheimer's disease (AD) pathology and diagnosis are unknown. This study investigated APOE4 proteome changes in people with AD, mild cognitive impairment, and no impairment. Clinical, APOE genotype, and cerebrospinal fluid (CSF) proteome and AD biomarker data was sourced from the Alzheimer's Disease Neuroimaging Initiative (ADNI) database. Proteome profiling was done using supervised machine learning. We found an APOE4-specific proteome signature that was independent of cognitive diagnosis and AD pathological biomarkers, and increased the risk of progression to cognitive impairment. Proteins were enriched in brain regions including the caudate and cortex and cells including endothelial cells, oligodendrocytes, and astrocytes. Enriched peripheral immune cells included T cells, macrophages, and B cells. APOE4 carriers have a unique CSF proteome signature associated with a strong brain and peripheral immune and inflammatory phenotype that likely underlies APOE4 carriers' vulnerability to cognitive decline and AD as they age.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>39722190</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>24</volume>
+  <issns>1474-9726 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=19c0c5c1-f5c7-3041-9d74-244d209007e6</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Shvetcov, Artur ; Thomson, Shannon ; Cho, Ann-Na ; Wilkins, Heather M ; Reed, Joanne H ; Swerdlow, Russell H ; Brown, David A ; Finney, Caitlin A ; Alzheimer's Disease Neuroimaging Initiative</contributors>
+  <coverDate>2025 Apr</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1111/acel.14439</doi>
+</record>

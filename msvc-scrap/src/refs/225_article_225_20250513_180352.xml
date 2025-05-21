@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>EGNC</mid>
+  <language>eng</language>
+  <source>Audiology Research</source>
+  <bookEdition></bookEdition>
+  <title>Using Machine Learning for Analysis of Wideband Acoustic Immittance and Assessment of Middle Ear Function in Infants.</title>
+  <pageEnd></pageEnd>
+  <pageStart>35</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>CONVOLUTIONAL neural networks ; MACHINE learning ; MIDDLE ear ; PROBABILITY density function ; RANDOM forest algorithms ; SIGNAL convolution</subjects>
+  <abstract>Objectives: Evaluating middle ear function is essential for interpreting screening results and prioritizing diagnostic referrals for infants with hearing impairments. Wideband Acoustic Immittance (WAI) technology offers a comprehensive approach by utilizing sound stimuli across various frequencies, providing a deeper understanding of ear physiology. However, current clinical practices often restrict WAI data analysis to peak information at specific frequencies, limiting its comprehensiveness. Design: In this study, we developed five machine learning models—feedforward neural network, convolutional neural network, kernel density estimation, random forest, and support vector machine—to extract features from wideband acoustic immittance data collected from newborns aged 2–6 months. These models were trained to predict and assess the normalcy of middle ear function in the samples. Results: The integrated machine learning models achieved an average accuracy exceeding 90% in the test set, with various classification performance metrics (accuracy, precision, recall, F1 score, MCC) surpassing 0.8. Furthermore, we developed a program based on ML models with an interactive GUI interface. The software is available for free download. Conclusions: This study showcases the capability to automatically diagnose middle ear function in infants based on WAI data. While not intended for diagnosing specific pathologies, the approach provides valuable insights to guide follow-up testing and clinical decision-making, supporting the early identification and management of auditory conditions in newborns.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184748604</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2039-4349</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5155d96d-805b-3e34-bc71-e48213c77ec8</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Peng, Shan ; Zhao, Yukun ; Yao, Xinyi ; Yin, Huilin ; Ma, Bei ; Liu, Ke ; Li, Gang ; Cao, Yang</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/audiolres15020035</doi>
+</record>

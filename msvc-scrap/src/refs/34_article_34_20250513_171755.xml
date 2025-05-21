@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Classification of materials in cylindrical workpieces using image processing and machine learning techniques.</title>
+  <pageEnd>2583</pageEnd>
+  <pageStart>2566</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240401</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>7</issue>
+  <identifiers></identifiers>
+  <subjects>Computers ; Machining ; Computer and peripheral equipment manufacturing ; Electronic Computer Manufacturing ; Computer, computer peripheral and pre-packaged software merchant wholesalers ; Computer and Computer Peripheral Equipment and Software Merchant Wholesalers ; Electronics Stores ; Computer and software stores ; Photofinishing Laboratories (except One-Hour) ; One-Hour Photofinishing ; Convolutional neural networks ; Machine learning ; Image processing</subjects>
+  <abstract>Smart machine tools must be able to recognise the materials they interact with, in order to independently decide on what actions to be taken whenever needed. The purpose of this research is to offer a generic method to automate material identification and classification task utilising image processing and machine learning techniques so as to improve the cognitive capabilities of machine tools. A dataset of four material surfaces; Copper, Aluminium, Stainless Steel, and Bronze is generated and the RGB data are extracted. These colour channels are utilised as input features to train the machine learning algorithms. Convolutional Neural Network (CNN) and other classification methods like Support Vector Machine (SVM), Decision Trees, and k-Nearest Neighbour are also used to classify material images based on the generated dataset. A unique generalised technique, based on CNN, has been proposed to accurately recognise and categorise round surfaced materials during machining. The accuracy achieved by the classifier has reached 100% during training and testing. Test images are used to confirm the proposed methodology's capability to distinguish between materials based on various illumination environments and camera positions.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>175794982</an>
+  <docTypes>Article</docTypes>
+  <volume>62</volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=ba89de38-488e-386e-b315-f5366c2af970</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Maiti, Chayan ; Muthuswamy, Sreekumar</contributors>
+  <coverDate>Apr2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2023.2219344</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Rock Mechanics and Rock Engineering</source>
+  <bookEdition></bookEdition>
+  <title>Application of the Stacking-Ensemble Machine Learning Algorithm to Investigate the Rock Mass Cuttability Index in Different Lithological Units Using Tunnel Boring Machine Performance Data</title>
+  <pageEnd>31</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250319</publicationDate>
+  <pageCount>31</pageCount>
+  <publisherLocations>Vienna</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Rock engineering parameters ; Rock mass cuttability index ; Tunnel boring machine ; Computing machinery techniques ; Machine learning ; Reverse analysis</subjects>
+  <abstract>Understanding the precise values of rock engineering factors in challenging geological conditions is essential for accurately estimating the performance of tunnel-boring machines (TBM). In the field of mechanized tunneling, where direct access to the excavation face is limited, geomechanical properties of the rock mass can only be obtained by the analysis of excavated rocks and limited observations in the phase of cutterhead and disk cutters maintenance and repair. To address this challenge, this study aims to predict and categorize the rock mass cuttability index (RMCI) by utilizing indicators linked to machine performance, operational parameters, and machine specifications across different rock code types. By introducing and coding several computational artificial intelligence (AI)-based algorithms, including a new hybrid-stacking supervised learning model that includes machine learning, genetic algorithms, deep learning algorithms, and optimization techniques, this research focuses on training models using boring machine specifications and geomechanical parameters extracted from various tunnels excavated in several engineering geological zones in soft-to-hard rock conditions with double-shield TBMs. The proposed models demonstrate reliable accuracy and efficacy by classifying collected data from pre-construction and construction phases into different zones (107 sections) and defining appropriate distribution intervals for key tunneling parameters within each zone (80% for training and 20% for testing). New empirical models were introduced for assessing the rock geomechanical factors based on machine performance and specifications. The findings of the proposed techniques, especially stacking-ensemble, show an acceptable and reliable accuracy (&lt;i>R&lt;/i>&lt;sup>&lt;i>2&lt;/i>&lt;/sup> = 0.99) and can be used for future tunneling projects in the same lithological units and geo-engineering conditions.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.C9467C62</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>07232632 ; 1434453X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d65cbae0-0256-3820-8c03-0800e57691f7</plink>
+  <doids></doids>
+  <publisher>Springer Vienna</publisher>
+  <contributors>Samadi, Hanan ; Hassanpour, Jafar</contributors>
+  <coverDate>20250319</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s00603-025-04501-z</doi>
+</record>

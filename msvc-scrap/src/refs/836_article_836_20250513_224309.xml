@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Journal of Rock Mechanics and Geotechnical Engineering</source>
+  <bookEdition></bookEdition>
+  <title>Real-time monitoring of disc cutter wear in tunnel boring machines: A sound and vibration sensor-based approach with machine learning technique</title>
+  <pageEnd>1722</pageEnd>
+  <pageStart>1700</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>TBM disc cutter ; Wear ; Sound ; Vibration ; Machine learning ; Real-time wear estimation</subjects>
+  <abstract>Large portions of the tunnel boring machine (TBM) construction cost are attributed to disc cutter consumption, and assessing the disc cutter's wear level can help determine the optimal time to replace the disc cutter. Therefore, the need to monitor disc cutter wear in real-time has emerged as a technical challenge for TBMs. In this study, real-time disc cutter wear monitoring is developed based on sound and vibration sensors. For this purpose, the microphone and accelerometer were used to record the sound and vibration signals of cutting three different types of rocks with varying abrasions on a laboratory scale. The relationship between disc cutter wear and the sound and vibration signal was determined by comparing the measurements of disc cutter wear with the signal plots for each sample. The features extracted from the signals showed that the sound and vibration signals are impacted by the progression of disc wear during the rock-cutting process. The signal features obtained from the rock-cutting operation were utilized to verify the machine learning techniques. The results showed that the multilayer perceptron (MLP), random subspace-based decision tree (RS-DT), DT, and random forest (RF) methods could predict the wear level of the disc cutter with an accuracy of 0.89, 0.951, 0.951, and 0.927, respectively. Based on the accuracy of the models and the confusion matrix, it was found that the RS-DT model has the best estimate for predicting the level of disc wear. This research has developed a method that can potentially determine when to replace a tool and assess disc wear in real-time.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S1674775524003627</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>1674-7755</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bbc1c849-ba05-3dd9-b10d-94cb13bf91f5</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Akhlaghi, Mohammad Amir ; Bagherpour, Raheb ; Hoseinie, Seyed Hadi</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.jrmge.2024.04.030</doi>
+</record>

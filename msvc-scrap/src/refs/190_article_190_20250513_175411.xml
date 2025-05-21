@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781788295864 ; 9781788291552</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition>Third edition</bookEdition>
+  <title>Machine Learning with R : Expert Techniques for Predictive Modeling</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20190101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / Data Analytics ; COMPUTERS / Programming / Algorithms ; Statistics--Data processing ; R (Computer program language) ; Machine learning</subjects>
+  <abstract>Solve real-world data problems with R and machine learningKey FeaturesThird edition of the bestselling, widely acclaimed R machine learning book, updated and improved for R 3.6 and beyondHarness the power of R to build flexible, effective, and transparent machine learning modelsLearn quickly with a clear, hands-on guide by experienced machine learning teacher and practitioner, Brett LantzBook DescriptionMachine learning, at its core, is concerned with transforming data into actionable knowledge. R offers a powerful set of machine learning methods to quickly and easily gain insight from your data. Machine Learning with R, Third Edition provides a hands-on, readable guide to applying machine learning to real-world problems. Whether you are an experienced R user or new to the language, Brett Lantz teaches you everything you need to uncover key insights, make new predictions, and visualize your findings. This new 3rd edition updates the classic R data science book to R 3.6 with newer and better libraries, advice on ethical and bias issues in machine learning, and an introduction to deep learning. Find powerful new insights in your data; discover machine learning with R.What you will learnDiscover the origins of machine learning and how exactly a computer learns by examplePrepare your data for machine learning work with the R programming languageClassify important outcomes using nearest neighbor and Bayesian methodsPredict future events using decision trees, rules, and support vector machinesForecast numeric data and estimate financial values using regression methodsModel complex processes with artificial neural networks — the basis of deep learningAvoid bias in machine learning modelsEvaluate your models and improve their performanceConnect R to SQL databases and emerging big data technologies such as Spark, H2O, and TensorFlowWho this book is forData scientists, students, and other practitioners who want a clear, accessible guide to machine learning with R.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2106304</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c05ca779-1ba1-3614-91ef-53433eb6eb96</plink>
+  <doids>NL$2106304$PDF ; NL$2106304$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Brett Lantz</contributors>
+  <coverDate>2019</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

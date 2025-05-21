@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3503-6836-9</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE Wireless Communications and Networking Conference (WCNC), Wireless Communications and Networking Conference (WCNC), 2025 IEEE</source>
+  <bookEdition></bookEdition>
+  <title>Detection and Mitigation of Jamming Attacks in LoRaWan Using Machine Learning</title>
+  <pageEnd>6</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250324</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Threat modeling ; Adaptation models ; Prevention and mitigation ; LoRaWAN ; Machine learning ; Robustness ; Internet of Things ; Jamming ; Low-power wide area networks ; Resilience ; IoT ; Network Security ; Jammer ; Machine Learning</subjects>
+  <abstract>The security and efficiency of low-power wide area networks (LPWANs) for connecting an ever-growing number of IoT devices, expected to exceed 40 billion by 2030, are becoming increasingly important. LoRaWAN, a leading LPWAN technology, enables long-range, low-power communications but remains susceptible to jamming attacks that degrade network performance at the physical layer. This paper introduces a robust framework for detecting and mitigating jamming in LoRaWAN networks using comprehensive threat modeling and machine learning-based countermeasures. The framework simulates two types of jamming attacks: a channel-oblivious jammer, which transmits continuously to randomly interfere with channels, and a channel-aware jammer, which selectively disrupts active transmissions. We evaluate LoRaWAN's resilience through extended simulations in the ns-3 module, adapted for jamming scenarios. Additionally, we provide a high-precision LSTM-based detection model to identify jamming patterns and a mitigation strategy to counteract the channel-oblivious jammer, including an automatic restoration process for returning devices to normal operation post-disruption. The proposed framework enhances network robustness against jamming, showing that ML-based detection significantly reduces disruptions.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10978351</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>15582612</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=cd03e47b-d598-3aa1-a580-0c2d3fc913dc</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Di Pinto, Stefano ; Locatelli, Pierluigi ; Spadaccino, Pietro ; Cuomo, Francesca</contributors>
+  <coverDate>20250324</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/WCNC61545.2025.10978351</doi>
+</record>

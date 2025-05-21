@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Novelty detection framework for monitoring connected vehicle systems with imperfect data.</title>
+  <pageEnd>14</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250328</publicationDate>
+  <pageCount>14</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Commercial vehicles ; New product development ; Automobile and Other Motor Vehicle Merchant Wholesalers ; Motor Vehicle Supplies and New Parts Merchant Wholesalers ; Recreational and other motor vehicles merchant wholesalers ; Marketing Consulting Services ; Ensemble learning ; Machine learning ; Motor vehicles</subjects>
+  <abstract>Shrinking product development cycles and increasing vehicle complexities necessitate a new generation of monitoring and diagnostic algorithms that can demonstrate increased autonomy and adaptivity. Conventional approaches, which make strict assumptions about data fidelity and failure ground-truth availability, face challenges in modern connected vehicle applications. This paper proposes a novelty detection-based autonomous monitoring framework that flags anomalies under sparse and noisy data with limited or no access to ground-truth information. The framework proposes an optional mechanism for extracting age-degrading features and offers a robust approach for fusing the output of heterogeneous novelty detectors to determine the health state of target components. We validate the proposed framework using connected vehicle data for 12-volt battery systems employed by a large fleet of commercial vehicles of a global automotive manufacturer. To demonstrate versatility, we also tested the framework on bench-testing data from LFP/graphite battery cells. Results demonstrate the effectiveness of the proposed framework.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184061816</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f3f890a5-6165-36dd-9f1d-4239c6e65664</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Badfar, M. ; Yildirim, M. ; Chinnam, R.B.</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2025.2484320</doi>
+</record>

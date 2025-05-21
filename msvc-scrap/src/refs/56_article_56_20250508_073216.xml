@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>8WGK</mid>
+  <language>eng</language>
+  <source>BioScience Trends</source>
+  <bookEdition></bookEdition>
+  <title>Applications of and issues with machine learning in medicine: Bridging the gap with explainable AI.</title>
+  <pageEnd>504</pageEnd>
+  <pageStart>497</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; CONVOLUTIONAL neural networks ; TRANSFORMER models ; MEDICAL personnel ; DEEP learning</subjects>
+  <abstract>In recent years, machine learning, and particularly deep learning, has shown remarkable potential in various fields, including medicine. Advanced techniques like convolutional neural networks and transformers have enabled high-performance predictions for complex problems, making machine learning a valuable tool in medical decision-making. From predicting postoperative complications to assessing disease risk, machine learning has been actively used to analyze patient data and assist healthcare professionals. However, the "black box" problem, wherein the internal workings of machine learning models are opaque and difficult to interpret, poses a significant challenge in medical applications. The lack of transparency may hinder trust and acceptance by clinicians and patients, making the development of explainable AI (XAI) techniques essential. XAI aims to provide both global and local explanations for machine learning models, offering insights into how predictions are made and which factors influence these outcomes. In this article, we explore various applications of machine learning in medicine, describe commonly used algorithms, and discuss explainable AI as a promising solution to enhance the interpretability of these models. By integrating explainability into machine learning, we aim to ensure its ethical and practical application in healthcare, ultimately improving patient outcomes and supporting personalized treatment strategies.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182133905</an>
+  <docTypes>Article</docTypes>
+  <volume>18</volume>
+  <issns>1881-7815</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=40f1d727-2fa4-3e88-833c-30dfd16e17b4</plink>
+  <doids></doids>
+  <publisher>International Advancement Center for Medicine &amp;amp; Health Research Co., Ltd</publisher>
+  <contributors>Kenji Karako ; Wei Tang</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.5582/bst.2024.01342</doi>
+</record>

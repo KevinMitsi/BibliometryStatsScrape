@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Education and Information Technologies</source>
+  <bookEdition></bookEdition>
+  <title>Using Interpretable Machine Learning Approaches to Predict and Provide Explanations for Student Completion of Remedial Mathematics</title>
+  <pageEnd>22312</pageEnd>
+  <pageStart>22287</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241101</publicationDate>
+  <pageCount>26</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>16</issue>
+  <identifiers></identifiers>
+  <subjects>Higher Education ; Remedial Mathematics ; Artificial Intelligence ; Predictor Variables ; Comparative Analysis ; Grade Point Average ; Educational Background ; Teacher Effectiveness</subjects>
+  <abstract>The successful completion of remedial mathematics is widely recognized as a crucial factor for college success. However, there is considerable concern and ongoing debate surrounding the low completion rates observed in remedial mathematics courses across various parts of the world. This study applies explainable artificial intelligence (XAI) tools to interpret predictions on whether students will complete mathematics remediation. Various machine learning models are compared, with random forest emerging as superior in predicting non-completion. Global interpretations using correlation analysis, logistic regression, feature importance, permutation importance, and SHapley Additive exPlanations (SHAP) summary plots identify significant predictors such as college grade point average (G.P.A), high school G.P.A, starting point in the remedial sequence, number of failed remedial courses, delay in remediation, Rate My Professor scores, and age. Additionally, local interpretations using Local Interpretable Model-Agnostic Explanations (LIME) and Diverse Counterfactual Explanations (DiCE) analyses were utilized to garner tailored advise for at-risk students. It was observed that instructor attributes cannot be overlooked, especially, when exploring local interpretations. Future research should consider other features such as a students' socio-economic status (SES), employment status, and placement exam scores. Future studies could also involve data from multiple institutions and examine user experience in implementing these models.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1450655</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>29</volume>
+  <issns>1360-2357 ; 1573-7608</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=70f9bf43-0f00-37d1-90cb-0519ff00f388</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Thomas Mgonja</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10639-024-12647-6</doi>
+</record>

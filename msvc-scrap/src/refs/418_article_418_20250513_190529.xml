@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KNO</mid>
+  <language>eng</language>
+  <source>Environmetrics</source>
+  <bookEdition></bookEdition>
+  <title>Discussion on "Assessing Predictability of Environmental Time Series With Statistical and Machine Learning Models" by Bonas et al.</title>
+  <pageEnd>8</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Ecosystems ; Machine learning ; Statistical models ; Extrapolation ; Ecosystem dynamics ; Probability theory</subjects>
+  <abstract>Motivated by empirical case studies and discussions of Bonas et al. (2024), this discussion paper critically examines challenges in the predictability of environmental processes, focusing on three key spheres: (a) predictability and interpretability, (b) predictability in dynamic environments, and (c) predictability into unknown spaces. These spheres highlight the responsibilities within environmetrics to ensure that predictive models, particularly advanced machine learning and deep learning methods, are applied thoughtfully. First, we discuss the trade‐off between interpretability and predictive complexity, contrasting the transparency of traditional statistical models with the "black‐box" nature of machine learning but also highlighting their enormous potential for exploiting new data sources and types. Second, we address real‐time adaptability, where models must handle concept drift and should, therefore, be continuously monitored. Finally, we consider the challenges of extrapolating predictions into unknown/nontrained areas, underscoring the risks of model overreach. This paper aims to contribute to the discussion in the field, emphasizing the critical role environmetricians play in advancing responsible, interpretable, and scientifically sound predictive practices.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183756773</an>
+  <docTypes>Article</docTypes>
+  <volume>36</volume>
+  <issns>1180-4009</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fc1ff484-cf04-3b45-83aa-58dcb9669fec</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Otto, Philipp</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/env.2898</doi>
+</record>

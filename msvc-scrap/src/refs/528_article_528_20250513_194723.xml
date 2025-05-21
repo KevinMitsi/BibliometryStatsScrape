@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BS8</mid>
+  <language>eng</language>
+  <source>Environmental Modeling &amp;amp; Assessment</source>
+  <bookEdition></bookEdition>
+  <title>Optimization of Cascade Aeration Characteristics and Predicting Aeration Efficiency with Machine Learning Model in Multistage Filtration.</title>
+  <pageEnd>1093</pageEnd>
+  <pageStart>1079</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Dissolved oxygen in water ; Water purification ; Water filtration ; Machine learning ; Random forest algorithms ; Decision trees</subjects>
+  <abstract>The study assesses the optimal aeration efficiency of a stepwise cascade aeration system through experimental trials in a lab scale model setup, aimed at determining the geometric and flow characteristics of the cascade system. Subsequently, the collected datasets are employed to evaluate the efficacy of four advanced machine learning algorithms, namely K-nearest neighbour (KNN), gradient boosting regressor (GBR), decision tree regressor (DTR), and random forest regressor (RFR), in predicting the aeration efficiency at 20 °C (E&lt;sub>20&lt;/sub>) of the cascade aeration system. The predictive machine learning tools are compared based on different performance indices and various graphical interpretations including comparative plot, heat plot, plot of relative error, violin diagram, and Taylor diagram. For assessing the accuracy of the best-fitted predictive model, i.e. GBR, a field-scale surface-water–based water treatment plant with a multi-stage filtration unit, which was set up in an arsenic-affected rural area of West Bengal, India, was used to validate the results, and findings were used to optimize the field-scale plant. It is observed that E&lt;sub>20&lt;/sub> is dependent on dimensionless discharge (d&lt;sub>c&lt;/sub>/h), squares of the number of the steps (N&lt;sup>2&lt;/sup>), and inclination (h/l) as per dimension analysis. The analysis reveals that with an increase in inclination, E&lt;sub>20&lt;/sub> for a specific number of cascade steps drops to a certain point and then increases. The highest aeration efficiency (E&lt;sub>20&lt;/sub>) of 0.913 is observed at a hydraulic loading rate of 0.167 l/m&lt;sup>2&lt;/sup>/s, N = 10 and h/l = 0.64. Furthermore, the results demonstrate that the GBR model (with R&lt;sup>2&lt;/sup> test value of 0.96 and MAE test value of 0.027) emerges as the most accurate regression tool, surpassing the other models in predicting E&lt;sub>20&lt;/sub> values. Additionally, the findings indicated that at the flow rates of 0.075, 0.1, 0.125, and 0.15 m&lt;sup>3&lt;/sup>/m&lt;sup>2&lt;/sup>/h with the inclination of 0.363 and N = 10, the dissolved oxygen in water increases by more than 5 mg/l, with corresponding aeration efficiencies (E&lt;sub>20&lt;/sub>) of 0.757, 0.675, and 0.602, respectively. Machine learning models offer the potential to optimize the design of aeration structures for accurate prediction and facilitating cost efficiency.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>180501546</an>
+  <docTypes>Article</docTypes>
+  <volume>29</volume>
+  <issns>1420-2026</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a2e2faf3-5756-30db-809a-332ab9b9ce9b</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Saha, Nilanjan ; Heim, Ronjon ; Mazumdar, Asis ; Banerjee, Gourab ; Sarkar, Oushnik</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1007/s10666-024-09982-w</doi>
+</record>

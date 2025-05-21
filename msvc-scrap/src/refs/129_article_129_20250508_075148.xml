@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CI0</mid>
+  <language>eng</language>
+  <source>BMC Medical Informatics &amp;amp; Decision Making</source>
+  <bookEdition></bookEdition>
+  <title>Development and validation of a machine learning model to predict hemostatic intervention in patients with acute upper gastrointestinal bleeding.</title>
+  <pageEnd>13</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250324</publicationDate>
+  <pageCount>13</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; FISHER discriminant analysis ; RESOURCE-limited settings ; SUPERVISED learning ; DATABASES</subjects>
+  <abstract>Background: Acute upper gastrointestinal bleeding (UGIB) is common in clinical practice and has a wide range of severity. Along with medical therapy, endoscopic intervention is the mainstay treatment for hemostasis in high-risk rebleeding lesions. Predicting the need for endoscopic intervention would be beneficial in resource-limited areas for selective referral to an endoscopic center. The proposed risk stratification scores had limited accuracy. We developed a machine learning model to predict the need for endoscopic intervention in patients with acute UGIB. Methods: A prospectively collected database of UGIB patients from 2011 to 2020 was retrospectively reviewed. Patients older than 18 years diagnosed with UGIB who underwent endoscopy were included. Data comprised demographic characteristics, clinical presentation, and laboratory parameters. The cleaned data was used for model development and validation in Python. We conducted 80%–20% split sample training and test sets. The training set was used for supervised learning of 15 models using a stratified 5-fold cross-validation process. The model with the highest AUROC was then internally validated with the test set to evaluate performance. Results: Of 1389 patients, 615 (44.3%) of the cohorts received the endoscopic intervention (293 variceal- and 336 nonvariceal-bleeding interventions). Eighteen features, including demographic characteristics, clinical presentation, and laboratory parameters, were selected as input for 15 machine learning models. The result revealed that the linear discriminant analysis model could achieve the highest AUROC of 0.74 to predict endoscopic intervention. The model was validated with the test set, in which the AUROC was increased from 0.74 to 0.81. Finally, the model was deployed as a web application by Streamlit. Conclusions: Our machine learning model can identify patients with acute UGIB who need endoscopic intervention with good performance. This may help primary care physicians prioritize patients who need referrals and optimize resource allocation in resource-limited areas. Further development and identification of more specific features might improve prediction performance. Trial Registration: None (Retrospective cohort study) Patient &amp;amp; Public Involvement: None</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183970455</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1472-6947</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5782e26b-eb73-3a8b-b119-b17007e9ab25</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Raghareutai, Kajornvit ; Tanchotsrinon, Watcharaporn ; Sattayalertyanyong, Onuma ; Kaosombatwattana, Uayporn</contributors>
+  <coverDate>3/24/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12911-025-02969-x</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>SciPost Physics</source>
+  <bookEdition></bookEdition>
+  <title>The landscape of unfolding with machine learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250225</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Mathematical Sciences ; Physical Sciences ; Networking and Information Technology R&amp;amp;D (NITRD) ; Machine Learning and Artificial Intelligence ; Mathematical sciences ; Physical sciences</subjects>
+  <abstract>Recent innovations from machine learning allow for data unfolding, without binning and including correlations across many dimensions. We describe a set of known, upgraded, and new methods for ML-based unfolding. The performance of these approaches are evaluated on the same two datasets. We find that all techniques are capable of accurately reproducing the particle-level spectra across complex observables. Given that these approaches are conceptually diverse, they offer an exciting toolkit for a new class of measurements that can probe the Standard Model with an unprecedented level of detail and may enable sensitivity to new phenomena.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt7gg776x9</an>
+  <docTypes>article</docTypes>
+  <volume>18</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=41115f3f-2612-3d9b-83af-698d446c50af</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Huetsch, Nathan ; Mariño Villadamigo, Javier ; Shmakov, Alexander ; Diefenbacher, Sascha ; Mikuni, Vinicius ; Heimel, Theo ; Fenton, Michael James ; Greif, Kevin Thomas ; Nachman, Benjamin ; Whiteson, Daniel ; Butter, Anja ; Plehn, Tilman</contributors>
+  <coverDate>20250225</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Trade-offs between machine learning and deep learning for mental illness detection on social media.</title>
+  <pageEnd>14</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250425</publicationDate>
+  <pageCount>14</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; NATURAL language processing ; SOCIAL media ; ARTIFICIAL intelligence ; FEATURE selection ; DEEP learning</subjects>
+  <abstract>Social media platforms provide valuable insights into mental health trends by capturing user-generated discussions on conditions such as depression, anxiety, and suicidal ideation. Machine learning (ML) and deep learning (DL) models have been increasingly applied to classify mental health conditions from textual data, but selecting the most effective model involves trade-offs in accuracy, interpretability, and computational efficiency. This study evaluates multiple ML models, including logistic regression, random forest, and LightGBM, alongside DL architectures such as ALBERT and Gated Recurrent Units (GRUs), for both binary and multi-class classification of mental health conditions. Our findings indicate that ML and DL models achieve comparable classification performance on medium-sized datasets, with ML models offering greater interpretability through variable importance scores, while DL models are more robust to complex linguistic patterns. Additionally, ML models require explicit feature engineering, whereas DL models learn hierarchical representations directly from text. Logistic regression provides the advantage of capturing both positive and negative associations between features and mental health conditions, whereas tree-based models prioritize decision-making power through split-based feature selection. This study offers empirical insights into the advantages and limitations of different modeling approaches and provides recommendations for selecting appropriate methods based on dataset size, interpretability needs, and computational constraints.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184746437</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=76e20f7b-efc5-3be8-8367-8089485b1a18</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Ding, Zhanyi ; Wang, Zhongyan ; Zhang, Yeyubei ; Cao, Yuchen ; Liu, Yunchong ; Shen, Xiaorui ; Tian, Yexin ; Dai, Jianglai</contributors>
+  <coverDate>4/25/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-99167-6</doi>
+</record>

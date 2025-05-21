@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B6M</mid>
+  <language>eng</language>
+  <source>Applied Artificial Intelligence</source>
+  <bookEdition></bookEdition>
+  <title>Utilizing Machine Learning Techniques for Classifying Translated and Non-Translated Corporate Annual Reports.</title>
+  <pageEnd>30</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>30</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Corporation reports ; Machine learning ; Deep learning ; Support vector machines ; K-nearest neighbor classification ; Naive Bayes classification</subjects>
+  <abstract>Globalization has led to the widespread adoption of translated corporate annual reports in international markets. Nonetheless, it remains largely unexplored whether these translated documents fulfill the same function and communicate as effectively to international investors as their non-translated counterparts. Considering their significance to stakeholders, differentiating between these two types of reports is essential, yet research in this area is insufficient. This study seeks to bridge this gap by leveraging machine learning algorithms to classify corporate annual reports based on their translation status. By constructing corpora of comparable texts and employing thirteen syntactic complexity indices as features, we analyzed the reports using eight different algorithms: Naïve Bayes, Logistic Regression, Support Vector Machine, k-Nearest Neighbors, Neural Network, Random Forest, Gradient Boosting and Deep Learning. Additionally, ensemble models were created by combining the three most effective algorithms. The best-performing model in our study achieved an Area Under the Curve (AUC) of 99.3%. This innovative approach demonstrates the effectiveness of syntactic complexity indices in machine learning for classifying translational language in corporate reporting, contributing valuable insights to text classification and translational language research. Our findings offer critical implications for stakeholders in multilingual contexts, highlighting the need for further research in this field.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181704359</an>
+  <docTypes>Article</docTypes>
+  <volume>38</volume>
+  <issns>0883-9514</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7dd0a5fe-ae68-345f-997c-8aa596170e52</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Wang, Zhongliang ; Liu, Ming ; Liu, Kanglong</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/08839514.2024.2340393</doi>
+</record>

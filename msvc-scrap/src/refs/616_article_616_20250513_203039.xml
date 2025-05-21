@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>7M5</mid>
+  <language>eng</language>
+  <source>International Journal of Human-Computer Interaction</source>
+  <bookEdition></bookEdition>
+  <title>Human Computer Interaction System for Teacher-Student Interaction Model Using Machine Learning.</title>
+  <pageEnd>1828</pageEnd>
+  <pageStart>1817</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Digital electronics ; Support vector machines ; K-nearest neighbor classification ; Summative tests</subjects>
+  <abstract>Designing the teacher-student interaction model in online education is a significant research domain since it can assist teachers in preventing students from discontinuing their studies before final examinations and identifying students who need further support. Human computer interaction is all about solving issues and innovating, and students study how to find places of growth and then develop superior products and services. The observations extracted from the teacher-student interaction studies assisted The pupils' habits and mental states in studying and educational effectiveness are being improved. In this study, the Machine Learning-based Student Behaviour Data (ML-SBD) modeling algorithm is proposed to observe, analyze, and design the teacher-student interaction model. This research aims to forecast the challenges faced by students in a following digital design program. The information recorded by a Knowledge Boosted Learning (KBL) system based on Digital Electronics Study and Strategy Group (DESSG) has been analyzed using Machine Learning (ML) algorithms. The ML algorithms consist of Neural Networks (NNs), K-Nearest Neighbor (KNN), Binary Significance (BS), and support vector machines (SVMs) classifiers. The DESSG framework enables students, during recording input data, to solve digital design workouts with enormous complexity. Finally, the proposed ML algorithms significantly affect the student's success rate by effectively Designing the teacher-student interaction model combined with human computer interaction. The results observed from the developed ML system include more recommended solutions for improving students' success rate and academic efficiency. Dataset 8 has an 81.7% higher repeatability, 74.2% higher F1-measure repeatability, and 77.9% lower data loss than dataset 7 since it includes the case study method.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183055736</an>
+  <docTypes>Article</docTypes>
+  <volume>41</volume>
+  <issns>1044-7318</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=97e6a6d2-0320-3dfd-92f1-0e6a1fefbffa</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Zhang, Aili</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/10447318.2022.2115645</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781789801781 ; 9781789804294</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Hands-On Machine Learning with ML.NET : Getting Started with Microsoft ML.NET to Implement Popular Machine Learning Algorithms in C#</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20200101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / General ; COMPUTERS / Machine Theory ; C# (Computer program language) ; Machine learning ; Computer algorithms ; Application software--Development</subjects>
+  <abstract>Create, train, and evaluate various machine learning models such as regression, classification, and clustering using ML.NET, Entity Framework, and ASP.NET CoreKey FeaturesGet well-versed with the ML.NET framework and its components and APIs using practical examplesLearn how to build, train, and evaluate popular machine learning algorithms with ML.NET offeringsExtend your existing machine learning models by integrating with TensorFlow and other librariesBook DescriptionMachine learning (ML) is widely used in many industries such as science, healthcare, and research and its popularity is only growing. In March 2018, Microsoft introduced ML.NET to help.NET enthusiasts in working with ML. With this book, you'll explore how to build ML.NET applications with the various ML models available using C# code. The book starts by giving you an overview of ML and the types of ML algorithms used, along with covering what ML.NET is and why you need it to build ML apps. You'll then explore the ML.NET framework, its components, and APIs. The book will serve as a practical guide to helping you build smart apps using the ML.NET library. You'll gradually become well versed in how to implement ML algorithms such as regression, classification, and clustering with real-world examples and datasets. Each chapter will cover the practical implementation, showing you how to implement ML within.NET applications. You'll also learn to integrate TensorFlow in ML.NET applications. Later you'll discover how to store the regression model housing price prediction result to the database and display the real-time predicted results from the database on your web application using ASP.NET Core Blazor and SignalR. By the end of this book, you'll have learned how to confidently perform basic to advanced-level machine learning tasks in ML.NET.What you will learnUnderstand the framework, components, and APIs of ML.NET using C#Develop regression models using ML.NET for employee attrition and file classificationEvaluate classification models for sentiment prediction of restaurant reviewsWork with clustering models for file type classificationsUse anomaly detection to find anomalies in both network traffic and login historyWork with ASP.NET Core Blazor to create an ML.NET enabled web applicationIntegrate pre-trained TensorFlow and ONNX models in a WPF ML.NET application for image classification and object detectionWho this book is forIf you are a.NET developer who wants to implement machine learning models using ML.NET, then this book is for you. This book will also be beneficial for data scientists and machine learning developers who are looking for effective tools to implement various machine learning algorithms. A basic understanding of C# or.NET is mandatory to grasp the concepts covered in this book effectively.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2411475</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2dc28306-95e4-3109-8051-863ae9688948</plink>
+  <doids>NL$2411475$PDF ; NL$2411475$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Jarred Capellman</contributors>
+  <coverDate>2020</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

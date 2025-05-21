@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781800560307 ; 9781800562189</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning with BigQuery ML : Create, Execute, and Improve Machine Learning Models in BigQuery Using Standard SQL Queries</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20210101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / General ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; Machine learning ; Cloud computing</subjects>
+  <abstract>Manage different business scenarios with the right machine learning technique using Google s highly scalable BigQuery MLKey FeaturesGain a clear understanding of AI and machine learning services on GCP, learn when to use these, and find out how to integrate them with BigQuery MLLeverage SQL syntax to train, evaluate, test, and use ML modelsDiscover how BigQuery works and understand the capabilities of BigQuery ML using examplesBook DescriptionBigQuery ML enables you to easily build machine learning (ML) models with SQL without much coding. This book will help you to accelerate the development and deployment of ML models with BigQuery ML. The book starts with a quick overview of Google Cloud and BigQuery architecture. You'll then learn how to configure a Google Cloud project, understand the architectural components and capabilities of BigQuery, and find out how to build ML models with BigQuery ML. The book teaches you how to use ML using SQL on BigQuery. You'll analyze the key phases of a ML model's lifecycle and get to grips with the SQL statements used to train, evaluate, test, and use a model. As you advance, you'll build a series of use cases by applying different ML techniques such as linear regression, binary and multiclass logistic regression, k-means, ARIMA time series, deep neural networks, and XGBoost using practical use cases. Moving on, you'll cover matrix factorization and deep neural networks using BigQuery ML's capabilities. Finally, you'll explore the integration of BigQuery ML with other Google Cloud Platform components such as AI Platform Notebooks and TensorFlow along with discovering best practices and tips and tricks for hyperparameter tuning and performance enhancement. By the end of this BigQuery book, you'll be able to build and evaluate your own ML models with BigQuery ML.What you will learnDiscover how to prepare datasets to build an effective ML modelForecast business KPIs by leveraging various ML models and BigQuery MLBuild and train a recommendation engine to suggest the best products for your customers using BigQuery MLDevelop, train, and share a BigQuery ML model from previous parts with AI Platform NotebooksFind out how to invoke a trained TensorFlow model directly from BigQueryGet to grips with BigQuery ML best practices to maximize your ML performanceWho this book is forThis book is for data scientists, data analysts, data engineers, and anyone looking to get started with Google's BigQuery ML. You'll also find this book useful if you want to accelerate the development of ML models or if you are a business user who wants to apply ML in an easy way using SQL. Basic knowledge of BigQuery and SQL is required.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2934002</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bf4f33ea-dda1-30e5-98b2-ce6a8432d16b</plink>
+  <doids>NL$2934002$PDF ; NL$2934002$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Alessandro Marrandino</contributors>
+  <coverDate>2021</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

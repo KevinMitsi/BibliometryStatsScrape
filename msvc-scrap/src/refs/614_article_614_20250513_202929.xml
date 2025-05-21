@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>IEEE Transactions on Applied Superconductivity</source>
+  <bookEdition></bookEdition>
+  <title>Crack Identification and Characterization in Deformed Nb3Sn Rutherford Cable Stacks Using Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Engineering ; Electrical Engineering ; Machine Learning and Artificial Intelligence ; Bioengineering ; Training ; Wires ; Computational modeling ; Machine learning ; Analytical models ; Feature extraction ; Optical microscopy ; Numerical models ; Magnets ; Instance segmentation ; Cracks ; image analysis ; machine learning ; Nb3Sn ; superconducting magnets ; ATAP-GENERAL ; ATAP-2025 ; ATAP-SMP ; Condensed Matter Physics ; Electrical and Electronic Engineering ; Materials Engineering ; General Physics ; Electrical engineering ; Condensed matter physics</subjects>
+  <abstract>An investigation of instance segmentation of cracks in Nb3Sn 4-stack 40-strand Rutherford cables using machine learning is presented. Three samples were uniaxially and biaxially loaded before metallographic inspections were performed. The Mask R-CNN model was used in the Detectron2 framework with pre-trained weights but fine-tuned to detect and segment cracks. The model detected cracks with bounding box and mask average precisions (AP) of 42.8 and 27.9, respectively, and was used for instance segmentation of all cracks in the three samples. More cracks were found in the sample pre-loaded along the z-axis (i.e., along the cable length). Pre-loading along the x-axis (i.e., on the cables' edges) reduced the number of cracks and changed the crack orientation distribution, away from being highly aligned with the y-axis (i.e., normal to the cables' broad faces), i.e., the direction with the highest applied load. Fine-tuning of the Segment Anything Model (SAM) was also studied but performed poorly without human-provided prompts. However, the zero-shot capability of SAM showed high promises to accelerate the image annotation process for applications beyond this study.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt1df7z10n</an>
+  <docTypes>article</docTypes>
+  <volume>35</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a95457de-d9f6-3901-b60c-31ad7d606fc0</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Croteau, Jean-Francois ; Vallone, Giorgio ; Menon, Nandana ; D'Addazio, Marika ; Niccoli, Fabrizio ; Pong, Ian ; Ferracin, Paolo ; Prestemon, Soren</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

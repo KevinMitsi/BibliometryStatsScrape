@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>PFM</mid>
+  <language>eng</language>
+  <source>Journal of Portfolio Management</source>
+  <bookEdition></bookEdition>
+  <title>An Overview of Machine Learning for Portfolio Optimization.</title>
+  <pageEnd>148</pageEnd>
+  <pageStart>131</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Parameter estimation ; Problem solving ; Decision making ; Forecasting ; Machine learning</subjects>
+  <abstract>This article explores the application of machine learning in portfolio optimization, focusing on two primary areas: parameter estimation and optimization. In the parameter estimation phase, machine learning enhances the accuracy of return and risk predictions, allowing for dynamic adjustments based on market conditions. It also redefines asset similarity by leveraging vast datasets and complex relationships beyond traditional methods. In the optimization phase, machine learning addresses challenges in solving large-scale problems, such as multiperiod optimization and portfolios with cardinality constraints. The article highlights advanced techniques such as decision-focused learning, which aligns predictions with decision-making goals, and end-to-end models that directly generate portfolio allocations without intermediate steps. These innovations surpass the conventional "predict-then-optimize" approach, offering a more integrated and efficient method for portfolio management. With the continued evolution of machine learning, its impact on portfolio optimization is expected to grow, introducing new methods and possibilities that were previously constrained by traditional techniques.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181701112</an>
+  <docTypes>Article</docTypes>
+  <volume>51</volume>
+  <issns>0095-4918</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=50ca5efb-fbdc-3cfd-a8b4-6e8bd3977db9</plink>
+  <doids></doids>
+  <publisher>With Intelligence Limited</publisher>
+  <contributors>Lee, Yongjae ; Kim, Jang Ho ; Kim, Woo Chang ; Fabozzi, Frank J.</contributors>
+  <coverDate>2024 Quantitative Tools</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.3905/jpm.2024.1.639</doi>
+</record>

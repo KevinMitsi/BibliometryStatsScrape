@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>GXGV</mid>
+  <language>eng</language>
+  <source>International Journal of Construction Management</source>
+  <bookEdition></bookEdition>
+  <title>A comparative study of soil classification machine learning models for construction management.</title>
+  <pageEnd>593</pageEnd>
+  <pageStart>584</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250315</publicationDate>
+  <pageCount>10</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Construction management ; Algorithms ; Engineering Services ; Residential building construction ; Soil classification ; Machine learning ; Geotechnical engineering ; Civil engineering</subjects>
+  <abstract>Prior to the construction of buildings and roads, soil classification plays a vital role to ensure proper project management and durability of the structure. Civil engineers need to possess knowledge about soil behavior and properties of soil classification to construct reliable and long-lasting infrastructures. However, traditional soil classification methods are both expensive and time-consuming. Recently, machine learning (ML) has become increasingly popular in solving complex problems in Geotechnical Engineering, leading to novel approaches for automating soil classification. This research evaluates the effectiveness of various machine learning algorithms, including Multinomial Logistic Regression (MLR), Gaussian Naive Bayes (GNB), Extreme Gradient Boosting (XGBoost), Random Forest, and Artificial Neural Network-Multilayer Layer Perceptron (ANN-MLP), in classifying soils. The paper also implemented Hard and Soft Voting Ensemble models. Each model was quantitatively evaluated and compared using various metrics. The models achieved high scores in multiple performance metrics across the soil classes with accuracies ranging between 87% and 93%, except the Naive Bayes model with a balanced accuracy of 77.6% while the hard-voting model outperformed the others with a balanced accuracy of 93%. The study's results benefit industry practitioners and academic researchers for integrating and assessing ML algorithms in soil classification.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183940610</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1562-3599</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c1fde748-ed9f-3d77-8979-b0ee10ef1746</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Obasi, Sally Ndikum Ngonsah ; Pemberton, Joseph ; Awe, Olushina Olawale</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/15623599.2024.2341500</doi>
+</record>

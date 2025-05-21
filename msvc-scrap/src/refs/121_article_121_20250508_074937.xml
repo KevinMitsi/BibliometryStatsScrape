@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of Education and Learning (EduLearn)</source>
+  <bookEdition></bookEdition>
+  <title>A Cognitive Level Evaluation Method Based on Machine Learning Approach and Bloom of Taxonomy for Online Assessments</title>
+  <pageEnd>560</pageEnd>
+  <pageStart>553</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240501</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Electronic Learning ; Evaluation Methods ; Artificial Intelligence ; Taxonomy ; Computer Assisted Testing ; Student Evaluation ; Algorithms ; Cognitive Ability ; Predictor Variables ; Learning Processes ; Accuracy</subjects>
+  <abstract>Adaptive online learning can be realized through the evaluation of the learning process. Monitoring and supervising learners' cognitive levels and adjusting learning strategies can increasingly improve the quality of online learning. This analysis is made possible by real-time measurement of learners' cognitive levels during the online learning process. However, most of the currently used techniques for evaluating cognitive levels rely on labour-intensive and time-consuming manual coding. In this study, we explore the machine learning (ML) algorithms and taxonomy of Bloom's cognitive levels to explore features that affect learner's cognitive level in online assessments and the ability to automatically predict learner's cognitive level and thus, come up with a recommendation or pedagogical intervention to improve learner's acquisition. The analysis of 15,182 learners' assessments of a specific learning concept affirms the effectiveness of our approach. We attain an accuracy of 82.21% using ML algorithms. These results are very encouraging and have implications for how automated cognitive-level analysis tools for online learning will be developed in the future.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1430282</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>18</volume>
+  <issns>2089-9823 ; 2302-9277</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d7fa1b5a-531f-37cf-991c-ab667af6d910</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Abdessamad Chanaa ; Nour-eddine El Faddouli</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

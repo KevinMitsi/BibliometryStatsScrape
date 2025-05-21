@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>An intelligent open trading system for on-demand delivery facilitated by deep Q network based reinforcement learning.</title>
+  <pageEnd>926</pageEnd>
+  <pageStart>904</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Auctions ; Reinforcement learning ; Machine learning ; Dynamical systems ; Cities &amp;amp; towns</subjects>
+  <abstract>On-demand delivery in urban areas has been growing rapidly in recent years. Nevertheless, on-demand delivery networks lack an efficient, sustainable, and environmentally friendly operative strategy. An open trading system equipped with on-line auctions provides an opportunity for increasing the efficiency of on-demand delivery systems. Reinforcement learning techniques that automate decision-making can facilitate the implementation of such complex and dynamic systems. This paper presents an on-line auction-based request trading platform embedded within an open trading system as a new scheme for carriers and shippers to trade on-demand delivery requests. The system is developed based on a multi-agent model, composed of carriers, shippers, and the on-line platform as autonomous agents. Deep Q network enabled reinforcement learning is used in the decision-making processes for the agents to optimise their behaviour in a dynamic environment. Numerical experiments conducted on the Melbourne metropolitan network demonstrate the effectiveness of the open trading system, which can provide benefits for all stakeholders involved in the on-demand delivery market as well as the entire system. The reinforcement learning enabled platform can gain more profit when there are more learning carriers. The results indicate that the intelligent open trading system with on-line auctions is a promising city logistics solution.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182848254</an>
+  <docTypes>Article</docTypes>
+  <volume>63</volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d6b400ec-fc0c-304d-8d0f-2c0ed86289b5</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Guo, Chaojie ; Zhang, Lele ; Thompson, Russell G. ; Foliente, Greg ; Peng, Xiaoshuai</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2024.2364349</doi>
+</record>

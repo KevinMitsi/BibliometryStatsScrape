@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>British Journal of Learning Disabilities</source>
+  <bookEdition></bookEdition>
+  <title>Item Reduction of the 'Support Intensity Scale' for People with Intellectual Disabilities, Using Machine Learning</title>
+  <pageEnd>50</pageEnd>
+  <pageStart>43</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Intellectual Disability ; Developmental Disabilities ; Individual Needs ; Needs Assessment ; Test Construction ; Test Validity ; Test Length ; Prediction ; Algorithms</subjects>
+  <abstract>Background: The study focuses on the need to optimise assessment scales for support needs in individuals with intellectual and developmental disabilities. Current scales are often lengthy and redundant, leading to exhaustion and response burden. The goal is to use machine learning techniques, specifically item-reduction methods and selection algorithms, to develop shorter and more efficient scales. Methods: A data set of 93 participants was analysed using the Supports Needs Scale. Five feature-selection algorithms were evaluated to create a shortened questionnaire. For each algorithm, a Random Forest model was trained, and performance was assessed using metrics like accuracy, precision, recall and F1-score to measure how well each model predicted support needs. Findings: The "Select from Model" algorithm successfully identified key items that could predict the level of Support Needs using the Random Forest model. Only 51 variables, out of the original 147, were needed to maintain predictive accuracy. The reduced questionnaire maintained good reliability and internal consistency compared to the original instrument, with a strong F1 score indicating excellent predictive performance. Conclusions: The study demonstrates that machine learning techniques are effective in reducing the length of support needs questionnaires while preserving their psychometric properties. These methods can help institutions provide more efficient access to information about support needs without compromising validity or reliability, potentially leading to better resource allocation and improved care for individuals with intellectual disabilities.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1460575</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>53</volume>
+  <issns>1354-4187 ; 1468-3156</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0cfc7a38-3af2-3f71-b861-66d1901f8b83</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Félix González-Carrasco ; Felipe Espinosa Parra ; Izaskun Álvarez-Aguado ; Sebastián Ponce Olguín ; Vanessa Vega Córdova ; Miguel Roselló-Peñaloza</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1111/bld.12616</doi>
+</record>

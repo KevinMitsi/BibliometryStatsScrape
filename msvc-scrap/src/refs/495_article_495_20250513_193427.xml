@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-3-031-83096-9 ; 978-3-031-83097-6</isbns>
+  <shortDBName>edssjb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Informed Machine Learning</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning for Optimizing the Homogeneity of Spunbond Nonwovens</title>
+  <pageEnd>112</pageEnd>
+  <pageStart>91</pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>22</pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>According to the Global Nonwoven Markets Report 2020–2025, published in 2021 by the two leading trading organisations representing nonwovens and related industries INDA and EDANA, the average annual growth rate of nonwoven production was 6.2% (INDA and EDANA Jointly Publish the Global Nonwoven Markets Report, A Comprehensive Survey and Outlook Assessing Growth Post-Pandemic, edana, 2021, Published September 29, 2021, from https://www.edana.org/about-us/news/global-nonwoven-markets-report) during the period from 2010 to 2020. In 2020 and 2021, nonwoven production has increased even further due to the huge demand for nonwoven products needed for protectiedanave clothing such as FFP2 masks to combat the COVID19 pandemic. Optimizing the production process is still a challenge due to its high nonlinearity. In this chapter, we present a machine learning-based optimization workflow aimed at improving the homogeneity of spunbond nonwovens. The optimization workflow is based on a mathematical model that simulates the microstructures of nonwovens. Based on training data coming from this simulator, different machine learning algorithms are trained in order to find a surrogate model for the time-consuming simulator. Human validation is employed to verify the outputs of machine learning algorithms by assessing the aesthetics of the nonwovens. We include scientific and expert knowledge into the training data to reduce the computational costs involved in the optimization process. We demonstrate the necessity and effectiveness of our workflow in optimizing the homogeneity of nonwovens.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edssjb.978.3.031.83097.6.5</an>
+  <docTypes></docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=70b7a62f-9dac-317d-ad4a-ddeca62c1a8d</plink>
+  <doids></doids>
+  <publisher>Springer Nature Switzerland</publisher>
+  <contributors>Victor, Viny Saajan ; Schmeißer, Andre ; Leitte, Heike ; Gramsch, Simone</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature eBooks</longDBName>
+  <doi>10.1007/978-3-031-83097-6_5</doi>
+</record>

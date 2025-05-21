@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KS2A</mid>
+  <language>eng</language>
+  <source>International Journal of Professional Business Review (JPBReview)</source>
+  <bookEdition></bookEdition>
+  <title>A STUDY OF EVOLVING CLOUD COMPUTING DATA SECURITY: A MACHINE LEARNING PERSPECTIVE.</title>
+  <pageEnd>15</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Data security ; Security management ; Data protection ; Computer security vulnerabilities ; Risk management in business ; Other Computer Related Services ; Computer systems design and related services (except video game design and development) ; Data Processing, Hosting, and Related Services ; Cloud computing ; Machine learning ; Intrusion detection systems (Computer security)</subjects>
+  <abstract>Objective: The objective of this study is to investigate the application of machine learning (ML) techniques in enhancing cloud security, with the aim of improving threat detection and mitigation strategies for cloud-based systems. Theoretical Framework: In this research, the main concepts and theories that underpin the research are presented. Cloud security frameworks and ML-based security methodologies stand out, providing a solid basis for understanding the context of the investigation. Method: The methodology adopted for this research comprises an investigative study on cloud computing, focusing on key security vulnerabilities and the role of ML-based solutions. Data collection was carried out through an analysis of security challenges, including unauthorized access, data breaches, denial-of-service attacks, and insider threats. Results and Discussion: The results obtained revealed that ML-based security solutions significantly enhance cloud security by enabling early threat detection and effective mitigation strategies. In the discussion section, these results are contextualized considering the theoretical framework, highlighting the implications of ML in cloud security. Research Implications: The practical and theoretical implications of this research are discussed, providing insights into how the results can be applied or influence practices in the field of cloud security. These implications could encompass cybersecurity frameworks, cloud service providers, and industry regulations. Originality/Value: This study contributes to the literature by demonstrating the effectiveness of ML-based security mechanisms in addressing cloud vulnerabilities. The relevance and value of this research are evidenced by its potential impact on improving security measures in cloud computing, guiding future research on optimizing ML models and developing more robust security mechanisms.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184493760</an>
+  <docTypes>Article</docTypes>
+  <volume>10</volume>
+  <issns>2525-3654</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f2dea7bd-da59-3466-92ea-4995626347ef</plink>
+  <doids></doids>
+  <publisher>Open Access Publications LLC</publisher>
+  <contributors>Bhaskaran, Shinoy Vengaramkode ; Achar, Sandesh</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.26668/businessreview/2025.v10i3.5315</doi>
+</record>

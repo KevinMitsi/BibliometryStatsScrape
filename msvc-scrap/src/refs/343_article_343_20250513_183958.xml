@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HE2O</mid>
+  <language>eng</language>
+  <source>Mathematics (2227-7390)</source>
+  <bookEdition></bookEdition>
+  <title>Multi-Feature Extraction and Explainable Machine Learning for Lamb-Wave-Based Damage Localization in Laminated Composites.</title>
+  <pageEnd></pageEnd>
+  <pageStart>769</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; LAMINATED materials ; STRUCTURAL health monitoring ; LAMB waves ; HILBERT transform</subjects>
+  <abstract>Laminated composites display exceptional weight-saving abilities that make them suited to advanced applications in aerospace, automobile, civil, and marine industries. However, the orthotropic nature of laminated composites means that they possess several damage modes that can lead to catastrophic failure. Therefore, machine learning-based Structural Health Monitoring (SHM) techniques have been used for damage detection. While Lamb waves have shown significant potential in the SHM of laminated composites, most of these techniques are focused on imaging-based methods and are limited to damage detection. Therefore, this study aims to localize the damage in laminated composites without the use of imaging methods, thus improving the computational efficiency of the proposed approach. Moreover, the machine learning models are generally black-box in nature, with no transparency of the reason for their decision making. Thus, this study also proposes the use of Shapley Additive Explanations (SHAP) to identify the important feature to localize the damage in laminated composites. The proposed approach is validated by the experimental simulation of the damage at nine different locations of a composite laminate. Multi-feature extraction is carried out by first applying the Hilbert transform on the envelope signal followed by statistical feature analysis. This study compares raw signal features, Hilbert transform features, and multi-feature extraction from the Hilbert transform to demonstrate the effectiveness of the proposed approach. The results demonstrate the effectiveness of an explainable K-Nearest Neighbor (KNN) model in locating the damage, with an R 2 value of 0.96, a Mean Square Error (MSE) value of 10.29, and a Mean Absolute Error (MAE) value of 0.5.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183648127</an>
+  <docTypes>Article</docTypes>
+  <volume>13</volume>
+  <issns>2227-7390</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=941d5e70-954a-3090-8569-36b1e6375d2a</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Jung, Jaehyun ; Azad, Muhammad Muzammil ; Kim, Heung Soo</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/math13050769</doi>
+</record>

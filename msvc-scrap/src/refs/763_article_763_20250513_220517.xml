@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B86R</mid>
+  <language>eng</language>
+  <source>Journal of Geophysical Research. Atmospheres</source>
+  <bookEdition></bookEdition>
+  <title>Inferring Surface NO&lt;sub>2&lt;/sub> Over Western Europe: A Machine Learning Approach With Uncertainty Quantification.</title>
+  <pageEnd>25</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241028</publicationDate>
+  <pageCount>25</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>20</issue>
+  <identifiers></identifiers>
+  <subjects>Environmental mapping ; Human ecology ; Cities &amp;amp; towns ; Western Europe ; Machine learning ; Standard deviations ; Quantile regression</subjects>
+  <abstract>Nitrogen oxides (NOx = NO + NO2) are of great concern due to their impact on human health and the environment. In recent years, machine learning (ML) techniques have been widely used for surface NO2 estimation with rapid developments in computational power and big data. However, the uncertainties inherent to such retrievals are rarely studied. In this study, a novel ML framework has been developed, enhanced with uncertainty quantification techniques, to estimate surface NO2 and provide corresponding data‐induced uncertainty. We apply the Boosting Ensemble Conformal Quantile Estimator (BEnCQE) model to infer surface NO2 concentrations over Western Europe at the daily scale and 1 km spatial resolution from May 2018 to December 2021. High NO2 mainly appears in urban areas, industrial areas, and roads. The space‐based cross‐validation shows that our model achieves accurate point estimates (r = 0.8, R2 = 0.64, root mean square error = 8.08 μg/m3) and reliable prediction intervals (coverage probability, PI‐50%: 51.0%, PI‐90%: 90.5%). Also, the model result agrees with the Copernicus Atmosphere Monitoring Service (CAMS) model. The quantile regression in our model enables us to understand the importance of predictors for different NO2 level estimations. Additionally, the uncertainty information reveals the extra potential exceedance of the World Health Organization (WHO) 2021 limit in some locations, which is undetectable by only point estimates. Meanwhile, the uncertainty quantification allows assessment of the model's robustness outside existing in‐situ station measurements. It reveals challenges of NO2 estimation over urban and mountainous areas where NO2 is highly variable and heterogeneously distributed. Plain Language Summary: Inferring surface NO2 concentrations is an effective way to monitor and mitigate NOx pollution which is of great concern due to its impact on human health and the environment. Machine learning (ML) techniques have been widely used for surface NO2 estimation with rapid developments in computational power and big data. However, such estimations can be uncertain due to inherent errors in the data, and this uncertainty is rarely studied. We develop a novel ML framework to estimate surface NO2 concentrations and provide corresponding uncertainty information. We infer surface NO2 levels over Western Europe at the daily scale and 1 km spatial resolution from May 2018 to December 2021. Our model's performance is reliable as verified by in‐situ station measurements and an independent physics‐based model. We observe NO2 hotspots over urban areas, industrial areas, and major roads. The uncertainty quantification (UQ) techniques allow us to analyze the influence of different input data on estimating different NO2 levels. The UQ also helps to identify potential NO2 exceedances of the WHO 2021 limit, which have not been observed in previous research. Additionally, we assess the model's robustness outside of in‐situ stations and witness the challenge of NO2 estimation over urban and mountainous areas. Key Points: A novel and reliable machine learning model with uncertainty quantification is applied to infer surface NO2 levels over Western EuropeOur work uncovers how predictors impact model inference of various surface NO2 levels differentlyOur approach identifies areas of high uncertainty in surface NO2 mapping and potential environmental risks from overlooking uncertainty</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>180561299</an>
+  <docTypes>Article</docTypes>
+  <volume>129</volume>
+  <issns>2169-897X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a224d587-ca98-3b9d-9ab5-1e03f122caca</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Sun, Wenfu ; Tack, Frederik ; Clarisse, Lieven ; Schneider, Rochelle ; Stavrakou, Trissevgeni ; Van Roozendael, Michel</contributors>
+  <coverDate>10/28/2024</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1029/2023JD040676</doi>
+</record>

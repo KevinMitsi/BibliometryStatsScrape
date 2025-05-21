@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781683924951 ; 9781683924937 ; 9781683924944</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Python 3 for Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20200101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Dulles, Virginia</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Languages / Python ; COMPUTERS / Machine Theory ; COMPUTERS / Reference ; Machine learning ; Python (Computer program language)</subjects>
+  <abstract>This book is designed to provide the reader with basic Python 3 programming concepts related to machine learning. The first four chapters provide a fast-paced introduction to Python 3, NumPy, and Pandas. The fifth chapter introduces the fundamental concepts of machine learning. The sixth chapter is devoted to machine learning classifiers, such as logistic regression, k-NN, decision trees, random forests, and SVMs. The final chapter includes material on NLP and RL. Keras-based code samples are included to supplement the theoretical discussion. The book also contains separate appendices for regular expressions, Keras, and TensorFlow 2. Features:Provides the reader with basic Python 3 programming concepts related to machine learningIncludes separate appendices for regular expressions, Keras, and TensorFlow 2</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2372730</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f4610440-698c-3cea-a849-fa8fb67292e5</plink>
+  <doids>NL$2372730$PDF</doids>
+  <publisher>Mercury Learning &amp;amp; Information</publisher>
+  <contributors>Campesato, Oswald</contributors>
+  <coverDate>2020</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

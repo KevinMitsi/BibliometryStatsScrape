@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>4524</mid>
+  <language>tur</language>
+  <source>Electronic Journal of Social Sciences</source>
+  <bookEdition></bookEdition>
+  <title>Makine Öğrenimi Modelleri ile Yetişkin Eğitimi Analizi: Modellerin Karşılaştırmalı Performansı.</title>
+  <pageEnd>964</pageEnd>
+  <pageStart>946</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>19</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ADULT education ; MARITAL status ; DATA structures ; DEPENDENT variables</subjects>
+  <abstract>In this study, the participation status of individuals in formal education and the factors affecting this status are analysed using the micro data set of the 2022 Adult Education Survey of the Turkish Statistical Institute (TurkStat). The analysed dataset consists of 14 variables and 24,462 observations. After the data preprocessing steps, the dataset was evenly distributed as training and test data. Numerical data were scaled with the Standard Scaler method. Model performances were measured with metrics such as precision, sensitivity, F1 score, and accuracy and visualised with complexity matrices. Formal education participation status is defined as the dependent variable. As a result of the analysis, Gradient Boosting, XGBoost and Cat Boost models achieved 94% success in test accuracy. Gradient Boosting and LightGBM models stand out with an AUC value of 0.92, while Cat Boost and XGBoost models achieved an AUC value of 0.91. In the F1 score, Gradient Boosting and LightGBM models obtained the highest values with 0.75. "Age", "education level" and "marital status' factors were determinants for participation in formal education. Cat Boost model was recommended as the most appropriate model with its balanced performance, high accuracy, precision and AUC values. The study revealed the capacity of machine learning models to detect relationships in complex data structures compared to traditional statistical methods. The study concludes that machine learning models can be used in shaping education policies in Türkiye.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184629770</an>
+  <docTypes>Article</docTypes>
+  <volume>24</volume>
+  <issns>1304-0278</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=abec0f4d-2d71-3714-9487-93da469c1ee7</plink>
+  <doids></doids>
+  <publisher>Electronic Journal of Social Sciences</publisher>
+  <contributors>EŞİDİR, Kamil Abdullah</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.17755/esosder.1589887</doi>
+</record>

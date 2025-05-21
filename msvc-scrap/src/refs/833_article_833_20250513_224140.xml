@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Survey on Pain Detection Using Machine Learning Models: Narrative Review.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250224</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>machine learning ; mobile phone ; pain ; pain assessment ; survey</subjects>
+  <abstract>BACKGROUND: Pain, a leading reason people seek medical care, has become a social issue. Automated pain assessment has seen notable advancements over recent decades, addressing a critical need in both clinical and everyday settings. OBJECTIVE: The objective of this survey was to provide a comprehensive overview of pain and its mechanisms, to explore existing research on automated pain recognition modalities, and to identify key challenges and future directions in this field. METHODS: A literature review was conducted, analyzing studies focused on various modalities for automated pain recognition. The modalities reviewed include facial expressions, physiological signals, audio cues, and pupil dilation, with a focus on their efficacy and application in pain assessment. RESULTS: The survey found that each modality offers unique contributions to automated pain recognition, with facial expressions and physiological signals showing particular promise. However, the reliability and accuracy of these modalities vary, often depending on factors such as individual variability and environmental conditions. CONCLUSIONS: While automated pain recognition has progressed considerably, challenges remain in achieving consistent accuracy across diverse populations and contexts. Future research directions are suggested to address these challenges, enhancing the reliability and applicability of automated pain assessment in clinical practice.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt90d6v6tf</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c05d7a17-b8cc-387f-8fe8-2876d288490d</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Fang, Ruijie ; Hosseini, Elahe ; Zhang, Ruoyu ; Fang, Chongzhou ; Rafatirad, Setareh ; Homayoun, Houman</contributors>
+  <coverDate>20250224</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

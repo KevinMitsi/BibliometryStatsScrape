@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Water Resources Management: An International Journal - Published for the European Water Resources Association (EWRA)</source>
+  <bookEdition></bookEdition>
+  <title>Urban Flood Hazard Assessment Based on Machine Learning Model: Urban Flood Hazard Assessment Based on Machine Learning Model</title>
+  <pageEnd>1970</pageEnd>
+  <pageStart>1953</pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations>Dordrecht</publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Flood hazard assessment ; Urban waterlogging ; Machine learning ; Flood disaster ; Risk management ; Jinan City</subjects>
+  <abstract>Floods are one of the most frequent natural disasters, and their occurrence usually results in enormous loss of life and property. The prediction of flood-prone locations is difficult due to climate change and human factors. In this study, K-means, BP, SVM and RF machine learning models were used for urban flood hazard assessment. A typical rainstorm (“2007.7.18”) occurrence in the study area was simulated based on the TELEMAC-2D hydrodynamic model. Based on the flood distribution, 3281 flood-prone and 2227 non-flood-prone points were extracted to constitute a sample dataset, which was used for training and testing of the machine learning model. The performance of the machine learning model was evaluated using five evaluation metrics (Accuracy, Precision, Recall, F-score, Root Mean Square Error) as well as ROC curves and AUC values. The results show that the RF algorithm can better utilize the metrics data and the model performance performance is optimally. Finally, the flood risk distribution map obtained from the machine learning model was compared with actual location of inundation to verify the accuracy of the model. In the risk distribution map obtained by BP model, 63.855% and 18.072% of the flood-prone points were located in the very high and high risk zones, respectively; In the risk distribution map obtained by the RF model, 43.373% and 36.145% of the flood-prone points were located in the very high and high risk zones, respectively. In this paper, the obtained flood risk assessment results can provide scientific references for urban flood risk management and flood prevention and drainage.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.2AA91A7A</an>
+  <docTypes>Review Paper</docTypes>
+  <volume>39</volume>
+  <issns>09204741 ; 15731650</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d7e1cdb6-b08e-31cd-9541-869295dc6fa3</plink>
+  <doids></doids>
+  <publisher>Springer Netherlands</publisher>
+  <contributors>Li, Guoyi ; Shao, Weiwei ; Su, Xin ; Li, Yong ; Zhang, Yi ; Song, Tianxu</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s11269-024-04013-5</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Environmental Science and Pollution Research</source>
+  <bookEdition></bookEdition>
+  <title>An innovative machine learning approach for slope stability prediction by combining shap interpretability and stacking ensemble learning</title>
+  <pageEnd>17</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250507</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations>Berlin/Heidelberg</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Ensemble Learning ; Machine Learning ; SHAP ; Slope Stability ; Stacking</subjects>
+  <abstract>Accurate slope stability prediction is crucial for mitigating slope failures, but conventional methods are challenging due to their complexity and high data requirements. To overcome these limitations, researchers have used machine learning (ML) techniques enabled by advances in data science. This paper presents an innovative ML approach, which combines the SHapley Additive exPlanations (SHAP) and stacking ensemble learning (EL) techniques (SHAP-EL), to classify and predict slope stability. A total of 627 slope case records, which comprise geological (slope height and slope angle) and geotechnical parameters (unit weight, cohesion, friction angle, and pore pressure ratio), are utilized to build prediction models. During model construction, SHAP analysis is first performed to identify the most influential base learning models among ten different ML algorithms, including XGBoost, GBM, AdaBoost, RF, SVM, ANN, ELM, GLM, GLMnet, and CART. Then, using the stacking EL approach, the optimal ML models identified by SHAP analysis as base learners are integrated to develop a final predictive model for slope stability. The SHAP-EL model is evaluated against individual ML models to select optimum model for slope stability prediction using metrics, such as Accuracy, Kappa, Precision, Recall, and F1-Score. The results of the study indicated that the SHAP-based stacking EL model demonstrated outstanding predictive performance, reaching an accuracy of 96.24%, Kappa of 91.89%, Precision of 96.74%, Recall of 95.70%, and F1-Score of 96.22%. Based on the individual model accuracies, the models are ranked from highest to lowest as follows: SHAP-EL (96.24%) &amp;gt; XGBoost (94.64%) &amp;gt; RF (94.09%) &amp;gt; AdaBoost (93.55%) &amp;gt; GBM (82.80%). The findings of the study can contribute to enhancing the accuracy and reliability of soil slope predictions and can help mitigate the risks and damages associated with soil slope instability.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.18C38D2</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>16147499</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0951d766-3f01-3928-8bff-55545f08c3dc</plink>
+  <doids></doids>
+  <publisher>Springer Berlin Heidelberg</publisher>
+  <contributors>Demir, Selçuk ; Sahin, Emrehan Kutlug</contributors>
+  <coverDate>20250507</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s11356-025-36406-3</doi>
+</record>

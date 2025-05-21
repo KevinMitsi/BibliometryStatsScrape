@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>2G2</mid>
+  <language>eng</language>
+  <source>Water, Air &amp;amp; Soil Pollution</source>
+  <bookEdition></bookEdition>
+  <title>Air Quality Prediction System Using Machine Learning Models.</title>
+  <pageEnd>16</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240901</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>9</issue>
+  <identifiers></identifiers>
+  <subjects>Air quality indexes ; Particulate matter ; Air quality ; Machine learning ; Random forest algorithms</subjects>
+  <abstract>The air quality index has a severe effect on the determination of health conditions of a city. The prediction of air quality index can aid in determining the optimum route in case of traffic and it can also aid in determining the pollutants which have severe impact on human health conditions. The paper presents an air quality prediction system using various machine learning based models. The air quality index is determined by measuring the different gases present in the atmosphere. In this paper we have considered seven such parameters as concentration levels of Particulate Matter 2.5 (PM&lt;sub>2.5&lt;/sub>), Particulate Matter 10 (PM&lt;sub>10&lt;/sub>), Carbon Mono oxide (CO), Nitrogen Dioxide (NO&lt;sub>2&lt;/sub>), Ammonia (NH&lt;sub>3&lt;/sub>), Sulphur Dioxide (SO&lt;sub>2&lt;/sub>) and Ozone (O&lt;sub>3&lt;/sub>) levels for the duration between the year January 2019 to October 2023 for a crowded area of Varanasi city. The various pre processing techniques have been used in the dataset for the implementation of machine learning models. The performance of the models have been compared for the prediction of the air quality. The results show that the Random Forest and Decision Tree based model achieves the maximum accuracy of approximately 100% as compared to 98%, 95% and 93% and 79% for the SVM, Multi layer Perceptron network, KNN classification and Linear Regression.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>179438095</an>
+  <docTypes>Article</docTypes>
+  <volume>235</volume>
+  <issns>0049-6979</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=72bc2dcb-e288-37a0-99df-a307e774fd55</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Chaturvedi, Pooja</contributors>
+  <coverDate>Sep2024</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1007/s11270-024-07390-0</doi>
+</record>

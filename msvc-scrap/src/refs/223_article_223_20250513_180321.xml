@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B7M</mid>
+  <language>eng</language>
+  <source>International Journal of Computer Integrated Manufacturing</source>
+  <bookEdition></bookEdition>
+  <title>Implementing machine learning in robotic wire arc additive manufacturing for minimizing surface roughness.</title>
+  <pageEnd>270</pageEnd>
+  <pageStart>255</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial neural networks ; Aluminum rolling, drawing, extruding and alloying ; Secondary Smelting and Alloying of Aluminum ; Alumina Refining and Primary Aluminum Production ; Machine learning ; Surface roughness ; Aluminum alloys ; Random forest algorithms</subjects>
+  <abstract>Wire arc additive manufacturing (WAAM) has emerged as an important type of metal additive manufacturing technique in recent years. The most critical challenge in WAAM is to achieve the desired surface roughness of deposited layers. The improvement of surface roughness can play an important role in improving the quality of parts made using WAAM. In this study, three machine learning (ML) algorithms, such as artificial neural network (ANN), random forest (RF) and XGboost algorithm, have been used to predict the surface roughness of deposited beads. A dataset for training and testing the ML models has been obtained using a 3D optical profilometer by measuring the surface roughness of a single-layer deposited bead of aluminium alloy. The performance of ML algorithms was evaluated using statistical metrics such as mean square error (MSE), mean absolute error (MAE) and coefficient of determination (R2). Tuning of hyperparameters helped in improving the performance of ML models. Among the three ML algorithms, the XGBoost and ANN algorithms outperformed RF in predicting the roughness of WAAM deposited parts. This novel approach can help industries in the modelling of process parameters and easy implementation of WAAM with minimal resources, just with the use of real-time data.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182634130</an>
+  <docTypes>Article</docTypes>
+  <volume>38</volume>
+  <issns>0951-192X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=85241947-c237-3d12-b1f2-1767900cd25d</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Kazmi, Kashif Hasan ; Chandra, Mukesh ; Rajak, Sonu ; Sharma, Sumit K. ; Mandal, Amitava ; Das, Alok Kumar</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/0951192X.2024.2330091</doi>
+</record>

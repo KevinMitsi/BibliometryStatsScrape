@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3418-9</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE Underwater Technology (UT), Underwater Technology (UT), 2025 IEEE</source>
+  <bookEdition></bookEdition>
+  <title>Development of Detection Method for CO2 Seepage in the Ocean Using Machine Learning</title>
+  <pageEnd>4</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250302</publicationDate>
+  <pageCount>4</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Fields, Waves and Electromagnetics ; Geoscience ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Signal Processing and Analysis ; Support vector machines ; Accuracy ; Machine learning algorithms ; Oceans ; Carbon dioxide ; Classification algorithms ; Reliability ; Underwater technology ; Random forests ; Optimization ; Carbon dioxide seepage detection ; Machine learning ; Random Forest ; Carbon dioxide capture and storage (CCS)</subjects>
+  <abstract>CO 2 seepage detection from the seabed in carbon storage projects is crucial, but conventional methods based on the relationship between dissolved oxygen saturation and CO 2 partial pressure have resulted in false detections. This study aimed to develop an accurate seepage detection method using machine learning models. We collected 66 seepage data points from natural seepage in Tachibana Bay and artificial seepage off Tateyama, along with 502 non-seepage data points from the Tomakomai demonstration project and other sources. Three machine learning models-Local Outlier Factor, One Class Support Vector Machine, and Random Forest-were evaluated for performance. Random Forest demonstrated superior accuracy. While optimizing input feature combinations enabled more accurate seepage detection compared to conventional indicators, the imbalanced dataset (11.6 % seepage, 88.4 % non-seepage) remains a challenge requiring further data collection.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10947366</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9970ffe7-1861-3a47-9382-1bb950f0851e</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Matsumoto, Yuka ; Sato, Toru</contributors>
+  <coverDate>20250302</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/UT61067.2025.10947366</doi>
+</record>

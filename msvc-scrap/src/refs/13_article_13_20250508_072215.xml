@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>9I8</mid>
+  <language>eng</language>
+  <source>International Journal of Market Research</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning based methods for ratemaking health care insurance.</title>
+  <pageEnd>831</pageEnd>
+  <pageStart>810</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241101</publicationDate>
+  <pageCount>22</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial neural networks ; Insurance companies ; Insurance policies ; Health insurance ; Insurance Agencies and Brokerages ; Direct group life, health and medical insurance carriers ; Other Direct Insurance (except Life, Health, and Medical) Carriers ; Direct Health and Medical Insurance Carriers ; Direct individual life, health and medical insurance carriers ; Machine learning</subjects>
+  <abstract>In insurance, proposing an accurate premium that is adjusted to the insured risk profile allows companies to better manage their portfolios and to be more competitive. Machine learning methods have recently been adopted for various improvements in insurance ratemaking, especially in the automobile industry. These models are specifically used to mine potential data information and to build a predictive model for a variable of interest using explanatory variables. In this paper, we aim to provide a pricing method for ratemaking individual healthcare insurance contracts using machine learning algorithms that are applied to a Tunisian healthcare insurance portfolio. We start with a simple Classification and Regression Tree, and we work toward more advanced methods that are Random Forest, Extreme gradient boosting, Support Vector Regression, and Artificial Neural network regression model. The predictive performance of these non-parametric methods is compared with the standard generalized linear model. Our results showed the applicability of machine learning in the healthcare insurance market and that the XGBoost algorithm outperforms the predictive capacity of the classical generalized linear model.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>180357794</an>
+  <docTypes>Article</docTypes>
+  <volume>66</volume>
+  <issns>1470-7853</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5ad868d0-d8fc-3def-835e-60b2d9cefcd1</plink>
+  <doids></doids>
+  <publisher>Sage Publications Inc.</publisher>
+  <contributors>Ben Hamida, Amal ; Kacem, Manel ; de Peretti, Christian ; Belkacem, Lotfi</contributors>
+  <coverDate>Nov2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1177/14707853241275446</doi>
+</record>

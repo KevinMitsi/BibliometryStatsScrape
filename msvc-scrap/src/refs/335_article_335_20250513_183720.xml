@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>CONF</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>International Association for Development of the Information Society</source>
+  <bookEdition></bookEdition>
+  <title>Proposal for an Approach to Processing Media Objects Using AI and Metadata: A Machine Learning-Based Approach</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Metadata ; Educational Resources ; Educational Media ; Multimedia Materials</subjects>
+  <abstract>The use of artificial intelligence (AI) has revolutionized the organization and management of data in particular educational content on digital university platforms. The combination of AI and metadata can facilitate the management and access to educational resources and allow personalized learning experiences tailored to learners' needs. Based on the possibilities offered by AI and metadata, we propose, in this paper, a model for processing media objects using AI and metadata. Our approach is based on the use of machine learning to enrich media objects with original and extracted metadata and efficiently process media objects (images, videos, etc.) using both raw media data and associated metadata. In this study, we base use the pedagogical resources of the Cheikh Hamidou Kane Digital University's training courses. The proposed model enables us to extract contextual information, classify metadata and categorize multimedia objects for future use. The application of our model makes it possible to classify educational data by category or activity (consultation, TD, TP, project) according to pedagogical objectives; to automatically add metadata to a media object using the model; to manually annotate a media object by pedagogical actors; and finally, to create a search engine based on metadata. [For the full proceedings, see ED665357.]</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>ED665557</an>
+  <docTypes>Speeches/Meeting Papers ; Reports - Evaluative</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bd5b7ada-71e7-39af-ac54-2a8f73c4c746</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Khalifa Sylla ; Mama Amar ; Samuel Ouya</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

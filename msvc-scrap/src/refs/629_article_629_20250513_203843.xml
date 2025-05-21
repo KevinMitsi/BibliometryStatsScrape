@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>OMK</mid>
+  <language>eng</language>
+  <source>Electronic Commerce Research</source>
+  <bookEdition></bookEdition>
+  <title>What prompts consumers to purchase online? A machine learning approach.</title>
+  <pageEnd>2989</pageEnd>
+  <pageStart>2953</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>37</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Consumer behavior ; Internet sales ; Artificial intelligence ; Machine learning ; Feature selection</subjects>
+  <abstract>With e-commerce emerging as a prominent mode of purchasing, there is a pressing need for businesses across the globe to understand online consumer purchase behavior and, in particular, their purchase intention. Information on purchase behavior provides valuable insights for designing marketing activities to reach wider target audiences, promote greater customer involvement, and achieve higher investment returns. This research builds a novel algorithm for predicting the purchase intention of e-commerce website users. The dataset for the study was publically available online. Under-sampling was used to remove the imbalance in the dataset, and two-stage feature selection was applied to identify the most important consumer characteristics. Then, the greedy search and the wrapper methods were used to generate a dataset comprising the five most relevant features. Subsequently, an improved machine learning model was proposed based on stacking well-known classifiers and compared against state-of-the-art Machine Learning classifiers using various measures to evaluate its performance. Our results showed that the proposed algorithm returned the best overall accuracies for 50–50, 66–34, and 80–20 splits of the dataset. It also outperformed other classifiers in extant literature. Our findings help e-commerce sites offer their users predictive and personalized recommendations.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181831365</an>
+  <docTypes>Article</docTypes>
+  <volume>24</volume>
+  <issns>1389-5753</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=24c21b06-ef00-3204-884e-9bb5d89cf741</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Trivedi, Shrawan Kumar ; Patra, Pradipta ; Srivastava, Praveen Ranjan ; Zhang, Justin Zuopeng ; Zheng, Leven J.</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1007/s10660-022-09624-x</doi>
+</record>

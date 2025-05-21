@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781782162148 ; 9781782162155 ; 9781461949657</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning with R : R Gives You Access to the Cutting-edge Software You Need to Prepare Data for Machine Learning. No Previous Knowledge Required ‚Äì This Book Will Take You Methodically Through Every Stage of Applying Machine Learning.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20130101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Machine Theory ; COMPUTERS / Programming / Algorithms ; COMPUTERS / Mathematical &amp;amp; Statistical Software ; R (Computer program language)--Handbooks, manuals, etc ; Machine learning--Statistical methods--Handbooks, manuals, etc</subjects>
+  <abstract>R gives you access to the cutting-edge software you need to prepare data for machine learning. No previous knowledge required ‚Äì this book will take you methodically through every stage of applying machine learning.Key FeaturesHarness the power of R for statistical computing and data scienceUse R to apply common machine learning algorithms with real-world applicationsPrepare, examine, and visualize data for analysisUnderstand how to choose between machine learning modelsPacked with clear instructions to explore, forecast, and classify dataBook DescriptionMachine learning, at its core, is concerned with transforming data into actionable knowledge. This fact makes machine learning well-suited to the present-day era of'big data'and'data science'. Given the growing prominence of R‚Äîa cross-platform, zero-cost statistical programming environment‚Äîthere has never been a better time to start applying machine learning. Whether you are new to data science or a veteran, machine learning with R offers a powerful set of methods for quickly and easily gaining insight from your data.'Machine Learning with R'is a practical tutorial that uses hands-on examples to step through real-world application of machine learning. Without shying away from the technical details, we will explore Machine Learning with R using clear and practical examples. Well-suited to machine learning beginners or those with experience. Explore R to find the answer to all of your questions. How can we use machine learning to transform data into action? Using practical examples, we will explore how to prepare data for analysis, choose a machine learning method, and measure the success of the process. We will learn how to apply machine learning methods to a variety of common tasks including classification, prediction, forecasting, market basket analysis, and clustering. By applying the most effective machine learning methods to real-world problems, you will gain hands-on experience that will transform the way you think about data.'Machine Learning with R'will provide you with the analytical tools you need to quickly gain insight from complex data.What you will learnUnderstand the basic terminology of machine learning and how to differentiate among various machine learning approachesUse R to prepare data for machine learningExplore and visualize data with RClassify data using nearest neighbor methodsLearn about Bayesian methods for classifying dataPredict values using decision trees, rules, and support vector machinesForecast numeric values using linear regressionModel data using neural networksFind patterns in data using association rules for market basket analysisGroup data into clusters for segmentationEvaluate and improve the performance of machine learning modelsLearn specialized machine learning techniques for text mining, social network data, and ‚Äúbig‚Äù dataWho this book is forIntended for those who want to learn how to use R's machine learning capabilities and gain insight from your data. Perhaps you already know a bit about machine learning, but have never used R; or perhaps you know a little R but are new to machine learning. In either case, this book will get you up and running quickly. It would be helpful to have a bit of familiarity with basic programming concepts, but no prior experience is required.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>656222</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a0a5b83c-0080-33a1-8243-fd6c64e5e98f</plink>
+  <doids>NL$656222$PDF ; NL$656222$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Brett Lantz</contributors>
+  <coverDate>2013</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

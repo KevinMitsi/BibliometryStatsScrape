@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Bregman-Hausdorff divergence: strengthening the connections between computational geometry and machine learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250409</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Machine Learning ; Computer Science - Computational Geometry ; Computer Science - Information Theory</subjects>
+  <abstract>The purpose of this paper is twofold. On a technical side, we propose an extension of the Hausdorff distance from metric spaces to spaces equipped with asymmetric distance measures. Specifically, we focus on the family of Bregman divergences, which includes the popular Kullback--Leibler divergence (also known as relative entropy). As a proof of concept, we use the resulting Bregman--Hausdorff divergence to compare two collections of probabilistic predictions produced by different machine learning models trained using the relative entropy loss. The algorithms we propose are surprisingly efficient even for large inputs with hundreds of dimensions. In addition to the introduction of this technical concept, we provide a survey. It outlines the basics of Bregman geometry, as well as computational geometry algorithms. We focus on algorithms that are compatible with this geometry and are relevant for machine learning.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.07322</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=624e3dad-570c-313c-b6bd-49eb96c07429</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Pham, Tuyen ; Kouřimská, Hana Dal Poz ; Wagner, Hubert</contributors>
+  <coverDate>20250409</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Educational and Psychological Measurement</source>
+  <bookEdition></bookEdition>
+  <title>Enhancing the Detection of Social Desirability Bias Using Machine Learning: A Novel Application of Person-Fit Indices</title>
+  <pageEnd>1137</pageEnd>
+  <pageStart>1107</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>31</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Social Desirability ; Bias ; Artificial Intelligence ; Identification ; Classification ; Prediction ; Regression (Statistics) ; Measures (Individuals) ; Goodness of Fit ; Marlowe Crowne Social Desirability Scale</subjects>
+  <abstract>Social desirability bias (SDB) is a common threat to the validity of conclusions from responses to a scale or survey. There is a wide range of person-fit statistics in the literature that can be employed to detect SDB. In addition, machine learning classifiers, such as logistic regression and random forest, have the potential to distinguish between biased and unbiased responses. This study proposes a new application of these classifiers to detect SDB by considering several person-fit indices as features or predictors in the machine learning methods. The results of a Monte Carlo simulation study showed that for a single feature, applying person-fit indices directly and logistic regression led to similar classification results. However, the random forest classifier improved the classification of biased and unbiased responses substantially. Classification was improved in both logistic regression and random forest by considering multiple features simultaneously. Moreover, cross-validation indicated stable area under the curves (AUCs) across machine learning classifiers. A didactical illustration of applying random forest to detect SDB is presented.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1447247</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>84</volume>
+  <issns>0013-1644 ; 1552-3888</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=01f71de5-4863-3d5a-b643-620bbd3f4483</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Sanaz Nazari ; Walter L. Leite ; A. Corinne Huggins-Manley</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1177/00131644241255109</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>IEEE Transactions on Education</source>
+  <bookEdition></bookEdition>
+  <title>Applying Competition-Based Learning to Stimulate Students' Practical and Competitive AI Ability in a Machine Learning Curriculum</title>
+  <pageEnd>265</pageEnd>
+  <pageStart>256</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>10</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Competition ; Artificial Intelligence ; Curriculum ; Problem Solving ; Learner Engagement ; Models ; Active Learning ; Student Projects ; Electronic Learning ; Information Technology ; Knowledge Level ; College Students ; Universities ; Theory Practice Relationship</subjects>
+  <abstract>Contribution: This study incorporates competition-based learning (CBL) into machine learning courses. By engaging students in innovative problem-solving challenges within information competitions, revealing that students' participation in online problem-solving competitions can improve their information technology, and showcase competitions can enhance their competition ability. Background: The CBL model seamlessly integrates project-based learning and competition, placing a strong emphasis on both collective learning and outcomes. This approach cultivates motivation among team members, driving them to enhance their learning and translate knowledge into practical experience. Research Questions: The objective is to examine the disparities in the development of theoretical knowledge, information technology, AI practical ability, and competition ability among students participating in online problem-solving competitions and showcase competitions, and discusses the potential moderating effect of competition type on the relationships between variables in the hypothetical model. Methodology: The study involved 74 students enrolled in machine learning course at a university. The students were given theoretical knowledge and information technology pretests and posttests in the 2nd and 17th weeks, respectively. In the 18th week, the students presented their projects using slideshows and were graded by judges while also submitting their final competition proposal and slides. Findings: Students in online problem-solving competitions can enhance their information technology, while those participating in showcase competitions can improve their competitive ability. Moreover, the competition type was found to moderate the relationships among theoretical knowledge, information technology, and AI model accuracy. The findings suggest that incorporating CBL into machine learning courses effectively cultivates students' AI practical and competitive abilities.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1420124</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>67</volume>
+  <issns>0018-9359 ; 1557-9638</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d9fec258-9f39-3501-a285-2f471799a665</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Hui-Tzu Chang ; Chia-Yu Lin</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1109/TE.2024.3350535</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Advanced IoT and Machine Learning System for Real-Time Crop and Fertilizer Recommendation</title>
+  <pageEnd>28</pageEnd>
+  <pageStart>21</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Accuracy ; Machine learning algorithms ; Crops ; Soil ; Boosting ; Sensor systems ; Real-time systems ; Sensors ; Sustainable development ; Fertilizers ; Precision Agriculture ; IoT Sensors ; Machine Learning ; Soil Nutrient Monitoring ; Crop Recommendation Systems ; Fertilizer recommendation</subjects>
+  <abstract>The integration of Internet of Things (IoT) and Machine Learning (ML) technology has the capacity to transform agriculture via the improvement of precision agricultural methods. The proposed research work explores integration of IoT and ML in field of crop and fertilizer recommendation. Proposed system's primary goal is to develop predictive models for determining the appropriate crop and fertilizer types based on various environmental and soil features. Using ML techniques, this research work aims to recommend the best crop and fertilizer combinations to optimize agricultural yield and sustainability. The collected data of IoT sensors give immediate soil health information, while ML algorithms analyze this data to recommends the most suitable crops and suggests the appropriate fertilizers. This integration promises to enhance agricultural productivity and sustainability through data-oriented decision taking and resource efficient utilization. The proposed system has used four ML models as Random Forest, Gradient Boosting, CatBoost, and XGBoost for predictions by using precision, recall, accuracy and F1 score. The obtained results shows that best accuracy value among the models for recommending crop is 0.9909 and for recommending fertilizer is 0.9886.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10968101</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6c8b4f9e-2326-3ced-9dca-dfffad7f18ba</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Khemnar, Vijaya R. ; Bendre, Mininath R. ; Kolekar, Vikas K.</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10968101</doi>
+</record>

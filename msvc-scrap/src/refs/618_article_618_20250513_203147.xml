@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Identification and validation of a novel machine learning model for predicting severe pelvic endometriosis: A retrospective study.</title>
+  <pageEnd>12</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250419</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; DISEASE risk factors ; TRANSVAGINAL ultrasonography ; RANDOM forest algorithms ; ENDOMETRIOSIS</subjects>
+  <abstract>This study aimed to explore potential risk factors for severe endometriosis and to develop a model to predict the risk of severe endometriosis. A total of 308 patients with endometriosis were analyzed. Least absolute shrinkage and selection operator (LASSO) was performed to identify the potential risk factors for severe endometriosis. Then, we used seven machine learning (ML) algorithms to construct the predictive models. Finally, SHapley Additive exPlanations (SHAP) interpretation was performed to evaluate the contributions of each factor to risk prediction. About 59.2% (183/308) of patients were diagnosed with severe endometriosis. The random forest (RF) model performed best in discriminative ability among the seven ML models, achieving an area under the curve (AUC) of 0.744. After reducing features according to feature importance rank, an explainable final RF model was established with six features. From the SHAP map, we found that the negative sliding sign had the greatest impact on the diagnostic performance of the RF model. This study provided a personalized risk assessment for the development of severe endometriosis, which may enable early identification of high-risk patients, facilitating timely intervention and optimized treatment strategies.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184607539</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=59134595-4a1e-3651-abba-64b8b04840f6</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Cao, Siqi ; Li, Xingzhe ; Zheng, Xin ; Zhang, Jiaxin ; Ji, Ziyao ; Liu, Yanjun</contributors>
+  <coverDate>4/19/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-96093-5</doi>
+</record>

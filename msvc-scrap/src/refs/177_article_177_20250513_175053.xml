@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>International Online Journal of Primary Education</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning for Enhanced Classroom Homogeneity in Primary Education</title>
+  <pageEnd>52</pageEnd>
+  <pageStart>33</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>20</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Elementary School Students ; Grade 1 ; Teaching Methods ; Supervision ; Classes (Groups of Students) ; Classroom Techniques ; Learning Strategies ; Artificial Intelligence ; Technology Uses in Education ; Student Placement ; Foreign Countries ; Turkey</subjects>
+  <abstract>A homogeneous distribution of students in a class is accepted as a key factor for overall success in primary education. A class of students with similar attributes normally increases academic success. It is also a fact that general academic success might be lower in some classes where students have different intelligence and academic levels. In this study, a class distribution model is proposed by using some data science algorithms over a small number of students' dataset. With unsupervised and semi-supervised learning methods in machine learning and data mining, a group of students is equally distributed to classes, taking into account some criteria. This model divides a group of students into clusters by the considering students' different qualitative and quantitative characteristics. A draft study is carried out by predicting the effectiveness and efficiency of the presented approaches. In addition, some process elements such as quantitative and qualitative characteristics of a student, data acquisition style, digitalization of attributes, and creating a future prediction are also included in this study. Satisfactory and promising experimental results are received using a set of algorithms over collected datasets for classroom scenarios. As expected, a clear and concrete evaluation between balanced and unbalanced class distributions cannot be performed since these two scenarios for the class distributions cannot be applicable at the same time.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1420351</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>13</volume>
+  <issns>1300-915X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=47d60743-d1a7-32a6-88e5-a3bca4fb4e9f</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Faruk Bulut ; I?lknur Dönmez ; I?brahim Furkan I?nce ; Pavel Petrov</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

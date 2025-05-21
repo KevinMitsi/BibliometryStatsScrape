@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Task relevant autoencoding enhances machine learning for human neuroscience.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250108</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Autoencoder ; Dimensionality reduction ; Human neuroscience ; MVPA ; Machine learning ; Task-relevant representation ; fMRI ; Humans ; Machine Learning ; Magnetic Resonance Imaging ; Neurosciences ; Brain ; Algorithms ; Brain Mapping</subjects>
+  <abstract>In human neuroscience, machine learning can help reveal lower-dimensional neural representations relevant to subjects behavior. However, state-of-the-art models typically require large datasets to train, and so are prone to overfitting on human neuroimaging data that often possess few samples but many input dimensions. Here, we capitalized on the fact that the features we seek in human neuroscience are precisely those relevant to subjects behavior rather than noise or other irrelevant factors. We thus developed a Task-Relevant Autoencoder via Classifier Enhancement (TRACE) designed to identify behaviorally-relevant target neural patterns. We benchmarked TRACE against a standard autoencoder and other models for two severely truncated machine learning datasets (to match the data typically available in functional magnetic resonance imaging [fMRI] data for an individual subject), then evaluated all models on fMRI data from 59 subjects who observed animals and objects. TRACE outperformed alternative models nearly unilaterally, showing up to 12% increased classification accuracy and up to 56% improvement in discovering cleaner, task-relevant representations. These results showcase TRACEs potential for a wide variety of data related to human behavior.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt2xh0x1ff</an>
+  <docTypes>article</docTypes>
+  <volume>15</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0d998ff5-81d9-3f17-9518-69d81e4ee4a9</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Orouji, Seyedmehdi ; Taschereau-Dumouchel, Vincent ; Cortese, Aurelio ; Odegaard, Brian ; Cushing, Cody ; Cherkaoui, Mouslim ; Kawato, Mitsuo ; Lau, Hakwan ; Peters, Megan</contributors>
+  <coverDate>20250108</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

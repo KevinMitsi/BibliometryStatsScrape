@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Educational and Psychological Measurement</source>
+  <bookEdition></bookEdition>
+  <title>Multimodal Data Fusion to Detect Preknowledge Test-Taking Behavior Using Machine Learning</title>
+  <pageEnd>779</pageEnd>
+  <pageStart>753</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240801</publicationDate>
+  <pageCount>27</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Prior Learning ; Testing ; Behavior ; Artificial Intelligence ; Data Use ; Decision Making ; Biofeedback ; Behavior Patterns ; Psychometrics ; Item Response Theory ; Time Perspective ; Computer Assisted Testing ; Cheating ; Information Technology</subjects>
+  <abstract>In various fields, including college admission, medical board certifications, and military recruitment, high-stakes decisions are frequently made based on scores obtained from large-scale assessments. These decisions necessitate precise and reliable scores that enable valid inferences to be drawn about test-takers. However, the ability of such tests to provide reliable, accurate inference on a test-taker's performance could be jeopardized by aberrant test-taking practices, for instance, practicing real items prior to the test. As a result, it is crucial for administrators of such assessments to develop strategies that detect potential aberrant test-takers after data collection. The aim of this study is to explore the implementation of machine learning methods in combination with multimodal data fusion strategies that integrate bio-information technology, such as eye-tracking, and psychometric measures, including response times and item responses, to detect aberrant test-taking behaviors in technology-assisted remote testing settings.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1432640</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>84</volume>
+  <issns>0013-1644 ; 1552-3888</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a6f2b6b7-e4f8-37e6-a490-6693b0d7211a</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Kaiwen Man</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1177/00131644231193625</doi>
+</record>

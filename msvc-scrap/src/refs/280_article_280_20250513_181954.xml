@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>AERA Open</source>
+  <bookEdition></bookEdition>
+  <title>Addressing Threats to Validity in Supervised Machine Learning: A Framework and Best Practices for Education Researchers</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Validity ; Artificial Intelligence ; Models ; Best Practices ; Educational Researchers ; Risk ; Barriers ; Algorithms ; Evaluation Methods ; Prediction ; Inferences ; Bias</subjects>
+  <abstract>Given the rapid adoption of machine learning methods by education researchers, and the growing acknowledgment of their inherent risks, there is an urgent need for tailored methodological guidance on how to improve and evaluate the validity of inferences drawn from these methods. Drawing on an integrative literature review and extending a well-known framework for theorizing validity in the social sciences, this article provides both an overview of threats to validity in supervised machine learning and plausible approaches for addressing such threats. It collates a list of current best practices, brings supervised learning challenges into a unified conceptual framework, and offers a straightforward reference guide on crucial validity considerations. Finally, it proposes a novel research protocol for researchers to use during project planning and for reviewers and scholars to use when evaluating the validity of supervised machine learning applications.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1455470</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>10</volume>
+  <issns>2332-8584</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f5d6b380-fc7a-3666-9fde-569b75772c9b</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Kylie Anglin</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

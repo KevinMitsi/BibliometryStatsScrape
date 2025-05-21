@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BKEG</mid>
+  <language>eng</language>
+  <source>Alexandria Engineering Journal</source>
+  <bookEdition></bookEdition>
+  <title>The role of social work in enhancing social governance: Policy, law, practice, and integration of machine learning for improved outcomes.</title>
+  <pageEnd>215</pageEnd>
+  <pageStart>208</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250415</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Other Individual and Family Services ; Machine learning ; Feature selection ; Social work students ; Social services ; Support vector machines</subjects>
+  <abstract>Social workers need political and policy skills to promote social justice and systemic change. To build these abilities, one must understand the factors that drive political and policy engagement. This study employed mutual information to identify key factors affecting political and policy practice among social work students, focusing analysis on the most important factors. After feature selection, a refined dataset was subjected to machine learning models, such as the standard support vector machine (SVM), ordinal logistic regression (OLR), and ordinal random forest (ORF). The results indicate that the SVM obtains the highest accuracy of 91.38%, with OLR and ORF following closely behind at 91.00% and 89.63%, respectively. These findings indicate that the standard SVM is particularly well-suited for this dataset because of its capacity to establish optimal decision boundaries for the classification of political and policy engagement levels. Despite its somewhat lower accuracy, the ORF is a competitive option, while the OLR captures ordinal connections well using interpretability. Predictive modeling can improve teaching methodologies and focus interventions to encourage political and policy practice among social work students, according to the study. This project provides data-driven insights to educators and policymakers to improve student political and policy engagement.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184601747</an>
+  <docTypes>Article</docTypes>
+  <volume>118</volume>
+  <issns>1110-0168</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a9011509-4143-3c64-bff9-feb3478a7ea7</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Li, Xu ; Xue, Peng</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.1016/j.aej.2025.01.002</doi>
+</record>

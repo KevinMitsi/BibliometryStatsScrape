@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781788390040 ; 9781788398893</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Solutions : Expert Techniques to Tackle Complex Machine Learning Problems Using Python</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20180101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Information Technology ; COMPUTERS / Data Science / Neural Networks ; Machine learning ; Python</subjects>
+  <abstract>Practical, hands-on solutions in Python to overcome any problem in Machine Learning Key FeaturesMaster the advanced concepts, methodologies, and use cases of machine learningBuild ML applications for analytics, NLP and computer vision domainsSolve the most common problems in building machine learning modelsBook DescriptionMachine learning (ML) helps you find hidden insights from your data without the need for explicit programming. This book is your key to solving any kind of ML problem you might come across in your job. You'll encounter a set of simple to complex problems while building ML models, and you'll not only resolve these problems, but you'll also learn how to build projects based on each problem, with a practical approach and easy-to-follow examples. The book includes a wide range of applications: from analytics and NLP, to computer vision domains. Some of the applications you will be working on include stock price prediction, a recommendation engine, building a chat-bot, a facial expression recognition system, and many more. The problem examples we cover include identifying the right algorithm for your dataset and use cases, creating and labeling datasets, getting enough clean data to carry out processing, identifying outliers, overftting datasets, hyperparameter tuning, and more. Here, you'll also learn to make more timely and accurate predictions. In addition, you'll deal with more advanced use cases, such as building a gaming bot, building an extractive summarization tool for medical documents, and you'll also tackle the problems faced while building an ML model. By the end of this book, you'll be able to fine-tune your models as per your needs to deliver maximum productivity. What you will learnSelect the right algorithm to derive the best solution in ML domainsPerform predictive analysis effciently using ML algorithmsPredict stock prices using the stock index valuePerform customer analytics for an e-commerce platformBuild recommendation engines for various domainsBuild NLP applications for the health domainBuild language generation applications using different NLP techniquesBuild computer vision applications such as facial emotion recognitionWho this book is forThis book is for the intermediate users such as machine learning engineers, data engineers, data scientists, and more, who want to solve simple to complex machine learning problems in their day-to-day work and build powerful and efficient machine learning models. A basic understanding of the machine learning concepts and some experience with Python programming is all you need to get started with this book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1804693</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f627d920-297d-37b5-896e-cda46387b1ff</plink>
+  <doids>NL$1804693$PDF ; NL$1804693$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Jalaj Thanaki</contributors>
+  <coverDate>2018</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-4-907764-85-2</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 SICE International Symposium on Control Systems (SICE ISCS), Control Systems (SICE ISCS), 2025 SICE International Symposium on</source>
+  <bookEdition></bookEdition>
+  <title>Enhancement of Beam Switching in Single Element Antenna Using Machine Learning</title>
+  <pageEnd>80</pageEnd>
+  <pageStart>76</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250303</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Aerospace ; Bioengineering ; Components, Circuits, Devices and Systems ; Computing and Processing ; General Topics for Engineers ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Signal Processing and Analysis ; Transportation ; Wireless communication ; Machine learning algorithms ; Accuracy ; Linear regression ; Switches ; Microstrip antennas ; Directive antennas ; Prediction algorithms ; Microstrip ; Random forests ; Machine learning ; Microstrip antenna ; Switch beam ; Single element ; Computation method</subjects>
+  <abstract>This paper presents the design of a single circular microstrip antenna that operates at a frequency of 2.6 GHz, which is one of the frequencies used in 5G wireless communications. The antenna is capable of beam switching in eight directions and incorporates machine learning techniques into its design. This integration aids in predicting the main beam direction and the return loss. The input parameters include the distance between short circuit points, the number of short circuit holes, the short circuit direction, and the radius from the center to the position of the short-circuit holes. The output parameters consist of the main beam direction and the return loss, which are essential for the antenna's beam switching functionality. A total of 140 data sets were collected from the antenna designs in the CST Studio Suite, which were used to predict the main beam direction and the return loss. Four machine learning algorithms were applied for prediction: Gradient Regression, Lasso Regression, Linear Regression, and Random Forest. The results from these four algorithms were compared to determine which provided the best outcomes for predicting the main beam direction and the return loss. Among all the algorithms tested, the Random Forest algorithm yielded the best results.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10947648</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=26032948-1e3a-3a03-ac82-d7c68fd448df</plink>
+  <doids></doids>
+  <publisher>The Society of Instrument and Control Engineers</publisher>
+  <contributors>Sangchan, Kanyapat ; Chaipanya, Pichaya</contributors>
+  <coverDate>20250303</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.23919/SICEISCS65372.2025.10947648</doi>
+</record>

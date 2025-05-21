@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Chemical Thermodynamics and Thermal Analysis</source>
+  <bookEdition></bookEdition>
+  <title>Predicting the heat capacity of strontium-praseodymium oxysilicate SrPr4(SiO4)3O using machine learning, deep learning, and hybrid models</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Heat capacity ; Apatite ; Deep learning ; Hybrid models</subjects>
+  <abstract>Highlights •ML/DL models accurately predict the specific heat capacity of SrPr4(SiO4)3O.•A hybrid model combining RF and DBN models outperforms other ones in accuracy.•The application of machine/deep learning in thermophysical property prediction.•The hybrid model gives an RMSE of 0.47 and R2 of 0.9999 in heat capacity prediction.•The leverage method validated the integrity of the data used and hybrid model.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2667312624000270</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>2667-3126</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bfff66e3-dc75-3c4b-a50b-264ef371d424</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Sheikhshoaei, Amir Hossein ; Khoshsima, Ali ; Zabihzadeh, Davood</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.ctta.2024.100154</doi>
+</record>

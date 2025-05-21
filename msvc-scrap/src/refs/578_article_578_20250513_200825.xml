@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Journal of Electronic Materials</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Accelerated Enhanced Power Conversion Efficiency in FASnI&lt;sub>3&lt;/sub> Perovskite Solar Cell: Machine Learning Accelerated Enhanced Power Conversion Efficiency in FASnI&lt;sub>3&lt;/sub>…</title>
+  <pageEnd>12</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250510</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations>New York</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Br16NiPc ; FASnI3 ; Cs doping ; linear regression ; random forest regression ; artificial neural network</subjects>
+  <abstract>Lead-free metal halide perovskite FASnI&lt;sub>3&lt;/sub> is a promising material considering its outstanding optoelectronic properties, low toxicity, and possible cost-effective solution-processable approaches. However, optimization of the material to achieve high power conversion efficiency (PCE) and material stability still remains an experimentally challenging task. In this work, a novel approach is employed to reduce the experimental burden using machine learning (ML) algorithms. The ML-assisted approach establishes a critical framework for future experiments by efficiently narrowing the search space and providing key material optimization parameters while eliminating the need for time-consuming, labor-intensive, and costly trial-and-error methods. Here, the target variable PCE of the solar cell is optimized by tuning various features (input parameters) of the perovskite using ML algorithms, namely, linear regression, random forest regression, and an artificial neural network. Two datasets are generated using simulation software, and the random forest regression algorithm proves to be the most efficient for both sets, achieving the highest training and testing accuracies of 100%, 99.8535%, and 100%, 99.9948% for the first and second datasets, respectively. Therefore, random forest is chosen for further in-depth material characterization. A decision tree is made after reducing the dataset, and through decision tree analysis, the ranges of features that optimized the device efficiency up to 25.399% are determined by analyzing inequalities labeled on each consecutive node. The ranges are: 0.785–3.578%, 1.400–1.408 eV, 8.5 × 10&lt;sup>16&lt;/sup>–10&lt;sup>17&lt;/sup> cm&lt;sup>−3&lt;/sup>, and 10&lt;sup>14&lt;/sup>−1.26 × 10&lt;sup>14&lt;/sup> cm&lt;sup>−3&lt;/sup> for Cs doping (%), bandgap (&lt;i>E&lt;/i>&lt;sub>g&lt;/sub>), acceptor density (&lt;i>N&lt;/i>&lt;sub>A&lt;/sub>), and defect density (&lt;i>N&lt;/i>&lt;sub>t&lt;/sub>), respectively. Shapley additive explanations (SHAP) analysis confirms which feature in what range contributes positively towards the PCE, which overlaps quite well with the predicted ranges of the decision tree. Further tuning the thickness of the absorber (perovskite) layer to 1.55 µm enhances the device performance, as PCE, current density (&lt;i>J&lt;/i>&lt;sub>sc&lt;/sub>), open-circuit voltage (&lt;i>V&lt;/i>&lt;sub>oc&lt;/sub>), and fill factor (FF) attain improved values of 25.62%, 32.16 mA cm&lt;sup>−2&lt;/sup>, 1.17 V, and 68.11%, respectively. This optimized PCE is around 15% higher than the PCE of an unoptimized device.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.A29296C3</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>03615235 ; 1543186X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3f41859d-04ca-3401-a098-d8a0a57b0dc0</plink>
+  <doids></doids>
+  <publisher>Springer US</publisher>
+  <contributors>Pandya, Jugal T. ; Mundupuzhakal, J. ; Gajjar, P. N. ; Gupta, Sanjeev K.</contributors>
+  <coverDate>20250510</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s11664-025-11943-2</doi>
+</record>

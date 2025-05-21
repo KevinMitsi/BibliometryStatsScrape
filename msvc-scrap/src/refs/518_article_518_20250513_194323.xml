@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Journal of Magnetic Resonance Imaging</source>
+  <bookEdition></bookEdition>
+  <title>Preoperative Differentiation of HER2‐Zero and HER2‐Low from HER2‐Positive Invasive Ductal Breast Cancers Using BI‐RADS MRI Features and Machine Learning Modeling</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Biomedical and Clinical Sciences ; Oncology and Carcinogenesis ; Women's Health ; Cancer ; Clinical Research ; Machine Learning and Artificial Intelligence ; Breast Cancer ; Networking and Information Technology R&amp;amp;D (NITRD) ; Biomedical Imaging ; Bioengineering ; Humans ; Female ; Breast Neoplasms ; Machine Learning ; Magnetic Resonance Imaging ; Retrospective Studies ; Middle Aged ; Receptor ; ErbB-2 ; Carcinoma ; Ductal ; Breast ; Adult ; Aged ; Breast ; Image Interpretation ; Computer-Assisted ; Reproducibility of Results ; Algorithms ; ROC Curve ; breast cancer ; HER2 positive ; HER2 low ; magnetic resonance imaging ; Receptor ; erbB-2 ; Physical Sciences ; Engineering ; Medical and Health Sciences ; Nuclear Medicine &amp;amp; Medical Imaging ; Clinical sciences</subjects>
+  <abstract>BackgroundAccurate determination of human epidermal growth factor receptor 2 (HER2) is important for choosing optimal HER2 targeting treatment strategies. HER2-low is currently considered HER2-negative, but patients may be eligible to receive new anti-HER2 drug conjugates.PurposeTo use breast MRI BI-RADS features for classifying three HER2 levels, first to distinguish HER2-zero from HER2-low/positive (Task-1), and then to distinguish HER2-low from HER2-positive (Task-2).Study typeRetrospective.Population621 invasive ductal cancer, 245 HER2-zero, 191 HER2-low, and 185 HER2-positive. For Task-1, 488 cases for training and 133 for testing. For Task-2, 294 cases for training and 82 for testing.Field strength/sequence3.0 T; 3D T1-weighted DCE, short time inversion recovery T2, and single-shot EPI DWI.AssessmentPathological information and BI-RADS features were compared. Random Forest was used to select MRI features, and then four machine learning (ML) algorithms: decision tree (DT), support vector machine (SVM), k-nearest neighbors (k-NN), and artificial neural nets (ANN), were applied to build models.Statistical testsChi-square test, one-way analysis of variance, and Kruskal-Wallis test were performed. The P values </abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt9p77z37t</an>
+  <docTypes>article</docTypes>
+  <volume>61</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=073ef3b4-1945-35b8-9d6d-60d0982ee6b9</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Zhou, Jiejie ; Zhang, Yang ; Miao, Haiwei ; Yoon, Ga Young ; Wang, Jinhao ; Lin, Yezhi ; Wang, Hailing ; Liu, Yan‐Lin ; Chen, Jeon‐Hor ; Pan, Zhifang ; Su, Min‐Ying ; Wang, Meihao</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

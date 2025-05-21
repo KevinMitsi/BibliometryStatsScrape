@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3183-6</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 7th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), Radio Electronics, Electrical and Power Engineering (REEPE), 2025 7th International Youth Conference on</source>
+  <bookEdition></bookEdition>
+  <title>A Nash Equilibrium Prediction for Commodity Markets Using Machine Learning Methods</title>
+  <pageEnd>6</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Components, Circuits, Devices and Systems ; Computing and Processing ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Nuclear Engineering ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Transportation ; Training ; Biological system modeling ; Search methods ; Machine learning ; Nash equilibrium ; Regulation ; Standards ; Optimization ; Investment ; Synthetic data ; optimization ; machine learning ; market systems ; market modeling</subjects>
+  <abstract>This paper studies the use of machine learning methods to predict the state of commodity markets in conditions where Nash equilibrium has been achieved, given market dynamics and limited access to market information. It examines the structure of commodity markets that considers each player's desire to maximize their profits, taking market conditions into account. The paper uses a developed Nash equilibrium search algorithm for the market structure presented to create a synthetic dataset for training models. By applying game theory and economic modeling, insight into competitive dynamics and strategic interactions among players is gained. The results of the experiments demonstrate the practical importance of the proposed approach for developing market and investment strategies, optimizing subsidy programs, and more.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10971038</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>28317262</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8e54ed85-bc29-3ddc-98c5-8c34fdd99c4c</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Meshcheryakov, Anton A. ; Khamisov, Oleg O.</contributors>
+  <coverDate>20250408</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/REEPE63962.2025.10971038</doi>
+</record>

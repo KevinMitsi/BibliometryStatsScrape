@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Prediction of Customer Satisfaction using Machine Learning Algorithms: Perspectives of Service and Operational Factors in Airline Industry</title>
+  <pageEnd>308</pageEnd>
+  <pageStart>302</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>7</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Machine learning algorithms ; Correlation ; Customer satisfaction ; Entertainment industry ; Aging ; Boosting ; Real-time systems ; Delays ; Random forests ; Airline industry ; Machine learning ; Service quality ; Operational efficiency ; Predictive analytics ; Gradient Boosting</subjects>
+  <abstract>Customer satisfaction in the airline industry is influenced by demographic, service-related, and operational factors. As competition grows and passenger expectations evolve, understanding these determinants is crucial for improving service quality and loyalty. This study uses machine learning algorithms to analyze key drivers of customer satisfaction and derive actionable insights. It employs techniques such as Logistic Regression, Gaussian Naive Bayes, Gradient Boosting, K-Nearest Neighbors, and Random Forest classifiers. Among these, Gradient Boosting and Random Forest achieved the highest predictive accuracy, with AUC scores of 0.99 and 0.9937. A strong correlation (0.97) between departure and arrival delays highlights the importance of punctuality. Inflight services like entertainment and legroom, especially on long-haul flights, significantly enhance satisfaction. Demographic analysis shows passengers aged 40+ report higher satisfaction, emphasizing the need for tailored service strategies, while younger passengers (20-40) show lower satisfaction, indicating a need for personalized engagement. These findings provide a data-driven foundation for improving airline operations and service delivery. Future research should integrate real-time data for more adaptive service improvements.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10967762</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=629fd10e-1b8f-37a3-ba30-840fb439d51f</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Fathima, N. Shafrin ; Ajithkumar, K. ; Suganthi, P. ; Kumar, V. Srinivasa</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10967762</doi>
+</record>

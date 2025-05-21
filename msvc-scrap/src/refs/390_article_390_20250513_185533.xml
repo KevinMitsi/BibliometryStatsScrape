@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-1579-9 ; 979-8-3315-1578-2</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 24th International Symposium INFOTEH-JAHORINA (INFOTEH), INFOTEH-JAHORINA (INFOTEH), 2025 24th International Symposium</source>
+  <bookEdition></bookEdition>
+  <title>Enhancing the Performance of Machine Learning Classification Models</title>
+  <pageEnd>6</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250319</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Bioengineering ; Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Signal Processing and Analysis ; Support vector machines ; Accuracy ; Machine learning algorithms ; Data preprocessing ; Hyperparameter optimization ; Data models ; Bayes methods ; Classification algorithms ; Numerical models ; Decision trees ; Machine Learning ; Naive Bayes ; Decision Trees ; SVM ; MLP</subjects>
+  <abstract>This study aims to compare and improve the performance of four different machine learning algorithms (Naive Bayes, Multi-Layer Perceptron (MLP), Decision Trees, and Support Vector Machines (SVM)) in classification problems. The analyses emphasize the impact of data preprocessing steps and hyperparameter optimization on model performance. As part of the data preprocessing, missing values were imputed, categorical data were transformed into numerical data, and normalization procedures were applied. It was observed that normalization significantly enhanced the performance of the MLP and SVM algorithms in particular. Furthermore, additional improvements in accuracy rates were achieved through hyperparameter optimization. Naive Bayes and Decision Trees were found to exhibit stable performance regardless of data scaling. This study demonstrates that proper data preprocessing and model selection can significantly enhance algorithm performance in classification problems.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10959301</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>27679470</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bdae508e-2403-3cfb-ae0a-95f9f7bdeb93</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Akpinar, Cihat Talat ; Kosar, Ozcan ; Durdu, Akif</contributors>
+  <coverDate>20250319</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/INFOTEH64129.2025.10959301</doi>
+</record>

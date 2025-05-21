@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Advanced science (Weinheim, Baden-Wurttemberg, Germany)</source>
+  <bookEdition></bookEdition>
+  <title>Bimodal In Situ Analyzer for Circular RNA in Extracellular Vesicles Combined with Machine Learning for Accurate Gastric Cancer Detection.</title>
+  <pageEnd></pageEnd>
+  <pageStart>e2409202</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Germany</publisherLocations>
+  <issue>15</issue>
+  <identifiers></identifiers>
+  <subjects>Stomach Neoplasms diagnosis ; Stomach Neoplasms genetics ; RNA, Circular analysis ; RNA, Circular genetics ; Extracellular Vesicles genetics ; Extracellular Vesicles metabolism ; Machine Learning ; Humans ; Biomarkers, Tumor genetics ; Biomarkers, Tumor analysis ; Early Detection of Cancer methods ; Male ; Female</subjects>
+  <abstract>Circular RNAs in extracellular vesicles (EV-circRNAs) are gaining recognition as potential biomarkers for the diagnosis of gastric cancer (GC). Most current research is focused on identifying new biomarkers and their functional significance in disease regulation. However, the practical application of EV-circRNAs in the early diagnosis of GC is yet to be thoroughly explored due to the low accuracy of EV-circRNAs analysis. In this study, a hybridization chain reaction system based on rectangular DNA framework guidance and constructing a bimodal EV-circRNA in situ analyzer (BEISA) is developed. The analyzer can provide dual signal outputs in the fluorescence and electrochemical modes, enabling a self-correcting detection mechanism that significantly improves the accuracy of the assay. It has a broad detection range and an extremely low limit of detection. In a clinical cohort study, the BEISA used four circRNAs as biomarkers, combining them with machine learning for multiparametric analysis, which effectively differentiated between healthy donors and patients with early-stage GC. It is believed that the BEISA, in conjunction with machine learning technology, provides an efficient, sensitive, and reliable tool for EV-circRNA analysis, aiding in the early diagnosis of GC.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>39823497</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>12</volume>
+  <issns>2198-3844 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e76e63d5-9584-3c33-9b08-fb2556b7ddea</plink>
+  <doids></doids>
+  <publisher>WILEY-VCH</publisher>
+  <contributors>Guo, Yuhang ; Luo, Shihua ; Liu, Sinian ; Yang, Chao ; Lv, Weifeng ; Liang, Yuxin ; Ji, Tingting ; Li, Wenbin ; Liu, Chunchen ; Li, Xin ; Zheng, Lei ; Zhang, Ye</contributors>
+  <coverDate>2025 Apr</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1002/advs.202409202</doi>
+</record>

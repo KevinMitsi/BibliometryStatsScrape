@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Biological Psychiatry Global Open Science</source>
+  <bookEdition></bookEdition>
+  <title>The Transition From Homogeneous to Heterogeneous Machine Learning in Neuropsychiatric Research</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Biological Psychology ; Psychology ; Clinical Research ; Behavioral and Social Science ; Machine Learning and Artificial Intelligence ; Basic Behavioral and Social Science ; Brain Disorders ; Neurosciences ; Networking and Information Technology R&amp;amp;D (NITRD) ; Mental Health ; 4.1 Discovery and preclinical testing of markers and technologies ; 2.1 Biological and endogenous factors ; Mental health ; Brain-behavior mapping ; Heterogeneity ; Machine Learning ; Neuroimaging</subjects>
+  <abstract>Despite the advantage of neuroimaging-based machine learning (ML) models as pivotal tools for investigating brain-behavior relationships in neuropsychiatric studies, these data-driven predictive approaches have yet to yield substantial, clinically actionable insights for mental health care. A notable impediment lies in the inadequate accommodation of most ML research to the natural heterogeneity within large samples. Although commonly thought of as individual-level analyses, many ML algorithms are unimodal and homogeneous and thus incapable of capturing the potentially heterogeneous relationships between biology and psychopathology. We review the current landscape of computational research targeting population heterogeneity and argue that there is a need to expand from brain subtyping and behavioral phenotyping to analyses that focus on heterogeneity at the relational level. To this end, we review and suggest several existing ML models with the capacity to discern how external environmental and sociodemographic factors moderate the brain-behavior mapping function in a data-driven fashion. These heterogeneous ML models hold promise for enhancing the discovery of individualized brain-behavior associations and advancing precision psychiatry.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt8sf338hd</an>
+  <docTypes>article</docTypes>
+  <volume>5</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b42c1b12-129c-3002-a5c6-c0117c33a197</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Zhao, Qingyu ; Nooner, Kate B ; Tapert, Susan F ; Adeli, Ehsan ; Pohl, Kilian M ; Kuceyeski, Amy ; Sabuncu, Mert R</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

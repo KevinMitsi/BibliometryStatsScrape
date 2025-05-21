@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Computational Economics</source>
+  <bookEdition></bookEdition>
+  <title>Technical Analysis and Machine Learning Applied to the Short-Term Electricity Trading Market: Italian and Brazilian Cases: Technical Analysis and Machine Learning Applied to the Short-Term</title>
+  <pageEnd>24</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250425</publicationDate>
+  <pageCount>24</pageCount>
+  <publisherLocations>New York</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Energy market ; Futures market ; Trading signals</subjects>
+  <abstract>Machine learning methods with technical analysis indicators have gained traction, aiming to enhance decision-making within energy trading companies. This research assesses the effectiveness of several machine learning models, including linear regression, logistic regression, XGBoost, light gradient boosting machine, random forests, Gaussian naive Bayes and support vector machines considering Sharpe index, accuracy, F1 score, Mean Squared Error, and Root Mean Squared Error metrics. Due to this assessment, we propose a hybrid model that shows a 70% accuracy in generating buy and sell signals, achieving a 13 logarithmic return over 350 trading days. We used Brazilian and Italian electricity market datasets to check the integrity of the proposed model. This research contributes to more informed and effective decision-making in the power trading market.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.312DC03C</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>09277099 ; 15729974</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fdbdfb3a-af1e-3478-b311-a017d813f387</plink>
+  <doids></doids>
+  <publisher>Springer US</publisher>
+  <contributors>Piovezan, Raphael Paulo Beal ; de Andrade Junior, Pedro Paulo ; Ávila, Sérgio Luciano ; dos Santos, Erinaldo Farias</contributors>
+  <coverDate>20250425</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10614-025-10944-x</doi>
+</record>

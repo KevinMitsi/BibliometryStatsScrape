@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-4237-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 International Conference on Automation and Computation (AUTOCOM), Automation and Computation (AUTOCOM), 2025 International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Based Channel Estimation Techniques for 5G Communications</title>
+  <pageEnd>612</pageEnd>
+  <pageStart>607</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250304</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineering Profession ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Wireless communication ; Support vector machines ; Maximum likelihood estimation ; Accuracy ; Machine learning algorithms ; 5G mobile communication ; Channel estimation ; Training data ; Throughput ; Low latency communication ; High Demand ; Low Latency ; Conventional ; Strong Computational ; Better Channel</subjects>
+  <abstract>There has been a high demand for efficient and accurate channel estimation techniques to satisfy the need for 5G, which is moving towards high data rates and low latency applications. Most of the conventional methods, like Least Squares (LS) and Minimum Mean Square Error (MMSE), have yet to be able to meet these requirements. Due to this, an increase in the popularity of Machine Learning (ML) based channel estimation for 5G communications can be seen. Instead of using mathematical models, the ML-based channel estimation techniques make use of the strong computational power of ML algorithms to learn the behavior of the channel from training data. These techniques have been shown to be superior in accuracy and efficiency compared to classic methods, thus allowing better channel estimation and, as a result, a performance improvement at the system level. Additionally, due to the flexibility of ML-based methods, they can adapt to time-variant channel conditions and decrease computational complexity. Abstract: This paper discusses the different Machine Learning ML-based channel estimation techniques for 5G communications, which include deep learning approaches like neural network implementation, support vector machines, and Reinforcement learning.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10956837</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=301be201-c778-3d2a-837e-f639a03f6a66</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Patil, Nagaraj ; A, Aranganathan ; Yadav, Dhananjay Kumar ; Khurana, Saniya ; Mohapatra, Sarita ; Sharma, Divya</contributors>
+  <coverDate>20250304</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/AUTOCOM64127.2025.10956837</doi>
+</record>

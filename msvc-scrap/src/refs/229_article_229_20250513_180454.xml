@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Reliable algorithm selection for machine learning-guided design</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250326</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Machine Learning ; Quantitative Biology - Quantitative Methods ; Statistics - Machine Learning</subjects>
+  <abstract>Algorithms for machine learning-guided design, or design algorithms, use machine learning-based predictions to propose novel objects with desired property values. Given a new design task -- for example, to design novel proteins with high binding affinity to a therapeutic target -- one must choose a design algorithm and specify any hyperparameters and predictive and/or generative models involved. How can these decisions be made such that the resulting designs are successful? This paper proposes a method for design algorithm selection, which aims to select design algorithms that will produce a distribution of design labels satisfying a user-specified success criterion -- for example, that at least ten percent of designs' labels exceed a threshold. It does so by combining designs' predicted property values with held-out labeled data to reliably forecast characteristics of the label distributions produced by different design algorithms, building upon techniques from prediction-powered inference. The method is guaranteed with high probability to return design algorithms that yield successful label distributions (or the null set if none exist), if the density ratios between the design and labeled data distributions are known. We demonstrate the method's effectiveness in simulated protein and RNA design tasks, in settings with either known or estimated density ratios.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2503.20767</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5aa229d0-7bf2-399f-a0d3-1a03b19a9110</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Fannjiang, Clara ; Park, Ji Won</contributors>
+  <coverDate>20250326</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

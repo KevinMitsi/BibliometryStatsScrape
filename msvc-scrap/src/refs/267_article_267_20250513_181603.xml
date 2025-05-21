@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Landslides: Journal of the International Consortium on Landslides</source>
+  <bookEdition></bookEdition>
+  <title>A comparative study of machine learning algorithms for sediment classification in debris flow fans using UAV imagery: a case study in the Ohya landslide scar, Japan: A comparative study of machine learning algorithms</title>
+  <pageEnd>1138</pageEnd>
+  <pageStart>1123</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations>Berlin/Heidelberg</publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Sediment ; Landslide ; Geology ; Fluvial ; Image processing ; Machine learning</subjects>
+  <abstract>Accurate classification of sediment types in debris flow fans is crucial for understanding the dynamics and processes of these environments. The present study investigated the classification of sediment types (i.e., sandstone and shale) in the Ohya debris flow fan using UAV and RGB imagery and various machine learning algorithms. This study compared the performance of the parallel piped (PP), Mahalanobis distance (MD), minimum distance (MinD), spectral information divergence (SID), spectral angle mapper (SAM), random tree (RT), support vector machine (SVM), and maximum likelihood (ML) algorithms. In addition, the performance of mentioned algorithms for grain size measurement was considered using field observation. Results demonstrate that the RT, SVM, and ML algorithms outperform the PP, MD, and SID algorithms in terms of accuracy of the sediment type classification. The RT algorithm achieves the highest overall accuracy (98%), showcasing its ability to handle complex classification tasks. The SVM algorithm demonstrates strong performance with its capacity to handle nonlinear relationships. The ML algorithm, known for its simplicity, achieves competitive accuracy. The PP, MD, and SID algorithms struggle to effectively classify sediment types due to limitations in handling complex relationships and overlapping spectral distributions. In addition, merging the shale and fine sediment classes in image classification resulted in significant improvements in kappa and overall accuracy across all tested algorithms, indicating the potential benefits of consolidating these classes. The performance of various algorithms in sediment size prediction was evaluated using different metrics. The RT algorithm demonstrated the lowest RMSE (0.62), MAE (0.43), highest &lt;i>R&lt;/i>&lt;sup>2&lt;/sup> (0.99986), and smallest MBE (− 0.17), indicating its superior accuracy. ML and SVM also performed well but had slightly higher values across the metrics. In addition, the present study analyzed the dynamics of debris flow and its correlation with grain size distribution. The findings reveal a diverse range of sediment sizes, with an average grain size of 6.73 cm. This variability significantly influences flow behavior, highlighting the importance of grain size in debris flow dynamics. These findings provide valuable insights into the selection of appropriate algorithms for RGB-based sediment classification in debris flow fans using UAV data. The successful algorithms can contribute to improved understanding and management of these environments. Future research can explore the integration of additional features and advanced techniques such as deep learning algorithms for further enhancing the accuracy of sediment classification in similar environments.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.F95129A8</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>22</volume>
+  <issns>1612510X ; 16125118</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=28cd36c8-eee2-3406-9263-770fd7f46a25</plink>
+  <doids></doids>
+  <publisher>Springer Berlin Heidelberg</publisher>
+  <contributors>Yousefi, Saleh ; Imaizumi, Fumitoshi</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10346-024-02402-w</doi>
+</record>

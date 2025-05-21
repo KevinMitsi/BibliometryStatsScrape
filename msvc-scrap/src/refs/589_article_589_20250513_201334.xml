@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsjsr</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Journal of Insurance Issues</source>
+  <bookEdition></bookEdition>
+  <title>Churn Modeling of Life Insurance Policies Via Statistical and Machine Learning Methods : Analysis of Important Features</title>
+  <pageEnd>117</pageEnd>
+  <pageStart>78</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240401</publicationDate>
+  <pageCount>40</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>Life assurance companies typically possess a wealth of data covering multiple systems and databases. These data are often used for analyzing the past and for describing the present. Taking account of the past, the future is mostly forecasted by traditional statistical methods. So far, only a few attempts have been undertaken to perform estimations by means of machine learning approaches. In this work, the individual contract cancellation behavior of customers within two partial lines of business is modeled by the aid of various classification methods. Partial business lines of private pension and endowment policy are considered. We describe the data used for the modeling, their structure, and in which way they are cleansed. The utilized models are calibrated on the basis of an extensive tuning process, then graphically evaluated regarding their goodness-of-fit, and with the help of a newly introduced variable relevance concept, we investigate which features notably affect the individual contract cancellation behavior.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsjsr.48770674</an>
+  <docTypes>research-article</docTypes>
+  <volume>47</volume>
+  <issns>15316076 ; 23324244</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3e0fb150-5c02-37b3-870b-5c34842fa70f</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Groll, Andreas ; Wasserfuhr, Carsten ; Zeldin, Leonid</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>JSTOR Journals</longDBName>
+  <doi></doi>
+</record>

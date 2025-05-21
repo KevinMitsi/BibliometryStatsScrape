@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Lung cancer detection with machine learning classifiers with multi-attribute decision-making system and deep learning model</title>
+  <pageEnd>19</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>19</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Deep learning ; Lung disease ; TOPSIS ; Medicine ; Science</subjects>
+  <abstract>Abstract Diseases of the airways and the other parts of the lung cause chronic respiratory diseases. The major cause of lung disease is tobacco smoke, along with risk factors such as dust, air pollution, chemicals, and frequent lower respiratory infections during childhood. Early detection of these diseases requires the analysis of medical images, which would aid doctors in providing effective treatment.This paper aims to classify lung X-ray images as benign or malignant and to identify the type of disease, such as Atelectasis, Infiltration, Nodule, and Pneumonia, if the disease is malignant. Machine learning (ML) approaches, combined with a multi-attribute decision-making method called Technique for Order Preference by Similarity to Ideal Solution (TOPSIS), are used to rank different classifiers. Additionally, the deep learning (DL) model Inception v3 is proposed. This method ranks the SVM with RBF as the best classifier among the others used in this approach. Furthermore, the results show that the deep learning model achieves the best accuracy of 97.05%, which is 11.8% higher than the machine learning approach using the same dataset.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.01d129d8c06d4cadb0af7bae42518112</an>
+  <docTypes>article</docTypes>
+  <volume>15</volume>
+  <issns>20452322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2c31c793-717a-35c6-8961-ec0c433a7b92</plink>
+  <doids></doids>
+  <publisher>Nature Portfolio</publisher>
+  <contributors>T. Meeradevi ; S. Sasikala ; L. Murali ; N. Manikandan ; Krishnaraj Ramaswamy</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.1038/s41598-025-88188-w</doi>
+</record>

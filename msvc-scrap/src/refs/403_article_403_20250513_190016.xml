@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-3-031-83096-9 ; 978-3-031-83097-6 ; 3-031-83096-2 ; 3-031-83097-0</isbns>
+  <shortDBName>edsoap</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Informed Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250414</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Informed Machine Learning ; Anomaly Detection ; Interpretable Model ; Deep Learning ; Knowledge Graphs ; Graph Neural Networks ; AITwin ; Bayesian Inference ; Multi-Agent Neural Rewriter ; Support Vector Machines ; Multivariate Time Series ; Differential Equations ; Machine learning ; Artificial intelligence ; Natural language and machine translation ; Databases ; Expert systems / knowledge-based systems</subjects>
+  <abstract>This open access book presents the concept of Informed Machine Learning and demonstrates its practical use with a compelling collection of applications of this paradigm in industrial and business use cases. These range from health care over manufacturing and material science to more advanced combinations with deep learning, say, in the form of physical informed neural networks. The book is intended for those interested in modern informed machine learning for a wide range of practical applications where the aspect of small data sets is a challenge. Machine Learning with small amounts of data? After the recent success of Artificial Intelligence based on training with massive amounts of data, this idea may sound exotic. However, it addresses crucial needs of practitioners in industry. While many industrial applications stand to benefit from the use of AI, the amounts of data needed by current learning paradigms are often hard to come by in industrial settings. As an alternative, learning methods and models are called for which integrate other sources of knowledge in order to compensate for the lack of data. This is where the principle of “Informed Machine Learning” comes into play. Informed Machine Learning combines purely data driven learning and knowledge-based techniques to learn from both data and knowledge. This has several advantages. It reduces the need for data, it often results in smaller, less complex and more robust models, and even makes machine learning applicable in settings where data is scarce. The kind of knowledge to be incorporated into learning processes can take many different forms, for example, differential equations, analytical models, simulation results, logical rules, knowledge graphs, or human feedback which makes the approach overall very powerful and widely applicable.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edsoap.20.500.12657.100755</an>
+  <docTypes>book</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f93f91b4-12fd-3986-b76a-39a7fbb654c3</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Schulz, Daniel ; Bauckhage, Christian</contributors>
+  <coverDate>20250414</coverDate>
+  <longDBName>OAPEN Library</longDBName>
+  <doi>10.1007/978-3-031-83097-6</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>RPRT</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Grantee Submission</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning for Causal Inference</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Causal Models ; Statistical Inference ; Artificial Intelligence ; Data Analysis ; Comparative Analysis ; Bayesian Statistics ; Algorithms ; Regression (Statistics) ; Generalizability Theory</subjects>
+  <abstract>Estimation of causal effects requires making comparisons across groups of observations exposed and not exposed to a a treatment or cause (intervention, program, drug, etc). To interpret differences between groups causally we need to ensure that they have been constructed in such a way that the comparisons are "fair." This can be accomplished though design, for instance, by allocating treatments to individuals randomly. However, more often researchers have access to observational data and are thus in the position of trying to create fair comparisons through post-hoc data restructuring or modeling. Many chapters in this book focus on the former approach (data restructuring). This chapter will focus on the latter (modeling) to illuminate what can be gained from such an approach. It illustrates the case for modeling the relationship between outcomes, covariates, and a treatment to estimate causal effects using a Bayesian machine learning algorithm known as Bayesian Additive Regression Trees (BART). [This chapter was published in: "Handbook of Matching and Weighting Adjustments for Causal Inference," pp. 416-443. Chapman &amp;amp; Hall/CRC, 2023.]</abstract>
+  <pubTypes>Report</pubTypes>
+  <an>ED660568</an>
+  <docTypes>Reports - Research</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=66281e72-128e-35ec-98ce-ae4dcdd5369f</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Jennifer Hill ; George Perrett ; Vincent Dorie</contributors>
+  <coverDate>2023</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1201/9781003102670-20</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>ACS Applied Materials &amp;amp; Interfaces</source>
+  <bookEdition></bookEdition>
+  <title>Voltage Mining for (De)lithiation-Stabilized Cathodes and a Machine Learning Model for Li-Ion Cathode Voltage</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241218</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>50</issue>
+  <identifiers></identifiers>
+  <subjects>Engineering ; Materials Engineering ; Chemical Sciences ; Physical Chemistry ; Machine Learning and Artificial Intelligence ; Li-ion batteries ; cathodes ; battery voltage ; materials design ; machine learning ; data mining ; Nanoscience &amp;amp; Nanotechnology ; Chemical sciences ; Physical sciences</subjects>
+  <abstract>Advances in lithium-metal anodes have inspired interest in discovery of Li-free cathodes, most of which are natively found in their charged state. This is in contrast to today's commercial lithium-ion battery cathodes, which are more stable in their discharged state. In this study, we combine calculated cathode voltage information from both categories of cathode materials, covering 5577 and 2423 total unique structure pairs, respectively. The resulting voltage distributions with respect to the redox pairs and anion types for both classes of compounds emphasize design principles for high-voltage cathodes, which favor later Period 4 transition metals in their higher oxidation states and more electronegative anions like fluorine or polyanion groups. Generally, cathodes that are found in their charged, delithiated state are shown to exhibit voltages lower than those that are most stable in their lithiated state, in agreement with thermodynamic expectations. Deviations from this trend are found to originate from different anion distributions between redox pairs. In addition, a machine learning model for voltage prediction based on chemical formulas is trained and shows state-of-the-art performance when compared to two established composition-based ML models for material properties predictions, Roost and CrabNet.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt59k3d2p6</an>
+  <docTypes>article</docTypes>
+  <volume>16</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=aa912774-4271-36e0-8641-91c51f1f8740</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Li, Haoming Howard ; Chen, Qian ; Ceder, Gerbrand ; Persson, Kristin A</contributors>
+  <coverDate>20241218</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

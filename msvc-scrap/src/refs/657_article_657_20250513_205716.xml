@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-3-031-83096-9 ; 978-3-031-83097-6</isbns>
+  <shortDBName>edssjb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Informed Machine Learning</source>
+  <bookEdition></bookEdition>
+  <title>Training Support Vector Machines by Solving Differential Equations</title>
+  <pageEnd>283</pageEnd>
+  <pageStart>265</pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>19</pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>The increasingly popular idea of Physics Informed Machine Learning uses trained machine learning models as tools for differential equation solving. Here, we turn this idea upside down and consider differential equation solving as a tool for training machine learning models. We focus on support vector machines for binary classification and explore the merits of training them by means of solving gradient flows. We thus assume a continuous time perspective on a fundamental machine learning problem which, in the mid- to long term, may inform implementations on (re)emerging hardware platforms such as analog- or quantum computers.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edssjb.978.3.031.83097.6.12</an>
+  <docTypes></docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=123ef74f-68d9-33d8-8e4e-bbb58a6e5dee</plink>
+  <doids></doids>
+  <publisher>Springer Nature Switzerland</publisher>
+  <contributors>Bauckhage, Christian ; Sifa, Rafet</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature eBooks</longDBName>
+  <doi>10.1007/978-3-031-83097-6_12</doi>
+</record>

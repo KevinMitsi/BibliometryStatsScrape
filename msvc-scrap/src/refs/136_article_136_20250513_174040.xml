@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-0484-7</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>SoutheastCon 2025, 2025, SoutheastCon</source>
+  <bookEdition></bookEdition>
+  <title>Improvement of Machine Learning-Based Predictive Models for Wastewater Treatment Processes Using Time-Series Influent Data</title>
+  <pageEnd>401</pageEnd>
+  <pageStart>396</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250322</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Aerospace ; Bioengineering ; Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineered Materials, Dielectrics and Plasmas ; Engineering Profession ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Geoscience ; Nuclear Engineering ; Photonics and Electrooptics ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Signal Processing and Analysis ; Transportation ; Training ; Accuracy ; Atmospheric modeling ; Process control ; Machine learning ; Predictive models ; Control systems ; Data models ; Wastewater ; Wastewater treatment ; machine learning (ML) ; wastewater treatment ; air blower operation ; prediction ; time-series input data</subjects>
+  <abstract>Wastewater treatment involves several processes that are difficult to accurately model and predict. Having accurate models of these processes is important for making control decisions, predicting treatment outcomes, and predicting the amount of energy used by the process. In recent literature, there have been several studies which investigate the possibility of using machine learning-based models for prediction or control of various wastewater treatment processes. One potential short-coming associated with many of these studies is that only the present or most recently measured value of influent water parameters were used to train these models. This study seeks to improve upon the use of machine learning models for predicting wastewater treatment processes by training machine learning models using time-series versions of the input variables. Instead of training the models to predict the future aeration intensity of a wastewater plant's air blowers based only upon present-time values of influent water parameters, the models are trained using a combination of the present values of the influent water parameters and a selected time range of historical values, called a sliding window. Using influent total suspended solids (TSS) and chemical oxygen demand (COD), five types of machine learning models are trained to predict the one-hour future aeration intensity of air blowers in a wastewater plant's aeration tank based on a window size ranging from the present value up to eight hours. The representative simulation-based case study results support that after an optimal window size is determined for each model, higher predictive accuracy can be attained than is possible using present values alone.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10971455</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>1558058X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=77264a83-00e8-31af-b74e-26236f57188f</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Logan, Justin ; Roberts, Nicole ; Smith, Michael</contributors>
+  <coverDate>20250322</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/SoutheastCon56624.2025.10971455</doi>
+</record>

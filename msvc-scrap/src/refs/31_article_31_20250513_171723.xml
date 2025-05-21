@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HABF</mid>
+  <language>eng</language>
+  <source>EJNMMI Physics</source>
+  <bookEdition></bookEdition>
+  <title>Machine-learning based quantification of lung shunt fraction from 99mTc-MAA SPECT/CT for selective internal radiation therapy of liver tumors using TriDFusion (3DF).</title>
+  <pageEnd>11</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250311</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; COMPUTED tomography ; IMAGE processing ; HEPATIC artery ; LUNGS ; Irradiation Apparatus Manufacturing ; Photofinishing Laboratories (except One-Hour) ; One-Hour Photofinishing</subjects>
+  <abstract>Background: Prior to selective internal radiotherapy of liver tumors, a determination of the lung shunt fraction (LSF) is performed using 99mTc- macroaggregated albumin (99mTc-MAA) injected into the hepatic artery. Most commonly planar but sometimes SPECT/CT images are acquired upon which regions of interests are drawn manually to define the liver and the lung. The LSF is then calculated by taking the count ratios between these two organs. An accurate estimation of the LSF is necessary to avoid an excessive pulmonary irradiation dose. Methods: In this study, we propose a computational, semi-automatic approach for LSF calculation from SPECT/CT scans, based on machine learning 3D segmentation, implemented within TriDFusion (3DF). We retrospectively compared this approach with the LSF calculated using the standard planar approach on 150 patients. Using CT images (from the SPECT/CT) as a blueprint, the TotalSegmentor machine learning algorithm automatically computes masks for the liver and lungs. Then, the SPECT attenuation-corrected images are fused with the CT and, based on the CT segmentation mask, TriDFusion (3DF) generates volume-of- interest (VOI) regions on the SPECT images. The liver and lung VOIs are further augmented to compensate for breathing motion. Finally, the LSF is calculated using the number of counts in the respective VOIs. Measurements using an anthropomorphic 3D-printed phantom with variable 99mTc activity concentrations for the liver and lungs were performed to validate the accuracy of the algorithm. Results: On average, LSF determined from 2D planar images were between 21 and 70% higher than those determined from SPECT/CT data. Semi-automated determination of the LSF using TriDFusion (3DF) analysis of SPECT-CT acquisitions was within 4–12% of the phantom-determined ratio measurements (ground truth). Conclusions: The utilization of TriDFusion (3DF) AI 3D Lung Shunt is a precise method for quantifying lung shunt fraction (LSF) and is more accurate than planar 2D image-based estimates. By incorporating machine learning segmentation and compensating for breathing motion, the approach underscores the potential of artificial intelligence (AI)-driven techniques to revolutionize pulmonary imaging, providing clinicians with efficient and reliable tools for treatment planning and patient management.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183595097</an>
+  <docTypes>Article</docTypes>
+  <volume>12</volume>
+  <issns>2197-7364</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=97a07190-0ee1-31d0-bcbf-fe72e484cc59</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Lafontaine, Daniel ; Augensen, Finn ; Kesner, Adam ; Vincent, Raoul ; Kirov, Assen ; Krebs, Simone ; Schöder, Heiko ; Humm, John L.</contributors>
+  <coverDate>3/11/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s40658-025-00732-9</doi>
+</record>

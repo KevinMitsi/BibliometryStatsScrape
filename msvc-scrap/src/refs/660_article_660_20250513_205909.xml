@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Intelligent Systems with Applications</source>
+  <bookEdition></bookEdition>
+  <title>A hybrid machine learning framework by incorporating categorical boosting and manifold learning for financial analysis</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Financial analysis ; Feature selection ; Manifold learning ; Machine learning ; Categorical boosting</subjects>
+  <abstract>Highlights •Developed a hybrid machine learning framework for financial analysis.•Characterized the financial behavior and mechanism using CatBoost.•Extract critical financial feature using manifold learning for financial analysis.•Verified and illustrated the developed framework using the synthetic datasets.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2667305324001479</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>2667-3053</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c3ee8fc7-639a-3ff3-a855-a55ec17cd13a</plink>
+  <doids></doids>
+  <publisher>Elsevier Ltd</publisher>
+  <contributors>Zhao, Yuyang ; Zhao, Hongbo</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.iswa.2024.200473</doi>
+</record>

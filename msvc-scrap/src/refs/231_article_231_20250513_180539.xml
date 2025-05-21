@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781788398435 ; 9781788399395</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>MATLAB for Machine Learning : Practical Examples of Regression, Clustering and Neural Networks</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20170101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / General ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Machine Theory ; Neural networks (Computer science) ; Machine learning</subjects>
+  <abstract>Extract patterns and knowledge from your data in easy way using MATLABKey FeaturesGet your first steps into machine learning with the help of this easy-to-follow guideLearn regression, clustering, classification, predictive analytics, artificial neural networks and more with MATLABUnderstand how your data works and identify hidden layers in the data with the power of machine learning.Book DescriptionMATLAB is the language of choice for many researchers and mathematics experts for machine learning. This book will help you build a foundation in machine learning using MATLAB for beginners. You'll start by getting your system ready with t he MATLAB environment for machine learning and you'll see how to easily interact with the Matlab workspace. We'll then move on to data cleansing, mining and analyzing various data types in machine learning and you'll see how to display data values on a plot. Next, you'll get to know about the different types of regression techniques and how to apply them to your data using the MATLAB functions. You'll understand the basic concepts of neural networks and perform data fitting, pattern recognition, and clustering analysis. Finally, you'll explore feature selection and extraction techniques for dimensionality reduction for performance improvement. At the end of the book, you will learn to put it all together into real-world cases covering major machine learning algorithms and be comfortable in performing machine learning with MATLAB. What you will learnLearn the introductory concepts of machine learning.Discover different ways to transform data using SAS XPORT, import and export tools,Explore the different types of regression techniques such as simple &amp;amp; multiple linear regression, ordinary least squares estimation, correlations and how to apply them to your data.Discover the basics of classification methods and how to implement Naive Bayes algorithm and Decision Trees in the Matlab environment.Uncover how to use clustering methods like hierarchical clustering to grouping data using the similarity measures.Know how to perform data fitting, pattern recognition, and clustering analysis with the help of MATLAB Neural Network Toolbox.Learn feature selection and extraction for dimensionality reduction leading to improved performance.Who this book is forThis book is for data analysts, data scientists, students, or anyone who is looking to get started with machine learning and want to build efficient data processing and predicting applications. A mathematical and statistical background will really help in following this book well.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1585205</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f7f1a479-0c49-3531-b893-5fc8fbb93058</plink>
+  <doids>NL$1585205$PDF ; NL$1585205$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Pavan Kumar Kolluru ; Giuseppe Ciaburro</contributors>
+  <coverDate>2017</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

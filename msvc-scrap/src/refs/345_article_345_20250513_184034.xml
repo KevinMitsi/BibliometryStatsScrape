@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Computational Economics</source>
+  <bookEdition></bookEdition>
+  <title>Applying Machine Learning Algorithms to Predict the Size of the Informal Economy: Applying Machine Learning Algorithms to Predict...</title>
+  <pageEnd>1189</pageEnd>
+  <pageStart>1169</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>21</pageCount>
+  <publisherLocations>New York</publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Informal economy ; Machine learning ; Linear models ; Shapley values</subjects>
+  <abstract>The use of machine learning models and techniques to predict economic variables has been growing lately, motivated by their better performance when compared to that of linear models. Although linear models have the advantage of considerable interpretive power, efforts have intensified in recent years to make machine learning models more interpretable. In this paper, tests are conducted to determine whether models based on machine learning algorithms have better performance relative to that of linear models for predicting the size of the informal economy. The paper also explores whether the determinants of such size detected as the most important by machine learning models are the same as those detected in the literature based on traditional linear models. For this purpose, observations were collected and processed for 122 countries from 2004 to 2014. Next, twelve models (four linear and eight based on machine learning algorithms) were used to predict the size of the informal economy in these countries. The relative importance of the predictive variables in determining the results yielded by the machine learning algorithms was calculated using Shapley values. The results suggest that (i) models based on machine learning algorithms have better predictive performance than that of linear models and (ii) the main determinants detected through the Shapley values coincide with those detected in the literature using traditional linear models.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.85E79BB1</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>65</volume>
+  <issns>09277099 ; 15729974</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=45f7d726-f293-339d-a39c-6d5016991b59</plink>
+  <doids></doids>
+  <publisher>Springer US</publisher>
+  <contributors>Felix, João ; Alexandre, Michel ; Lima, Gilberto Tadeu</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10614-024-10593-6</doi>
+</record>

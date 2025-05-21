@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>An enhanced moth flame optimization extreme learning machines hybrid model for predicting CO&lt;sub>2&lt;/sub> emissions.</title>
+  <pageEnd>24</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>24</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>EXTREME learning machines ; MACHINE learning ; STANDARD deviations ; OPTIMIZATION algorithms ; FOREIGN investments ; EVOLUTIONARY computation ; International Trade Financing</subjects>
+  <abstract>This study introduces a novel hybrid model for accurate CO&lt;sub>2&lt;/sub> emissions prediction, supporting sustainable decision-making. The model integrates the Gaussian mutation and shrink mechanism-based moth flame optimization (GMSMFO) algorithm with an extreme learning machine (ELM). GMSMFO enhances population diversity and avoids local optima through Gaussian mutation (GM), while the shrink mechanism (SM) improves exploration–exploitation balance. Validated on the congress on evolutionary computation (CEC2020) benchmark suite (dimensions 30 and 50), GMSMFO demonstrated superior performance compared to other optimization algorithms. Applied to fine-tune ELM parameters, the GMSMFO-ELM model achieved exceptional predictive accuracy, with a coefficient of determination (R&lt;sup>2&lt;/sup>) of 96.5%, outperforming other hybrid models across metrics such as root mean squared error (RMSE), normalized root mean squared error (NRMSE), mean absolute error (MAE), and mean square error (MSE). Feature importance analysis highlighted economic growth, foreign direct investment, and renewable energy as key predictors. This study highlights the robustness and adaptability of GMSMFO-ELM, establishing it as a reliable framework for advancing global sustainability objectives.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184384283</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=71e80683-9b06-3516-adc1-3870288571d3</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Algwil, Ahmed Ramdan Almaqtouf ; Khalifa, Wagdi M. S.</contributors>
+  <coverDate>4/8/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-95678-4</doi>
+</record>

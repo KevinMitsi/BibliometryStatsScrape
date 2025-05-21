@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>YQH</mid>
+  <language>eng</language>
+  <source>Journal of Environmental Engineering &amp;amp; Landscape Management</source>
+  <bookEdition></bookEdition>
+  <title>TEMPERATURE AND PRECIPITATION PROJECTION IN THE LOWER MAHANADI BASIN THROUGH MACHINE LEARNING METHODS.</title>
+  <pageEnd>282</pageEnd>
+  <pageStart>270</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241001</publicationDate>
+  <pageCount>13</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Climate change ; Machine learning ; Precipitation forecasting ; Atmospheric models ; Socioeconomic factors</subjects>
+  <abstract>This study examined climate change dynamics in the lower Mahanadi River basin by integrating observed and climate model data. Historical precipitation and temperature data (1979-2020) from the India Meteorological Department (IMD) and monthly climate model data from the CORDEX-SMHI-MIROC model via the Earth System Grid Federation (ESGF) are utilized. Four machine learning models (Fbprophet, Holt-Winters, LSTM RNN, and SARIMAX) are applied to forecast precipitation, T&lt;sub>max,&lt;/sub> and T&lt;sub>min,&lt;/sub> and are compared across different representative concentration pathway (RCP 2.6, 4.5, and 8.5) scenarios. Diverse trajectories emerge, highlighting potential shifts in precipitation and temperature dynamics over near, mid, and far-term intervals. Fbprophet and SARIMAX are identified as superior models through performance evaluation metrics (R², RMSE, r, P-bias, and NSE). Spatial analysis using ArcGIS and IDW interpolation reveals spatial variations in climate projections, aiding in visualizing future climate trends within the Mahanadi Basin. This study acknowledges limitations such as historical data uncertainties, socio-economic indicators, and unpredictable RCP trajectories, introducing a novel method to integrate machine learning with climate model data for assessing reliability. It also explores anticipated shifts in monthly precipitation and temperature patterns, providing insights into future climate variations.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181753378</an>
+  <docTypes>Article</docTypes>
+  <volume>32</volume>
+  <issns>1648-6897</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d4fc2096-1673-3b0f-8645-6cfe78b2d471</plink>
+  <doids></doids>
+  <publisher>Vilnius Gediminas Technical University</publisher>
+  <contributors>RAJ, Deepak Kumar ; T., Gopikrishnan</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.3846/jeelm.2024.22352</doi>
+</record>

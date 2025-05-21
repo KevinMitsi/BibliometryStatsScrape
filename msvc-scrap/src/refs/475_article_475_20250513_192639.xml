@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FT2S</mid>
+  <language>eng</language>
+  <source>Ecology &amp;amp; Evolution (20457758)</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning and Spatio Temporal Analysis for Assessing Ecological Impacts of the Billion Tree Afforestation Project.</title>
+  <pageEnd>29</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>29</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Environmental management ; Normalized difference vegetation index ; Machine learning ; Remote sensing ; Distance education</subjects>
+  <abstract>This study evaluates the Billion Tree Afforestation Project (BTAP) in Pakistan's Khyber Pakhtunkhwa (KPK) province using remote sensing and machine learning. Applying Random Forest (RF) classification to Sentinel‐2 imagery, we observed an increase in tree cover from 25.02% in 2015 to 29.99% in 2023 and a decrease in barren land from 20.64% to 16.81%, with an accuracy above 85%. Hotspot and spatial clustering analyses revealed significant vegetation recovery, with high‐confidence hotspots rising from 36.76% to 42.56%. A predictive model for the Normalized Difference Vegetation Index (NDVI), supported by SHAP analysis, identified soil moisture and precipitation as primary drivers of vegetation growth, with the ANN model achieving an R2 of 0.8556 and an RMSE of 0.0607 on the testing dataset. These results demonstrate the effectiveness of integrating machine learning with remote sensing as a framework to support data‐driven afforestation efforts and inform sustainable environmental management practices.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183853601</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-7758</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b3432f13-9215-3d9b-af7e-300e2e81dbd1</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Mehmood, Kaleem ; Anees, Shoaib Ahmad ; Muhammad, Sultan ; Shahzad, Fahad ; Liu, Qijing ; Khan, Waseem Razzaq ; Shrahili, Mansour ; Ansari, Mohammad Javed ; Dube, Timothy</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/ece3.70736</doi>
+</record>

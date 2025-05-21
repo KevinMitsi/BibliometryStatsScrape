@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>MIS</mid>
+  <language>eng</language>
+  <source>MIS Quarterly</source>
+  <bookEdition></bookEdition>
+  <title>DYNAMICS OF COMPETITION ON OPENNESS STRATEGIES AND SOFTWARE MAINTENANCE.</title>
+  <pageEnd>1261</pageEnd>
+  <pageStart>1239</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240901</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Business enterprises ; Computer software ; Open source software ; Resource allocation ; Game theory ; Intellectual property ; Computer, computer peripheral and pre-packaged software merchant wholesalers ; Computer and Computer Peripheral Equipment and Software Merchant Wholesalers ; Computer and software stores ; Software publishers (except video game publishers)</subjects>
+  <abstract>Software firms are increasingly adopting an open source strategy, allowing them to leverage the effort exerted by the open source community toward improving software quality. In addition to embracing a proprietary or fully open source strategy, several firms choose a partial openness strategy wherein only certain parts of the code are open source while the rest is proprietary. Specifically, when adopting a partial openness strategy, a firm may choose to make the core software code open source while keeping the extension software code proprietary or keep the core proprietary and make the extension open source. When making decisions related to different openness strategies, firms need to take into account the level of effort they are exerting toward the improvement of the quality of software, the level of engagement of the open source community, and pricing. Hence, the decisions related to a firm's openness strategy are not straightforward. While this is an important question for many firms, it has not been analyzed in the literature. In this research, we attempt to fill this important gap by analyzing different openness strategies in the context of resource allocation for fixing defects. Specifically, using a game-theoretic model, we explore when a firm should make its software fully open source or partially open source and when it should keep it proprietary. Our results show that when the baseline demand for the firm increases with the extent of openness, the firm should either make its software fully open or keep it proprietary and, importantly, should not rely on partial openness. Next, in scenarios where customers are highly sensitive to security risks, the demand loss to efficiency gain ratio has an important role in determining a firm's optimal openness strategies. These findings provide important insights to firms on how to effectively plan their openness strategies and also establish a basis for future research on the topic of partial openness.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>179387178</an>
+  <docTypes>Article</docTypes>
+  <volume>48</volume>
+  <issns>0276-7783</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e3527fd4-dc4f-30fa-bca8-874e394ddc28</plink>
+  <doids></doids>
+  <publisher>MIS Quarterly</publisher>
+  <contributors>Mallipeddi, Rakesh R. ; Demirezen, Emre M. ; Kumar, Subodha ; Gopal, Ram D.</contributors>
+  <coverDate>Sep2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.25300/MISQ/2023/17063</doi>
+</record>

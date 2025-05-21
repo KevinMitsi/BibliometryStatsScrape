@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781788830577 ; 9781788831611</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Quick Reference : Quick and Essential Machine Learning Hacks for Training Smart Data Models</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20190101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / General ; COMPUTERS / Machine Theory ; Machine learning</subjects>
+  <abstract>Your hands-on reference guide to developing, training, and optimizing your machine learning modelsKey FeaturesYour guide to learning efficient machine learning processes from scratchExplore expert techniques and hacks for a variety of machine learning conceptsWrite effective code in R, Python, Scala, and Spark to solve all your machine learning problemsBook DescriptionMachine learning makes it possible to learn about the unknowns and gain hidden insights into your datasets by mastering many tools and techniques. This book guides you to do just that in a very compact manner. After giving a quick overview of what machine learning is all about, Machine Learning Quick Reference jumps right into its core algorithms and demonstrates how they can be applied to real-world scenarios. From model evaluation to optimizing their performance, this book will introduce you to the best practices in machine learning. Furthermore, you will also look at the more advanced aspects such as training neural networks and work with different kinds of data, such as text, time-series, and sequential data. Advanced methods and techniques such as causal inference, deep Gaussian processes, and more are also covered. By the end of this book, you will be able to train fast, accurate machine learning models at your fingertips, which you can easily use as a point of reference. What you will learnGet a quick rundown of model selection, statistical modeling, and cross-validationChoose the best machine learning algorithm to solve your problemExplore kernel learning, neural networks, and time-series analysisTrain deep learning models and optimize them for maximum performanceBriefly cover Bayesian techniques and sentiment analysis in your NLP solutionImplement probabilistic graphical models and causal inferencesMeasure and optimize the performance of your machine learning modelsWho this book is forIf you're a machine learning practitioner, data scientist, machine learning developer, or engineer, this book will serve as a reference point in building machine learning solutions. You will also find this book useful if you're an intermediate machine learning developer or data scientist looking for a quick, handy reference to all the concepts of machine learning. You'll need some exposure to machine learning to get the best out of this book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2018975</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0401583d-3e27-3b42-a13a-f1cc9493055d</plink>
+  <doids>NL$2018975$PDF ; NL$2018975$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Rahul Kumar</contributors>
+  <coverDate>2019</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

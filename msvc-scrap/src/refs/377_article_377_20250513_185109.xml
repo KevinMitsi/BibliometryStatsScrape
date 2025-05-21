@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine learning-assisted design of metal–organic frameworks for hydrogen storage: A high-throughput screening and experimental approach</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineering ; Materials Engineering ; Machine Learning and Artificial Intelligence ; Networking and Information Technology R&amp;amp;D (NITRD) ; Biotechnology ; Metal-organic frameworks ; Hydrogen storage ; Synthesizability ; High-throughput screening ; Chemical Engineering ; Civil Engineering ; Environmental Engineering ; Chemical engineering ; Environmental engineering ; Materials engineering</subjects>
+  <abstract>Various theoretical approaches, including big data and high-throughput screening techniques, have been explored in developing new materials due to their significant potential time-saving advantages. However, it remains a significant challenge to experimentally realize new materials that are predicted. In this study, we propose a novel materials design strategy that utilizes machine-learning (ML) techniques to predict new porous materials that show promise for hydrogen storage and are likely to be feasible to synthesize. By leveraging ML techniques and metal–organic framework (MOF) databases, we are able to predict the synthesizability of MOF structures. This is evidenced by the successful synthesis of a new vanadium-based MOF that exhibits excellent performance for cryogenic H2 storage. Notably, the total gravimetric and volumetric H2 uptakes are as high as 9.0 wt% and 50.0 g/L at 77 K and 150 bar. This ML-assisted materials design offers an efficient and promising approach for developing hydrogen storage materials.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt1h0372vv</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3f9334d4-774f-39bb-b124-a8d5ddea98c7</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Kim, Wan-Tae ; Lee, Weon-Gyu ; An, Hong-Eun ; Furukawa, Hiroyasu ; Jeong, WooSeok ; Kim, Sung-Chul ; Long, Jeffrey R ; Jeong, Sohee ; Lee, Jung-Hoon</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Knowledge and Information Systems: An International Journal</source>
+  <bookEdition></bookEdition>
+  <title>Data augmentation with automated machine learning: approaches and performance comparison with classical data augmentation methods</title>
+  <pageEnd>4085</pageEnd>
+  <pageStart>4035</pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount>51</pageCount>
+  <publisherLocations>London</publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Data augmentation ; AutoML ; Automated machine learning ; Machine learning ; Data preparation ; Image augmentation</subjects>
+  <abstract>Data augmentation is arguably the most important regularization technique commonly used to improve generalization performance of machine learning models. It primarily involves the application of appropriate data transformation operations to create new data samples with desired properties. Despite its effectiveness, the process is often challenging because of the time-consuming trial and error procedures for creating and testing different candidate augmentations and their hyperparameters manually. State-of-the-art approaches are increasingly relying on automated machine learning (AutoML) principles. This work presents a comprehensive survey of AutoML-based data augmentation techniques. We discuss various approaches for accomplishing data augmentation with AutoML, including data manipulation, data integration and data synthesis techniques. The focus of this work is on image data augmentation methods. Nonetheless, we cover other data modalities, especially in cases where the specific data augmentations techniques being discussed are more suitable for these other modalities. For instance, since automated data integration methods are more suitable for tabular data, we cover tabular data in the discussion of data integration methods. The work also presents extensive discussion of techniques for accomplishing each of the major subtasks of the image data augmentation process: search space design, hyperparameter optimization and model evaluation. Finally, we carried out an extensive comparison and analysis of the performance of automated data augmentation techniques and state-of-the-art methods based on classical augmentation approaches. The results show that AutoML methods for data augmentation currently outperform state-of-the-art techniques based on conventional approaches.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.DE6D37EE</an>
+  <docTypes>Review Paper</docTypes>
+  <volume>67</volume>
+  <issns>02191377 ; 02193116</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b5ffa243-fba6-3d58-b6a9-f0eb311c57c9</plink>
+  <doids></doids>
+  <publisher>Springer London</publisher>
+  <contributors>Mumuni, Alhassan ; Mumuni, Fuseini</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10115-025-02349-x</doi>
+</record>

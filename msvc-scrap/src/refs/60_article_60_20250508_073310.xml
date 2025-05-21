@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of gastrointestinal and liver diseases : JGLD</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Models predicting Decompensation in Cirrhosis.</title>
+  <pageEnd>80</pageEnd>
+  <pageStart>71</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250327</publicationDate>
+  <pageCount>10</pageCount>
+  <publisherLocations>Romania</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Liver Cirrhosis diagnosis ; Machine Learning ; Predictive Value of Tests ; Humans ; Retrospective Studies ; Female ; Male ; Prospective Studies ; Middle Aged ; Biomarkers blood ; Bilirubin blood ; Proof of Concept Study ; Risk Factors ; Risk Assessment ; Support Vector Machine ; Databases, Factual ; Prognosis ; Aged ; Decision Support Techniques</subjects>
+  <abstract>Decompensation of cirrhosis significantly decreases survival, thus, prevention of complications is paramount. We used machine learning techniques to identify parameters predicting decompensation.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40153826</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>34</volume>
+  <issns>1842-1121 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2d26c3a2-5d1c-3829-a056-f5499111b59f</plink>
+  <doids></doids>
+  <publisher>Editura Medicală Universitară "Iuliu Haţieganu</publisher>
+  <contributors>Müller, Sophie Elisabeth ; Casper, Markus ; Ripoll, Cristina ; Zipprich, Alexander ; Horn, Paul ; Krawczyk, Marcin ; Lammert, Frank ; Reichert, Matthias Christian</contributors>
+  <coverDate>2025 Mar 27</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.15403/jgld-5876</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Journal of Neuropathology &amp;amp; Experimental Neurology</source>
+  <bookEdition></bookEdition>
+  <title>A machine learning approach to automate microinfarct and microhemorrhage screening in hematoxylin and eosin-stained human brain tissues</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Biomedical and Clinical Sciences ; Neurosciences ; Clinical Sciences ; Cerebrovascular ; Aging ; Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) ; Networking and Information Technology R&amp;amp;D (NITRD) ; Bioengineering ; Brain Disorders ; Neurodegenerative ; Machine Learning and Artificial Intelligence ; Acquired Cognitive Impairment ; Dementia ; 4.2 Evaluation of markers and technologies ; Neurological ; Good Health and Well Being ; Humans ; Machine Learning ; Male ; Aged ; Brain ; Female ; Aged ; 80 and over ; Hematoxylin ; Eosine Yellowish-(YS) ; Cerebral Hemorrhage ; Cerebral Infarction ; Staining and Labeling ; Middle Aged ; deep learning ; digital pathology ; histology ; infarcts ; vascular dementia ; Neurology &amp;amp; Neurosurgery ; Clinical sciences</subjects>
+  <abstract>Microinfarcts and microhemorrhages are characteristic lesions of cerebrovascular disease. Although multiple studies have been published, there is no one universal standard criteria for the neuropathological assessment of cerebrovascular disease. In this study, we propose a novel application of machine learning in the automated screening of microinfarcts and microhemorrhages. Utilizing whole slide images (WSIs) from postmortem human brain samples, we adapted a patch-based pipeline with convolutional neural networks. Our cohort consisted of 22 cases from the University of California Davis Alzheimer's Disease Research Center brain bank with hematoxylin and eosin-stained formalin-fixed, paraffin-embedded sections across 3 anatomical areas: frontal, parietal, and occipital lobes (40 WSIs with microinfarcts and/or microhemorrhages, 26 without). We propose a multiple field-of-view prediction step to mitigate false positives. We report screening performance (ie, the ability to distinguish microinfarct/microhemorrhage-positive from microinfarct/microhemorrhage-negative WSIs), and detection performance (ie, the ability to localize the affected regions within a WSI). Our proposed approach improved detection precision and screening accuracy by reducing false positives thereby achieving 100% screening accuracy. Although this sample size is small, this pipeline provides a proof-of-concept for high efficacy in screening for characteristic brain changes of cerebrovascular disease to aid in screening of microinfarcts/microhemorrhages at the WSI level.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt1cf9z8dg</an>
+  <docTypes>article</docTypes>
+  <volume>84</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4d8e39ad-e426-38fe-8ebc-7d28bec1c22d</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Oliveira, Luca Cerny ; Chauhan, Joohi ; Chaudhari, Ajinkya ; Cheung, Sen-ching S ; Patel, Viharkumar ; Villablanca, Amparo C ; Jin, Lee-Way ; DeCarli, Charles ; Chuah, Chen-Nee ; Dugger, Brittany N</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

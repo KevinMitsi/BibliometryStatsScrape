@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Journal of Iron and Steel Research International</source>
+  <bookEdition></bookEdition>
+  <title>Studying corrosion resistance of ODS steels in supercritical water by machine learning: Studying corrosion resistance of ODS steels in supercritical water by machine learning</title>
+  <pageEnd>21</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>21</pageCount>
+  <publisherLocations>Singapore</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>ODS steel ; Machine learning ; Corrosion resistance ; Nanoparticle ; Feature importance</subjects>
+  <abstract>The corrosion performance of oxide dispersion strengthened (ODS) steel is crucial for SCWR application. Machine learning (ML) models were established to predict the mass gain of ODS steels under corrosion conditions (i.e., supercritical water), thereby evaluating their corrosion resistance. The grain and particle morphologies and crystal and interface structures of nanoparticles of six ODS steels were studied by transmission electron microscopy, scanning transmission electron microscopy, and high-resolution transmission electron microscopy. Among six ML models employed, the LightGBM (LGBM) model shows the highest accuracy (root mean square error of 43.18 mg/dm&lt;sup>2&lt;/sup> and 50.21 mg/dm&lt;sup>2&lt;/sup>, mean absolute error of 25.91 mg/dm&lt;sup>2&lt;/sup> and 27.82 mg/dm&lt;sup>2&lt;/sup>, and coefficient of determination &lt;i>R&lt;/i>&lt;sup>2&lt;/sup> of 0.97 and 0.96 for training set and testing set, respectively) in predicting the mass gain of ODS steels. The LGBM feature importance coefficients were also applied to denote the degree of the feature on corrosion resistance. For microstructural features, the parameters that greatly influence corrosion resistance are inter-particle spacing and grain diameter, with importance scores of 73 and 63, respectively. Moreover, there is a strong synergistic influence between Cr and Al on the corrosion resistance of ODS steels. Developing this efficient and accurate LGBM model not only enhances the understanding of ODS steel corrosion mechanisms but also provides valuable insights for the targeted optimization and design of high-performance ODS alloys.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.E3DD0AE</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>1006706X ; 22103988</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4d74e968-c803-363c-a65b-7070ccf71302</plink>
+  <doids></doids>
+  <publisher>Springer Nature Singapore</publisher>
+  <contributors>Yang, Tian-xing ; Dou, Peng</contributors>
+  <coverDate>20250408</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s42243-025-01464-x</doi>
+</record>

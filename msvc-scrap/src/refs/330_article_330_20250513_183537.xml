@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3183-6</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 7th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), Radio Electronics, Electrical and Power Engineering (REEPE), 2025 7th International Youth Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Adaptive VR Systems Based on EEG and Machine Learning Algorithms</title>
+  <pageEnd>5</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Components, Circuits, Devices and Systems ; Computing and Processing ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Nuclear Engineering ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Transportation ; Training ; Visualization ; Solid modeling ; Machine learning algorithms ; Adaptive systems ; Sensitivity ; Virtual environments ; Machine learning ; Feature extraction ; Electroencephalography ; machine learning ; virtual reality ; electroencephalography ; brain-computer interfaces ; adaptive systems</subjects>
+  <abstract>This paper presents a concept for a system that can adapt virtual reality (VR) scenes in real time based on the user's electroencephalographic (EEG) signals using machine learning algorithms. The proposed approach aims to increase the level of personalization and depth of immersion in the virtual environment by dynamically adjusting scene parameters according to the individual's emotional and cognitive state. The paper considers methods for EEG signal preprocessing, feature extraction, the use of modern neural network architectures for state classification, as well as mechanisms for mapping classification results onto visual and auditory VR elements. Potential applications are discussed, such as adaptive training simulators, therapeutic VR programs, games, and multimedia environments. Issues of scalability, the need for model personalization, minimizing processing delays, and possible solutions are also addressed. This work provides a theoretical foundation for future experimental research and the practical implementation of next-generation adaptive VR systems.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10970853</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>28317262</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=07e1f629-1428-369f-a9ba-ad4a498a9a97</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Tychkov, Alexander Yu. ; Khizbullin, Robert N. ; Khizbullin, Radik N. ; Ivanov, Alexander D. ; Alimuradov, Alan K. ; Chernyshov, Denis S.</contributors>
+  <coverDate>20250408</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/REEPE63962.2025.10970853</doi>
+</record>

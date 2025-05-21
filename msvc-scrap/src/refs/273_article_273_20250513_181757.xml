@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Unveiling the role of lignin in biomass-derived hard carbon anodes via machine learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineering ; Materials Engineering ; Chemical Sciences ; Machine Learning and Artificial Intelligence ; Affordable and Clean Energy ; Energy ; Chemical sciences</subjects>
+  <abstract>Biomass-derived hard carbon is a sustainable and promising anode material for sodium-ion batteries. Variations in biomass precursors lead to substantial differences in capacity, necessitating a deeper understanding of the underlying mechanisms. This study collected data from 149 relevant literature in the past decade. We used machine learning models to analyze the impact of lignin content and its structure in biomass precursors on the specific capacity of the derived hard carbon. The tree-based ensemble algorithms, particularly XGB and GBDT, showed superior performance, with the optimal model having a R2value of up to 0.99 for training and 0.60 for testing. Interpretable machine learning models identified lignin content and its structure as crucial factors, Shapley value analysis highlighted that higher lignin content and well-defined lignin structures positively influence capacity. Also, it is found that optimal pyrolysis temperatures (1000–1400 °C) and appropriate retention times are critical for enhancing performance. This work provides insights into optimizing biomass precursor selection and processing for high-performance hard carbon anodes.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt5fh9m6t1</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4a419dbe-2590-3d36-90eb-41e75f839994</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Li, Junxiao ; Jin, Yanghao ; Sun, Kang ; Wang, Ao ; Zhang, Gaoyue ; Zhou, Limin ; Yang, Weihong ; Fan, Mengmeng ; Jiang, Jianchun ; Wen, Yuming ; Wang, Shule</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B86R</mid>
+  <language>eng</language>
+  <source>Journal of Geophysical Research. Atmospheres</source>
+  <bookEdition></bookEdition>
+  <title>Intercomparison of Machine Learning Models to Determine the Planetary Boundary Layer Height Over Central Amazonia.</title>
+  <pageEnd>33</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250328</publicationDate>
+  <pageCount>33</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Atmospheric boundary layer ; Machine learning ; Boundary layer control ; Soil temperature measurement ; Surface of the earth</subjects>
+  <abstract>The planetary boundary layer height (zi) is a key parameter in meteorology and climatology, influencing weather prediction, cloud formation, and the vertical transport of scalars and energy near Earth's surface. This study compares multiple machine learning (ML) models that predict zi from surface measurements at two sites in Central Amazonia—the Amazon Tall Tower Observatory (ATTO) and the Manacapuru site of the GoAmazon experiment (T3). Models were trained on ceilometer data with radiosonde measurements used for validation. We evaluated model performance by withholding approximately 10% of the data (as complete months) for testing, comparing predictions against ERA‐5 reanalysis data using RMSE, nRMSE, and R2 metrics. Our results show that gradient boosted ensemble models using all available features perform best. A modified recursive feature elimination algorithm identified minimal sets of 5–7 surface measurements sufficient for accurate zi prediction, demonstrating potential for wider spatial monitoring using cost‐effective sensors. The study revealed previously unrecognized variables influential in determining zi, such as deep soil temperature measurements (40 cm), suggesting new avenues for investigating land‐atmosphere interactions. This study demonstrates the applicability of ML models to model zi. Plain Language Summary: The height of the planetary boundary layer (PBL) is important for understanding weather, cloud formation, and the movement of pollutants and energy near the Earth's surface. This study compares different machine learning models to predict the height of the PBL using data collected from the surface, such as temperature, energy, and meteorological measurements. The performance of these models is compared with radiosonde measurements and existing weather prediction data from the ERA‐5 data set at two locations in Central Amazon. This research highlights the potential of machine learning to improve our ability to model the PBL height accurately. This study found that you can predict the height of the PBL accurately using only 5–7 ground‐based measurements. This is important because it suggests we could monitor boundary layer height over wider areas using simple, low‐cost sensors combined with short‐term measurement campaigns to obtain measurements of the PBL height for model training. The research also discovered some unexpected factors that influence boundary layer height such as soil temperature measured deep underground (40 cm). This opens up new directions for study and helps us better understand what controls the height of the boundary layer. Key Points: The planetary boundary layer height (zi) is a crucial parameter for meteorological models and understanding trace gas and energy exchange. This study demonstrared the effectiveness of machine learning in accurately predicting zi at two sites in Central AmazoniaUtilizing a recursive feature elimination algorithm, this study demonstrated that highly accurate machine learning models for zi can trained using few ground measurements (5–7), highlighting that wider modeling of zi may be possible using these inexpensive measurements alongside short‐term zi measurement campaignsImportant features were identified that were not known to have a significant influence on zi (e.g., soil temperature at 40 cm), identifying new avenues for research and expanding understanding of the drivers of zi</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184109359</an>
+  <docTypes>Article</docTypes>
+  <volume>130</volume>
+  <issns>2169-897X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3d390da1-cbaa-33c0-ad83-bef0ba2c7cf4</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Stapleton, Adam ; Dias‐Junior, Cléo Quaresma ; Von Randow, Celso ; Farias D'Oliveira, Flávio Augusto ; Pöhlker, Christopher ; de Araújo, Alessandro C. ; Roantree, Mark ; Eichelmann, Elke</contributors>
+  <coverDate>3/28/2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1029/2024JD042488</doi>
+</record>

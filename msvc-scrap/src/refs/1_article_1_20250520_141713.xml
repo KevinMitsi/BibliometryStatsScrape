@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsorb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>French</language>
+  <source>Séminaire international de sémiotique à Paris : Intelligence artificielle générative et nouveaux enjeux sémiotiques. Traduction et appropriations créatives, Paris, France [FR], 11/12/2024</source>
+  <bookEdition></bookEdition>
+  <title>Le dynamisme dans l’image fixe selon les IA génératives</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241211</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>intelligence artificielle ; IA générative ; dynamisme en peinture ; dall•E ; midjourney ; stable diffusion ; edge detection ; computer vision ; image processing ; text-to-image ; Engineering, computing &amp;amp; technology ; Computer science ; Arts &amp;amp; humanities ; Art &amp;amp; art history ; Ingénierie, informatique &amp;amp; technologie ; Sciences informatiques ; Arts &amp;amp; sciences humaines ; Art &amp;amp; histoire de l’art</subjects>
+  <abstract>Cet exposé étudie la notion de dynamisme en peinture, d’abord quantitativement à partir d’un outil de traitement d’image classique revisité pour l’occasion, puis qualitativement à travers le prisme des IA génératives d’images. Dans la première partie, nous motiverons le choix de ce sujet, l’eXet de dynamisme, souvent négligé en sémiotique de l’image et en histoire de l’art. Puis, nous présenterons un outil informatique, la détection de bords (edge detection), permettant d’analyser la saillance et la direction des lignes et traits constitutifs d’œuvres picturales, qui donnent une mesure de l’eXet de dynamisme de l’image. Finalement, nous appliquerons cet outil pour distinguer des mouvements artistiques, pour étudier l’évolution temporelle du dynamisme de Wassily Kandinsky, pour élaborer une typologie de dynamismes chez les peintres spécialistes de l’abstraction, et pour illustrer une recherche de similarité de dynamisme dans une base de données de peintures. Dans la seconde partie de l’exposé, nous étudierons la capacité du modèle génératif DALL•E à produire des représentations du mouvement de diverses façons. D’abord, nous examinerons en détail la proximité avec laquelle il peut imiter le dynamisme de Kandinsky. Puis, sans préciser d’artiste, nous le contraindrons à un certain type de dynamisme en utilisant certains paramètres tels que les diagonales, les couleurs vives, le flou de mouvement, etc., avant de ne plus le contraindre du tout, si ce n’est au medium (peinture, image, photographie). Nous montrerons, en étudiant les prompts révisés par le modèle lui-même, qu’une certaine notion dedynamisme est comprise et intrinsèquement présente chez DALL•E, et résulte généralement du mélange de plusieurs techniques. Enfin, nous comparerons sur base des critères précédents DALL•E, Midjourney, et Stable DiXusion, trois modèles génératifs d'images, sur leur capacité à générer de l’eXet de mouvements dans les images fixes. Nous verrons quelles caractéristiques générales semblent se dégager de ces modèles, et quelles spécificités ils ont apprises.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edsorb.327214</an>
+  <docTypes>conference paper not in proceedingshttp://purl.org/coar/resource_type/c_18cpconferencePaper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1457096f-4314-3516-be81-86f0ff74adc4</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Deliège, Adrien</contributors>
+  <coverDate>20241211</coverDate>
+  <longDBName>ORBi</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781789618006 ; 9781789613568</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition>Third edition</bookEdition>
+  <title>Mastering Machine Learning with R : Advanced Machine Learning Techniques for Building Smart Applications with R 3.5, 3rd Edition</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20190101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / General ; COMPUTERS / Information Theory ; COMPUTERS / Machine Theory ; Machine learning ; R (Computer program language)</subjects>
+  <abstract>Stay updated with expert techniques for solving data analytics and machine learning challenges and gain insights from complex projects and power up your applicationsKey FeaturesBuild independent machine learning (ML) systems leveraging the best features of R 3.5Understand and apply different machine learning techniques using real-world examplesUse methods such as multi-class classification, regression, and clusteringBook DescriptionGiven the growing popularity of the R-zerocost statistical programming environment, there has never been a better time to start applying ML to your data. This book will teach you advanced techniques in ML,using? the latest code in R 3.5. You will delve into various complex features of supervised learning, unsupervised learning, and reinforcement learning algorithms to design efficient and powerful ML models. This newly updated edition is packed with fresh examples covering a range of tasks from different domains. Mastering Machine Learning with R starts by showing you how to quickly manipulate data and prepare it for analysis. You will explore simple and complex models and understand how to compare them. You'll also learn to use the latest library support, such as TensorFlow and Keras-R, for performing advanced computations. Additionally, you'll explore complex topics, such as natural language processing (NLP), time series analysis, and clustering, which will further refine your skills in developing applications. Each chapter will help you implement advanced ML algorithms using real-world examples. You'll even be introduced to reinforcement learning, along with its various use cases and models. In the concluding chapters, you'll get a glimpse into how some of these blackbox models can be diagnosed and understood. By the end of this book, you'll be equipped with the skills to deploy ML techniques in your own projects or at work.What you will learnPrepare data for machine learning methods with easeUnderstand how to write production-ready code and package it for useProduce simple and effective data visualizations for improved insightsMaster advanced methods, such as Boosted Trees and deep neural networksUse natural language processing to extract insights in relation to textImplement tree-based classifiers, including Random Forest and Boosted TreeWho this book is forThis book is for data science professionals, machine learning engineers, or anyone who is looking for the ideal guide to help them implement advanced machine learning algorithms. The book will help you take your skills to the next level and advance further in this field. Working knowledge of machine learning with R is mandatory.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2016363</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0a8ac9da-8cf7-3e02-8839-c456d84a1cbf</plink>
+  <doids>NL$2016363$PDF ; NL$2016363$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Cory Lesmeister</contributors>
+  <coverDate>2019</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

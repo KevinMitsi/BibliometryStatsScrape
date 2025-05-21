@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Application of machine learning techniques for cost estimation of engineer to order products.</title>
+  <pageEnd>7000</pageEnd>
+  <pageStart>6978</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20231015</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>20</issue>
+  <identifiers></identifiers>
+  <subjects>Engineers ; Engineering ; Cost ; Machine learning ; Feature selection ; Solid dosage forms</subjects>
+  <abstract>Cost engineering capabilities are becoming increasingly important for the competitiveness of industrial firms, especially for engineer to order products (ETOPs). Despite this relevance, the literature on the use of advanced data-driven methodologies, such as machine learning (ML), for early cost estimation (CE) of ETOPs is quite sparse. Furthermore, ML has still seen little use in real industrial applications due to several challenges. Accordingly, the objective of this paper is threefold: (a) to develop a solid early CE approach for ETOPs, including feature selection; (b) to investigate the benefits of adopting ML for ETOPs' CE; (c) to identify how ML can be introduced into real industrial context with little knowledge on ML. Long action research has been carried out with a large industrial company that produces Oil &amp;amp; Gas ETOPs. We observed how ML facilitates the exploration of the relationships between the choices of early design stages and the CE. ML algorithms also allowed to both capture the high variability of the data and test different combinations of cost drivers in very effective ways. The project resulted in an accurate CE framework with an iterative feature selection process and an approach for introducing ML into a real industrial context.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>170023613</an>
+  <docTypes>Article</docTypes>
+  <volume>61</volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b16f418e-9c8f-36bd-b973-c25035aa196d</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Rapaccini, Mario ; Cadonna, Veronica Loew ; Leoni, Leonardo ; De Carlo, Filippo</contributors>
+  <coverDate>Oct2023</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2022.2141907</doi>
+</record>

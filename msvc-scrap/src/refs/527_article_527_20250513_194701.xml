@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Education and Information Technologies</source>
+  <bookEdition></bookEdition>
+  <title>A Machine Learning Based Model for Student's Dropout Prediction in Online Training</title>
+  <pageEnd>15812</pageEnd>
+  <pageStart>15793</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240801</publicationDate>
+  <pageCount>20</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>12</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Dropouts ; Prediction ; Distance Education ; Foreign Countries ; Models ; Classification ; Academic Achievement ; Learner Engagement ; Learning Management Systems ; Profiles ; Canada</subjects>
+  <abstract>School dropout is a significant issue in distance learning, and early detection is crucial for addressing the problem. Our study aims to create a binary classification model that anticipates students' activity levels based on their current achievements and engagement on a Canadian Distance learning Platform. Predicting student dropout, a common classification problem in educational data analysis, is addressed by utilizing a comprehensive dataset that includes 49 features ranging from socio-demographic to behavioral data. This dataset provides a unique opportunity to analyze student interactions and success factors in a distance learning environment. We have developed a student profiling system and implemented a predictive approach using XGBoost, selecting the most important features for the prediction process. In this work, our methodology was developed in Python, using the widely used sci-kit-learn package. Alongside XGBoost, logistic regression was also employed as part of our combination of strategies to enhance the models predictive capabilities. Our work can accurately predict student dropout, achieving an accuracy rate of approximately 82% on unseen data from the next academic year.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1439744</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>29</volume>
+  <issns>1360-2357 ; 1573-7608</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=43c6e71d-25b1-36aa-b886-163ccc24ce4c</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Meriem Zerkouk ; Miloud Mihoubi ; Belkacem Chikhaoui ; Shengrui Wang</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10639-024-12500-w</doi>
+</record>

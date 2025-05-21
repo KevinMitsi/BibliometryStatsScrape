@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Langenbecks Archives of Surgery</source>
+  <bookEdition></bookEdition>
+  <title>Can surgeons trust AI? Perspectives on machine learning in surgery and the importance of eXplainable Artificial Intelligence (XAI).</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250128</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Explainable artificial intelligence ; Machine learning ; Minimally invasive surgery ; Humans ; Machine Learning ; Artificial Intelligence ; Surgeons ; Surgical Procedures ; Operative</subjects>
+  <abstract>PURPOSE: This brief report aims to summarize and discuss the methodologies of eXplainable Artificial Intelligence (XAI) and their potential applications in surgery. METHODS: We briefly introduce explainability methods, including global and individual explanatory features, methods for imaging data and time series, as well as similarity classification, and unraveled rules and laws. RESULTS: Given the increasing interest in artificial intelligence within the surgical field, we emphasize the critical importance of transparency and interpretability in the outputs of applied models. CONCLUSION: Transparency and interpretability are essential for the effective integration of AI models into clinical practice.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt1p36r4xt</an>
+  <docTypes>article</docTypes>
+  <volume>410</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0f02aae7-3928-33b2-a0d1-33023b6a427f</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Brandenburg, Johanna ; Müller-Stich, Beat ; Wagner, Martin ; Van Der Schaar, Mihaela</contributors>
+  <coverDate>20250128</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

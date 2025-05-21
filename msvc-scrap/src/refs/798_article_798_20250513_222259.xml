@@ -1,0 +1,35 @@
+<record>
+  <isbns>2-02-112321-9 ; 978-2-02-112321-0</isbns>
+  <shortDBName>edsred</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Divasón, J., Ceniceros, J. F., Sanz-Garcia, A., Pernia-Espinoza, A., &amp;amp; Martinez-de-Pison, F. J. (2023). PSO-PARSIMONY: A method for finding parsimonious and accurate machine learning models with particle swarm optimization. Application for predicting force–displacement curves in T-stub steel connections. Neurocomputing, 548, 126414. https://doi.org/10.1016/j.neucom.2023.126414</source>
+  <bookEdition></bookEdition>
+  <title>PSO-PARSIMONY: A method for finding parsimonious and accurate machine learning models with particle swarm optimization. Application for predicting force–displacement curves in T-stub steel connections.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230901</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>PSO-PARSIMONY ; t-stub connections ; Parsimonious modeling ; Auto machine learning ; GA-PARSIMONY</subjects>
+  <abstract></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsred.10366.157803</an>
+  <docTypes>article ; publishedVersion</docTypes>
+  <volume></volume>
+  <issns>09252312</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=cc2ec871-de30-3190-81da-b19502e73110</plink>
+  <doids></doids>
+  <publisher>Elsevier</publisher>
+  <contributors>Divasón, Jose ; Ceniceros, Julio Fernandez ; Sanz García, Andrés ; Pernía-Espinoza, Alpha ; Martinez-de-Pison, Francisco Javier</contributors>
+  <coverDate>2023</coverDate>
+  <longDBName>Repositorio Documental Gredos</longDBName>
+  <doi>10.1016/j.neucom.2023.126414</doi>
+</record>

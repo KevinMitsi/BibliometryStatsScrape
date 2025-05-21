@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Smart Agricultural Technology</source>
+  <bookEdition></bookEdition>
+  <title>A low-cost autonomous portable poultry egg freshness machine using majority voting-based ensemble machine learning classifiers</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Egg freshness detection ; Machine learning</subjects>
+  <abstract>One of the most precise and quick ways for classifying and judging the freshness of agricultural items based on density assessment is water displacement. The use of this approach in agricultural inspections of items like eggs that absorb water, which might be invasive and affect the results of measurements, is currently not recommended. Here, we present a novel automatic machine for low cost, simple and real—time monitoring of the sizing and freshness assessment of eggs based on height and width measurement of yolk using machine learning and a weight sensor. This is the first proposal that divides egg freshness into intervals through height and width measurements. For the purpose of determining the egg's weight, the weighing system was created using a loadcell as the weight sensor. The height and width of the yolk were pictured by two cameras to classify egg freshness. The proposed machine learning model is an ensemble machine learning algorithm, which integrates predictions obtained from several individual classifiers like Random Forest, Decision Trees, Support Vector Machine, Naïve Bayes, k-Nearest Neighbors and Logical Regression to make a final prediction. The proposed Hard voting model improved accuracy and robustness of final prediction compared to a Soft voting classifier. The proposed model obtained an accuracy of 100 % when compared with the typical Yolk index method. This study presents that egg freshness can be determined through yolk dimension without using water to test for water displacement which has future potential as a measuring machine for the poultry industry.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2772375525000024</an>
+  <docTypes>Article</docTypes>
+  <volume>10</volume>
+  <issns>2772-3755</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a1f9f540-fd32-32d8-a08e-e7d130bca644</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Hansot, Jirayut ; Wongsaroj, Wongsakorn ; Sangsuwan, Thaksin ; Thong-un, Natee</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.atech.2025.100768</doi>
+</record>

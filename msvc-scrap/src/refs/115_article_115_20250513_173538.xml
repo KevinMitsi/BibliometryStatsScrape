@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3183-6</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 7th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), Radio Electronics, Electrical and Power Engineering (REEPE), 2025 7th International Youth Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Application of Machine Learning Technologies for Assembly Quality Analysis in Instrumentation Engineering</title>
+  <pageEnd>4</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>4</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Components, Circuits, Devices and Systems ; Computing and Processing ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Nuclear Engineering ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Transportation ; Machine learning algorithms ; Instruments ; Process control ; Production ; Machine learning ; Quality control ; Data models ; Product design ; Quality assessment ; Assembly ; machine learning ; assembly quality control ; gradual reduction method ; process quality management ; assembly production organization</subjects>
+  <abstract>The article is devoted to the study of application of machine learning (ML) technologies for analysing and controlling the quality of assembling parts of instrumentation products at industrial enterprises. The possibilities and advantages of using ML-technologies to optimise quality management at industrial instrument manufacturing enterprises are considered. Approaches to the analysis of production data with the subsequent application of the gradient descent algorithm for the classification of high-quality and defective parts during assembly are presented, as well as methods for evaluating the performance of the machine learning model using error curves (ROC-curves) and the Matthews correlation coefficient (MCC), which assess the ability of the model to correctly classify high-quality and defective parts.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10970863</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>28317262</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=39fb842a-9cbd-33df-84c0-95e6cb998c92</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Ragutkin, A. V. ; Sidorov, I. M. ; Sidorov, M. I. ; Postnikova, E. S. ; Fatklislamova, I. I. ; Edaev, B. A.</contributors>
+  <coverDate>20250408</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/REEPE63962.2025.10970863</doi>
+</record>

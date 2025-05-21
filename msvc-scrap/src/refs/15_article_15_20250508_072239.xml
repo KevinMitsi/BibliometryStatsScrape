@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Predicting customer demand with deep learning: an LSTM-based approach incorporating customer information.</title>
+  <pageEnd>13</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250222</publicationDate>
+  <pageCount>13</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Machine learning ; Long short-term memory ; Extreme learning machines ; Deep learning</subjects>
+  <abstract>One of the challenging issues in the performance enhancement of organisations is forecasting demand, improving their supply chains, and reducing related costs. With recent advances in artificial intelligence, new techniques have been presented for demand forecasting with higher accuracy than their traditional counterparts. The proposed method is developed LSTM (Long Short-Term Memory) model called DLSTM-GA, which predicts demand based on customer behavioural information. We evaluated the new method on a real-world Black Friday dataset from the Kaggle website. One of the most important contributions of this research is optimising hyperparameters of LSTM by Genetic algorithm (GA) to reduce overfitting and complexity of LSTM to predict demand forecasting. The results show the MSE of DLSTM-GA is improved by 49.36% and R&lt;sup>2&lt;/sup> accuracy by 5.58% and 42.37% reduction in CPU-Time compared to the standard LSTM. Also, comparisons were made between the developed model’s performance and several machine learning models, comprising K-Nearest Neighbor (KNN), Gradient Boosting (GB), Decision Tree (DT), Multilayers Perceptron (MLP), and Extreme learning machine (ELM), confirming the better performance of DLSTM-GA in demand estimation. Specifically, the &amp;lt;italic&amp;gt;R&amp;lt;/italic&amp;gt;&lt;sup>2&lt;/sup> in DLSTM-GA was 0.8316 but this value was 0.6311, 0.4877, 0.6263, 0.4992, and 0.6365 for KNN, GB, DT, MLP, and ELM models, respectively.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183228843</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=14b7a5cf-9166-379d-8df5-478a620dd6be</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Hooshmand Pakdel, Golnaz ; He, Yong ; Chen, Xuhui</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2025.2468885</doi>
+</record>

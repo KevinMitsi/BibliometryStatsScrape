@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsjsr</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Military Operations Research</source>
+  <bookEdition></bookEdition>
+  <title>The Utility of Machine Learning Applied to Military Assessment and Selection</title>
+  <pageEnd>94</pageEnd>
+  <pageStart>53</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>42</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>This paper presents a case study of how to use machine learning to provide actionable recommendations in the military assessment and selection (A&amp;amp;S) context. Military units use an in-depth A&amp;amp;S process to acquire the most qualified candidates. The specific A&amp;amp;S we studied had 11,885 candidate records collected over a five-year period with 89 total features that included administrative, performance, and psychological data on each candidate. We applied a robust machine learning approach involving feature engineering, feature selection, optimized predictive models, and data subsets analysis to extract meaningful information from the data. Our objective for this research was to evaluate the utility of applying machine learning techniques to a specific military A&amp;amp;S dataset with the goal of improving the holistic A&amp;amp;S selection process. The research resulted in valuable insights from the data that found features highly predictive of candidate nonselection, learned methods to modify the existing data to improve predictive capability, and informed actionable recommendations for the A&amp;amp;S selection process.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsjsr.27317896</an>
+  <docTypes>research-article</docTypes>
+  <volume>29</volume>
+  <issns>10825983 ; 21632758</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fc1396d5-e679-3c1b-b612-b2e309d7e3ff</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Deverill, Hayden ; Scherer, William ; Porter, Michael ; Stam, Allan</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>JSTOR Journals</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-3-031-47061-5 ; 978-3-031-47062-2</isbns>
+  <shortDBName>edssjb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Machine Learning for Cyber-Physical Systems : Selected papers from the International Conference ML4CPS 2023</source>
+  <bookEdition></bookEdition>
+  <title>Development of a Robotic Bin Picking Approach Based on Reinforcement Learning</title>
+  <pageEnd>49</pageEnd>
+  <pageStart>41</pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine Learning ; Robotic Bin Picking ; Simulation</subjects>
+  <abstract>Robotic bin picking systems aim to automate the feeding process of randomly stored objects in industrial production. Despite being a research field for decades, there is still a gap between research and industrial application. The presented work intends to improve the utilization of bin picking for the industrial manufacturing of electrotechnical components. In this context, the development process of a system approach based on machine learning is stated. First, related work is presented and the research issue is derived. Second, a comparison between major machine learning techniques with respect to bin picking is made and a reinforcement learning approach is chosen for this work. Therein, a neural network learns strategies for grasping objects from bulk material depending on their position in the bin. Based on manifold states in a simulation environment, it is the goal to gain a versatile character of the robot system. In this regard, preselection criteria, discrete action primitives and grasp constraints are defined that incorporate domain knowledge to shorten the training effort.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edssjb.978.3.031.47062.2.5</an>
+  <docTypes></docTypes>
+  <volume>18</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=11d1f99e-8c71-3e03-85bc-0a3099fb9dfc</plink>
+  <doids></doids>
+  <publisher>Springer Nature Switzerland</publisher>
+  <contributors>Stuke, Tobias ; Rauschenbach, Thomas ; Bartsch, Thomas</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>Springer Nature eBooks</longDBName>
+  <doi>10.1007/978-3-031-47062-2_5</doi>
+</record>

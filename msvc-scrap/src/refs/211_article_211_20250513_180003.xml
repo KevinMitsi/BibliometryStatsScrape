@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of Computer Assisted Learning</source>
+  <bookEdition></bookEdition>
+  <title>Improving Student Learning Performance in Machine Learning Curricula: A Comparative Study of Online Problem-Solving Competitions in Chinese and English-Medium Instruction Settings</title>
+  <pageEnd>2305</pageEnd>
+  <pageStart>2292</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241001</publicationDate>
+  <pageCount>14</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Instructional Improvement ; Problem Solving ; Competition ; Electronic Learning ; Computer Science Education ; Chinese ; English ; Language of Instruction ; Foreign Countries ; Outcomes of Education ; Writing Skills ; Speech Skills ; Taiwan</subjects>
+  <abstract>Background: Numerous higher education institutions worldwide have adopted English-language-medium computer science courses and integrated online problem-solving competitions to bridge gaps in theory and practice (Alhamami "Education and Information Technologies," 2021; 26: 6549-6562). Objectives: This study aimed to investigate the factors influencing the use of online competitions in machine learning courses and their impact on student learning. We also analyse disparities in learning outcomes and instructional language effects (Chinese vs. English). Methods: Among 123 participants at northern Taiwan university, 74 chose Chinese instruction (CMI), and 49 opted for English instruction (EMI). The course spanned 18 weeks: team formation in week one, data analysis, machine learning, and deep learning from week 2 to 8, draft proposals and oral presentations by week 9, instructor guidance in weeks 9-17, followed by off-campus competitions. In week 18, students presented projects for evaluation by judges. Results: The results showed improved scores in competition proposal writing and oral presentations, especially for CMI students, who excelled in these areas and in terms of creativity. CMI students emphasized domain knowledge, implementation completeness, and technical depth in proposals. The EMI students focused on implementation completeness and artificial intelligence model accuracy, along with creativity. Conclusion: CMI students achieved superior outcomes in machine learning courses, particularly in terms of competition proposals, oral presentations, and increased creativity. Instructional language choice significantly influenced learning trajectories, leading to distinct knowledge development focuses for CMI and EMI.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1449599</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>40</volume>
+  <issns>0266-4909 ; 1365-2729</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0c4e7c7e-fb8e-30aa-af4e-d77b6e26afc8</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Hui-Tzu Chang ; Chia-Yu Lin</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1111/jcal.13003</doi>
+</record>

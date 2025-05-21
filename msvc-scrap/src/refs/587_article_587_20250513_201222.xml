@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Patterns</source>
+  <bookEdition></bookEdition>
+  <title>Fine-Pruning: A biologically inspired algorithm for personalization of machine learning models</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250509</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>machine learning ; biomimicry ; neurosynaptic pruning ; biologically feasible learning ; lot machine learning ; embedded learning</subjects>
+  <abstract>Summary Neural networks have long strived to emulate the learning capabilities of the human brain. While deep neural networks (DNNs) draw inspiration from the brain in neuron design, their training methods diverge from biological foundations. Backpropagation, the primary training method for DNNs, requires substantial computational resources and fully labeled datasets, presenting major bottlenecks in development and application. This work demonstrates that by returning to biomimicry, specifically mimicking how the brain learns through pruning, we can solve various classical machine learning problems while utilizing orders of magnitude fewer computational resources and no labels. Our experiments successfully personalized multiple speech recognition and image classification models, including ResNet50 on ImageNet, resulting in an increased sparsity of approximately 70% while simultaneously improving model accuracy to around 90%, all without the limitations of backpropagation. This biologically inspired approach offers a promising avenue for efficient, personalized machine learning models in resource-constrained environments.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S266638992500090X</an>
+  <docTypes>Article</docTypes>
+  <volume>6</volume>
+  <issns>2666-3899</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=277fa813-cdc2-321d-922d-99f597fd2765</plink>
+  <doids></doids>
+  <publisher>Elsevier Inc.</publisher>
+  <contributors>Bingham, Joseph ; Zonouz, Saman ; Aran, Dvir</contributors>
+  <coverDate>9 May 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.patter.2025.101242</doi>
+</record>

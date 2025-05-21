@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B0GN</mid>
+  <language>eng</language>
+  <source>Working Papers (Oesterreichische Nationalbank)</source>
+  <bookEdition></bookEdition>
+  <title>Dual Interpretation of Machine Learning Forecasts.</title>
+  <pageEnd>57</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250315</publicationDate>
+  <pageCount>57</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>265</issue>
+  <identifiers></identifiers>
+  <subjects>Short selling (Securities) ; Inflation forecasting ; Time series analysis ; Machine learning ; Random forest algorithms</subjects>
+  <abstract>Machine learning predictions are typically interpreted as the sum of contributions of predictors. Yet, each out-of-sample prediction can also be expressed as a linear combination of in-sample values of the predicted variable, with weights corresponding to pairwise proximity scores between current and past economic events. While this dual route leads nowhere in some contexts (e.g., large cross-sectional datasets), it provides sparser interpretations in settings with many regressors and little training data-like macroeconomic forecasting. In this case, the sequence of contributions can be visualized as a time series, allowing analysts to explain predictions as quantifiable combinations of historical analogies. Moreover, the weights can be viewed as those of a data portfolio, inspiring new diagnostic measures such as forecast concentration, short position, and turnover. We show how weights can be retrieved seamlessly for (kernel) ridge regression, random forest, boosted trees, and neural networks. Then, we apply these tools to analyze postpandemic forecasts of inflation, GDP growth, and recession probabilities. In all cases, the approach opens the black box from a new angle and demonstrates how machine learning models leverage history partly repeating itself.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184334881</an>
+  <docTypes>Article</docTypes>
+  <volume></volume>
+  <issns>2310-5321</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d83bdf9a-89ba-3ce8-8939-91033a4136e7</plink>
+  <doids></doids>
+  <publisher>Oesterreichische Nationalbank</publisher>
+  <contributors>Coulombe, Philippe Goulet ; Göbel, Maximilian ; Klieber, Karin</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi></doi>
+</record>

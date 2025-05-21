@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Multimodal Pain Recognition in Postoperative Patients: Machine Learning Approach.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250127</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>acute pain ; behavioral pain ; clinical pain management ; electrocardiogram ; electrodermal activity ; electromyogram ; health care ; machine learning approach ; machine learning–based framework ; multimodal information fusion ; multimodal machine learning–based framework ; pain assessment ; pain intensity ; pain intensity recognition ; pain measurement ; pain monitoring ; pain recognition ; self-reported pain level ; signal processing ; weak supervision ; Humans ; Machine Learning ; Male ; Pain ; Postoperative ; Female ; Middle Aged ; Pain Measurement ; Adult ; Aged ; Electrocardiography ; Electromyography</subjects>
+  <abstract>BACKGROUND: Acute pain management is critical in postoperative care, especially in vulnerable patient populations that may be unable to self-report pain levels effectively. Current methods of pain assessment often rely on subjective patient reports or behavioral pain observation tools, which can lead to inconsistencies in pain management. Multimodal pain assessment, integrating physiological and behavioral data, presents an opportunity to create more objective and accurate pain measurement systems. However, most previous work has focused on healthy subjects in controlled environments, with limited attention to real-world postoperative pain scenarios. This gap necessitates the development of robust, multimodal approaches capable of addressing the unique challenges associated with assessing pain in clinical settings, where factors like motion artifacts, imbalanced label distribution, and sparse data further complicate pain monitoring. OBJECTIVE: This study aimed to develop and evaluate a multimodal machine learning-based framework for the objective assessment of pain in postoperative patients in real clinical settings using biosignals such as electrocardiogram, electromyogram, electrodermal activity, and respiration rate (RR) signals. METHODS: The iHurt study was conducted on 25 postoperative patients at the University of California, Irvine Medical Center. The study captured multimodal biosignals during light physical activities, with concurrent self-reported pain levels using the Numerical Rating Scale. Data preprocessing involved noise filtering, feature extraction, and combining handcrafted and automatic features through convolutional and long-short-term memory autoencoders. Machine learning classifiers, including support vector machine, random forest, adaptive boosting, and k-nearest neighbors, were trained using weak supervision and minority oversampling to handle sparse and imbalanced pain labels. Pain levels were categorized into baseline and 3 levels of pain intensity (1-3). RESULTS: The multimodal pain recognition models achieved an average balanced accuracy of over 80% across the different pain levels. RR models consistently outperformed other single modalities, particularly for lower pain intensities, while facial muscle activity (electromyogram) was most effective for distinguishing higher pain intensities. Although single-modality models, especially RR, generally provided higher performance compared to multimodal approaches, our multimodal framework still delivered results that surpassed most previous works in terms of overall accuracy. CONCLUSIONS: This study presents a novel, multimodal machine learning framework for objective pain recognition in postoperative patients. The results highlight the potential of integrating multiple biosignal modalities for more accurate pain assessment, with particular value in real-world clinical settings.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt13m9x4rp</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7e160692-7257-36bb-85b8-3d97d7510b32</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Subramanian, Ajan ; Cao, Rui ; Naeini, Emad ; Aqajari, Seyed ; Hughes, Thomas ; Calderon, Michael-David ; Zheng, Kai ; Dutt, Nikil ; Liljeberg, Pasi ; Salanterä, Sanna ; Nelson, Ariana ; Rahmani, Amir</contributors>
+  <coverDate>20250127</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

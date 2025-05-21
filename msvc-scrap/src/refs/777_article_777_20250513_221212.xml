@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KSD</mid>
+  <language>eng</language>
+  <source>Environmental Monitoring &amp;amp; Assessment</source>
+  <bookEdition></bookEdition>
+  <title>Performance analysis of machine learning models for AQI prediction in Gorakhpur City: a critical study.</title>
+  <pageEnd>20</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241001</publicationDate>
+  <pageCount>20</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>10</issue>
+  <identifiers></identifiers>
+  <subjects>Air quality indexes ; Air quality ; Particulate matter ; Machine learning ; Standard deviations</subjects>
+  <abstract>Air pollution and climate change are two complementary forces that directly or indirectly affect the environment's physical, chemical, and biological processes. The air quality index is a parameter defined to cope with this effect of air pollution. This study delves deeper into predicting this AQI parameter using multiple machine learning-based models. The AQI pollutants considered for this study are particulate matter (PM&lt;sub>10&lt;/sub>, PM&lt;sub>2.5&lt;/sub>), SO&lt;sub>2&lt;/sub>, and NO&lt;sub>2&lt;/sub>. It also tries to develop a comparative analysis of two different machine learning (ML) models viz. a viz. XGBoost and Lasso regression. An ever-changing emission concentration of pollutants is displayed by this study conducted in the urban city of Gorakhpur Uttar Pradesh, India. The validation of prediction accuracies of models was done over several statistical metrics. The value of the R&lt;sup>2&lt;/sup> metric for XGBoost (0.9985) is comparatively more than the R&lt;sup>2&lt;/sup> value for Lasso regression (0.9218) indicating lesser variance and higher accuracy of XGBoost in predicting AQI. Various statistical measures are taken into consideration in this study, including mean absolute error (MAE), mean square error (MSE), root mean square error (RMSE), T-test and p-values, and confidence intervals (CI). An increased degree of model accuracy is suggested as XGBoost's MAE, MSE, and RMSE values are significantly lower than Lasso's. Statistically significant performance differences between the XGBoost and Lasso regression models are demonstrated by T-statistics and p-values for MAE, MSE, RMSE, and R&lt;sup>2&lt;/sup>.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>180331993</an>
+  <docTypes>Article</docTypes>
+  <volume>196</volume>
+  <issns>0167-6369</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=26487f47-0fe6-371c-b120-0119f14573b4</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Mandvi ; Patel, Prabhat Kumar ; Singh, Hrishikesh Kumar</contributors>
+  <coverDate>Oct2024</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1007/s10661-024-13107-x</doi>
+</record>

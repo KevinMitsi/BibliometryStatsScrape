@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CNM</mid>
+  <language>eng</language>
+  <source>Entropy</source>
+  <bookEdition></bookEdition>
+  <title>Selected Topics in Time Series Forecasting: Statistical Models vs. Machine Learning.</title>
+  <pageEnd></pageEnd>
+  <pageStart>279</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; CONTINUOUS time models ; STATISTICAL models ; WEATHER forecasting ; RANDOM forest algorithms ; All Other Professional, Scientific, and Technical Services</subjects>
+  <abstract>Machine learning forecasting methods are compared to more traditional parametric statistical models. This comparison is carried out regarding a number of different situations and settings. A survey of the most used parametric models is given. Machine learning methods, such as convolutional networks, TCNs, LSTM, transformers, random forest, and gradient boosting, are briefly presented. The practical performance of the various methods is analyzed by discussing the results of the Makridakis forecasting competitions (M1–M6). I also look at probability forecasting via GARCH-type modeling for integer time series and continuous models. Furthermore, I briefly comment on entropy as a volatility measure. Cointegration and panels are mentioned. The paper ends with a section on weather forecasting and the potential of machine learning methods in such a context, including the very recent GraphCast and GenCast forecasts.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184102761</an>
+  <docTypes>Article</docTypes>
+  <volume>27</volume>
+  <issns>1099-4300</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=be3793ab-4c7c-33ac-8474-4c0495a558c6</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Tjøstheim, Dag</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/e27030279</doi>
+</record>

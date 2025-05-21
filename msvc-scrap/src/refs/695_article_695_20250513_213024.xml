@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>International Journal of Machine Learning and Cybernetics</source>
+  <bookEdition></bookEdition>
+  <title>Clustered Automated Machine Learning (CAML) model for clinical coding multi-label classification</title>
+  <pageEnd>1529</pageEnd>
+  <pageStart>1507</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations>Berlin/Heidelberg</publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; AutoML ; Multi-label classification ; NLP ; Clinical coding ; Computer assisted coding</subjects>
+  <abstract>Clinical coding is a time-consuming task that involves manually identifying and classifying patients’ diseases. This task becomes even more challenging when classifying across multiple diagnoses and performing multi-label classification. Automated Machine Learning (AutoML) techniques can improve this classification process. However, no previous study has developed an AutoML-based approach for multi-label clinical coding. To address this gap, a novel approach, called Clustered Automated Machine Learning (CAML), is introduced in this paper. CAML utilizes the AutoML library Auto-Sklearn and cTAKES feature extraction method. CAML clusters binary diagnosis labels using Hamming distance and employs the AutoML library to select the best algorithm for each cluster. The effectiveness of CAML is evaluated by comparing its performance with that of the Auto-Sklearn model on five different datasets from the Medical Information Mart for Intensive Care (MIMIC III) database of reports. These datasets vary in size, label set, and related diseases. The results demonstrate that CAML outperforms Auto-Sklearn in terms of Micro F1-score and Weighted F1-score, with an overall improvement ratio of 35.15% and 40.56%, respectively. The CAML approach offers the potential to improve healthcare quality by facilitating more accurate diagnoses and treatment decisions, ultimately enhancing patient outcomes.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.41FBBC9A</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>16</volume>
+  <issns>18688071 ; 1868808X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f78a33e1-04ef-35a5-98ba-85837c07410e</plink>
+  <doids></doids>
+  <publisher>Springer Berlin Heidelberg</publisher>
+  <contributors>Mustafa, Akram ; Rahimi Azghadi, Mostafa</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s13042-024-02349-3</doi>
+</record>

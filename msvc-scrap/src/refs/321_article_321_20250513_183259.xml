@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Water Resources Management: An International Journal - Published for the European Water Resources Association (EWRA)</source>
+  <bookEdition></bookEdition>
+  <title>Estimation of the Spatiotemporal Variability of Surface soil Moisture Using Machine Learning Methods Integrating Satellite and Ground-based Soil Moisture and Environmental Data: Estimation of the Spatiotemporal Variability of Surface soil Moisture Using Machine Learning Methods Integrating Satellite and Ground-based Soil Moisture and Environmental Data</title>
+  <pageEnd>2334</pageEnd>
+  <pageStart>2317</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations>Dordrecht</publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Soil moisture ; Hydro-meteorological extremes ; Machine learning ; Sentinel-1 satellite data ; Ground-based data</subjects>
+  <abstract>Monitoring and quantifying the development of drought extremes is important to agriculture, water, and land management. For this, soil moisture (SM) is an effective indicator. However, currently, real-time monitoring and forecasting of SM is challenging. Thus, this study develops and tests a methodology based on machine learning methods that integrates ground-based data, Sentinel-1 satellite soil moisture (S1SSM) data, meteorological data, and relevant environmental parameters to improve the estimation of the spatiotemporal changes in SM. It also evaluates the relevance of the applied parameters and the applicability and limitations of S1SSM data in SM monitoring. Specifically, the performances of four machine learning methods (multiple linear regression, support vector machine regression, extreme gradient boosting, and a deep neural network) were evaluated in an area increasingly exposed to hydrological extremes. Overall, the extreme gradient boosting model provided the best result (R&lt;sup>2&lt;/sup> = 0.92). In this case, the difference between the modeled and observed SM values at ground-based stations was below 3%, with only five stations reporting differences above 5%, indicating the effectiveness of this model for SM monitoring in larger areas. Additionally, the spatial pattern of the observed S1SSM values and the modeled values showed good agreement (with a difference below 10%) in the larger part (45.5%) of the area, while more than 20% difference occurred in 27.1% of the area, demonstrating the application potential of S1SSM data in areas with less heterogeneous land use. However, the results also suggest that the S1SSM data can be affected by land use and/or soil types.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.538A0220</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>39</volume>
+  <issns>09204741 ; 15731650</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8d9ab2e4-e0f0-3117-99b1-b4937f749e69</plink>
+  <doids></doids>
+  <publisher>Springer Netherlands</publisher>
+  <contributors>Blanka-Végi, Viktória ; Tobak, Zalán ; Sipos, György ; Barta, Károly ; Szabó, Brigitta ; van Leeuwen, Boudewijn</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s11269-024-04069-3</doi>
+</record>

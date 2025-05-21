@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Journal of Personalized Medicine</source>
+  <bookEdition></bookEdition>
+  <title>Post-Operative Outcome Predictions in Vestibular Schwannoma Using Machine Learning Algorithms</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>12</issue>
+  <identifiers></identifiers>
+  <subjects>Biomedical and Clinical Sciences ; Clinical Sciences ; Networking and Information Technology R&amp;amp;D (NITRD) ; Patient Safety ; Bioengineering ; Machine Learning and Artificial Intelligence ; artificial neural network ; complication ; machine learning ; reoperation ; vestibular schwannoma ; Medical biochemistry and metabolomics ; Medical biotechnology ; Pharmacology and pharmaceutical sciences</subjects>
+  <abstract>Background/Objectives: This study aimed to develop a machine learning (ML) algorithm that can predict unplanned reoperations and surgical/medical complications after vestibular schwannoma (VS) surgery. Methods: All pre- and peri-operative variables available in the American College of Surgeons National Surgical Quality Improvement Program (ACS-NSQIP) database (n = 110), except those directly related to our outcome variables, were used as input variables. A deep neural network model consisting of seven layers was developed using the Keras open-source library, with a 70:30 breakdown for training and testing. The feature importance of input variables was measured to elucidate their relative permutation effect in the ML model. Results: Of the 1783 patients with VS undergoing surgery, unplanned reoperation, surgical complications, and medical complications were seen in 8.5%, 5.2%, and 6.2% of patients, respectively. The deep neural network model had area under the curve of receiver operating characteristics (ROC-AUC) of 0.6315 (reoperation), 0.7939 (medical complications), and 0.719 (surgical complications). Accuracy, specificity, and negative predictive values of the model for all outcome variables ranged from 82.1 to 96.6%, while positive predictive values and sensitivity ranged from 16.7 to 51.5%. Variables such as the length of stay post-operation until discharge, days from operation to discharge, and the total hospital length of stay had the highest permutation importance. Conclusions: We developed an effective ML algorithm predicting unplanned reoperation and surgical/medical complications post-VS surgery. This may offer physicians guidance into potential post-surgical outcomes to allow for personalized medical care plans for VS patients.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt6823d98w</an>
+  <docTypes>article</docTypes>
+  <volume>14</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5239f67b-1ca5-35a2-afcb-c28319f29c4f</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Dichter, Abigail ; Bhatt, Khushi ; Liu, Mohan ; Park, Timothy ; Djalilian, Hamid R ; Abouzari, Mehdi</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

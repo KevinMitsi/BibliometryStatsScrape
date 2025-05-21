@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Neural Computing and Applications</source>
+  <bookEdition></bookEdition>
+  <title>Stylometry-driven framework for Urdu intrinsic plagiarism detection: a comprehensive analysis using machine learning, deep learning, and large language models</title>
+  <pageEnd>6513</pageEnd>
+  <pageStart>6479</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>35</pageCount>
+  <publisherLocations>London</publisherLocations>
+  <issue>9</issue>
+  <identifiers></identifiers>
+  <subjects>Intrinsic plagiarism ; Urdu language ; Stylometry features ; Machine learning ; Deep learning ; Large language models</subjects>
+  <abstract>Detecting plagiarism in documents is a well-established task in natural language processing (NLP). Broadly, plagiarism detection is categorized into two types (1) intrinsic: to check the whole document or all the passages have been written by a single author; (2) extrinsic: where a suspicious document is compared with a given set of source documents to figure out sentences or phrases which appear in both documents. In the pursuit of advancing intrinsic plagiarism detection, this study addresses the critical challenge of intrinsic plagiarism detection in Urdu texts, a language with limited resources for comprehensive language models. Acknowledging the absence of sophisticated large language models (LLMs) tailored for Urdu language, this study explores the application of various machine learning, deep learning, and language models in a novel framework. A set of 43 stylometry features at six granularity levels was meticulously curated, capturing linguistic patterns indicative of plagiarism. The selected models include traditional machine learning approaches such as logistic regression, decision trees, SVM, KNN, Naive Bayes, gradient boosting and voting classifier, deep learning approaches: GRU, BiLSTM, CNN, LSTM, MLP, and large language models: BERT and GPT-2. This research systematically categorizes these features and evaluates their effectiveness, addressing the inherent challenges posed by the limited availability of Urdu-specific language models. Two distinct experiments were conducted to evaluate the impact of the proposed features on classification accuracy. In experiment one, the entire dataset was utilized for classification into intrinsic plagiarized and non-plagiarized documents. Experiment two categorized the dataset into three types based on topics: moral lessons, national celebrities, and national events. Both experiments are thoroughly evaluated through, a fivefold cross-validation analysis. The results show that the random forest classifier achieved an exceptional accuracy of 98.81% in experiment 1. On the other hand, in experiment 2, the extreme gradient boosting classifier attained an overall accuracy of 99.00% highlighting its superior capability in distinguishing nuanced stylistic features across different topics. Overall, machine learning models showcasing superior performance utilizing the proposed set of stylometry features over deep learning approaches and LLMs.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.E8F1E2F9</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>37</volume>
+  <issns>09410643 ; 14333058</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=06a67129-f55d-3bc8-9535-3b2199762d87</plink>
+  <doids></doids>
+  <publisher>Springer London</publisher>
+  <contributors>Manzoor, Muhammad Faraz ; Farooq, Muhammad Shoaib ; Abid, Adnan</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s00521-024-10966-w</doi>
+</record>

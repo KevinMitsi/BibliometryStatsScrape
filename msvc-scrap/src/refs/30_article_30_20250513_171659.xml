@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>UTE</mid>
+  <language>eng</language>
+  <source>ACM Computing Surveys</source>
+  <bookEdition></bookEdition>
+  <title>Collaborative Distributed Machine Learning.</title>
+  <pageEnd>36</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>36</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial neural networks ; Artificial intelligence ; Blockchains ; Machine learning ; Federated learning ; Health Insurance Portability &amp;amp; Accountability Act ; Deep learning</subjects>
+  <abstract></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182124278</an>
+  <docTypes>Article</docTypes>
+  <volume>57</volume>
+  <issns>0360-0300</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a9fe1824-5ac2-39b8-8a39-c387598f6811</plink>
+  <doids></doids>
+  <publisher>Association for Computing Machinery</publisher>
+  <contributors>Jin, David ; Kannengießer, Niclas ; Rank, Sascha ; Sunyaev, Ali</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1145/3704807</doi>
+</record>

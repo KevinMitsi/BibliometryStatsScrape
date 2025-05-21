@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781789807943 ; 9781789806090</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>R Machine Learning Projects : Implement Supervised, Unsupervised, and Reinforcement Learning Techniques Using R 3.5</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20190101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Machine Theory ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; Machine learning ; R (Computer program language)</subjects>
+  <abstract>Master a range of machine learning domains with real-world projects using TensorFlow for R, H2O, MXNet, and moreKey FeaturesMaster machine learning, deep learning, and predictive modeling concepts in R 3.5Build intelligent end-to-end projects for finance, retail, social media, and a variety of domainsImplement smart cognitive models with helpful tips and best practicesBook DescriptionR is one of the most popular languages when it comes to performing computational statistics (statistical computing) easily and exploring the mathematical side of machine learning. With this book, you will leverage the R ecosystem to build efficient machine learning applications that carry out intelligent tasks within your organization. This book will help you test your knowledge and skills, guiding you on how to build easily through to complex machine learning projects. You will first learn how to build powerful machine learning models with ensembles to predict employee attrition. Next, you'll implement a joke recommendation engine and learn how to perform sentiment analysis on Amazon reviews. You'll also explore different clustering techniques to segment customers using wholesale data. In addition to this, the book will get you acquainted with credit card fraud detection using autoencoders, and reinforcement learning to make predictions and win on a casino slot machine. By the end of the book, you will be equipped to confidently perform complex tasks to build research and commercial projects for automated operations.What you will learnExplore deep neural networks and various frameworks that can be used in RDevelop a joke recommendation engine to recommend jokes that match users'tastesCreate powerful ML models with ensembles to predict employee attritionBuild autoencoders for credit card fraud detectionWork with image recognition and convolutional neural networksMake predictions for casino slot machine using reinforcement learningImplement NLP techniques for sentiment analysis and customer segmentationWho this book is forIf you're a data analyst, data scientist, or machine learning developer who wants to master machine learning concepts using R by building real-world projects, this is the book for you. Each project will help you test your skills in implementing machine learning algorithms and techniques. A basic understanding of machine learning and working knowledge of R programming is necessary to get the most out of this book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2000711</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fd6f3c6b-140c-3e58-8c0a-283b8b5b6e3e</plink>
+  <doids>NL$2000711$PDF ; NL$2000711$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Dr. Sunil Kumar Chinnamgari</contributors>
+  <coverDate>2019</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

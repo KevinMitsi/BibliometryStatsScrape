@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FDUB</mid>
+  <language>eng</language>
+  <source>Life (2075-1729)</source>
+  <bookEdition></bookEdition>
+  <title>Clinical Validation of a Machine Learning-Based Biomarker Signature to Predict Response to Cytotoxic Chemotherapy Alone or Combined with Targeted Therapy in Metastatic Colorectal Cancer Patients: A Study Protocol and Review.</title>
+  <pageEnd></pageEnd>
+  <pageStart>320</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; CANCER chemotherapy ; CANCER treatment ; COLORECTAL cancer</subjects>
+  <abstract>Metastatic colorectal cancer (mCRC) is a severe condition with high rates of illness and death. Current treatments are limited and not always effective because the cancer responds differently to drugs in different patients. This research aims to use artificial intelligence (AI) to improve treatment by predicting which therapies will work best for individual patients. By analyzing large sets of patient data and using machine learning, we hope to create a model that can identify which patients will respond to chemotherapy, either alone or combined with other targeted treatments. The study will involve dividing patients into training and validation sets to develop and test the models, avoiding overfitting. Various machine learning algorithms, like random survival forest and neural networks, will be integrated to develop a highly accurate and stable predictive model. The model's performance will be evaluated using statistical measures such as sensitivity, specificity, and the area under the curve (AUC). The aim is to personalize treatments, improve patient outcomes, reduce healthcare costs, and make the treatment process more efficient. If successful, this research could significantly impact the medical community by providing a new tool for better managing and treating mCRC, leading to more personalized and effective cancer care. In addition, we examine the applicability of learning methods to biomarker discovery and therapy prediction by considering recent narrative publications.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183329770</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2075-1729</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c8391fe3-d750-3166-b134-2a1857d6fcce</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Pagano, Duilio ; Barresi, Vincenza ; Tropea, Alessandro ; Galvano, Antonio ; Bazan, Viviana ; Caldarella, Adele ; Sani, Cristina ; Pompeo, Gianpaolo ; Russo, Valentina ; Liotta, Rosa ; Scuderi, Chiara ; Mercorillo, Simona ; Barbera, Floriana ; Di Lorenzo, Noemi ; Jukna, Agita ; Carradori, Valentina ; Rizzo, Monica ; Gruttadauria, Salvatore ; Peluso, Marco</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/life15020320</doi>
+</record>

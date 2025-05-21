@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>International Electronic Journal of Mathematics Education</source>
+  <bookEdition></bookEdition>
+  <title>Unsupervised Machine Learning to Classify Language Dimensions to Constitute the Linguistic Complexity of Mathematical Word Problems</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Word Problems (Mathematics) ; Classification ; Mathematics Instruction ; Difficulty Level ; Barriers ; Problem Solving ; Correlation ; Artificial Intelligence ; Models ; Intervention ; Instructional Design ; Teaching Methods ; Learning Processes ; Secondary School Students ; Textbooks ; Foreign Countries ; Factor Analysis ; Academic Language ; Language Usage ; Computational Linguistics ; Germany</subjects>
+  <abstract>The study examines language dimensions of mathematical word problems and the classification of mathematical word problems according to these dimensions with unsupervised machine learning (ML) techniques. Previous research suggests that the language dimensions are important for mathematical word problems because it has an influence on the linguistic complexity of word problems.Depending on the linguistic complexity students can have language obstacles to solve mathematical word problems. A lot of research in mathematics education research focus on the analysis on the linguistic complexity based on theoretical build language dimensions. To date, however it has been unclear what empirical relationship between the linguistic features exist for mathematical word problems. To address this issue, we used unsupervised ML techniques to reveal latent linguistic structures of 17 linguistic features for 342 mathematical word problems and classify them. The models showed that threeand five-dimensional linguistic structures have the highest explanatory power. Additionally, the authors consider a four-dimensional solution. Mathematical word problem from the three-dimensional solution can be classify in two groups, three- and five-dimensional solutions in three groups. The findings revealed latent linguistic structures and groups that could have an implication of the linguistic complexity of mathematical word problems and differ from language dimensions, which are considered theoretically. Therefore, the results indicate for new design principles for interventions and materials for language education in mathematics learning and teaching.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1379131</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>18</volume>
+  <issns>1306-3030</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=39f1f279-ed51-3422-8f59-138cf464a610</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Bednorz, David ; Kleine, Michael</contributors>
+  <coverDate>2023</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

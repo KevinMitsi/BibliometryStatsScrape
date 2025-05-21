@@ -1,0 +1,35 @@
+<record>
+  <isbns>9789815079227 ; 9789815079210</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Deep Learning: Theory, Architectures and Applications in Speech, Image and Language Processing</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Singapore</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Artificial Intelligence / Natural Language Processing ; COMPUTERS / Data Science / Machine Learning ; Image processing ; Artificial intelligence ; Deep learning (Machine learning)</subjects>
+  <abstract>This book is a detailed reference guide on deep learning and its applications. It aims to provide a basic understanding of deep learning and its different architectures that are applied to process images, speech, and natural language. It explains basic concepts and many modern use cases through fifteen chapters contributed by computer science academics and researchers. By the end of the book, the reader will become familiar with different deep learning approaches and models, and understand how to implement various deep learning algorithms using multiple frameworks and libraries. The second part is dedicated to sentiment analysis using deep learning and machine learning techniques. This book section covers the experimentation and application of deep learning techniques and architectures in real-world applications. It details the salient approaches, issues, and challenges in building ethically aligned machines. An approach inspired by traditional Eastern thought and wisdom is also presented. The final part covers artificial intelligence approaches used to explain the machine learning models that enhance transparency for the benefit of users. A review and detailed description of the use of knowledge graphs in generating explanations for black-box recommender systems and a review of ethical system design and a model for sustainable education is included in this section. An additional chapter demonstrates how a semi-supervised machine-learning technique can be used for cryptocurrency portfolio management. The book is a timely reference for academicians, professionals, researchers and students at engineering and medical institutions working on artificial intelligence applications.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>3675147</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d13de8ff-0c4a-39eb-8289-a386395ecf5a</plink>
+  <doids>NL$3675147$PDF ; NL$3675147$EPUB</doids>
+  <publisher>Bentham Science Publishers</publisher>
+  <contributors>Gyanendra, Verma ; Rajesh, Doriya</contributors>
+  <coverDate>2023</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

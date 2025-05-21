@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>N7NJ</mid>
+  <language>eng</language>
+  <source>International Studies of Economics</source>
+  <bookEdition></bookEdition>
+  <title>Finance research over 40 years: What can we learn from machine learning?</title>
+  <pageEnd>507</pageEnd>
+  <pageStart>472</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>36</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Financial crises ; Mutual funds ; Going public (Securities) ; All other non-depository credit intermediation ; All other financial investment activities ; Portfolio Management ; Other Financial Vehicles ; Open-End Investment Funds ; Machine learning ; Research personnel</subjects>
+  <abstract>We apply machine learning models to a universe of 20,185 finance articles published between 1976 and 2015 on 17 finance journals, and objectively identify 38 research topics. The financial crisis, hedge/mutual fund, social network, and culture were the fastest growing topics, while market microstructure, initial public offering, and option pricing shrank most from 2006 to 2015. We also list each topic's most cited papers, and present the fastest‐growing topics among the universe of 130,547 SSRN working papers. Moreover, we find a bibliometric regularity: the number of researchers covering n topics is about twice the number of researchers covering n + 1 topics.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181891064</an>
+  <docTypes>Article</docTypes>
+  <volume>19</volume>
+  <issns>2831-3224</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=240005db-492a-3540-b484-79a9f73226cd</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Liu, Po‐Yu ; Wang, Zigan</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1002/ise3.95</doi>
+</record>

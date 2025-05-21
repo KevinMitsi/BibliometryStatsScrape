@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>IEEE Computer Graphics and Applications, vol PP</source>
+  <bookEdition></bookEdition>
+  <title>LossLens: Diagnostics for Machine Learning Through Loss Landscape Visual Analytics</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241216</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>99</issue>
+  <identifiers></identifiers>
+  <subjects>Information and Computing Sciences ; Machine Learning ; Machine Learning and Artificial Intelligence ; 4.1 Discovery and preclinical testing of markers and technologies ; Artificial Intelligence and Image Processing ; Electrical and Electronic Engineering ; Software Engineering ; Computer vision and multimedia computation ; Graphics ; augmented reality and games ; Human-centred computing</subjects>
+  <abstract>Modern machine learning often relies on optimizing a neural network's parameters using a loss function to learn complex features. Beyond training, examining the loss function with respect to a network's parameters (i.e., as a loss landscape) can reveal insights into the architecture and learning process. While the local structure of the loss landscape surrounding an individual solution can be characterized using a variety of approaches, the global structure of a loss landscape, which includes potentially many local minima corresponding to different solutions, remains far more difficult to conceptualize and visualize. To address this difficulty, we introduce LossLens, a visual analytics framework that explores loss landscapes at multiple scales. LossLens integrates metrics from global and local scales into a comprehensive visual representation, enhancing model diagnostics. We demonstrate LossLens through two case studies: visualizing how residual connections influence a ResNet-20, and visualizing how physical parameters influence a physics-informed neural network (PINN) solving a simple convection problem.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt9f42j92j</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e0fda207-262d-3cb1-8ff6-a7653b435022</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Xie, Tiankai ; Chen, Jiaqing ; Yang, Yaoqing ; Geniesse, Caleb ; Shi, Ge ; Chaudhari, Ajinkya ; Cava, John Kevin ; Mahoney, Michael W ; Perciano, Talita ; Weber, Gunther H ; Maciejewski, Ross</contributors>
+  <coverDate>20241216</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

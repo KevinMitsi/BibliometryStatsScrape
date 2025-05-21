@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781800567030 ; 9781800566125</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning with Amazon SageMaker Cookbook : 80 Proven Recipes for Data Scientists and Developers to Perform Machine Learning Experiments and Deployments</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20210101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; COMPUTERS / Machine Theory ; COMPUTERS / Data Science / Neural Networks ; Cloud computing ; Machine learning ; Web services</subjects>
+  <abstract>A step-by-step solution-based guide to preparing building, training, and deploying high-quality machine learning models with Amazon SageMakerKey FeaturesPerform ML experiments with built-in and custom algorithms in SageMakerExplore proven solutions when working with TensorFlow, PyTorch, Hugging Face Transformers, and scikit-learnUse the different features and capabilities of SageMaker to automate relevant ML processesBook DescriptionAmazon SageMaker is a fully managed machine learning (ML) service that helps data scientists and ML practitioners manage ML experiments. In this book, you'll use the different capabilities and features of Amazon SageMaker to solve relevant data science and ML problems. This step-by-step guide features 80 proven recipes designed to give you the hands-on machine learning experience needed to contribute to real-world experiments and projects. You'll cover the algorithms and techniques that are commonly used when training and deploying NLP, time series forecasting, and computer vision models to solve ML problems. You'll explore various solutions for working with deep learning libraries and frameworks such as TensorFlow, PyTorch, and Hugging Face Transformers in Amazon SageMaker. You'll also learn how to use SageMaker Clarify, SageMaker Model Monitor, SageMaker Debugger, and SageMaker Experiments to debug, manage, and monitor multiple ML experiments and deployments. Moreover, you'll have a better understanding of how SageMaker Feature Store, Autopilot, and Pipelines can meet the specific needs of data science teams. By the end of this book, you'll be able to combine the different solutions you've learned as building blocks to solve real-world ML problems.What you will learnTrain and deploy NLP, time series forecasting, and computer vision models to solve different business problemsPush the limits of customization in SageMaker using custom container imagesUse AutoML capabilities with SageMaker Autopilot to create high-quality modelsWork with effective data analysis and preparation techniquesExplore solutions for debugging and managing ML experiments and deploymentsDeal with bias detection and ML explainability requirements using SageMaker ClarifyAutomate intermediate and complex deployments and workflows using a variety of solutionsWho this book is forThis book is for developers, data scientists, and machine learning practitioners interested in using Amazon SageMaker to build, analyze, and deploy machine learning models with 80 step-by-step recipes. All you need is an AWS account to get things running. Prior knowledge of AWS, machine learning, and the Python programming language will help you to grasp the concepts covered in this book more effectively.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>3039079</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c9e22adb-9ee5-394b-ad34-c9da4e1bc8a0</plink>
+  <doids>NL$3039079$PDF ; NL$3039079$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Joshua Arvin Lat</contributors>
+  <coverDate>2021</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

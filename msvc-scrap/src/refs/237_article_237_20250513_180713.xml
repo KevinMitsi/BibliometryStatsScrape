@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>British Journal of Educational Psychology</source>
+  <bookEdition></bookEdition>
+  <title>A Machine-Learning Model of Academic Resilience in the Times of the COVID-19 Pandemic: Evidence Drawn from 79 Countries/Economies in the PISA 2022 Mathematics Study</title>
+  <pageEnd>1244</pageEnd>
+  <pageStart>1224</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>21</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Achievement Tests ; Foreign Countries ; International Assessment ; Secondary School Students ; Mathematics Achievement ; COVID-19 ; Pandemics ; Socioeconomic Status ; Resilience (Psychology) ; Artificial Intelligence ; Gender Differences ; Program for International Student Assessment</subjects>
+  <abstract>Background: Given that students from socio-economically disadvantaged family backgrounds are more likely to suffer from low academic performance, there is an interest in identifying features of academic resilience, which may mitigate the relationship between disadvantaged socio-economic status and academic performance. Aims: This study sought to combine machine learning and explainable artificial intelligence (XAI) technique to identify key features of academic resilience in mathematics learning during COVID-19. Materials and Methods: Based on PISA 2022 data in 79 countries/economies, the random forest model coupled with Shapley additive explanations (SHAP) value technique not only uncovered the key features of academic resilience but also examined the contributions of each key feature. Results: Findings indicated that 35 features were identified in the classification of academically resilient and non-academically resilient students, which largely validated the previous academic resilient framework. Notably, gender differences were shown in the distribution of some key features. Research findings also indicated that resilient students tended to have a stable emotional state, high levels of self-efficacy, low levels of truancy and positive future aspirations. Discussion: This study has established a research paradigm essentially methodological in nature to bridge the gap between psychological theories and big data in the field of educational psychology. Conclusion: To sum up, our study shed light on the issues of education equity and quality from a global perspective in the times of the COVID-19 pandemic.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1447835</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>94</volume>
+  <issns>0007-0998 ; 2044-8279</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1f66546d-8237-3e3a-9838-9e963aef61c5</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Kwok-cheung Cheung ; Pou-seong Sit ; Jia-qi Zheng ; Chi-chio Lam ; Soi-kei Mak ; Man-kai Ieong</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1111/bjep.12715</doi>
+</record>

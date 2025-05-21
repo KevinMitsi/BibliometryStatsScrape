@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3473-8</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 Integrated Communications, Navigation and Surveillance Conference (ICNS), Integrated Communications, Navigation and Surveillance Conference (ICNS), 2025</source>
+  <bookEdition></bookEdition>
+  <title>Positioning of Unmanned Aerial Vehicles (UAVs) in Urban Environments Using 5G Networks: A Hybrid Approach Based on Multilateration and Machine Learning</title>
+  <pageEnd>9</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Aerospace ; Communication, Networking and Broadcast Technologies ; Computing and Processing ; Robotics and Control Systems ; Signal Processing and Analysis ; Transportation ; Accuracy ; 5G mobile communication ; Surveillance ; Urban areas ; Measurement uncertainty ; Estimation ; Machine learning ; Position measurement ; Autonomous aerial vehicles ; Synchronization ; UAV ; 5G Networks ; Positioning ; MLAT ; Machine Learning</subjects>
+  <abstract>This study proposes an innovative system for positioning Unmanned Aerial Vehicles (UAVs) in urban environments, using 5G networks as an alternative or complement to GNSS systems, which have limitations in these areas. The system combines Machine Learning techniques (k-means) to optimize the use of network resources with theoretical analysis such as Cramér-Rae Lower Bound (CRLB) and Dilution of Precision (DOP). The method is based on the existing 5G infrastructure, using Positioning Reference Signals (PRS) and Multilateration Techniques (MLAT) based on the Time Difference of Arrival (TDOA). The k-means algorithm divides the study area into clusters and manages base station (gNB) allocation. The selection of gNBs within each cluster is based on the received signal power (RSRP), optimizing the use of network resources and reducing inaccuracies. Least squares strategies are used for position estimation and then refined using the Taylor expansion method. The system also considers the Angle of Arrival ($A$o$A$) to improve the accuracy of altitude estimation. The simulations were performed in downtown Valencia using the Urban Micro (UMi) propagation model. The results highlight the importance of synchronization between gNB$s$ since synchronization errors significantly affect positioning accuracy, as well as the need of AoA measurements to obtain accurate estimations of the UAV's height over the terrain.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10976826</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>21554951</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8b9faabc-0dc3-3564-9d05-bc9ef3640b5d</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Maigualema-Quimbita, Denis Andres ; Melero, Victor Monzonis ; Gomez-Barquero, David ; Tejedor, Juan Vicente Balbastre</contributors>
+  <coverDate>20250408</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/ICNS65417.2025.10976826</doi>
+</record>

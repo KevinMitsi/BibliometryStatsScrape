@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B86S</mid>
+  <language>eng</language>
+  <source>Journal of Geophysical Research. Earth Surface</source>
+  <bookEdition></bookEdition>
+  <title>Subaerial Profiles at Two Beaches: Equilibrium and Machine Learning.</title>
+  <pageEnd>19</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241001</publicationDate>
+  <pageCount>19</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>10</issue>
+  <identifiers></identifiers>
+  <subjects>Beach erosion ; Machine learning ; Supervised learning ; El Niño ; Sand waves</subjects>
+  <abstract>Shoreline position (e.g., beach width) is a critical component of flooding and overtopping forecasts but difficult to predict accurately. We model beach width changes with a supervised machine learning (ML) approach informed by equilibrium principles. The time history of wave energy anomalies that force equilibrium models is used as an ML input feature. The sweeping simplifying equilibrium model assumptions relating beach width change to anomalies are replaced with data‐based ML results. Supervised learning regression methods including linear, support vector, decision trees, and ensemble regressors are tested. Observations for model training and testing includes weekly to quarterly beach elevation surveys spanning approximately 500 m alongshore and 8 years at two beaches, each supplemented with several months of ∼100 sub‐weekly surveys. These beaches, with different sediment types (sand vs. sand‐cobble mix), both widen in summer in response to the seasonal wave climate, in agreement with a generic equilibrium model. Differences in backshore erodability contribute to differing beach responses in the stormiest (El Niño) year that are reproduced by a simple extra trees regression model but not by the equilibrium model. With sufficiently extensive training data, the ML model outperforms equilibrium by providing flexibility and complexity in the response to wave forcing. The present ML and equilibrium models both fail to simulate a uniquely stunted beach recovery unlike other recoveries in the training data. Plain Language Summary: Beach elevation surveys are compared at two beaches in San Diego County. Both beaches narrow during winter as large wave events transport sand offshore and widen during summer as gentle waves move sand onshore. The seasonality of such beaches has been characterized by simple models that primarily rely on wave energy relative to an average state to predict beach width changes, known as equilibrium models. Here, we highlight some of the limitations of equilibrium models, such as a tendency to over predict winter erosion at a beach backed by non‐erodible infrastructure. We demonstrate that machine learning models, when trained with sufficient observations, can predict beach width changes more accurately than equilibrium models. Key Points: The Equilibrium‐informed extra tree (ET) regression machine learning model uses input features of only wave history, inspired by equilibrium conceptsWith sufficient training, ET outperforms a widely used equilibrium model</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>180560323</an>
+  <docTypes>Article</docTypes>
+  <volume>129</volume>
+  <issns>2169-9003</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3a3ccaa5-5163-396e-9a31-937897055922</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Siegelman, M. N. ; McCarthy, R. A. ; Young, A. P. ; O'Reilly, W. ; Matsumoto, H. ; Johnson, M. ; Mack, C. ; Guza, R. T.</contributors>
+  <coverDate>Oct2024</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1029/2023JF007524</doi>
+</record>

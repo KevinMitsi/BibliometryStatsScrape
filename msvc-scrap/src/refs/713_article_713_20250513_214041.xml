@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>OEX</mid>
+  <language>eng</language>
+  <source>Environmental &amp;amp; Ecological Statistics</source>
+  <bookEdition></bookEdition>
+  <title>A comparison of statistical and machine learning models for spatio-temporal prediction of ambient air pollutant concentrations in Scotland.</title>
+  <pageEnd>1108</pageEnd>
+  <pageStart>1085</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>24</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Air pollutants ; Machine learning ; Statistical models ; Prediction algorithms ; Statistical learning</subjects>
+  <abstract>The spatio-temporal prediction of air pollutant concentrations is vital for assessing regulatory compliance and for producing exposure estimates in epidemiological studies. Numerous approaches have been utilised for making such predictions, including land use regression models, additive models, spatio-temporal smoothing models and machine learning prediction algorithms. However, relatively few studies have compared the predictive performance of these models thoroughly, which is one of the novel contributions of this paper. For the specific challenge of predicting monthly average concentrations of NO 2 , PM 10 and PM 2.5 in Scotland, we find that random forests typically outperform (or are as good as) more traditional statistical prediction approaches. Additionally, we utilise the best performing model to provide a new data resource, namely, predictions of monthly average concentrations (with uncertainty quantification) of the above pollutants on a regular 1 km 2 grid for all of Scotland between 2016 and 2020.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181464715</an>
+  <docTypes>Article</docTypes>
+  <volume>31</volume>
+  <issns>1352-8505</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=67972bef-7a9f-35ca-8313-f75b1bffc551</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Zhu, Qiangqiang ; Lee, Duncan ; Stoner, Oliver</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1007/s10651-024-00635-5</doi>
+</record>

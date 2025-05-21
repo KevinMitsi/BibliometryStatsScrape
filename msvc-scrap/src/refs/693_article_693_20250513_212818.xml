@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3381-6 ; 979-8-3315-3380-9</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 17th International Conference on Computer and Automation Engineering (ICCAE), Computer and Automation Engineering (ICCAE), 2025 17th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Hybrid Machine Learning Model for Solar Energy Prediction</title>
+  <pageEnd>5</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250320</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computing and Processing ; Robotics and Control Systems ; Training ; Accuracy ; Wind speed ; Computational modeling ; Machine learning ; Predictive models ; Feature extraction ; Data models ; Bayes methods ; Optimization ; Solar ; Machine Learning ; Artificial Intelligence</subjects>
+  <abstract>The increasing global energy demand necessitates sustainable energy solutions to mitigate the adverse effects of fossil fuels. Solar energy, harnessed through Photovoltaic (PV) systems, offers a viable alternative, but its variability poses integration challenges with the power grid. This study proposes a hybrid machine learning (ML) model combining Multi-Layer Perceptron Neural Network (MLPNN) for pattern recognition, Decision Tree (DT) for feature selection, and Bayesian Optimization for hyperparameter tuning to improve solar energy output prediction. Using historical meteorological data from a PV system in Canberra, Australia, the model identified solar irradiance as the most influential feature, with temperature, wind speed, and time contributing unique information. Results demonstrate that while the MLPNN achieved superior prediction accuracy, the hybrid model reduced training time by 30 % with a comparable RMSE, MSE, and $\mathbf{R}^{2}$. These findings highlight a trade-off between accuracy and efficiency, suggesting the hybrid model for real-time applications and the MLPNN for accuracyfocused tasks. This research provides a practical framework for enhancing solar energy prediction systems.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10980519</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>21544360</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=dc2ca909-8fbc-37cf-9774-76ab8c9c33d9</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Phaengsomsri, Likhasit ; Xu, Ke ; Ma, Xuzhe ; Zhang, Yibo ; Mo, Huadong</contributors>
+  <coverDate>20250320</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/ICCAE64891.2025.10980519</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KNO</mid>
+  <language>eng</language>
+  <source>Environmetrics</source>
+  <bookEdition></bookEdition>
+  <title>"Assessing Predictability of Environmental Time Series With Statistical and Machine Learning Models".</title>
+  <pageEnd>7</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>7</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Marine ecology ; Ecosystems ; Data science ; Machine learning ; Prediction models ; Measurement uncertainty (Statistics) ; Mathematical statistics</subjects>
+  <abstract>The relative merits of machine learning and statistical methods are discussed recently by Bonas et al. 2004, who raise important open questions for the statistical community regarding the value‐added benefits of data science and the future role of environmental statistics. Specifically, they identify three major knowledge gaps where statistics is seen as crucial to strengthening inference in machine learning (ML): to provide an ML model‐based framework amenable to explainability, to determine the best approach for quantifying uncertainty in relation to complex environmental dynamics, and to comprehensively identify ML's value‐added benefits. We continue this discussion by exploring these general questions and sharing our perspective and insights from our modeling of marine and terrestrial ecosystem dynamics. We propose several lines of inquiry where environmental statisticians and data scientists could collaboratively advance predictive analytics.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183756777</an>
+  <docTypes>Article</docTypes>
+  <volume>36</volume>
+  <issns>1180-4009</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b674ad8a-f535-3e5e-a220-693c869a0f39</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Newlands, Nathaniel K. ; Lyubchich, Vyacheslav</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/env.70000</doi>
+</record>

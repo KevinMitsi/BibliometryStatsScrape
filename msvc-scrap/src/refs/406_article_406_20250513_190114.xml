@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of Autism and Developmental Disorders</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Differentiation of Autism Spectrum Sub-Classifications</title>
+  <pageEnd>4231</pageEnd>
+  <pageStart>4216</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241101</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>11</issue>
+  <identifiers></identifiers>
+  <subjects>Autism Spectrum Disorders ; Symptoms (Individual Disorders) ; Clinical Diagnosis ; Artificial Intelligence ; Classification</subjects>
+  <abstract>Purpose: Disorders on the autism spectrum have characteristics that can manifest as difficulties with communication, executive functioning, daily living, and more. These challenges can be mitigated with early identification. However, diagnostic criteria has changed from DSM-IV to DSM-5, which can make diagnosing a disorder on the autism spectrum complex. We evaluated machine learning to classify individuals as having one of three disorders of the autism spectrum under DSM-IV, or as non-spectrum. Methods: We employed machine learning to analyze retrospective data from 38,560 individuals. Inputs encompassed clinical, demographic, and assessment data. Results: The algorithm achieved AUROCs ranging from 0.863 to 0.980. The model correctly classified 80.5% individuals; 12.6% of individuals from this dataset were misclassified with another disorder on the autism spectrum. Conclusion: Machine learning can classify individuals as having a disorder on the autism spectrum or as non-spectrum using minimal data inputs.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1442788</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>54</volume>
+  <issns>0162-3257 ; 1573-3432</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=129d31d3-c3f5-3080-b1e1-c1f6994664e0</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>R. Thapa ; A. Garikipati ; M. Ciobanu ; N.P. Singh ; E. Browning ; J. DeCurzio ; G. Barnes ; F.A. Dinenno ; Q. Mao ; R. Das</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10803-023-06121-4</doi>
+</record>

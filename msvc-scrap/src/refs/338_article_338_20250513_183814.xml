@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781783558742 ; 9781783558759</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Community Experience Distilled</source>
+  <bookEdition></bookEdition>
+  <title>Scala for Machine Learning : Leverage Scala and Machine Learning to Construct and Study Systems That Can Learn From Data</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20140101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Machine Theory ; Regression analysis--Data processing ; Scala (Computer program language) ; Machine learning</subjects>
+  <abstract>Key FeaturesBook DescriptionAre you curious about AI? All you need is a good understanding of the Scala programming language, a basic knowledge of statistics, a keen interest in Big Data processing, and this book!What you will learnBuild dynamic workflows for scientific computingLeverage open source libraries to extract patterns from time seriesWrite your own classification, clustering, or evolutionary algorithmPerform relative performance tuning and evaluation of SparkMaster probabilistic models for sequential dataExperiment with advanced techniques such as regularization and kernelizationSolve big data problems with Scala parallel collections, Akka actors, and Apache Spark clustersApply key learning strategies to a technical analysis of financial marketsWho this book is for</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>929412</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=ac700b26-4663-3277-868a-8c28bcd897f3</plink>
+  <doids>NL$929412$PDF ; NL$929412$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Patrick R. Nicolas</contributors>
+  <coverDate>2014</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

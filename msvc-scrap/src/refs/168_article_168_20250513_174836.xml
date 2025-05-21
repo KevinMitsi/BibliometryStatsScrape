@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FDU7</mid>
+  <language>eng</language>
+  <source>Diagnostics (2075-4418)</source>
+  <bookEdition></bookEdition>
+  <title>Integrating Machine Learning and Deep Learning for Predicting Non-Surgical Root Canal Treatment Outcomes Using Two-Dimensional Periapical Radiographs.</title>
+  <pageEnd></pageEnd>
+  <pageStart>1009</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250415</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>8</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; STATISTICAL significance ; ROOT canal treatment ; DEEP learning ; ARTIFICIAL intelligence</subjects>
+  <abstract>Background/Objectives: In a previous study, we utilized categorical variables and machine learning (ML) algorithms to predict the success of non-surgical root canal treatments (NSRCTs) in apical periodontitis (AP), classifying the outcome as either success (healed) or failure (not healed). Given the importance of radiographic imaging in diagnosis, the present study evaluates the efficacy of deep learning (DL) in predicting NSRCT outcomes using two-dimensional (2D) periapical radiographs, comparing its performance with ML models. Methods: The DL model was trained and validated using leave-one-out cross-validation (LOOCV). Its output was incorporated into the set of categorical variables, and the ML study was reproduced using backward stepwise selection (BSS). The chi-square test was applied to assess the association between this new variable and NSRCT outcomes. Finally, after identifying the best-performing method from the ML study reproduction, statistical comparisons were conducted between this method, clinical professionals, and the image-based model using Fisher's exact test. Results: The association study yielded a p-value of 0.000000127, highlighting the predictive capability of 2D radiographs. After incorporating the DL-based predictive variable, the ML algorithm that demonstrated the best performance was logistic regression (LR), differing from the previous study, where random forest (RF) was the top performer. When comparing the deep learning–logistic regression (DL-LR) model with the clinician's prognosis (DP), DL-LR showed superior performance with a statistically significant difference (p-value &amp;lt; 0.05) in sensitivity, NPV, and accuracy. The same trend was observed in the DL vs. DP comparison. However, no statistically significant differences were found in the comparisons of RF vs. DL-LR, RF vs. DL, or DL vs. DL-LR. Conclusions: The findings of this study suggest that image-based artificial intelligence models exhibit superior predictive capability compared with those relying exclusively on categorical data. Moreover, they outperform clinician prognosis.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184795808</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2075-4418</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=aea27e99-6b29-3302-917c-590137e7ed41</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Bennasar, Catalina ; Nadal-Martínez, Antonio ; Arroyo, Sebastiana ; Gonzalez-Cid, Yolanda ; López-González, Ángel Arturo ; Tárraga, Pedro Juan</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/diagnostics15081009</doi>
+</record>

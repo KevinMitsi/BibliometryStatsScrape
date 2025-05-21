@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Water Resources Management: An International Journal - Published for the European Water Resources Association (EWRA)</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Approaches for Enhancing Energy Efficiency and Stability in Parallel Pumping Systems: Machine Learning Approaches for Enhancing Energy Efficiency and Stability in Parallel Pumping Systems</title>
+  <pageEnd>1746</pageEnd>
+  <pageStart>1719</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>28</pageCount>
+  <publisherLocations>Dordrecht</publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Pump system ; Machine learning ; Performance enhancement ; Pump regulation</subjects>
+  <abstract>Pumps are among the largest energy consumers, and there is still significant potential for energy savings of 20–30% in pumping systems. To address the issue of poor modeling accuracy of traditional approaches in pump systems under extreme conditions, this study employs a machine learning model combined with an improved swarm intelligence algorithm to optimize the control strategy of a four-pump parallel system. The effects of four different objective functions on system performance and stability were analyzed and compared. To achieve this, a hybrid control method combining throttling, variable-speed driving, and bypassing was implemented in the experimental setup. The control system was fully automated using the National Instruments signal processing platform. The results showed that artificial neural networks performed exceptionally well in predicting system behavior, even with limited sample sizes and when traditional affinity laws were inapplicable. Additionally, the optimization process revealed significant potential for energy savings in parallel pump systems. However, it is important to note that as system load increases, the potential for energy savings diminishes, and improving system reliability may require additional power input.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.FB14B649</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>39</volume>
+  <issns>09204741 ; 15731650</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a6cc62f3-66e3-3582-90d6-d3700bfb2a70</plink>
+  <doids></doids>
+  <publisher>Springer Netherlands</publisher>
+  <contributors>Gan, Xingcheng ; Gong, Xiaobo ; Pei, Ji ; Pavesi, Giorgio ; Yuan, Shouqi</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s11269-024-04043-z</doi>
+</record>

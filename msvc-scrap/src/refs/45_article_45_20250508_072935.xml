@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>UTE</mid>
+  <language>eng</language>
+  <source>ACM Computing Surveys</source>
+  <bookEdition></bookEdition>
+  <title>A Survey of Machine Learning for Urban Decision Making: Applications in Planning, Transportation, and Healthcare.</title>
+  <pageEnd>41</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>41</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial neural networks ; Artificial intelligence ; Machine learning ; Supervised learning ; Reinforcement learning ; Bilevel programming ; Deep learning ; Smart power grids ; Built environment</subjects>
+  <abstract></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182124260</an>
+  <docTypes>Article</docTypes>
+  <volume>57</volume>
+  <issns>0360-0300</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f3a02816-b337-3bc5-a29e-52836a890683</plink>
+  <doids></doids>
+  <publisher>Association for Computing Machinery</publisher>
+  <contributors>Zheng, Yu ; Hao, Qianyue ; Wang, Jingwei ; Gao, Changzheng ; Chen, Jinwei ; Jin, Depeng ; Li, Yong</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1145/3695986</doi>
+</record>

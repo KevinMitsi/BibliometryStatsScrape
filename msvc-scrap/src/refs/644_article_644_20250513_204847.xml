@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>PSS</mid>
+  <language>eng</language>
+  <source>Journal of Personal Selling &amp;amp; Sales Management</source>
+  <bookEdition></bookEdition>
+  <title>Analyzing sales proposal rejections via machine learning.</title>
+  <pageEnd>45</pageEnd>
+  <pageStart>24</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230301</publicationDate>
+  <pageCount>22</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Consumers ; Business-to-business transactions ; Machine learning</subjects>
+  <abstract>The sales profession is fraught with customer rejection and defections. Understanding why customers say "no" to a sales proposal is complex given that factors at the organizational-, individual-, and interactional-level are synthesized in the customer's decision-making process. Academics and practitioners alike therefore stand to benefit from greater understanding of this phenomenon. The current study leverages text-based machine learning on postmortem interview transcripts from 113 business-to-business sales failures, spanning over 1,500 pages of text, to provide exploratory insights into the reasons for sales proposal rejections. Results reveal several thematic facets of sales proposal failures from the perspective of the customer, along with insights that variance in topic salience—i.e., buyer focus on a few topics or a spread of dimensions—is contingent on supplier incumbency status. Specifically, using topic modeling, findings show that buyers converge on a distributed (concentrated) range of sales proposal rejection topics for in- (out-) supplier proposals. Additionally, the authors show how the text-based machine learning approach can highlight key areas of concern for firms, enabling them to effectively enact changes that will improve future outcomes. Collectively, this research contributes to efforts to bridge the chasm between theoretical, managerial, and technical aspects of machine learning in sales.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>162144791</an>
+  <docTypes>Article</docTypes>
+  <volume>43</volume>
+  <issns>0885-3134</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d2ae3b0a-65bd-3088-bdeb-d705a9c1c395</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Nguyen, Peter ; Friend, Scott B. ; Chase, Kevin S. ; Johnson, Jeff S.</contributors>
+  <coverDate>Mar2023</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/08853134.2022.2067554</doi>
+</record>

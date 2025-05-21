@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsorb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Proceedings of the 16th International Joint Conference on Biomedical Engineering Systems and Technologies (2023-03-07); BIOSIGNALS, 2023, Lisbon, Portugal [PT], 16-18 Feb 2023</source>
+  <bookEdition></bookEdition>
+  <title>Comparison of Machine Learning Algorithms for Human Activity Recognition</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230307</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Human Activity Recognition, Daily-Life Activity Classification, Machine Learning, Pattern Recognition, Wearable Sensors, Inertial Sensors, Accelerometer, Gyroscope, IMU Signals. ; Engineering, computing &amp;amp; technology ; Ingénierie, informatique &amp;amp; technologie</subjects>
+  <abstract>Human activity recognition (HAR) is utilized to automatically identify the daily-life activities of people forthe effective management of age-related health conditions. Classical machine learning (ML) algorithms areused to design HAR systems, in a subject-specific or population-based configuration depending on theapplication. In this study, the performance of 8 classical and ensemble-learning-based ML classifiers has beenstudied for both HAR configurations. Inertial measurement unit (IMU) signals from 10 healthy participants,corresponding to various static, dynamic, and transitional daily-life activities, were acquired. Random forest(RF), ensemble adaptive boosting (EAB), ensemble subspace (ES), decision tree (DT), k-nearest neighbors(KNN), linear discriminant analysis (LDA), support vector machine (SVM), and artificial neural network(ANN) were used to classify these activities. The performance of the classifiers was measured in terms ofmean classification accuracy (MCA). The results showed that, for a subject-specific HAR system, ES(97.78%) has achieved the highest MCA followed by RF (96.61%) and SVM (96.11%) while outperformingthe DT, KNN, and LDA (P-value &amp;lt; 0.05). For a population-based HAR system, SVM (95.18%) achieved thehighest MCA, however, no significant difference has been observed among the MCA of all the investigatedclassifiers (P-value &amp;gt; 0.05). Also, the class-wise comparison reveals that SVM outperformed the otherinvestigated classifiers in terms of MCAs for each of the distinct activities. Based on the HAR configurationincorporating diverse static, dynamic, and transitional daily-life activities, the findings may be used to developa customized HAR system for the effective management of movement disorders.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edsorb.300666</an>
+  <docTypes>conference paperhttp://purl.org/coar/resource_type/c_5794conferenceObjectpeer reviewed</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2be21691-1fa5-3e56-a741-e203b0b08b78</plink>
+  <doids></doids>
+  <publisher>SciTePress</publisher>
+  <contributors>Ashraf, Hassan ; Brüls, Olivier ; Schwartz, Cédric ; Boutaayamou, Mohamed</contributors>
+  <coverDate>20230307</coverDate>
+  <longDBName>ORBi</longDBName>
+  <doi>10.5220/0011631500003414</doi>
+</record>

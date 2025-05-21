@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Malaysian Online Journal of Educational Technology</source>
+  <bookEdition></bookEdition>
+  <title>Predicting Students' Academic Performances Using Machine Learning Algorithms in Educational Data Mining</title>
+  <pageEnd>153</pageEnd>
+  <pageStart>131</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Prediction ; Academic Achievement ; Artificial Intelligence ; Algorithms ; Learning Analytics ; Information Retrieval ; Regression (Statistics) ; Classification ; Accuracy ; Scores</subjects>
+  <abstract>In every culture and era, education is considered the most fundamental reality and rule that societies prioritize and deem essential. Throughout the process spanning thousands of years, from the emergence of writing to the present day, education has undergone various forms and formats of change. Education has been a continuous guide for shaping, influencing, sustaining societies, and maintaining its dynamics throughout these historical processes. The continuous evolution and growth of education systems and formats worldwide, with changes affecting the quality of education, have the potential to influence nations and societies in every field, ultimately leading to the emergence of an informed society, achievable only through quality education. In this study, the aim is to determine the factors affecting students' academic performance and predict students' end-of-term academic grades using machine learning algorithms within the scope of Earned Value Management (EVM). Such studies have great potential to increase efficiency in education, improve student achievement and improve education policies. With the use of machine learning algorithms, these goals can be achieved more quickly and efficiently. Five different machine learning algorithms, namely RF, KA, KNN, SVM, and NB, have been employed in the study. Binary and multiclass classification methods were used in prediction processes, and among these methods, the Random Forest (RF) algorithm achieved the highest success prediction rates of 0.97 and 0.93, respectively, in both classification methods.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1447409</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>12</volume>
+  <issns>2289-2990</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9b81bf75-f8d7-3086-892b-cc63f2a68ea5</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Senay Kocakoyun Aydogan ; Turgut Pura ; Fatih Bingül</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

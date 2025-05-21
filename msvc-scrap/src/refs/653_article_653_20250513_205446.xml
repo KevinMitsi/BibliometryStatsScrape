@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Methods for Gene Regulatory Network Inference</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250416</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Machine Learning ; Quantitative Biology - Molecular Networks</subjects>
+  <abstract>Gene Regulatory Networks (GRNs) are intricate biological systems that control gene expression and regulation in response to environmental and developmental cues. Advances in computational biology, coupled with high throughput sequencing technologies, have significantly improved the accuracy of GRN inference and modeling. Modern approaches increasingly leverage artificial intelligence (AI), particularly machine learning techniques including supervised, unsupervised, semi-supervised, and contrastive learning to analyze large scale omics data and uncover regulatory gene interactions. To support both the application of GRN inference in studying gene regulation and the development of novel machine learning methods, we present a comprehensive review of machine learning based GRN inference methodologies, along with the datasets and evaluation metrics commonly used. Special emphasis is placed on the emerging role of cutting edge deep learning techniques in enhancing inference performance. The potential future directions for improving GRN inference are also discussed.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.12610</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bfb260f8-add0-3447-a33f-5b19cf8b4199</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Hegde, Akshata ; Nguyen, Tom ; Cheng, Jianlin</contributors>
+  <coverDate>20250416</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

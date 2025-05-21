@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Industrial data-driven machine learning soft sensing for optimal operation of etching tools</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Data Management and Data Science ; Information and Computing Sciences ; Manufacturing Engineering ; Engineering ; Networking and Information Technology R&amp;amp;D (NITRD) ; Machine Learning and Artificial Intelligence ; Generic health relevance ; Industry ; Innovation and Infrastructure ; machine learning ; Soft sensing ; Optimal operation ; Industrial tools ; Oxide etching ; Semiconductor manufacturing</subjects>
+  <abstract>Smart Manufacturing, or Industry 4.0, has gained significant attention in recent decades with the integration of Internet of Things (IoT) and Information Technologies (IT). As modern production methods continue to increase in complexity, there is a greater need to consider what variables can be physically measured. This advancement necessitates the use of physical sensors to comprehensively and directly gather measurable data on industrial processes; specifically, these sensors gather data that can be recontextualized into new process information. For example, artificial intelligence (AI) machine learning-based soft sensors can increase operational productivity and machine tool performance while still ensuring that critical product specifications are met. One industry that has a high volume of labor-intensive, time-consuming, and expensive processes is the semiconductor industry. AI machine learning methods can meet these challenges by taking in operational data and extracting process-specific information needed to meet the high product specifications of the industry. However, a key challenge is the availability of high quality data that covers the full operating range, including the day-to-day variance. This paper examines the applicability of soft sensing methods to the operational data of five industrial etching machines. Data is collected from readily accessible and cost-effective physical sensors installed on the tools that manage and control the operating conditions of the tool. The operational data are then used in an intelligent data aggregation approach that increases the scope and robustness for soft sensors in general by creating larger training datasets comprised of high value data with greater operational ranges and process variation. The generalized soft sensor can then be fine-tuned and validated for a particular machine. In this paper, we test the effects of data aggregation for high performing Feedforward Neural Network (FNN) models that are constructed in two ways: first as a classifier to estimate product PASS/FAIL outcomes and second as a regressor to quantitatively estimate oxide thickness. For PASS/FAIL classification, a data aggregation method is developed to enhance model predictive performance with larger training datasets. A statistical analysis method involving point-biserial correlation and the Mean Absolute Error (MAE) difference score is introduced to select the optimal candidate datasets for aggregation, further improving the effectiveness of data aggregation. For large datasets with high quality data that enable model training for more complex tasks, regression models that predict the oxide thickness of the product are also developed. Two types of models with different loss functions are tested to compare the effects of the Mean Squared Error (MSE) and Mean Absolute Percentage Error (MAPE) loss functions on model performance. Both the classification and regression models can be applied in industrial settings as they provide additional information regarding the process outcome. Individually, these models can reduce the number of metrology steps in semiconductor factories, and when developed further, can empower the development of advanced process control strategies.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt6gp3x1sr</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c03945b3-83aa-34f1-ac0f-77b9284fe84e</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Ou, Feiyang ; Wang, Henrik ; Zhang, Chao ; Tom, Matthew ; Bom, Sthitie ; Davis, James F ; Christofides, Panagiotis D</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

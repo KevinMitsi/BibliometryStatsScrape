@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Cooperative multi-agent reinforcement learning for multi-area integrated scheduling in wafer fabs.</title>
+  <pageEnd>2888</pageEnd>
+  <pageStart>2871</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250415</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>8</issue>
+  <identifiers></identifiers>
+  <subjects>Batch processing ; Production scheduling ; Machine learning ; Global optimization ; Reinforcement learning</subjects>
+  <abstract>The existing scheduling methods of wafer fabs focus on single area, achieving local optimisation while failing to realise global optimisation due to neglecting the coordination of multi-area. Therefore, it is necessary to consider the complex opposing relationships between multi-area caused by constraints such as batch processing, re-entrance, and multiple residency times within and between areas to conduct integrated scheduling and shorten the production cycle time. For this issue, this paper proposes a cooperative multi-agent reinforcement learning for multi-area integrated scheduling. Aiming at the dynamic batching and scheduling considering the dynamic arrival lots in multi-area, a multi-agent reinforcement learning algorithm is presented to learn the optimal dynamic batching and scheduling policy firstly. Subsequently, a cooperative multi-agent framework is raised to achieve the global optimisation and coordination of multi-area. Furthermore, an adaptive exploration strategy is constructed to enhance the global exploration capability of the complex solution space caused by residency time constraints and re-entrant property. Moreover, a policy share enhanced Double DQN is employed to improve the generalisation and adaptability of the multi-agent. Finally, the experiments demonstrate that the proposed integrated scheduling method has better comprehensive performance compared to the previous area-separated scheduling methods.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184444405</an>
+  <docTypes>Article</docTypes>
+  <volume>63</volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1912bf05-b3c4-334e-8352-3a1c5d75057b</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Wang, Ming ; Zhang, Jie ; Zhang, Peng ; Jin, Mengyu</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2024.2411615</doi>
+</record>

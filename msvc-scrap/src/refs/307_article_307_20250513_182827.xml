@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Optimized Approaches to Malware Detection: A Study of Machine Learning and Deep Learning Techniques</title>
+  <pageEnd>275</pageEnd>
+  <pageStart>269</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>7</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Deep learning ; Training ; Accuracy ; Biological system modeling ; Transfer learning ; Artificial neural networks ; Feature extraction ; Malware ; Real-time systems ; Reliability ; Malware Detection ; Machine Learning ; Deep Learning ; Cybersecurity ; Intrusion Detection ; Feature Selection ; Feature Extraction ; Threat Detection ; Cybercrime</subjects>
+  <abstract>Digital systems find it challenging to keep up with cybersecurity threats. The daily emergence of more than 560,000 new malware strains poses significant hazards to the digital ecosystem. The traditional malware detection methods fail to operate properly and yield high false positive rates with low accuracy of the protection system. This study explores the ways in which malware can be detected using these machine learning (ML) and deep learning (DL) approaches to address those shortcomings. This study also includes a systematic comparison of the performance of some of the widely used ML models, such as random forest, multi-layer perceptron (MLP), and deep neural network (DNN), for determining the effectiveness of the domain of modern malware threat systems. We use a considerable-sized database from Kaggle, which has undergone optimized feature selection and preprocessing to improve model performance. Our finding suggests that the DNN model outperformed the other traditional models with the highest training accuracy of 99.92% and an almost perfect AUC score. Furthermore, the feature selection and preprocessing can help improve the capabilities of detection. This research makes an important contribution by analyzing the performance of the model on the performance metrics and providing insight into the effectiveness of the advanced detection techniques to build more robust and more reliable cybersecurity solutions against the growing malware threats.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10968061</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=44768296-2925-3bcf-9f47-1c09de6fe42a</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Fahim, Abrar ; Dey, Shamik ; Absur, Md. Nurul ; Kamrul Siam, Md ; Huque, Md. Tahmidul ; Jafor Godhuli, Jafreen</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10968061</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HAYR</mid>
+  <language>eng</language>
+  <source>Ingénierie des Systèmes d'Information</source>
+  <bookEdition></bookEdition>
+  <title>Comparing the Performance of Machine Learning Models for a Day Ahead Rainfall Prediction.</title>
+  <pageEnd>663</pageEnd>
+  <pageStart>655</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Decision trees ; India ; Maharashtra (India) ; Precipitation forecasting ; Machine learning ; Random forest algorithms ; Multiple regression analysis ; K-nearest neighbor classification ; Climate change</subjects>
+  <abstract>Rainfall is a key factor in regulating the water levels in reservoirs. Due to climate change, the unpredictable nature of rainfall can lead to either overflow or drought conditions. This paper explores the use of machine learning techniques to predict a day ahead rainfall for two regions of India. The time series data of daily rainfall was available with three dimensions namely latitude, longitude and time and for 35 longitudes and 33 latitudes covering the Indian region. The data was processed to get the rainfall time series over two regions of India, namely Pune Region and Panchmahal Region from Maharashtra and Gujarat states respectively. The results were obtained for the test dataset from various models such as Multiple Linear Regression (MLR), Decision Tree (DT), K-Nearest Neighbor (K-NN), and Random Forest (RF). The performance of these models was gauged from root mean squared error (MSE), mean absolute error (MAE), correlation coefficient and the model's capability to predict maximum rainfall compared to actual rainfall. The performance analysis revealed that for the Pune region K-NN model outperformed while RF outperformed in the case of Panchmahal region.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184436904</an>
+  <docTypes>Article</docTypes>
+  <volume>30</volume>
+  <issns>1633-1311</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bb94e5ab-c2fb-3735-82ba-f6d2472e7d20</plink>
+  <doids></doids>
+  <publisher>International Information &amp;amp; Engineering Technology Association (IIETA)</publisher>
+  <contributors>Hudnurkar, Shilpa ; Patel, Prashant ; Ponnalagarsamy, Sivagami</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.18280/isi.300310</doi>
+</record>

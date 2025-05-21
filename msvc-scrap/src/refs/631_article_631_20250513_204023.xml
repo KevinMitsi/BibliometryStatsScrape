@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-0484-7</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>SoutheastCon 2025, 2025, SoutheastCon</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning-Driven MPPT Techniques for Optimal Solar Energy Utilization</title>
+  <pageEnd>313</pageEnd>
+  <pageStart>309</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250322</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Aerospace ; Bioengineering ; Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineered Materials, Dielectrics and Plasmas ; Engineering Profession ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Geoscience ; Nuclear Engineering ; Photonics and Electrooptics ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Signal Processing and Analysis ; Transportation ; Maximum power point trackers ; Photovoltaic systems ; Machine learning algorithms ; Software packages ; Linear regression ; Voltage ; Solar energy ; Prediction algorithms ; MATLAB ; Voltage control ; Machine learning ; photovoltaic systems ; MPPT ; PID controller ; MATLAB Simulink ; solar energy</subjects>
+  <abstract>In this paper, we utilized machine learning (ML) algorithms to optimize Maximum Power Point Tracking (MPPT) in photovoltaic systems. Predicting the optimal voltage is important as, at that voltage, the system gains maximum energy output and efficiency. We predicted optimal voltage from irradiance and temperature datasets by applying ML algorithm. We evaluated several ML models, finding Linear Regression to perform best with an MSE (mean square error) of 0.0024 and RMSE (root mean square error) of 0.0489. The proposed solution integrates an ML (linear regression)-driven voltage predictor, a PID controller, and a DC-DC buck-boost converter in a MATLAB simulation environment. In MATLAB Simulink, we observed that the buck-boost converter produced the same voltage as the predicted value across the load.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10971573</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>1558058X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4e9bd2ee-7348-3b73-b007-c94b2fa1e167</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Khanam, Jobeda J ; Issapour, Marjaneh ; Foo, Simon Y ; Castillo, Paulo</contributors>
+  <coverDate>20250322</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/SoutheastCon56624.2025.10971573</doi>
+</record>

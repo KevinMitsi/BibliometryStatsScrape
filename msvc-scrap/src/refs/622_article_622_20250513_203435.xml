@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsorb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Blending the DFT-Based Multiple Scattering Greens’ Function Approach to Spectroscopies with Machine Learning, Les Houches, France [FR], 30/10/2023-12/11/2023</source>
+  <bookEdition></bookEdition>
+  <title>Vibrational properties of Molybdenum Sulphides at finite T combining ab initio methods and Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20231030</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>DFT ; ab initio ; phonons ; spectroscopy ; vibrations ; raman ; machine learning ; Physical, chemical, mathematical &amp;amp; earth Sciences ; Physics ; Physique, chimie, mathématiques &amp;amp; sciences de la terre ; Physique</subjects>
+  <abstract>Transition metal chalcogenides represent a topical family of materials as they hold promise in the field of energy generation and storage. Catalytic activity for the hydrogen evolution reaction (HER) is one of the most exciting properties of molybdenum sulfides, which opened to an intense research effort. This project focuses on the theoretical study of their vibrational behaviour, especially their infrared and Raman modes, in order to find the structure-property relations that can help to better understand the catalytic mechanisms. The state-of-the-art methods to address such study are based on DFT, whose implementation can be computationally expensive, especially when working at finite temperature. To overcome this difficulty, we resort to machine learning (ML). In particular, we use the ML-Assisted Canonical Sampling approach (MLACS), which exploits molecular dynamics to explore phase space and optimize the ML parameters for a model to compute the energy and forces for a given system. This Machine Learning Interatomic Potential can replace the DFT potential in the calculation of vibrational spectroscopy or transport.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edsorb.317928</an>
+  <docTypes>conference poster not in proceedingshttp://purl.org/coar/resource_type/c_18coconferencePoster</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1a47f73e-594f-386f-b314-4cf7eb655742</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Longo, Samuel ; Verstraete, Matthieu</contributors>
+  <coverDate>20231030</coverDate>
+  <longDBName>ORBi</longDBName>
+  <doi></doi>
+</record>

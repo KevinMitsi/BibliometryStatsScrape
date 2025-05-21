@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>BMC cancer</source>
+  <bookEdition></bookEdition>
+  <title>Prediction of STAS in lung adenocarcinoma with nodules ≤ 2 cm using machine learning: a multicenter retrospective study.</title>
+  <pageEnd></pageEnd>
+  <pageStart>417</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Machine Learning ; Adenocarcinoma of Lung pathology ; Adenocarcinoma of Lung surgery ; Lung Neoplasms pathology ; Lung Neoplasms surgery ; Humans ; Retrospective Studies ; Female ; Male ; Middle Aged ; Aged ; ROC Curve</subjects>
+  <abstract>Declarations. Ethics approval and consent to participate: This study was conducted in accordance with the principles of the Declaration of Helsinki and approved by the Ethics Committee of Qilu Hospital, Shandong University (Approval number: KYLL-202008-023-1). Written informed consent was obtained from all participants prior to their inclusion in the study. Consent for publication: Not applicable. This manuscript does not contain any identifiable individual person’s data in any form. Competing interests: The authors declare no competing interests.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40055661</an>
+  <docTypes>Journal Article ; Multicenter Study</docTypes>
+  <volume>25</volume>
+  <issns>1471-2407 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3d754ba1-d0f7-3d70-a35e-e2a7e902fb02</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Zhang, Zhan ; Zhao, Yue ; Ma, Yi-Jun ; Chen, Chuan-Qi ; Li, Zhen-Yi ; Wang, Yv-Kai ; Zhang, Si-Jie ; Li, Hai-Ming ; Li, Yongmeng ; Tian, Yu ; Tian, Hui</contributors>
+  <coverDate>2025 Mar 07</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1186/s12885-025-13783-z</doi>
+</record>

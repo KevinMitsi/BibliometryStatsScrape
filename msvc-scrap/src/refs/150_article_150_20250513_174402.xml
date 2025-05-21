@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-0484-7</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>SoutheastCon 2025, 2025, SoutheastCon</source>
+  <bookEdition></bookEdition>
+  <title>Predicting Nitrogen in the Wastewater Treatment Process Via Machine Learning-Based Models</title>
+  <pageEnd>444</pageEnd>
+  <pageStart>439</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250322</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Aerospace ; Bioengineering ; Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineered Materials, Dielectrics and Plasmas ; Engineering Profession ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Geoscience ; Nuclear Engineering ; Photonics and Electrooptics ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Signal Processing and Analysis ; Transportation ; Biological system modeling ; Soft sensors ; Machine learning ; Effluents ; Predictive models ; Data models ; Regulation ; Nitrogen ; Wastewater ; Wastewater treatment ; machine learning (ML) ; wastewater treatment plant (WWTP) ; nitrogen ; prediction</subjects>
+  <abstract>Although wastewater treatment processes generally adhere to regulations, there is still opportunity to improve some processes to better treat influent (i.e., incoming wastewater). High levels of nitrogen and phosphorus are sometimes released within effluent (i.e., treated wastewater). These levels vary, with some treatment plants within regulatory compliance and others exceeding it. Excess nitrogen can cause algae blooms and can also have impacts on human health. In this study, we aim to estimate the amount of nitrogen released in the effluent by using machine learning models to predict nitrogen levels in the middle of the wastewater treatment process. By creating prediction models, we can better understand the behavior of excess nutrient. If we can predict how much nitrogen is produced during treatment, it may be possible for operators to remove excess amounts sooner and mitigate any effects on the local ecosystem. This also helps to determine how much power to use when treating this excess, a subject that can be explored in future research. Using machine learning methods, we aim to predict nitrogen levels ahead of time and develop a functioning model for operators to use to monitor and manage excess nitrogen levels. In this work, we identify the correlation between nitrogen and other materials. Then, we consider two prediction models using the Benchmark Simulation Model No. 2 (BSM2) as a representative baseline and data source. The preliminary simulation-based case study results investigate the potential of the proposed machine learning approach for predicting nitrogen in the wastewater treatment process.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10971594</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>1558058X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=49b207f6-538d-3422-9bd6-24637c9ca30e</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Zeru, Hannah ; Logan, Justin ; Roberts, Nicole ; Smith, Michael</contributors>
+  <coverDate>20250322</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/SoutheastCon56624.2025.10971594</doi>
+</record>

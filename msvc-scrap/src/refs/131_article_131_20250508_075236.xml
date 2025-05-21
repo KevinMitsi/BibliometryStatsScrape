@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>OI8</mid>
+  <language>eng</language>
+  <source>Journal of Intelligent Manufacturing</source>
+  <bookEdition></bookEdition>
+  <title>AutoML-driven diagnostics of the feeder motor in fused filament fabrication machines from direct current signals.</title>
+  <pageEnd>2016</pageEnd>
+  <pageStart>1999</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>18</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Manufacturing defects ; One-Hour Photofinishing ; Photofinishing Laboratories (except One-Hour) ; Machine learning ; 3-D printers ; Image processing</subjects>
+  <abstract>Part defects in additive manufacturing are more frequent compared to machining or molding. Failures can go unnoticed for hours, wasting resources and extending process cycle times. This paper describes a Machine Learning based method for automated sensing of onset failure in additive manufacturing machinery. Investigations are conducted on a Fused Filament Fabrication (FFF) 3D printer, and the same methods are then applied to a digital light processing 3D printer. The investigation focuses on signal-based analysis, specifically passive sensing of stepper motors relating DC current measurements to the torque on a stepper, as opposed to any active acoustic interrogation of the part. Passive methods are used to characterize the loading on a feeder stepper in an FFF machine, forming a model that can identify early signs of filament-based failure with 85.65% 10-fold cross-validation accuracy. Efforts show filament breakage can be detected minutes before material runout would cause a defect, allowing ample time to pause, correct, or control the print. The machine learning pipeline was not naively conceived but optimized through automated machine learning.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183282712</an>
+  <docTypes>Article</docTypes>
+  <volume>36</volume>
+  <issns>0956-5515</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=0121f643-6988-3a50-81a0-1b475c3cc305</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Rooney, Sean ; Pitz, Emil ; Pochiraju, Kishore</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1007/s10845-024-02332-3</doi>
+</record>

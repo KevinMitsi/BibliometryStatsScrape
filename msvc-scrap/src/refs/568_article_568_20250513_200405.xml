@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781838820299 ; 9781838821913</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Mastering Machine Learning Algorithms : Expert Techniques for Implementing Popular Machine Learning Algorithms, Fine-tuning Your Models, and Understanding How They Work</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20200101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>[N.p.]</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Programming / Algorithms ; COMPUTERS / Machine Theory ; COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; Computer algorithms ; Machine learning ; Algorithms</subjects>
+  <abstract>Updated and revised second edition of the bestselling guide to exploring and mastering the most important algorithms for solving complex machine learning problemsKey FeaturesUpdated to include new algorithms and techniquesCode updated to Python 3.8 &amp;amp; TensorFlow 2.xNew coverage of regression analysis, time series analysis, deep learning models, and cutting-edge applicationsBook DescriptionMastering Machine Learning Algorithms, Second Edition helps you harness the real power of machine learning algorithms in order to implement smarter ways of meeting today's overwhelming data needs. This newly updated and revised guide will help you master algorithms used widely in semi-supervised learning, reinforcement learning, supervised learning, and unsupervised learning domains. You will use all the modern libraries from the Python ecosystem – including NumPy and Keras – to extract features from varied complexities of data. Ranging from Bayesian models to the Markov chain Monte Carlo algorithm to Hidden Markov models, this machine learning book teaches you how to extract features from your dataset, perform complex dimensionality reduction, and train supervised and semi-supervised models by making use of Python-based libraries such as scikit-learn. You will also discover practical applications for complex techniques such as maximum likelihood estimation, Hebbian learning, and ensemble learning, and how to use TensorFlow 2.x to train effective deep neural networks. By the end of this book, you will be ready to implement and solve end-to-end machine learning problems and use case scenarios.What you will learnUnderstand the characteristics of a machine learning algorithmImplement algorithms from supervised, semi-supervised, unsupervised, and RL domainsLearn how regression works in time-series analysis and risk predictionCreate, model, and train complex probabilistic modelsCluster high-dimensional data and evaluate model accuracyDiscover how artificial neural networks work – train, optimize, and validate themWork with autoencoders, Hebbian networks, and GANsWho this book is forThis book is for data science professionals who want to delve into complex ML algorithms to understand how various machine learning models can be built. Knowledge of Python programming is required.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2366459</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bc90f577-f4b1-3fcf-9c89-7918054d5e51</plink>
+  <doids>NL$2366459$PDF ; NL$2366459$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Giuseppe Bonaccorso</contributors>
+  <coverDate>2020</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

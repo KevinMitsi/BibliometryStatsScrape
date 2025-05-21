@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Journal of Applied Informatics and Computing</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning-Based Approach for HIV/AIDS Prediction: Feature Selection and Data Balancing Strategy</title>
+  <pageEnd>347</pageEnd>
+  <pageStart>338</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>10</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>machine learning classification ; feature selection ; random oversampling ; hiv/aids prediction ; ensemble learning. ; Electronic computers. Computer science ; QA75.5-76.95</subjects>
+  <abstract>HIV/AIDS remains a significant global health challenge, requiring accurate predictive models for early detection and improved clinical decision-making. However, developing an effective predictive model faces challenges such as data imbalance and the presence of irrelevant features, which can compromise model accuracy. This study aims to enhance the performance of AIDS infection prediction models by integrating feature selection, data balancing, and machine learning classification techniques. Feature selection is conducted using Pearson Correlation, Mutual Information, and Chi-Square tests to retain only the most relevant features. Random Oversampling, SMOTE, and ADASYN are employed to address data imbalance and improve model robustness. Nine machine learning algorithms, including Decision Tree, Random Forest, XGBoost, LightGBM, Gradient Boosting, Support Vector Machine, AdaBoost, and Logistic Regression, are tested for classification. Performance evaluation using confusion matrix, precision, recall, F1-score, and AUC-ROC shows that tree-based models (Random Forest, Extra Trees, and XGBoost) achieve the best results, particularly in handling minority class predictions. The study concludes that combining feature selection, data balancing, and machine learning techniques significantly improves predictive performance, making it a valuable approach for early detection and clinical decision support in HIV/AIDS diagnosis. Future research may explore hyperparameter tuning and real-world clinical data integration to enhance practical applicability.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.9ffb623ddff74bf09f5bc32b833b93de</an>
+  <docTypes>article</docTypes>
+  <volume>9</volume>
+  <issns>25486861</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c31993da-c0f3-35ca-83eb-beca6002cea9</plink>
+  <doids></doids>
+  <publisher>Politeknik Negeri Batam</publisher>
+  <contributors>Abdul Mizwar A Rahim ; Ahmad Ridwan ; Bambang Pilu Hartato ; Firman Asharudin</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.30871/jaic.v9i2.9125</doi>
+</record>

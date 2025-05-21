@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>LU24</mid>
+  <language>eng</language>
+  <source>Fractal &amp;amp; Fractional</source>
+  <bookEdition></bookEdition>
+  <title>Integrating Multifractal Features into Machine Learning for Improved Prediction.</title>
+  <pageEnd></pageEnd>
+  <pageStart>205</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; GLOBAL Financial Crisis, 2008-2009 ; SHALE oils ; TECHNOLOGICAL innovations ; PETROLEUM sales &amp;amp; prices ; Non-conventional oil extraction ; Pipeline Transportation of Crude Oil ; Petroleum Bulk Stations and Terminals ; Petroleum and petroleum products merchant wholesalers ; Crude Petroleum and Natural Gas Extraction ; Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)</subjects>
+  <abstract>This study investigates the multifractal characteristics of the tanker freight market from 1998 to 2024. Using multifractal detrended fluctuation analysis (MF-DFA) and multifractal detrending moving average (MF-DMA), we analyze temporal correlations and volatility, revealing subtle differences in multifractal features before and after 2010. We further examine the influence of key external factors—including economic disturbances (the 2008 financial crisis), technological innovations (the 2014 Shale Oil Revolution), supply chain disruptions (the COVID-19 pandemic), and geopolitical uncertainties (the Russia–Ukraine conflict)—on market complexity. Building on this, a predictive framework is introduced, leveraging the Baltic Dirty Tanker Index (BDTI) to forecast Brent oil prices. By integrating multifractal analysis with machine learning models (e.g., XGBoost, LightGBM, and CatBoost), our framework fully exploits the predictability from the freight index to oil prices across the above four major global events. The results demonstrate the potential of combining multifractal analysis with advanced machine learning models to improve forecasting accuracy and provide actionable insights during periods of heightened market volatility. On average, the coefficient of determination (R&lt;sup>2&lt;/sup>) increases by approximately 62.65% to 182.54% for training and 55.20% to 167.62% for testing, while the mean squared error (MSE) reduces by 60.83% to 92.71%. This highlights the effectiveness of multifractal analysis in enhancing model performance, especially in more complex market conditions post-2010.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184834571</an>
+  <docTypes>Article</docTypes>
+  <volume>9</volume>
+  <issns>2504-3110</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c8e46ff3-fda2-32a5-a293-f416aed061f9</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Chen, Feier ; Sha, Yi ; Ji, Huaxiao ; Peng, Kaitai ; Liang, Xiaofeng</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/fractalfract9040205</doi>
+</record>

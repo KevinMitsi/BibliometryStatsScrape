@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3263-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 Systems of Signals Generating and Processing in the Field of on Board Communications, Systems of Signals Generating and Processing in the Field of on Board Communications, 2025</source>
+  <bookEdition></bookEdition>
+  <title>Forecasting of Reliability Indicators of Base Stations of Cellular Communication Networks Using Machine Learning Algorithms</title>
+  <pageEnd>4</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250312</publicationDate>
+  <pageCount>4</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineering Profession ; Fields, Waves and Electromagnetics ; Signal Processing and Analysis ; Cellular networks ; Base stations ; Machine learning algorithms ; Recurrent neural networks ; Prediction algorithms ; Reliability ; Decision trees ; Communication networks ; Forecasting ; Long short term memory ; cellular communication ; base station ; reliability ; machine learning ; decision tree ; recurrent neural network</subjects>
+  <abstract>The article discusses the issues of forecasting the reliability of base stations of cellular communication networks using machine learning algorithms. This task is relevant, as forecasting the reliability of base stations allows timely measures to be taken to prevent equipment failures. For example, replacing the corresponding base station nodes or performing maintenance. All this ensures an increase in QoS in cellular communication systems. An analysis of existing developments in this field has shown that the use of machine learning algorithms is a promising way to predict reliability indicators. The article discusses two of the most popular machine learning algorithms for solving forecasting problems: decision trees and recurrent neural networks. To assess the applicability of these algorithms, a special dataset has been developed that simulates the process of failures in the main elements of the base station: the power supply unit and the RF power amplifier. The simulation results showed high quality forecasting of base station reliability indicators using these algorithms. In particular, the LSTM network provides about 92% accuracy in correctly predicting base station failure.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10948059</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>27680118</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bb66c705-703b-393b-bb92-406df575c0fd</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Chirov, D. S. ; Petrov, N. D.</contributors>
+  <coverDate>20250312</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/IEEECONF64229.2025.10948059</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>MBMX</mid>
+  <language>eng</language>
+  <source>International Journal of Online &amp;amp; Biomedical Engineering</source>
+  <bookEdition></bookEdition>
+  <title>Lung Cancer Survival Period Prediction: Exploring Machine Learning Approaches.</title>
+  <pageEnd>60</pageEnd>
+  <pageStart>45</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial neural networks ; Machine learning ; Artificial intelligence ; Survival rate ; Income ; Survival analysis (Biometry)</subjects>
+  <abstract>Lung cancer imposes the highest disease burden among all cancers and has the highest expected mortality rate, with 1.8 million deaths annually. It also has the lowest five-year survival rate, averaging at 20% among all diagnosed cancers. Machine learning (ML) offers a novel approach that has been utilized in healthcare for early detection, treatment planning, and survival time estimation. In this study, we applied various supervised, ensemble, and unsupervised ML algorithms to surveillance, epidemiology, and end results (SEER) lung cancer data to predict disease-specific survival (DSS) at 0.5-year, one-year, three-year, and five-year intervals. Our results show that ML models were effective in predicting short-term survival outcomes, but their ability to predict three-year and five-year survival was suboptimal. The limited performance of the models to predict survival outcomes may be attributed to the class imbalance that inherently exists in lung cancer patients. It may also be an indication of limited capacity of the selected features to predict long-term survival. Among the models tested, logistic regression (LR) and XGBoost were most robust algorithms to predict survival outcomes using given features. K-nearest neighbour (K-NN) and deep neural network (DNN) showed relatively weak performance as compared to other models in survival prediction. Additionally, the study found that household income, a socioeconomic factor, was the most significant predictor of survival across all time intervals. These findings highlight the potential of ML in survival prediction, particularly in the short term for lung cancer. The study also emphasizes the importance of addressing socioeconomic disparities as part of public health strategies to improve lung cancer outcomes.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184031964</an>
+  <docTypes>Article</docTypes>
+  <volume>21</volume>
+  <issns>2626-8493</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6fd8b5d6-3101-3baa-8a8a-2a5ae2bd5f58</plink>
+  <doids></doids>
+  <publisher>International Journal of Online Engineering</publisher>
+  <contributors>Ghous, Rooshan ; Hosseini, Seyed Ebrahim ; Chattha, Shahbaz Pervez</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.3991/ijoe.v21i04.52889</doi>
+</record>

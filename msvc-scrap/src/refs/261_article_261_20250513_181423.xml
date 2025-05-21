@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781785889936 ; 9781785886423</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition>Second edition</bookEdition>
+  <title>Machine Learning with Spark : Develop Intelligent, Distributed Machine Learning Systems</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20170101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / General ; COMPUTERS / Data Science / Data Analytics ; COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; Machine learning</subjects>
+  <abstract>Create scalable machine learning applications to power a modern data-driven business using Spark 2.xKey Features[•] Get to the grips with the latest version of Apache Spark[•] Utilize Spark's machine learning library to implement predictive analytics[•] Leverage Spark's powerful tools to load, analyze, clean, and transform your dataBook DescriptionThis book will teach you about popular machine learning algorithms and their implementation. You will learn how various machine learning concepts are implemented in the context of Spark ML. You will start by installing Spark in a single and multinode cluster. Next you'll see how to execute Scala and Python based programs for Spark ML. Then we will take a few datasets and go deeper into clustering, classification, and regression. Toward the end, we will also cover text processing using Spark ML. Once you have learned the concepts, they can be applied to implement algorithms in either green-field implementations or to migrate existing systems to this new platform. You can migrate from Mahout or Scikit to use Spark ML. By the end of this book, you will acquire the skills to leverage Spark's features to create your own scalable machine learning applications and power a modern data-driven business.What you will learn[•] Get hands-on with the latest version of Spark ML[•] Create your first Spark program with Scala and Python[•] Set up and configure a development environment for Spark on your own computer, as well as on Amazon EC2[•] Access public machine learning datasets and use Spark to load, process, clean, and transform data[•] Use Spark s machine learning library to implement programs by utilizing well-known machine learning models[•] Deal with large-scale text data, including feature extraction and using text data as input to your machine learning models[•] Write Spark functions to evaluate the performance of your machine learning modelsWho this book is forIf you have a basic knowledge of machine learning and want to implement various machine-learning concepts in the context of Spark ML, this book is for you. You should be well versed with the Scala and Python languages.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1513368</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4a966fd4-6d80-3dab-97f6-f30abe18aba7</plink>
+  <doids>NL$1513368$PDF ; NL$1513368$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Rajdeep Dua ; Manpreet Singh Ghotra</contributors>
+  <coverDate>2017</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

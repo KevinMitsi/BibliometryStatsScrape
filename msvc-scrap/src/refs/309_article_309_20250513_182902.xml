@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CIK</mid>
+  <language>eng</language>
+  <source>BMC Public Health</source>
+  <bookEdition></bookEdition>
+  <title>Application of the random forest algorithm to predict skilled birth attendance and identify determinants among reproductive-age women in 27 Sub-Saharan African countries; machine learning analysis.</title>
+  <pageEnd>14</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250306</publicationDate>
+  <pageCount>14</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; RANDOM forest algorithms ; FEATURE selection ; MEDIA exposure ; MIDWIVES ; SUB-Saharan Africa</subjects>
+  <abstract>Introduction: Maternal mortality refers to a mother's death owing to complications arising from childbirth or pregnancy. This issue is a forefront public health challenge around the globe which is pronounced in low- and middle-income countries, particularly in the sub-Saharan African regions where the burdens remain significantly high. Moreover, this problem is further complicated in developing countries due to limited access to antenatal care and the shortage of skilled birth attendants. So far, considerable improvements in the health status of many populations have been reported in developing countries. Nonetheless, the MDGs to reduce maternal and newborn mortality unmet in many SSA nations. Leveraging machine learning approaches allows us to better understand these constraints and predict skilled birth attendance among reproductive age women, providing actionable insights for policy and intervention. Objective: This study aimed to predict skill birth attendance and identify its determinants among reproductive age women in 27 SSA countries using machine learning algorithm. Methods: Using data from the Demographic and Health Surveys (2016–2024) across 27 SSA countries, we analyzed responses from 198,707 reproductive age women. The Random Forest classifier, complemented by SHAP for feature interpretability, was employed for prediction and analysis. Data preprocessing included K-nearest neighbor imputation for missing values, SMOTE for handling class imbalance, and Recursive Feature Elimination for feature selection. Model performance was evaluated using metrics such as accuracy, recall, F1 score, and AUC-ROC. Results: The Random Forest model demonstrated robust performance, achieving an AUC-ROC of 92%, recall of 96%, accuracy of 92%, precision of 93 and F1 score of 93%. The SHAP analysis identifies key predictors of skilled birth attendance, including facility delivery, maternal education, higher wealth index, urban residence, reduced distance to healthcare facilities, media exposure, and internet use. Conclusion and recommendations: The findings highlight the potential of machine learning to identify critical predictors of skilled birth attendance to inform targeted interventions. Addressing socioeconomic and educational disparities, enhancing healthcare access, and implementing tailored cessation programs are crucial to enhance skilled birth attendance in this vulnerable population.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183485247</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1471-2458</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9305a7c6-cae2-39e5-8d25-c88d73fb5d51</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Taye, Eliyas Addisu ; Woubet, Eden Yitbarek ; Hailie, Gabrela Yimer ; Arage, Fetlework Gubena ; Zerihun, Tigabu Eskeziya ; Zegeye, Adem Tsegaw ; Zeleke, Tarekegn Cheklie ; Kassaw, Abel Temeche</contributors>
+  <coverDate>3/6/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12889-025-22007-9</doi>
+</record>

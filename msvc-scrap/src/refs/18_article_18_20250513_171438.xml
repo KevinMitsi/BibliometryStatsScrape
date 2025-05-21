@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>A machine learning study to improve the reliability of project cost estimates.</title>
+  <pageEnd>4388</pageEnd>
+  <pageStart>4372</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240615</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>12</issue>
+  <identifiers></identifiers>
+  <subjects>Cost estimates ; Earned value management ; Cost control ; Data analytics ; Machine learning</subjects>
+  <abstract>Project managers need reliable predictive analytics tools to make effective project intervention decisions throughout the project life cycle. This study uses Machine learning (ML) to enhance the reliability in project cost forecasting. A XGBoost forecasting model is developed and computational experiments are conducted using real data of 110 projects representing 1268 cost data points. The developed model performs better than some Earned value management (EVM), ML (Random forest, Support vector regression, LightGBM, and CatBoost), and non-linear growth (Gompertz and Logistic) models. The model produces more accurate estimates at the early, middle, and late stages of the project execution, allowing for early warning signals for more effective cost control. In addition, it shows more accurate estimates in most projects tested, suggesting consistency when repeatedly used in practice. Project forecasting studies mainly used ML to estimate the project duration; a few ML studies estimated the project cost at the project's conceptual stage. This study uses real data and EVM metrics, proposing an effective XGBoost model for forecasting the cost throughout the project life cycle.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>176845854</an>
+  <docTypes>Article</docTypes>
+  <volume>62</volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4889afa4-2b1f-337d-9ab8-880b04d847b0</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Narbaev, Timur ; Hazir, Öncü ; Khamitova, Balzhan ; Talgat, Sayazhan</contributors>
+  <coverDate>Jun2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2023.2262051</doi>
+</record>

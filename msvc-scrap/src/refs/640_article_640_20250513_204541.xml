@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>BMC research notes</source>
+  <bookEdition></bookEdition>
+  <title>PrOsteoporosis: predicting osteoporosis risk using NHANES data and machine learning approach.</title>
+  <pageEnd></pageEnd>
+  <pageStart>108</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250311</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>United States ; Machine Learning ; Osteoporosis diagnosis ; Osteoporosis epidemiology ; Nutrition Surveys ; Humans ; Female ; Male ; Middle Aged ; Aged ; Algorithms ; Risk Factors ; Risk Assessment methods ; Bone Density ; United States epidemiology ; Adult</subjects>
+  <abstract>Declarations. Ethics approval and consent to participate: Use of data from the NHANES 2013–2020 is approved by the National Center for Health Statistics (NCHS) Research Ethics Review Board (ERB) Approval for NHANES 2013–2014 (Continuation of Protocol #2011-17), NHANES 2017–2020 (Continuation of Protocol # 2018-01). Consent for publication: Not applicable Competing interests: The authors declare no competing interests.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40069865</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>18</volume>
+  <issns>1756-0500 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7368c271-41f2-3e75-8028-3f945cc88a82</plink>
+  <doids></doids>
+  <publisher>Biomed Central</publisher>
+  <contributors>Si, Zebing ; Zhang, Di ; Wang, Huajun ; Zheng, Xiaofei</contributors>
+  <coverDate>2025 Mar 11</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1186/s13104-025-07089-3</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>International journal of molecular sciences</source>
+  <bookEdition></bookEdition>
+  <title>Utilization of Machine Learning in the Prediction, Diagnosis, Prognosis, and Management of Chronic Myeloid Leukemia.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250312</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Switzerland</publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Leukemia, Myelogenous, Chronic, BCR-ABL Positive diagnosis ; Leukemia, Myelogenous, Chronic, BCR-ABL Positive genetics ; Leukemia, Myelogenous, Chronic, BCR-ABL Positive therapy ; Machine Learning ; Humans ; Prognosis ; Algorithms ; Disease Management ; Fusion Proteins, bcr-abl genetics</subjects>
+  <abstract>Chronic myeloid leukemia is a clonal hematologic disease characterized by the presence of the Philadelphia chromosome and the BCR::ABL1 fusion protein. Integrating different molecular, genetic, clinical, and laboratory data would improve the diagnostic, prognostic, and predictive sensitivity of chronic myeloid leukemia. However, without artificial intelligence support, managing such a vast volume of data would be impossible. Considering the advancements and growth in machine learning throughout the years, several models and algorithms have been proposed for the management of chronic myeloid leukemia. Here, we provide an overview of recent research that used specific algorithms on patients with chronic myeloid leukemia, highlighting the potential benefits of adopting machine learning in therapeutic contexts as well as its drawbacks. Our analysis demonstrated the great potential for advancing precision treatment in CML through the combination of clinical and genetic data, laboratory testing, and machine learning. We can use these powerful research instruments to unravel the molecular and spatial puzzles of CML by overcoming the current obstacles. A new age of patient-centered hematology care will be ushered in by this, opening the door for improved diagnosis accuracy, sophisticated risk assessment, and customized treatment plans.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40141176</an>
+  <docTypes>Journal Article ; Review</docTypes>
+  <volume>26</volume>
+  <issns>1422-0067 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3073f44a-9f84-3c2a-b175-071c271d3bc2</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Stagno, Fabio ; Russo, Sabina ; Murdaca, Giuseppe ; Mirabile, Giuseppe ; Alvaro, Maria Eugenia ; Nasso, Maria Elisa ; Zemzem, Mohamed ; Gangemi, Sebastiano ; Allegra, Alessandro</contributors>
+  <coverDate>2025 Mar 12</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.3390/ijms26062535</doi>
+</record>

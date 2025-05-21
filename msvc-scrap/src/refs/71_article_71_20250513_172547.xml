@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Artificial intelligent technologies in Japanese manufacturing firms: an empirical survey study.</title>
+  <pageEnd>219</pageEnd>
+  <pageStart>193</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>27</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Industrial surveys ; Product costing ; Manufacturing industries ; Machine learning</subjects>
+  <abstract>Motivated by conflicting arguments/claims in the AI literature on its implementation, motivations, and practical impact, we combine interview data from a case company with questionnaire data from eighty-five Japanese manufacturing firms to examine seven AI technologies at firm, function, and technology levels. We find that one-third of the sample firms did not employ any of the seven AI technologies. Over 50% of the remaining firms implemented one or two technologies only. Visual recognition, machine learning and natural written language processing were the most commonly implemented technologies. AI implementation was the highest in production and research and development compared to other functions. The main motivations for implementing AI were to enhance operational efficiency, improve defects detection and prediction, automate processes, and reduce labour hours/costs. Among the firms that implemented AI, improvements in operational efficiency were more frequently reported, followed by reductions in labour hours/costs and enhancements in product/process quality. Lack of business needs, suitability to the business, expertise in implementation, and confidence in generating significant benefits were the main reasons for not experimenting with AI technologies. Our detailed analysis improves our understanding of the current state of AI adoption in manufacturing firms, its practical impact and highlights avenues for future research.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182024259</an>
+  <docTypes>Article</docTypes>
+  <volume>63</volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f799c009-49e1-3895-bfe5-c0f4be30198c</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Hadid, Wael ; Horii, Satoshi ; Yokota, Akinori</contributors>
+  <coverDate>Jan2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2024.2358409</doi>
+</record>

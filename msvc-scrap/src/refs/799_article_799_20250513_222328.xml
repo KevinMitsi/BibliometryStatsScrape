@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edspgr</shortDBName>
+  <isiType>PAT</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine learning based vulnerable target identification in ransomware attack</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250114</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>A processor can be configured to receive data associated with, and/or access to, a computing system's file system structure. The processor can also be configured to determine file patterns, file path patterns and/or graph patterns associated with the computing system. The processor can also be configured to build a graph structure having nodes and edges, the graph structure representing the file patterns, file path patterns and graph patterns, wherein the nodes of the graph structure represent files and attributes of the files and the edges of the graph structure represent connectivity between the files. The processor can also be configured to train, based on the graph structure, a first machine learning model to learn a feature vector associated with a file. The processor can also be configured to train, based on the feature vector, a second machine learning model to identify a vulnerable ransomware target.</abstract>
+  <pubTypes>Patent</pubTypes>
+  <an>edspgr.12197585</an>
+  <docTypes>Patent</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=db64bb92-57b3-34f7-9cc6-13e18f702eea</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>International Business Machines Corporation</contributors>
+  <coverDate>January 14, 2025</coverDate>
+  <longDBName>USPTO Patent Grants</longDBName>
+  <doi></doi>
+</record>

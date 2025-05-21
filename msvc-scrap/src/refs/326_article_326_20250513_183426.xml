@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781783555130 ; 9781783555147</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Community Experience Distilled</source>
+  <bookEdition></bookEdition>
+  <title>Python Machine Learning : Learn How to Build Powerful Python Machine Learning Algorithms to Generate Useful Data Insights with This Data Analysis Tutorial</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20150101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / General ; COMPUTERS / Languages / Python ; Python (Computer program language) ; Machine learning</subjects>
+  <abstract>Unlock deeper insights into Machine Leaning with this vital guide to cutting-edge predictive analyticsKey FeaturesLeverage Python's most powerful open-source libraries for deep learning, data wrangling, and data visualizationLearn effective strategies and best practices to improve and optimize machine learning systems and algorithmsAsk – and answer – tough questions of your data with robust statistical models, built for a range of datasetsBook DescriptionMachine learning and predictive analytics are transforming the way businesses and other organizations operate. Being able to understand trends and patterns in complex data is critical to success, becoming one of the key strategies for unlocking growth in a challenging contemporary marketplace. Python can help you deliver key insights into your data – its unique capabilities as a language let you build sophisticated algorithms and statistical models that can reveal new perspectives and answer key questions that are vital for success. Python Machine Learning gives you access to the world of predictive analytics and demonstrates why Python is one of the world's leading data science languages. If you want to ask better questions of data, or need to improve and extend the capabilities of your machine learning systems, this practical data science book is invaluable. Covering a wide range of powerful Python libraries, including scikit-learn, Theano, and Keras, and featuring guidance and tips on everything from sentiment analysis to neural networks, you'll soon be able to answer some of the most important questions facing you and your organization. What you will learnExplore how to use different machine learning models to ask different questions of your dataLearn how to build neural networks using Keras and TheanoFind out how to write clean and elegant Python code that will optimize the strength of your algorithmsDiscover how to embed your machine learning model in a web application for increased accessibilityPredict continuous target outcomes using regression analysisUncover hidden patterns and structures in data with clusteringOrganize data using effective pre-processing techniquesGet to grips with sentiment analysis to delve deeper into textual and social media dataWho this book is forIf you want to find out how to use Python to start answering critical questions of your data, pick up Python Machine Learning – whether you want to get started from scratch or want to extend your data science knowledge, this is an essential and unmissable resource.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1071004</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=956c98c1-5814-3c2b-83b3-31e74560c5c6</plink>
+  <doids>NL$1071004$PDF ; NL$1071004$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Sebastian Raschka</contributors>
+  <coverDate>2015</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

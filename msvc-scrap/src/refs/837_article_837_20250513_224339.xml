@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>MUZO</mid>
+  <language>eng</language>
+  <source>Forecasting</source>
+  <bookEdition></bookEdition>
+  <title>Forecasting Raw Material Yield in the Tanning Industry: A Machine Learning Approach.</title>
+  <pageEnd>1097</pageEnd>
+  <pageStart>1078</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>20</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Standard deviations ; Technological forecasting ; Leather industry ; Leather and Hide Tanning and Finishing ; Machine learning ; Data mining software</subjects>
+  <abstract>This study presents an innovative machine learning (ML) approach to predicting raw material yield in the leather tanning industry, addressing a critical challenge in production efficiency. Conducted at a tannery in southern Brazil, the research leverages historical production data to develop a predictive model. The methodology encompasses four key stages: data collection, processing, prediction, and evaluation. After rigorous analysis and refinement, the dataset was reduced from 16,046 to 555 high-quality records. Eight ML models were implemented and evaluated using Orange Data Mining software, version 3.38.0, including advanced algorithms such as Random Forest, Gradient Boosting, and neural networks. Model performance was assessed through cross-validation and comprehensive metrics, including Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), Mean Squared Error (MSE), and Coefficient of Determination (R&lt;sup>2&lt;/sup>). The AdaBoost algorithm emerged as the most accurate predictor, achieving impressive results with an MAE of 0.042, MSE of 0.003, RMSE of 0.057, and R&lt;sup>2&lt;/sup> of 0.331. This research demonstrates the significant potential of ML techniques in enhancing raw material yield forecasting within the tanning industry. The findings contribute to more efficient forecasting processes, aligning with Industry 4.0 principles and paving the way for data-driven decision-making in manufacturing.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181939177</an>
+  <docTypes>Article</docTypes>
+  <volume>6</volume>
+  <issns>2571-9394</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8737e31e-37e0-38d8-a794-8ebc9bcbbcbc</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Baierle, Ismael Cristofer ; Haupt, Leandro ; Furtado, João Carlos ; Pinheiro, Eluza Toledo ; Sellitto, Miguel Afonso</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.3390/forecast6040054</doi>
+</record>

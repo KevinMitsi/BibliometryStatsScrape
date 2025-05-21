@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>6BZE</mid>
+  <language>spa</language>
+  <source>Formación Universitaria</source>
+  <bookEdition></bookEdition>
+  <title>Generación de conjuntos de datos de preguntas frecuentes sobre reglamento estudiantil mediante aprendizaje automático y procesamiento de lenguaje natural.</title>
+  <pageEnd>42</pageEnd>
+  <pageStart>33</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>10</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Clustering algorithms ; Deep learning ; Natural language processing ; Systems engineering ; Machine learning</subjects>
+  <abstract>The present study aims to generate a semi-structured dataset for student regulation frequently asked questions presented by students of the School of Systems Engineering and Computing at the Pedagogical and Technological University of Colombia. The methodology is conducted under a quantitative deductive and applied approach. A data collection instrument for questions is generated in natural language, undergoing preprocessing, analysis, and post-processing of data. Unsupervised machine learning is applied to clustering algorithms and techniques for assessing the importance of terminology relative to their frequencies in a document. As a result, 33 categories of words related to a central reference element are obtained from a set of 197 questions. In conclusion, the present research study provides a set of questions stored in a JSON format that serve as input for training a conversational agent based on Deep Learning.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183560204</an>
+  <docTypes>Article</docTypes>
+  <volume>18</volume>
+  <issns>0718-5006</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2c10647b-0420-3f76-84c7-4975762dc7bd</plink>
+  <doids></doids>
+  <publisher>Centro de Informacion Tecnologica (CIT)</publisher>
+  <contributors>Puertas, Alex ; Valencia, Raúl S.</contributors>
+  <coverDate>feb2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.4067/S0718-50062025000100033</doi>
+</record>

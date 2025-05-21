@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Crop Recommender and Yield Prediction System using Ensemble Machine Learning Techniques</title>
+  <pageEnd>93</pageEnd>
+  <pageStart>88</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Adaptation models ; Computational modeling ; Stacking ; Decision making ; Crops ; Predictive models ; Boosting ; Ensemble learning ; Regression tree analysis ; Random forests ; Machine Learning ; Decision Tree ; OneHotEncoder ; Random Forest ; XGBoost</subjects>
+  <abstract>Machine learning techniques to develop a system for crop recommendation and yield prediction, aimed at supporting data-driven agricultural decision-making. Exploratory data analysis (EDA) is conducted to identify patterns within the data, and correlation maps are used to visualize relationships between features. The dataset is split into training and testing sets, with preprocessing involving feature scaling through Standard Scaler and categorical encoding via OneHotEncoder. Decision Tree Regressor (DTR), Support Vector Regressor (SVR), and Gradient Boosting Regressor are incorporated as base models in the architecture whereas XGB and Random Forest (RF) Regressor are used as meta-models in a Stacking Regressor pipeline. Stacking is chosen over other ensemble methods like bagging and boosting because of its ability to combine multiple models for meta learning framework. The performance of the model is evaluated using the following metrics Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R 2 ) scores. The model developed provides an effective and practical tool for improving agriculture decision making through cutting edge machine learning methodologies.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10968481</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=520d893e-7b2e-3076-ad01-464dc6d61ab8</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Sowmya.P ; Sharma, Niteesha ; Ashalatha, T. ; Shivani, J.</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10968481</doi>
+</record>

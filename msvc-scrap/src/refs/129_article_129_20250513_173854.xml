@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Clinical and translational science</source>
+  <bookEdition></bookEdition>
+  <title>MoLPre: A Machine Learning Model to Predict Metastasis of cT1 Solid Lung Cancer.</title>
+  <pageEnd></pageEnd>
+  <pageStart>e70186</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>United States</publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Lung Neoplasms pathology ; Lung Neoplasms diagnosis ; Machine Learning ; Humans ; Male ; Middle Aged ; Female ; Carcinoma, Non-Small-Cell Lung pathology ; Neoplasm Staging ; Aged ; ROC Curve ; Neoplasm Metastasis</subjects>
+  <abstract>Given that more than 20% of patients with cT1 solid NSCLC showed nodal or extrathoracic metastasis, early detection of metastasis is crucial and urgent for improving therapeutic planning and patients' risk stratification in clinical practice. This study collected clinicopathological variables from the pulmonary nodule and lung cancer database of the First Affiliated Hospital of Chongqing Medical University, where patients with early-stage (cT1) solitary lung cancer were evaluated from 2018.11 to 2022.10. The random forest model and Shapley Additive Explanations (SHAP) were used to investigate the importance of clinical features in the feature selection part. Random Forest, Gradient Boosting, and AdaBoost classifiers were applied to build the final model, and the predictive discrimination of each model was compared based on the receiver operating characteristics (ROC) curve and precision and recall curve. With the evaluation of feature importance, 9 features were used to construct the prediction model finally. The Random Forest model yielded an average precision of 0.93 with an area under the curve (AUC) of 0.92 (95% CI: 0.88-0.94) compared with the Gradient Boosting and AdaBoost classifiers in the internal validation dataset, yielding an average precision of 0.87 and 0.91 with AUCs of 0.87 (95% CI: 0.84-0.93) and 0.90 (95% CI: 0.86-0.92), respectively. In addition, the Random Forest classifier performed best in 5 other 5 diagnostic indices. Furthermore, we embedded this model in a web application called MoLPre (https://molpre.cqmu.edu.cn/), a user-friendly tool assisting in the metastasis prediction of cT1 solid lung cancer.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40143527</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>18</volume>
+  <issns>1752-8062 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f1e0ea55-75ed-33dd-b9aa-07cf1bc254a1</plink>
+  <doids></doids>
+  <publisher>WileyBlackwell Pub</publisher>
+  <contributors>Lan, Jie ; Wang, Heng ; Huang, Jing ; Li, Weiyi ; Ao, Min ; Zhang, Wanfeng ; Mu, Junhao ; Yang, Li ; Ran, Longke</contributors>
+  <coverDate>2025 Apr</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1111/cts.70186</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781789345070 ; 9781789345414</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning with Scala Quick Start Guide : Leverage Popular Machine Learning Algorithms and Techniques and Implement Them in Scala</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20190101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Machine Theory ; COMPUTERS / Data Science / General ; COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; Python (Computer program language) ; Neural networks (Computer science) ; Scala (Computer program language) ; Machine learning</subjects>
+  <abstract>Supervised and unsupervised machine learning made easy in Scala with this quick-start guide.Key FeaturesConstruct and deploy machine learning systems that learn from your data and give accurate predictionsUnleash the power of Spark ML along with popular machine learning algorithms to solve complex tasks in Scala.Solve hands-on problems by combining popular neural network architectures such as LSTM and CNN using Scala with DeepLearning4j libraryBook DescriptionScala is a highly scalable integration of object-oriented nature and functional programming concepts that make it easy to build scalable and complex big data applications. This book is a handy guide for machine learning developers and data scientists who want to develop and train effective machine learning models in Scala. The book starts with an introduction to machine learning, while covering deep learning and machine learning basics. It then explains how to use Scala-based ML libraries to solve classification and regression problems using linear regression, generalized linear regression, logistic regression, support vector machine, and Naïve Bayes algorithms. It also covers tree-based ensemble techniques for solving both classification and regression problems. Moving ahead, it covers unsupervised learning techniques, such as dimensionality reduction, clustering, and recommender systems. Finally, it provides a brief overview of deep learning using a real-life example in Scala. What you will learnGet acquainted with JVM-based machine learning libraries for Scala such as Spark ML and Deeplearning4jLearn RDDs, DataFrame, and Spark SQL for analyzing structured and unstructured dataUnderstand supervised and unsupervised learning techniques with best practices and pitfallsLearn classification and regression analysis with linear regression, logistic regression, Naïve Bayes, support vector machine, and tree-based ensemble techniquesLearn effective ways of clustering analysis with dimensionality reduction techniquesLearn recommender systems with collaborative filtering approachDelve into deep learning and neural network architecturesWho this book is forThis book is for machine learning developers looking to train machine learning models in Scala without spending too much time and effort. Some fundamental knowledge of Scala programming and some basics of statistics and linear algebra is all you need to get started with this book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2116465</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b50d5b08-bd5f-33c6-a76e-0f7cdb37bf88</plink>
+  <doids>NL$2116465$PDF ; NL$2116465$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Md. Rezaul Karim ; Ajay Kumar N</contributors>
+  <coverDate>2019</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

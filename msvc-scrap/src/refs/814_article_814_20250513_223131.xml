@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Soil Science-Informed Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Environmental Sciences ; Soil Sciences ; Networking and Information Technology R&amp;amp;D (NITRD) ; Machine Learning and Artificial Intelligence ; Generic health relevance ; Biological Sciences ; Agricultural and Veterinary Sciences ; Agronomy &amp;amp; Agriculture ; Soil sciences</subjects>
+  <abstract>Machine learning (ML) applications in soil science have significantly increased over the past two decades, reflecting a growing trend towards data-driven research addressing soil security. This extensive application has mainly focused on enhancing predictions of soil properties, particularly soil organic carbon, and improving the accuracy of digital soil mapping (DSM). Despite these advancements, the application of ML in soil science faces challenges related to data scarcity and the interpretability of ML models. There is a need for a shift towards Soil Science-Informed ML (SoilML) models that use the power of ML but also incorporate soil science knowledge in the training process to make predictions more reliable and generalisable. This paper proposes methodologies for embedding ML models with soil science knowledge to overcome current limitations. Incorporating soil science knowledge into ML models involves using observational priors to enhance training datasets, designing model structures which reflect soil science principles, and supervising model training with soil science-informed loss functions. The informed loss functions include observational constraints, coherency rules such as regularisation to avoid overfitting, and prior or soil-knowledge constraints that incorporate existing information about the parameters or outputs. By way of illustration, we present examples from four fields: digital soil mapping, soil spectroscopy, pedotransfer functions, and dynamic soil property models. We discuss the potential to integrate process-based models for improved prediction, the use of physics-informed neural networks, limitations, and the issue of overparametrisation. These approaches improve the relevance of ML predictions in soil science and enhance the models’ ability to generalise across different scenarios while maintaining soil science principles, transparency and reliability.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt8qf2n8zs</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e143fce5-d339-3ef7-8b0f-49990c3637ff</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Minasny, Budiman ; Bandai, Toshiyuki ; Ghezzehei, Teamrat A ; Huang, Yin-Chung ; Ma, Yuxin ; McBratney, Alex B ; Ng, Wartini ; Norouzi, Sarem ; Padarian, Jose ; Rudiyanto ; Sharififar, Amin ; Styc, Quentin ; Widyastuti, Marliana</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

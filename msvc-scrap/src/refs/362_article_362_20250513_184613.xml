@@ -1,0 +1,35 @@
+<record>
+  <isbns>9789815124439 ; 9789815124422</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Introduction to Machine Learning with Python</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>[S.l.]</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / Machine Learning ; COMPUTERS / Languages / Python ; Machine learning ; Python (Computer program language)</subjects>
+  <abstract>Machine learning is a subfield of artificial intelligence, broadly defined as a machine's capability to imitate intelligent human behavior. Like humans, machines become capable of making intelligent decisions by learning from their past experiences. Machine learning is being employed in many applications, including fraud detection and prevention, self-driving cars, recommendation systems, facial recognition technology, and intelligent computing. This book helps beginners learn the art and science of machine learning. It presens real-world examples that leverage the popular Python machine learning ecosystem,The topics covered in this book include machine learning basics: supervised and unsupervised learning, linear regression and logistic regression, Support Vector Machines (SVMs). It also delves into special topics such as neural networks, theory of generalisation, and bias and fairness in machine learning. After reading this book, computer science and engineering students - at college and university levels - will receive a complete understanding of machine learning fundamentals and will be able to implement neural network solutions in information systems, and also extend them to their advantage.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>3570040</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e1e7e812-1104-3de2-a107-7a2174ea5d74</plink>
+  <doids>NL$3570040$PDF ; NL$3570040$EPUB</doids>
+  <publisher>Bentham Science Publishers</publisher>
+  <contributors>Deepti, Chopra ; Roopal, Khurana</contributors>
+  <coverDate>2023</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

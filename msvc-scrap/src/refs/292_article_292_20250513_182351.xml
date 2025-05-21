@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781783980284 ; 9781783980291</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning for OpenCV : Intelligent Image Processing with Python</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20170101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Artificial Intelligence / Computer Vision &amp;amp; Pattern Recognition ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / Neural Networks ; Python (Computer program language) ; Image processing ; OpenCV (Computer program language) ; Machine learning ; Computer vision</subjects>
+  <abstract>Expand your OpenCV knowledge and master key concepts of machine learning using this practical, hands-on guide.Key Features[•] Load, store, edit, and visualize data using OpenCV and Python[•] Grasp the fundamental concepts of classification, regression, and clustering[•] Understand, perform, and experiment with machine learning techniques using this easy-to-follow guide[•] Evaluate, compare, and choose the right algorithm for any taskBook DescriptionMachine learning is no longer just a buzzword, it is all around us: from protecting your email, to automatically tagging friends in pictures, to predicting what movies you like. Computer vision is one of today's most exciting application fields of machine learning, with Deep Learning driving innovative systems such as self-driving cars and Google's DeepMind. OpenCV lies at the intersection of these topics, providing a comprehensive open-source library for classic as well as state-of-the-art computer vision and machine learning algorithms. In combination with Python Anaconda, you will have access to all the open-source computing libraries you could possibly ask for. Machine learning for OpenCV begins by introducing you to the essential concepts of statistical learning, such as classification and regression. Once all the basics are covered, you will start exploring various algorithms such as decision trees, support vector machines, and Bayesian networks, and learn how to combine them with other OpenCV functionality. As the book progresses, so will your machine learning skills, until you are ready to take on today's hottest topic in the field: Deep Learning. By the end of this book, you will be ready to take on your own machine learning problems, either by building on the existing source code or developing your own algorithm from scratch!What you will learn[•] Explore and make effective use of OpenCV s machine learning module[•] Learn deep learning for computer vision with Python[•] Master linear regression and regularization techniques[•] Classify objects such as flower species, handwritten digits, and pedestrians[•] Explore the effective use of support vector machines, boosted decision trees, and random forests[•] Get acquainted with neural networks and Deep Learning to address real-world problems[•] Discover hidden structures in your data using k-means clustering[•] Get to grips with data pre-processing and feature engineeringWho this book is forThis book targets Python programmers who are already familiar with OpenCV; this book will give you the tools and understanding required to build your own machine learning systems, tailored to practical real-world tasks.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1556105</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3b0d0b68-013e-3001-a8a4-c2cde3bece56</plink>
+  <doids>NL$1556105$PDF ; NL$1556105$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Michael Beyeler ; Michael Beyeler (USD)</contributors>
+  <coverDate>2017</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

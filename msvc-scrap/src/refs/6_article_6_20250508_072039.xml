@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Predicting the length-of-stay of pediatric patients using machine learning algorithms.</title>
+  <pageEnd>496</pageEnd>
+  <pageStart>483</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250115</publicationDate>
+  <pageCount>14</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Random forest algorithms ; Machine learning ; Length of stay in hospitals ; Children's injuries ; Forest productivity ; Child patients</subjects>
+  <abstract>The management of hospitals' resource capacity has a strong impact on the quality of care, and the length-of-stay (LOS) of patients is an indicator that reflects its efficiency and effectiveness. This study aims at predicting the LOS of pediatric patients (LOS-P) in hospitals to assist in decision-making regarding resource utilisation. LOS-P forecasting presents additional challenges to the analyst compared to other medical specialties since Pediatrics comprises several other subspecialties (e.g. pediatric oncology and traumatology). Pediatric patients within subspecialties compete for the same hospital resources, and aggregate LOS-P predictions are more useful for resource planning. However, aggregate pediatric LOS datasets are harder to model and result in lower forecasting accuracy. To address that problem, we propose a forecasting model based on Machine Learning algorithms. The method for LOS-P forecasting comprises five steps (data visualisation, data pre-processing, sample partitioning, model testing, and model definition through parameter setting and variable selection) and is tested using a dataset of hospitalisations of pediatric patients from a large Brazilian University hospital. Multiple linear regression, random forest, support vector regression, ridge regression, and partial least squares algorithms are applied and compared to determine the best forecasting model. Results indicate that all forecasting models yield satisfactory accuracy, with the best algorithms being random forest and support vector regressor. After refining the model through variable selection and using a Grid Search to find the best parameters, the random forest algorithm yielded an R&lt;sup>2&lt;/sup> of 65.67%, with an average absolute error of 3.51 days. Highlights: Prediction of the length of stay of pediatric patients (LOS-P) in hospitals based on Machine Learning algorithms Multiple linear regression, random forest, support vector regression, ridge regression, and partial least squares algorithms were applied and compared Random forest algorithm yielded an R&lt;sup>2&lt;/sup> of 65.67%, with an average absolute error of 3.51 days</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182326452</an>
+  <docTypes>Article</docTypes>
+  <volume>63</volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e141265a-59e6-3b29-b3c0-ade0059ac400</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Boff Medeiros, Natália ; Fogliatto, Flávio Sanson ; Karla Rocha, Miriam ; Tortorella, Guilherme Luz</contributors>
+  <coverDate>Jan2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2023.2235029</doi>
+</record>

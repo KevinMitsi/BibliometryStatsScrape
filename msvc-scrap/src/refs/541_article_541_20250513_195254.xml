@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781801811828 ; 9781801814522</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Automated Machine Learning on AWS : Fast-track the Development of Your Production-ready Machine Learning Applications the AWS Way</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20220101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / General ; Machine learning</subjects>
+  <abstract>Automate the process of building, training, and deploying machine learning applications to production with AWS solutions such as SageMaker Autopilot, AutoGluon, Step Functions, Amazon Managed Workflows for Apache Airflow, and moreKey FeaturesExplore the various AWS services that make automated machine learning easierRecognize the role of DevOps and MLOps methodologies in pipeline automationGet acquainted with additional AWS services such as Step Functions, MWAA, and more to overcome automation challengesBook DescriptionAWS provides a wide range of solutions to help automate a machine learning workflow with just a few lines of code. With this practical book, you'll learn how to automate a machine learning pipeline using the various AWS services. Automated Machine Learning on AWS begins with a quick overview of what the machine learning pipeline/process looks like and highlights the typical challenges that you may face when building a pipeline. Throughout the book, you'll become well versed with various AWS solutions such as Amazon SageMaker Autopilot, AutoGluon, and AWS Step Functions to automate an end-to-end ML process with the help of hands-on examples. The book will show you how to build, monitor, and execute a CI/CD pipeline for the ML process and how the various CI/CD services within AWS can be applied to a use case with the Cloud Development Kit (CDK). You'll understand what a data-centric ML process is by working with the Amazon Managed Services for Apache Airflow and then build a managed Airflow environment. You'll also cover the key success criteria for an MLSDLC implementation and the process of creating a self-mutating CI/CD pipeline using AWS CDK from the perspective of the platform engineering team. By the end of this AWS book, you'll be able to effectively automate a complete machine learning pipeline and deploy it to production.What you will learnEmploy SageMaker Autopilot and Amazon SageMaker SDK to automate the machine learning processUnderstand how to use AutoGluon to automate complicated model building tasksUse the AWS CDK to codify the machine learning processCreate, deploy, and rebuild a CI/CD pipeline on AWSBuild an ML workflow using AWS Step Functions and the Data Science SDKLeverage the Amazon SageMaker Feature Store to automate the machine learning software development life cycle (MLSDLC)Discover how to use Amazon MWAA for a data-centric ML processWho this book is forThis book is for the novice as well as experienced machine learning practitioners looking to automate the process of building, training, and deploying machine learning-based solutions into production, using both purpose-built and other AWS services. A basic understanding of the end-to-end machine learning process and concepts, Python programming, and AWS is necessary to make the most out of this book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>3197831</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7bfa0551-0ec6-3b39-a457-c012b98b6941</plink>
+  <doids>NL$3197831$PDF ; NL$3197831$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Trenton Potgieter ; Jonathan Dahlberg</contributors>
+  <coverDate>2022</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HAYS</mid>
+  <language>eng</language>
+  <source>Instrumentation, Mesures, Métrologies</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Algorithms for Real-Time Analysis of Multimedia Data from IoT-Based Health Instruments for Diabetes Management.</title>
+  <pageEnd>43</pageEnd>
+  <pageStart>35</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Continuous glucose monitoring ; Machine learning ; Hypoglycemia ; Edge computing ; Diabetes ; Recurrent neural networks</subjects>
+  <abstract>The rising prevalence of diabetes worldwide has prompted the need for innovative solutions that leverage advancements in technology to improve patient outcomes. This paper explores the application of machine learning algorithms to the real-time analysis of multimedia data from IoT-based health instruments for effective diabetes management. This research proposes a novel framework for real-time diabetes management by leveraging the power of wearable IoT devices, edge computing, and advanced machine learning techniques. Specifically, we utilize Recurrent Neural Networks, trained using backpropagation through time, to analyze temporal patterns in continuous glucose monitoring data and physical activity logs. This approach enables the system to predict and prevent episodes of hyperglycemia and hypoglycemia, providing personalized recommendations for insulin adjustments and dietary modifications. Evaluation results demonstrate the effectiveness of the proposed approach, achieving an 80% accuracy in classifying hypoglycemia, normal glucose levels, and hyperglycemia. Notably, the system exhibits high precision in identifying hyperglycemic events, indicating its potential in preventing severe complications. Further personalization and integration of additional health data are planned to enhance the system's accuracy and comprehensiveness.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183385032</an>
+  <docTypes>Article</docTypes>
+  <volume>24</volume>
+  <issns>1631-4670</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=77cd3f45-2e72-3db5-8303-1ed050c55bbf</plink>
+  <doids></doids>
+  <publisher>International Information &amp;amp; Engineering Technology Association (IIETA)</publisher>
+  <contributors>Wijaya, Marvin Chandra</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.18280/i2m.240104</doi>
+</record>

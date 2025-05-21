@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsorb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>41st IAHR World Congress, Singapore [SG], 22-27 June 2025</source>
+  <bookEdition></bookEdition>
+  <title>Comparison of machine learning techniques and empirical formulas for the prediction of the discharge through a fluvial dike breach</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Fluvial dike ; Dike breaching ; Breach discharge ; Machine learning ; Decision tree ; Empirical formulas ; Engineering, computing &amp;amp; technology ; Civil engineering ; Ingénierie, informatique &amp;amp; technologie ; Ingénierie civile</subjects>
+  <abstract>The breaching of a fluvial dike is a complex phenomenon involving 3D flow patterns and a complex breach geometry. Oversimplifications inherent to traditional empirical and analytical approaches lead to inaccurate predictions of the breach discharge. Machine learning models are interesting tools as they can replicate complex relationships when properly trained. This study assesses the performance of a decision-tree-based model, specifically the extremely randomized trees method, using experimental data from previous works. This model is evaluated in both interpolation and extrapolation, i.e., when the model is evaluated inside or outside the training set space. It performs well in both cases, although results slightly degrade in extrapolation. It is then compared to classical empirical formulas. The latter provide low fidelity results in this case. A corrective term computed using machine learning is then coupled with the empirical formulas, which significantly improve their accuracy. Overall, the extremely randomized trees method yields satisfactory results when directly evaluating the dike breach discharge or when coupled with an empirical formula. Future work could expand the training set by exploring additional configurations, further increasing the reliability of the model.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edsorb.329205</an>
+  <docTypes>conference paper not in proceedingshttp://purl.org/coar/resource_type/c_18cpconferencePaperpeer reviewed</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7e84ce06-3aad-3ce9-8c57-2cdde0a0381c</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Schmitz, Vincent ; Pierard, Sébastien ; Vandeghen, Renaud ; Erpicum, Sébastien ; Pirotton, Michel ; Archambeau, Pierre ; Dewals, Benjamin</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>ORBi</longDBName>
+  <doi></doi>
+</record>

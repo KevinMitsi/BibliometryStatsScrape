@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edspgr</shortDBName>
+  <isiType>PAT</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Predicting performance of machine learning models</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250204</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>A computer-implemented method and computer program product for predicting an impact of an adjustment to a machine learning model to key performance indicators, and a forecasting engine. The computer-implemented method may comprise receiving a proposed adjustment to a machine learning model, calculating, using a regression machine learning model to ingest the proposed adjustment, a set of value components for a key performance indicator (KPI), calculating a plurality of results for the KPI using the set of value components, automatically determining whether the plurality of results exceeds a performance threshold, and recommending the proposed adjustment based on the determination.</abstract>
+  <pubTypes>Patent</pubTypes>
+  <an>edspgr.12216738</an>
+  <docTypes>Patent</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2da49868-5c0a-3e8c-abd7-67c44333fa99</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>International Business Machines Corporation</contributors>
+  <coverDate>February 04, 2025</coverDate>
+  <longDBName>USPTO Patent Grants</longDBName>
+  <doi></doi>
+</record>

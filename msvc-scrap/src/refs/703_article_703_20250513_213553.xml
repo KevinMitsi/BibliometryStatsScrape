@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Discover Agriculture</source>
+  <bookEdition></bookEdition>
+  <title>Maize and soybean yield prediction using machine learning methods: a systematic literature review</title>
+  <pageEnd>29</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>29</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning in agronomy ; Deep learning ; Crop management ; Precision agriculture ; Artificial intelligence ; Agriculture (General) ; S1-972 ; Environmental sciences ; GE1-350</subjects>
+  <abstract>Abstract Today’s agronomy is data-rich, and machine learning (ML) provides the ability to efficiently predict crop yields, utilizing high-volume data to optimize agricultural decision-making. Numerous ML models are used, yet systemized framework guiding the crop-targeted selection of models, features, accuracy measures, and addressing associated challenges is lacking, specifically for soybean and maize, world’s vital crops. Henceforth, this is the first crop-targeted systematic literature review (SLR) performed to retrieve/consolidate the ML techniques and key features utilized in maize and soybean yield prediction research. The study searched four databases (ProQuest, Wiley, Science Direct, and EBSCOhost), producing 1859 articles, which finally reduced to 82 articles following SLR’s inclusion/exclusion criteria. These papers were thoroughly analysed for generating common consensus and future research recommendations. Results revealed the temperature, precipitation, historical crop yield, normalized difference vegetation index (NDVI), and soil pH to be the most utilized ML features for yield prediction research. The Random Forest (RF), Artificial Neural Networks (ANNs), Support Vector Machines (SVMs), and Extreme Gradient Boosting (XG-Boost) were identified as the mostly used ML algorithms. Most often applied deep learning techniques include long short-term memory (LSTM) and convolutional neural networks (CNNs). In the utilized models, the most used performance assessment measures were noted as the coefficient of determination (R2), root absolute error (RAE), root mean square error (RMSE), and mean absolute error (MAE). This SLR also reported major challenges with obtaining high quantity/quality data, model complexity tackling, and incorporating the inclusion of farm management factors in yield prediction process. Altogether, this SLR offers a valuable framework for model selection, feature unification, accuracy measures comparison, model performance assessment, and addressing challenges in ML-based yield prediction research, with an emphasis on maize and soybean.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.ff8b8815adf4a21b45aba122807c0fd</an>
+  <docTypes>article</docTypes>
+  <volume>3</volume>
+  <issns>27319598</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=032fb388-b102-3c29-80bd-9c74d785b095</plink>
+  <doids></doids>
+  <publisher>Springer</publisher>
+  <contributors>Ramandeep Kumar Sharma ; Jasleen Kaur ; Gary Feng ; Yanbo Huang ; Chandan Kumar ; Yi Wang ; Sandhir Sharma ; Johnie Jenkins ; Jagmandeep Dhillon</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.1007/s44279-025-00215-6</doi>
+</record>

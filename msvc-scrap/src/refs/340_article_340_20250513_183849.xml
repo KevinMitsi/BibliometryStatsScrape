@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>IV0N</mid>
+  <language>eng</language>
+  <source>Mexican Journal of Economics &amp;amp; Finance / Revista Mexicana de Economia y Finanzas</source>
+  <bookEdition></bookEdition>
+  <title>Modeling economic growth in pandemic times with machine learning regression algorithms.</title>
+  <pageEnd>33</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>33</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>COVID-19 pandemic ; Estimation theory ; Machine learning ; Regression trees ; Random forest algorithms</subjects>
+  <abstract>Objective: The aim of this paper is to analyze the contrast of policies to face the Covid-19 pandemic in the socioeconomic performance of three representative economies: Italy, Mexico, and United States. Methodology: Machine learning (ML) techniques are applied to analyze the socioeconomic effects of the pandemic (containment measures, infection rates, total deaths, vaccination, etc.) on GDP growth in those countries. The experiment is that New Zealand's reference stringency index replaces each of those countries' own stringency index and the forecasts for GDP growth, Covid-19-induced deaths, and the Covid-19 reproduction rate. Thus, we show that ML techniques are robust tools for multiple outcome regressions and for experimental scenarios on the socioeconomic impact of the Covid-19 pandemic. Results: The experimental results revealed that the Regression Tree and Random Forest techniques successfully estimate and predict the cases of Italy, Mexico, and the United States. Conclusions: The proposal is that stringency measures and vaccination policies are undoubtedly successful in the fight against a pandemic, in addition to measuring the effects of such policies when data is available through the use of novel techniques such as ML.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182802972</an>
+  <docTypes>Article</docTypes>
+  <volume>20</volume>
+  <issns>1665-5346</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=15506883-b0de-3559-b45b-90c76a73f3a6</plink>
+  <doids></doids>
+  <publisher>Instituto Mexicano de Ejecutivos de Finanzas</publisher>
+  <contributors>Alejandro Navarro-Acosta, J. ; Soto-Mendoza, Valeria ; Policardo, Laura ; Sánchez-Carrera, Edgar J.</contributors>
+  <coverDate>ene-mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.21919/remef.v20i1.911</doi>
+</record>

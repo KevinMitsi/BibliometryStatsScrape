@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-4237-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 International Conference on Automation and Computation (AUTOCOM), Automation and Computation (AUTOCOM), 2025 International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Advanced Machine Learning Approaches for Fastag Fraud Detection</title>
+  <pageEnd>154</pageEnd>
+  <pageStart>149</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250304</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineering Profession ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Logistic regression ; Accuracy ; Machine learning algorithms ; Feature extraction ; Fraud ; Classification algorithms ; Security ; Decision trees ; Reliability ; Random forests ; Machine Learning ; Big Data ; Supervised Learning ; Unsupervised Learning ; Data Preprocessing</subjects>
+  <abstract>The growth of electronic toll collection has led to more fraud, especially when serious drivers use FASTags to ease traffic congestion to avoid repeat fraud. This study highlights the urgent need for effective enforcement of FASTag fraud. Our system is designed to detect and prevent false phone numbers by analysing key features such as money transfer, vehicle type, phone line type, and location. Construct complex fraud models using advanced techniques in machine learning algorithms: KNN, XG Boost, Logistic Regression, Decision Tree, Random Forest, Naive Bayes Classifier, Gaussian Naive Bayes, ANN, SVM Classifier etc. This model has shown great success with ANN achieving the highest accuracy (99.88%) and F1 score (99.93%). It helps in creating a safer and more reliable system by increasing the validity of FASTag transactions. By using these algorithms, the aim is to reduce fraud and increase the integrity and security of the FASTag system. In addition to increasing the security of electronic toll collection, the system also offers solutions that will reduce FASTag fraud and ensure fairness in payments across vehicle models.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10957339</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=528b9fdc-3b3b-3d41-9816-f1ed3e671457</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Kumar, Sunil ; Kour, Gurpreet</contributors>
+  <coverDate>20250304</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/AUTOCOM64127.2025.10957339</doi>
+</record>

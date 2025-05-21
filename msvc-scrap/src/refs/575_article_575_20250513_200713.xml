@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edspgr</shortDBName>
+  <isiType>PAT</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Intelligently optimized machine learning models</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>An approach for intelligent optimization of machine learning models for a target environment may be provided herein. The approach may include extracting metadata from a training pipeline for a first machine learning model that has been configured to operate within a first computing environment. The approach may also include mapping the extracted metadata to one or more constraints associated with a second machine learning model that has been configured to operate within a second computing environment. The approach may also include training the second machine learning model configured to the second computing environment, with the dataset that was used to train the first machine learning model, based on the mapped constraints. The approach may also include comparing performance metrics of the first machine learning model to corresponding metrics of the now trained second machine learning model.</abstract>
+  <pubTypes>Patent</pubTypes>
+  <an>edspgr.12265461</an>
+  <docTypes>Patent</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e31f6fa7-9475-3b24-9791-5beffaae9343</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>International Business Machines Corporation</contributors>
+  <coverDate>April 01, 2025</coverDate>
+  <longDBName>USPTO Patent Grants</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Informatics in Education</source>
+  <bookEdition></bookEdition>
+  <title>Assessing the Learning of Machine Learning in K-12: A Ten-Year Systematic Mapping</title>
+  <pageEnd>328</pageEnd>
+  <pageStart>295</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230101</publicationDate>
+  <pageCount>34</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Technology Education ; Elementary Secondary Education ; Educational Strategies ; Evaluation Methods ; Instructional Design ; Student Evaluation ; Feedback (Response) ; Automation ; Test Construction</subjects>
+  <abstract>Although Machine Learning (ML) has already become part of our daily lives, few are familiar with this technology. Thus, in order to help students to understand ML, its potential, and limitations and to empower them to become creators of intelligent solutions, diverse courses for teaching ML in K-12 have emerged. Yet, a question less considered is how to assess the learning of ML. Therefore, we performed a systematic mapping identifying 27 instructional units, which also present a quantitative assessment of the students' learning. The simplest assessments range from quizzes to performance-based assessments assessing the learning of basic ML concepts, approaches, and in some cases ethical issues and the impact of ML on lower cognitive levels. Feedback is mostly limited to the indication of the correctness of the answers and only a few assessments are automated. These results indicate a need for more rigorous and comprehensive research in this area.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1392994</an>
+  <docTypes>Journal Articles ; Reports - Evaluative</docTypes>
+  <volume>22</volume>
+  <issns>1648-5831 ; 2335-8971</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=95de3eb3-69e4-3c9c-a6bb-cf51238c0281</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Rauber, Marcelo Fernando ; Gresse Von Wangenheim, Christiane</contributors>
+  <coverDate>2023</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

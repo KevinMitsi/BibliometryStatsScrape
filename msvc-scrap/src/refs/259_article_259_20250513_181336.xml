@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Education and Information Technologies</source>
+  <bookEdition></bookEdition>
+  <title>Feature Optimization and Machine Learning for Predicting Students' Academic Performance in Higher Education Institutions</title>
+  <pageEnd>21193</pageEnd>
+  <pageStart>21169</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241101</publicationDate>
+  <pageCount>25</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>16</issue>
+  <identifiers></identifiers>
+  <subjects>Academic Achievement ; Colleges ; Artificial Intelligence ; Predictor Variables ; Flipped Classroom ; Video Technology ; Interaction ; College Students ; Student Behavior ; Learning Processes ; Learning Analytics ; Data ; Data Analysis ; Information Systems ; Student Records</subjects>
+  <abstract>Developing tools to support students, educators, intuitions, and government in the educational environment has become an important task to improve the quality of education and learning outcomes. Information and communication technology (ICT) is adopted by educational institutions; one such instance is video interaction in flipped teaching. ICT-based learning generates a huge amount of data that can be utilized to better understand student behavior and improve students learning. Predicting students' academic performance is essential to take proactive measures to improve student learning and reduce the risk of student dropout and failure. This study aims to use video learning analysis and data mining approaches to predict student academic achievement and identify the factors affecting their performance. For this purpose, the dataset containing records of 326 students from a higher education institution (HEI) is used which contains records from SIS, Moodle, and eDify. This study advocates the use of a balanced dataset and optimized feature set to obtain better performance for students' academic performance prediction. Several machine learning and deep learning models are applied to analyze their performance against the original dataset, balanced dataset, and balanced dataset with the optimized feature set. Experimental results demonstrate decision tree classifier outperforms with an accuracy of 99.06% with a balanced dataset and optimized feature set. Further analysis indicates that the video interaction feature has a strong impact on the performance of students.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1450595</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>29</volume>
+  <issns>1360-2357 ; 1573-7608</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=52eb41e5-1cf4-3211-aec4-b3ffd43b7110</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Aom Perkash ; Qaisar Shaheen ; Robina Saleem ; Furqan Rustam ; Monica Gracia Villar ; Eduardo Silva Alvarado ; Isabel de la Torre Diez ; Imran Ashraf</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10639-024-12698-9</doi>
+</record>

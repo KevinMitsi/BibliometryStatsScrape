@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3503-6836-9</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE Wireless Communications and Networking Conference (WCNC), Wireless Communications and Networking Conference (WCNC), 2025 IEEE</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning-Based Channel Prediction with Reduced Training Overhead for Massive MIMO-OFDM Systems</title>
+  <pageEnd>6</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250324</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Training ; Frequency-domain analysis ; OFDM ; Neural networks ; Training data ; Channel estimation ; Machine learning ; Massive MIMO ; MIMO ; Forecasting ; Channel prediction ; massive MIMO ; machine learning ; online re-training ; training time overhead</subjects>
+  <abstract>Channel prediction addresses outdated channel state information by forecasting future channels based on past channel estimates. We propose a machine learning (ML)-based approach using neural networks to learn complex temporal statistics. Unlike conventional offline-trained predictors that suffer from unfamiliar environments, our online re-training framework adapts to varying channel conditions by re-training the networks from scratch. To minimize the re-training time for practical implementation, we introduce an aggregated learning (AL) approach for massive multiple-input multiple-output orthogonal frequency division multiplexing (MIMO-OFDM) systems. AL splits and aggregates training data in array or frequency domains of MIMO-OFDM channels, significantly reducing data collection time. Numerical results show that AL not only decreases training time overhead but also improves prediction performance across various scenarios.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10978484</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>15582612</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=ec74c6eb-5371-3e09-a0f4-e672207ff3b3</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Ko, Beomsoo ; Kim, Hwanjin ; Kim, Minje ; Choi, Junil</contributors>
+  <coverDate>20250324</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/WCNC61545.2025.10978484</doi>
+</record>

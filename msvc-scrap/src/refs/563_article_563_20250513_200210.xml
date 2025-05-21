@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-3-031-74226-2 ; 978-3-031-74227-9</isbns>
+  <shortDBName>edssjb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Applying Machine Learning in Science Education Research : When, How, and Why?</source>
+  <bookEdition></bookEdition>
+  <title>Human-Machine Interactions in Machine Learning Modeling: The Role of Theory</title>
+  <pageEnd>154</pageEnd>
+  <pageStart>143</pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>This chapter provides guidance for how to think about the role that humans play in conducting analyses that include ML as part of the workflow. It introduces a stance towards ML as “intelligence augmentation” rather than “artificial intelligence” and articulates four key questions for an analyst to consider when setting up analysis. It also introduces computational grounded theory as an alternative to automation-focused applications of ML.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edssjb.978.3.031.74227.9.8</an>
+  <docTypes></docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3acaeaf7-2dfa-360c-9cd0-9472147c7a4d</plink>
+  <doids></doids>
+  <publisher>Springer Nature Switzerland</publisher>
+  <contributors>Krist, Christina ; Kubsch, Marcus ; Wulff, Peter</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature eBooks</longDBName>
+  <doi>10.1007/978-3-031-74227-9_8</doi>
+</record>

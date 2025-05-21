@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HAYV</mid>
+  <language>eng</language>
+  <source>Traitement du Signal</source>
+  <bookEdition></bookEdition>
+  <title>Dunhuang_Faces: A Dataset Enhanced through Image Processing for Cultural Heritage and Machine Learning.</title>
+  <pageEnd>581</pageEnd>
+  <pageStart>569</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>13</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Dunhuang (China) ; One-Hour Photofinishing ; Photofinishing Laboratories (except One-Hour) ; Historical Sites ; Machine learning ; Image processing ; Mural art ; Cultural property ; High resolution imaging ; Conservation &amp;amp; restoration ; Acquisition of data</subjects>
+  <abstract>The preservation and analysis of Dunhuang mural art face significant challenges due to the severe degradation and fragility of these invaluable cultural artifacts. To address the scarcity of high-quality data for research, we introduce Dunhuang_Faces, a super-resolution-enhanced dataset specifically designed for applications in cultural heritage studies and machine learning. By leveraging advanced super-resolution models, we restored and enhanced degraded mural images, creating a dataset that maximizes the utility of the limited available data. Dunhuang_Faces comprises three subsets: Dunhuang_Faces-20k, Dunhuang_Faces-3k, and Dunhuang_Faces-500, each processed through super-resolution techniques and standardized to support a broad range of tasks. Through experimental validation, we demonstrate its effectiveness across cultural heritage digitization analyses and machine learning applications, highlighting its versatility and potential. This work provides a valuable standardized dataset for the cultural heritage field and enriches art-related datasets in machine learning with the unique style and imagery of Dunhuang murals. It establishes a technical foundation for research in both domains, offering critical resources for the preservation, analysis, and reutilization of historical artworks.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183569761</an>
+  <docTypes>Article</docTypes>
+  <volume>42</volume>
+  <issns>0765-0019</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=62c9fa92-9af5-317a-b606-a31de161545e</plink>
+  <doids></doids>
+  <publisher>International Information &amp;amp; Engineering Technology Association (IIETA)</publisher>
+  <contributors>Zhang, Zizhan ; Cao, Yingchun</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.18280/ts.420148</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Shanlax International Journal of Education</source>
+  <bookEdition></bookEdition>
+  <title>A Study on the Factors on SEEEM of Secondary Education Students during Thailand's COVID-19 Situation: Using Machine Learning in Analytics</title>
+  <pageEnd>69</pageEnd>
+  <pageStart>63</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>7</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Foreign Countries ; Secondary School Students ; Artificial Intelligence ; COVID-19 ; Pandemics ; STEM Education ; Economic Factors ; Ecology ; Educational Technology ; Computation ; Thinking Skills ; Science Process Skills ; Environment ; Multiple Literacies ; Thailand</subjects>
+  <abstract>This research purposed to test the accuracy of Machine Learning techniques for learner analytics based on SEEEM factors of secondary education students in Thailand's COVID-19. Research volunteer came from secondary education students in Thailand who invited by researcher. The research questionnaire adapted from Computational Thinking Assessment by Korkmaz et al. (2017), Science Process Skills by Pruekpramool (2014), Environmental Literacy Instrument for Adolescents by EPA (2018), Test of Economic Literacy by Walstad et al. (2013), and Technology and Engineering Literacy Student Questionnaire by NAEP (2018). This research employed the statistics in analysis of Mean and Standard Deviation, and Machine Learning Techniques such as Naïve Bay (NB), Support Vector Machine (SVM), Decision Tree (DT), Random Forest (RF), Logistics Regression (LR), Gradient Boosting (GB), Extreme Gradient Boosting (XGB), and Artificial Neural Network (ANN) with 80% for training and 20% for testing. The results of this research as it shown techniques used in data analytics in this paper may benefit to educators, teachers, or students in Thailand.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1441754</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>12</volume>
+  <issns>2320-2653 ; 2582-1334</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=db3a977f-8792-3af2-b715-c7b6d75c8d32</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Wudhijaya Philuek</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi></doi>
+</record>

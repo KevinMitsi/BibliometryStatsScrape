@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>International Journal of Thermofluids</source>
+  <bookEdition></bookEdition>
+  <title>Comparative analysis of machine learning models for wind speed forecasting: Support vector machines, fine tree, and linear regression approaches</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Wind speed forecasting ; Machine learning models ; Fine tree ; Support Vector Machines (SVM) ; Linear Regression</subjects>
+  <abstract>Wind speed is an important parameter of wind energy conversion, and its forecast is significant for optimal power generation and maintaining the stability of the electricity supply. In this work, three predictive models, namely Fine Tree, Support Vector Machine (SVM), and Linear Regression, are assessed using meteorological data from the National Wind Technology Center (NWTC) in Boulder, Colorado, for the period 2019–2023. The meteorological variables that have been incorporated into the dataset are wind direction, air temperature, relative humidity, atmospheric pressure, precipitation, and wind speed at 50 m height. The evaluation of the performance of the models used Root mean squared error (RMSE), mean squared error (MSE), mean absolute error (MAE), and coefficient of determination (R²). The findings show that the Linear Regression model has the best accuracy (RMSE = 0.29555, MSE = 0.08735, MAE = 0.18061, R² = 0.97), followed by the SVM model (RMSE = 0.32275, R² = 0.96) and then the Fine Tree model (RMSE = 0.44042, R² = 0.93). These results have demonstrated Linear Regression in enhancing wind speed prediction, where future studies should investigate the combination of the forecasted models or other different machine learning models to improve the accuracy of prediction internationally.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2666202725001648</an>
+  <docTypes>Article</docTypes>
+  <volume>27</volume>
+  <issns>2666-2027</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a4b83baa-829c-3f95-90b6-1b306b30c3e8</plink>
+  <doids></doids>
+  <publisher>Elsevier Ltd</publisher>
+  <contributors>Altork, Yousef</contributors>
+  <coverDate>May 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.ijft.2025.101217</doi>
+</record>

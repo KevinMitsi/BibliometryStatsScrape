@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>2YAF</mid>
+  <language>eng</language>
+  <source>International Journal of Mining, Reclamation &amp;amp; Environment</source>
+  <bookEdition></bookEdition>
+  <title>Automated open-stope design optimization through machine learning methods.</title>
+  <pageEnd>292</pageEnd>
+  <pageStart>273</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>20</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Mines &amp;amp; mineral resources ; Principal components analysis ; Machine learning ; Veins (Geology) ; Ores</subjects>
+  <abstract>This research innovates in open-stope mine layout optimisation, transitioning from traditional manual identification of ore veins to an automated approach based on DBSCAN and Principal Component Analysis. Paired with an optimisation model for stopes determination, this method streamlines the layout design and ensures efficient and precise configurations under specific constraints, such as stope and pillar sizes. Validation across five diverse, realistic instances demonstrated noteworthy accuracy and efficiency, revealing an average deviation of −0.6% and −0.1% for strike and dip angles, respectively, and processing 10 million blocks in under a minute.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183842127</an>
+  <docTypes>Article</docTypes>
+  <volume>39</volume>
+  <issns>1748-0930</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=115964fb-6510-3fea-86df-4c8408184874</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Morales Varela, Nelson ; Quelopana Retamal, Aldo</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1080/17480930.2024.2437737</doi>
+</record>

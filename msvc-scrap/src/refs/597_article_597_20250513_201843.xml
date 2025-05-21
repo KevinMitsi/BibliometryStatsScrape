@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781683924678 ; 9781683924654 ; 9781683924661</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Artificial Intelligence, Machine Learning, and Deep Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20200101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>[Place of publication not identified]</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Human-Computer Interaction (HCI) ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Machine Theory ; COMPUTERS / Reference ; Machine learning ; Artificial intelligence</subjects>
+  <abstract>This book begins with an introduction to AI, followed by machine learning, deep learning, NLP, and reinforcement learning. Readers will learn about machine learning classifiers such as logistic regression, k-NN, decision trees, random forests, and SVMs. Next, the book covers deep learning architectures such as CNNs, RNNs, LSTMs, and auto encoders. Keras-based code samples are included to supplement the theoretical discussion. In addition, this book contains appendices for Keras, TensorFlow 2, and Pandas. Features: Covers an introduction to programming concepts related to AI, machine learning, and deep learningIncludes material on Keras, TensorFlow2 and Pandas</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2363562</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a238d787-da37-3885-8216-569c85432df8</plink>
+  <doids>NL$2363562$PDF</doids>
+  <publisher>Mercury Learning &amp;amp; Information</publisher>
+  <contributors>Campesato, Oswald</contributors>
+  <coverDate>2020</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

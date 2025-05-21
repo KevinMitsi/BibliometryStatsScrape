@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-4237-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 International Conference on Automation and Computation (AUTOCOM), Automation and Computation (AUTOCOM), 2025 International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Optimization Techniques for Accurate Melanoma Diagnosis</title>
+  <pageEnd>916</pageEnd>
+  <pageStart>911</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250304</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineering Profession ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Deep learning ; Visualization ; Accuracy ; Refining ; Melanoma ; Machine learning ; Reinforcement learning ; Feature extraction ; Optimization ; Tuning ; Machine ; Learning ; Techniques ; Analysis</subjects>
+  <abstract>Melanoma is the deadliest form of skin cancer, claiming more than 7,000 lives each year in the United States; roughly 67, where there were almost over196 new cases URITY CASES ANNUALLY IN THE US. Because of its visual similarity to non-melanomas, it is more important than ever that melanoma be discovered early for effective treatment. As per the research, machine learning (ML) techniques have gained high popularity for automated image analysis and classification during melanoma diagnosis, and they have assisted dermatologists in diagnosing efficiently. At the same time, the performance of ML models relies on how optimization techniques are implemented in training. ML optimization tools buck as gradient descent and poor initialization may result in black-box solutions that could lead to misdiagnosis. New approaches with deep learning and reinforcement have led to dramatic improvements in the performance of machine-learning models over the last several years. Historically, deep learning algorithms have proven highly accurate in classifying melanoma images because they can automatically learn complex features from the data. In addition, they tried to optimize the feature selected and make your ML model interpretable by using the reinforcement learning method, which searches for an optimal solution through a trial-and-error process. Conclusion Optimization of machine learning techniques is essential for providing accurate melanoma diagnosis. Recent years of the digital revolution, stupefied by advanced arguments like Deep Learning and Reinforcement learning models, have contributed to high accuracy in Machine learning models a dream come true for dermatologists with timely detection &amp;amp; cement of this deadly disease.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10957528</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c4ca8e95-d1e6-3e91-9c7c-7efc4ed30fee</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Sidhu, Jaspreet ; Marandi, Jason ; Katyal, Ashu ; Patil, Nagaraj ; Acharjya, Kalyan ; Maddikayala, Veera Nagaiah</contributors>
+  <coverDate>20250304</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/AUTOCOM64127.2025.10957528</doi>
+</record>

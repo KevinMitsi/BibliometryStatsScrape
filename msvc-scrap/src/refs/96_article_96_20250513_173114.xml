@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of translational medicine</source>
+  <bookEdition></bookEdition>
+  <title>Artificial intelligence-driven translational medicine: a machine learning framework for predicting disease outcomes and optimizing patient-centric care.</title>
+  <pageEnd></pageEnd>
+  <pageStart>302</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250310</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Machine Learning ; Artificial Intelligence ; Translational Research, Biomedical ; Patient-Centered Care ; Translational Science, Biomedical methods ; Humans ; Neural Networks, Computer ; Treatment Outcome</subjects>
+  <abstract>Declarations. Ethics approval and consent to participate: This article does not contain any studies with human participants or animals performed by any of the authors. Competing interests: The authors declare no competing interests.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40065389</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>23</volume>
+  <issns>1479-5876 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f03f2da0-78b0-3351-8c21-78680dfa72e5</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Abualigah, Laith ; Alomari, Saleh Ali ; Almomani, Mohammad H ; Zitar, Raed Abu ; Saleem, Kashif ; Migdady, Hazem ; Snasel, Vaclav ; Smerat, Aseel ; Ezugwu, Absalom E</contributors>
+  <coverDate>2025 Mar 10</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1186/s12967-025-06308-6</doi>
+</record>

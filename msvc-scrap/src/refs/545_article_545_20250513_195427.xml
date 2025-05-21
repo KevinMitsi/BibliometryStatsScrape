@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Proceedings on Engineering Sciences</source>
+  <bookEdition></bookEdition>
+  <title>IMPROVING PREDICTION OF DEPRESSION AN ANALYTICAL COMPARISON BETWEEN HYBRID AI, MACHINE LEARNING AND DEEP LEARNING APPROACHES</title>
+  <pageEnd>472</pageEnd>
+  <pageStart>459</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>14</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>hybrid ai models ; predictive analytics ; depression ; comparative analysis ; deep learning (dl) ; machine learning (ml) ; Engineering (General). Civil engineering (General) ; TA1-2040</subjects>
+  <abstract>This research includes an original comparative evaluation of machine learning (ML) and deep learning (DL) tactics, further developing through the building of integrated artificial intelligence frameworks. Our goal is to improve forecasting approaches for depression, and this research presents a novel approach to this attempt. We initiated a comprehensive investigation into the factors that influence depression outcomes by utilising a dataset that encompasses 2,000 subjects. This dataset was enriched with a variety of data points, which included demographic, socio-economic, behavioural, and clinical indicators. Additionally, we incorporated pre- and post-intervention scores from the Montgomery-Åsberg Depression Rating Scale (MADRS). Together with an intense process of feature determination utilising Recursive Feature Elimination (RFE) and Principal Component Analysis (PCA), we synced a wide range of elements, ranging from fundamental demographic information to sophisticated clinical results. This was accomplished by conducting detailed data gathering. Through the use of a comprehensive hyperparameter refining step, our research route was supported, which ensured that the ability of each model to accurately forecast was improved. This study provides a substantial addition by conducting an in-depth analysis of individual machine learning and deep learning models and comparing them to the integrated artificial intelligence solutions that we have built. The findings indicate that the later models significantly improve the capability to reliably forecast depression, attaining levels of accuracy that have never been seen before. The combined models show a remarkable capacity to negotiate the various intricacies of depression's multiple nature, reaching faultless accuracy in our testing. This ability is achieved by combining machine learning and deep learning. The research that we have conducted demonstrates that integrated artificial intelligence systems have the ability to exceed the limitations of standalone models. This synthesis of machine learning and deep learning methodologies exemplifies this promise. As a result of these improvements, the approach to predictive analytics for mental health diseases like depression is undergoing a fundamental shift that will prove to be transformational. This study not only establishes a new benchmark for multidisciplinary research at the intersection of biology, psychology, and artificial intelligence, but it also provides the framework for the future generation of prediction tools that will be used in the field of mental health treatment. In addition to paving the way for tailored and preventative mental health therapies, the far-reaching implications of our results signal the beginning of a new era in the treatment and comprehension of mental health.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.437cb8236754cc8a1ac796b674f0c1d</an>
+  <docTypes>article</docTypes>
+  <volume>7</volume>
+  <issns>26202832 ; 26834111</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=38aeb540-3bff-3b9b-b70f-4aa4779519e0</plink>
+  <doids></doids>
+  <publisher>University of Kragujevac</publisher>
+  <contributors>Kanchapogu Naga Raju ; Sachi Nandan Mohanty</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.24874/PES07.01D.003</doi>
+</record>

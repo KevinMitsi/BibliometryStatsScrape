@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Environment, Development and Sustainability: A Multidisciplinary Approach to the Theory and Practice of Sustainable Development</source>
+  <bookEdition></bookEdition>
+  <title>Evaluating the impact of urbanization patterns on LST and UHI effect in Afghanistan’s Cities: a machine learning approach for sustainable urban planning: Evaluating the impact of urbanization patterns on LST and UHI effect in Afghanistan’s Cities: a machine learning approach for sustainable urban planning</title>
+  <pageEnd>42</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250505</publicationDate>
+  <pageCount>42</pageCount>
+  <publisherLocations>Dordrecht</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Land Use and Land Cover (LULC) ; Land Surface Temperature (LST) ; Machine learning algorithms ; Urban Heat Island (UHI) ; Unplanned urbanization ; Urban sustainability</subjects>
+  <abstract>Urbanization in Afghanistan’s major cities, namely Kabul, Jalalabad, and Herat, has led to significant Land Use and Land Cover (LULC) fluctuations, resulting in increased Land Surface Temperatures (LST) and intensified the Urban Heat Island (UHI) effect. This study analyzes these impacts from 2000 to 2022 using machine learning algorithms (MLA), specifically Support Vector Machine (SVM), in combination with Landsat data. The Cellular Automata-Markov (CA-Markov) and Artificial Neural Network (ANN) models were employed to predict future scenarios for 2033 and 2044. The results show that urbanization has led to an increase in built-up areas and a reduction in vegetation cover across all three cities, with Herat experiencing the most rapid urban expansion. Specifically, Herat’s built-up areas grew by 37.14%, while vegetation loss reached 27.66%, surpassing the changes in Kabul and Jalalabad. Projections indicate that Herat will continue to experience the largest increase in LST areas (76.31% in 2033 and 89.76% by 2044), followed by Jalalabad and Kabul. The Urban Thermal Field Variance Index (UTFVI) further revealed significant heat stress intensification, particularly in Herat (19.41% increase), with similar trends in Jalalabad (13.24%) and Kabul (8.05%). These results highlight the urgent need for sustainable urban planning and the implementation of effective urban policies to mitigate thermal stress and reduce urban heat effects in Afghanistan’s growing cities.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.5018F57B</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>15732975</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=882e72fc-d9a8-372e-a191-9cd420ae8f4c</plink>
+  <doids></doids>
+  <publisher>Springer Netherlands</publisher>
+  <contributors>Ullah, Sajid ; Khan, Mudassir ; Qiao, Xiuchen</contributors>
+  <coverDate>20250505</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10668-025-06249-6</doi>
+</record>

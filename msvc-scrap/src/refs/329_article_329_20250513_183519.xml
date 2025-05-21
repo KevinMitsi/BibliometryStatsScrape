@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BQK</mid>
+  <language>eng</language>
+  <source>Annals of Operations Research</source>
+  <bookEdition></bookEdition>
+  <title>Forecasting oil price in times of crisis: a new evidence from machine learning versus deep learning models.</title>
+  <pageEnd>1002</pageEnd>
+  <pageStart>979</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250215</publicationDate>
+  <pageCount>24</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Stock price forecasting ; Machine learning ; Long short-term memory ; Deep learning ; Support vector machines</subjects>
+  <abstract>This study investigates oil price forecasting during a time of crisis, from December 2007 to December 2021. As the oil market has experienced various shocks (exogenous versus endogenous), modelling and forecasting its prices dynamics become more complex based on conventional (econometric and structural) models. A new strand of literature has been attracting more attention during the last decades dealing with artificial intelligence methods. However, this literature is unanimous regarding the performance accuracy between machine learning and deep learning methods. We aim in this study to contribute to this literature by investigating the oil price forecasting based on these two approaches. Based on the stylized facts of oil prices dynamics, we select the support vector machine and long short-term memory approach, as two main models of Machine Learning and deep learning methods, respectively. Our findings support the superiority of the Deep Learning method compared to the Machine Learning approach. Interestingly, our results show that the Deep LSTM-prediction has a close pattern to the observed oil prices, demonstrating robust fitting accuracy at mid-to-long forecast horizons during crisis events. However, our results show that SVM machine learning has poor memory ability to establish a clearer understanding of time-dependent volatility and the dynamic co-movements between actual and predicted data. Moreover, our results show that the power of SVM to learn for long-term predictions is reduced, which potentially lead to distortions of forecasting performance.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183286380</an>
+  <docTypes>Article</docTypes>
+  <volume>345</volume>
+  <issns>0254-5330</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9251edba-1efa-3f89-a67d-14bc23c341f7</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Awijen, Haithem ; Ben Ameur, Hachmi ; Ftiti, Zied ; Louhichi, Waël</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1007/s10479-023-05400-8</doi>
+</record>

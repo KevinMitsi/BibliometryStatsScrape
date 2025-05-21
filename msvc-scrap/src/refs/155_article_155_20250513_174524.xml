@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Constructing an early warning model for elderly sepsis patients based on machine learning.</title>
+  <pageEnd>13</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250327</publicationDate>
+  <pageCount>13</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; OLDER patients ; LYMPHOCYTE count ; MEDICAL sciences ; ARTIFICIAL intelligence</subjects>
+  <abstract>Sepsis is a serious threat to human life. Early prediction of high-risk populations for sepsis is necessary especially in elderly patients. Artificial intelligence shows benefits in early warning. The aim of the study was to construct an early machine warning model for elderly sepsis patients and evaluate its performance. We collected elderly patients from General Hospital of Ningxia Medical University emergency department and intensive care unit from 01 January 2021 to 01 August 2023. The clinical data was divided into a training set and a test set. A total of 2976 patients and 12 features were screened. We used 8 machine learning models to build the warning model. In conclusion, we developed a model based on XGBoost with an AUROC of 0.971, AUPRC of 0.862, accuracy of 0.95, specificity of 0.964 and F1 score of 0.776. Of all the features, baseline APTT played the most important role, followed by baseline lymphocyte count. Higher level of baseline APTT and lower level of baseline lymphocyte count may indicate higher risk of sepsis occurrence. We developed a high-performance early warning model for sepsis in old age based on machine learning in order to facilitate early treatment but also need further external validation.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184470967</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c62d6a52-7fea-3e5f-81d1-81c2237e8547</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Ma, Xuejie ; Mai, Yaoqiong ; Ma, Yin ; Ma, Xiaowei</contributors>
+  <coverDate>3/27/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-95604-8</doi>
+</record>

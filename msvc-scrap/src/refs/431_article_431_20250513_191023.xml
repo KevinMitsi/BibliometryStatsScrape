@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781800567887 ; 9781800564961</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Automation with TPOT : Build, Validate, and Deploy Fully Automated Machine Learning Models with Python</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20210101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Machine Theory ; COMPUTERS / Data Science / General ; COMPUTERS / Data Science / Neural Networks ; Machine learning ; Python (Computer program language)</subjects>
+  <abstract>Discover how TPOT can be used to handle automation in machine learning and explore the different types of tasks that TPOT can automateKey FeaturesUnderstand parallelism and how to achieve it in Python.Learn how to use neurons, layers, and activation functions and structure an artificial neural network.Tune TPOT models to ensure optimum performance on previously unseen data.Book DescriptionThe automation of machine learning tasks allows developers more time to focus on the usability and reactivity of the software powered by machine learning models. TPOT is a Python automated machine learning tool used for optimizing machine learning pipelines using genetic programming. Automating machine learning with TPOT enables individuals and companies to develop production-ready machine learning models cheaper and faster than with traditional methods. With this practical guide to AutoML, developers working with Python on machine learning tasks will be able to put their knowledge to work and become productive quickly. You'll adopt a hands-on approach to learning the implementation of AutoML and associated methodologies. Complete with step-by-step explanations of essential concepts, practical examples, and self-assessment questions, this book will show you how to build automated classification and regression models and compare their performance to custom-built models. As you advance, you'll also develop state-of-the-art models using only a couple of lines of code and see how those models outperform all of your previous models on the same datasets. By the end of this book, you'll have gained the confidence to implement AutoML techniques in your organization on a production level. What you will learnGet to grips with building automated machine learning modelsBuild classification and regression models with impressive accuracy in a short timeDevelop neural network classifiers with AutoML techniquesCompare AutoML models with traditional, manually developed models on the same datasetsCreate robust, production-ready modelsEvaluate automated classification models based on metrics such as accuracy, recall, precision, and f1-scoreGet hands-on with deployment using Flask-RESTful on localhostWho this book is forData scientists, data analysts, and software developers who are new to machine learning and want to use it in their applications will find this book useful. This book is also for business users looking to automate business tasks with machine learning. Working knowledge of the Python programming language and beginner-level understanding of machine learning are necessary to get started.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2915346</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8a62d606-8f8f-3e4e-b6c9-3c40858d74cc</plink>
+  <doids>NL$2915346$PDF ; NL$2915346$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Dario Radečić</contributors>
+  <coverDate>2021</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

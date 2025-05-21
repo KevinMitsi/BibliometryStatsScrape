@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>5EW3</mid>
+  <language>eng</language>
+  <source>International Journal of Sustainable Engineering</source>
+  <bookEdition></bookEdition>
+  <title>Electric bus arrival and charging station placement assessment using machine learning techniques.</title>
+  <pageEnd>294</pageEnd>
+  <pageStart>278</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Electric vehicle charging stations ; Urban transit systems ; Global Positioning System ; Standard deviations</subjects>
+  <abstract>The goal of this study is to create a dynamic model that can accurately forecast the estimated time of arrival of a bus at a specific bus stop using data obtained from the global positioning system (GPS) in Addis Ababa, Ethiopia. Both operators and customers use accurate and timely bus arrival information. In turn, it helps determine the correct placement of charging stations when green-energy vehicles are introduced in the urban mass transit system. A plethora of machine learning models have been used for prediction. Additionally, we tailored an ensemble method based on the average prediction. The performances of these machine learning methods were estimated and compared using conventional measures, such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R&lt;sup>2&lt;/sup>) values. The results showed that the performance of the Random Forest technique used in this study was impressive, with MAE of 0.137, MSE of 0.054, RMSE of 0.233, and R&lt;sup>2&lt;/sup> value of 0. 999. The findings demonstrate that the proposed method is reliable for predicting the arrival times of urban and rural buses. Next, in order to position the charging points for Electric Vehicles (EV) along specific bus routes, self-organising map (SOM) is employed to optimise EV charging point placement locations, and the result signify better performance than the kNN and DBSCAN clustering approaches.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181659328</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>1939-7038</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fd2f911e-6810-3364-ab11-990740ea763a</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Reda, Habtu ; Mohapatra, Sudhir Kumar ; Das, Tapan Kumar ; Dash, Santanu Kumar</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1080/19397038.2024.2333563</doi>
+</record>

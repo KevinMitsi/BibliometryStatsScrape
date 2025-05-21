@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning‐Guided Discovery of Factors Governing Deformation Twinning in Mg–Y Alloys</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineering ; Materials Engineering ; Machine Learning and Artificial Intelligence ; Materials ; Civil engineering ; Materials engineering ; Mechanical engineering</subjects>
+  <abstract>Magnesium (Mg) alloys are promising lightweight structural materials whose limited strength and room-temperature ductility limit applications. Precise control of deformation-induced twinning through microstructural alloy design is being investigated to overcome these deficiencies. Motivated by the need to understand and control twin formation during deformation in Mg alloys, a series of magnesium-yttrium (Mg–Y) alloys are investigated using electron backscatter diffraction (EBSD). Analysis of EBSD maps produces a large dataset of microstructural information for &amp;gt;40000 grains. To quantitatively determine how processing parameters and microstructural features are correlated with twin formation, interpretable machine learning (ML) is employed to statistically analyze the individual effects of microstructural features on twinning. An ML classifier is trained to predict the likelihood of twin formation, given inputs including grain microstructural information and synthesis and deformation conditions. Then, feature selection is used to score the relative importance of these inputs for twinning in Mg–Y alloys. It is determined that using information only about grain size, grain orientation, and total applied strain, the ML model can predict the presence of twinning and that other parameters do not significantly contribute to increasing the model's predictive accuracy. Herein, the utility of ML for gaining new fundamental insights into materials processing is illustrated.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt32b0420v</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9a4d7d2e-b832-3a8d-896d-8fcb25aaf588</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Mastracco, Peter ; Yu, Kehang ; Wang, Xin ; Murillo, Crystal ; Melchor, Carlos ; Belcher, Calvin H ; Schoenung, Julie M ; Lavernia, Enrique J ; Copp, Stacy M</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-0484-7</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>SoutheastCon 2025, 2025, SoutheastCon</source>
+  <bookEdition></bookEdition>
+  <title>Review of Machine Learning in Baseball Analytics for Performance Improvement and Future Directions</title>
+  <pageEnd>1043</pageEnd>
+  <pageStart>1038</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250322</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Aerospace ; Bioengineering ; Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineered Materials, Dielectrics and Plasmas ; Engineering Profession ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Geoscience ; Nuclear Engineering ; Photonics and Electrooptics ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Signal Processing and Analysis ; Transportation ; Technological innovation ; Sequential analysis ; Machine learning algorithms ; Shape ; Prevention and mitigation ; Machine learning ; Market research ; Injuries ; Sports ; Systematic literature review ; machine learning ; baseball ; analytics</subjects>
+  <abstract>The application of machine learning (ML) in baseball analytics has revolutionized the way teams and players approach performance improvement. This literature review explores the intersection of ML and baseball analytics, focusing on key areas such as player evaluation, injury prevention, game strategy, and skill development. Highlighting advancements in data collection, algorithmic approaches, and real-world applications, this review synthesizes findings from existing research to identify trends, challenges, and opportunities for future innovation.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10971442</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>1558058X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=665ef738-892a-3dbc-b01c-a8a4a61b6a93</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Wu, Daniel D. ; Huang, Yu-Hsiang John ; Yao, Jenq-Foung</contributors>
+  <coverDate>20250322</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/SoutheastCon56624.2025.10971442</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Analyzing the impact of design factors on solar module thermomechanical durability using interpretable machine learning techniques</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineering ; Electronics ; Sensors and Digital Hardware ; Machine Learning and Artificial Intelligence ; Networking and Information Technology R&amp;amp;D (NITRD) ; Affordable and Clean Energy ; PV module ; Thermomechanical durability ; Bill of materials ; Interpretable machine learning ; Economics ; Energy ; Built environment and design</subjects>
+  <abstract>Solar modules in utility-scale systems are expected to maintain decades of lifetime to rival conventional energy sources. However, cyclic thermomechanical loading often degrades their long-term performance, highlighting the importance of effective design to mitigate thermal expansion mismatches between module materials. Given the complex composition of solar modules, isolating the impact of individual components on overall durability remains a challenging task. In this work, we analyze a comprehensive data set that comprises bill-of-materials (BOM) and thermal cycling power loss from 251 distinct module designs to identify the predominant design factors and their impacts on the thermomechanical durability of modules. The methodology of our analysis combines machine learning modeling (random forest) and Shapley additive explanation (SHAP) to correlate design factors with power loss and interpret the model's decision-making. The interpretation reveals that silicon type (monocrystalline or polycrystalline), encapsulant thickness, busbar numbers, and wafer thickness predominantly influence the degradation. With lower power loss of around 0.6% on average in the SHAP analysis, monocrystalline cells present better durability than polycrystalline cells. This finding is further substantiated by statistical testing on our raw data set. The SHAP analysis also demonstrates that while thicker encapsulants lead to reduced power loss, further increasing their thickness over around 0.6 to 0.7 mm does not yield additional benefits, particularly for the front side one. In addition, other important BOM features such as the number of busbars are analyzed. This study provides a blueprint for utilizing explainable machine learning techniques in a complex material system and can potentially guide future research on optimizing the design of solar modules.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt2kp131d1</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6c4b62e9-08ae-3266-8e8a-c8bee6f3bc67</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Chen, Xin ; Karin, Todd ; Jain, Anubhav</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

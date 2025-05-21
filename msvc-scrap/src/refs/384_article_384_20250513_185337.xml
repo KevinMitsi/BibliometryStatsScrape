@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Education and Information Technologies</source>
+  <bookEdition></bookEdition>
+  <title>Classification of Reflective Writing: A Comparative Analysis with Shallow Machine Learning and Pre-Trained Language Models</title>
+  <pageEnd>21619</pageEnd>
+  <pageStart>21593</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241101</publicationDate>
+  <pageCount>27</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>16</issue>
+  <identifiers></identifiers>
+  <subjects>Foreign Countries ; Higher Education ; Reflection ; Student Writing Models ; Preservice Teacher Education ; Writing (Composition) ; Artificial Intelligence ; Comparative Analysis ; Writing Evaluation ; Automation ; Germany</subjects>
+  <abstract>Reflective practice holds critical importance, for example, in higher education and teacher education, yet promoting students' reflective skills has been a persistent challenge. The emergence of revolutionary artificial intelligence technologies, notably in machine learning and large language models, heralds potential breakthroughs in this domain. The current research on analyzing reflective writing hinges on sentence-level classification. Such an approach, however, may fall short of providing a holistic grasp of written reflection. Therefore, this study employs shallow machine learning algorithms and pre-trained language models, namely BERT, RoBERTa, BigBird, and Longformer, with the intention of enhancing the document-level classification accuracy of reflective writings. A dataset of 1,043 reflective writings was collected in a teacher education program at a German university (M = 251.38 words, SD = 143.08 words). Our findings indicated that BigBird and Longformer models significantly outperformed BERT and RoBERTa, achieving classification accuracies of 76.26% and 77.22%, respectively, with less than 60% accuracy observed in shallow machine learning models. The outcomes of this study contribute to refining document-level classification of reflective writings and have implications for augmenting automated feedback mechanisms in teacher education.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1450565</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>29</volume>
+  <issns>1360-2357 ; 1573-7608</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=987a2719-bebc-3d76-a1a2-4c5be7662844</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Chengming Zhang ; Florian Hofmann ; Lea Plößl ; Michaela Gläser-Zikuda</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10639-024-12720-0</doi>
+</record>

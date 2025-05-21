@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Research in Agricultural Engineering</source>
+  <bookEdition></bookEdition>
+  <title>An effective machine learning model for the estimation of reference evapotranspiration under data-limited conditions</title>
+  <pageEnd>37</pageEnd>
+  <pageStart>22</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>artificial neural networks ; empirical equations ; long short-term memory neural networks ; machine learning ; reference crop evapotranspiration, support vector machines ; Agriculture (General) ; S1-972</subjects>
+  <abstract>Reference crop evapotranspiration (ETo) is a vital hydrological component influenced by various climate variables that impact the water and energy balances. It plays a crucial role in determining crop water requirements and irrigation scheduling. Despite the availability of numerous approaches for estimation, accurate and reliable ETo estimation is essential for effective irrigation water management. Therefore, this study aimed to identify the most suitable machine learning model for assessing ETo using observed daily values of limited input parameters in tropical savannah climate regions. Three machine learning models - a long short-term memory (LSTM) neural network, an artificial neural network (ANN), and support vector regression (SVM) - were developed with four different input combinations, and their performances were compared with those of locally calibrated empirical equations. The models were evaluated using statistical indicators such as the root mean square error (RMSE), coefficient of determination (R2), and the Nash-Sutcliffe efficiency (NSE). The results showed that the LSTM model, using the combination of temperature and wind speed, provided more reliable predictions with R2 values greater than 0.75 and RMSEs less than 0.63 mm.day-1 across all the considered weather stations. This study concludes that, especially under limited data conditions, the developed deep learning model improves the ETo estimation more accurately than empirical models for tropical climatic regions.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.7b73999c166c4675be3d0435d99f7c50</an>
+  <docTypes>article</docTypes>
+  <volume>71</volume>
+  <issns>12129151 ; 18059376</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=17c74525-138c-3912-85c4-08117b99aa30</plink>
+  <doids></doids>
+  <publisher>Czech Academy of Agricultural Sciences</publisher>
+  <contributors>Saravanan Karuppanan ; Saravanan Ramasamy ; Balaji Lakshminarayanan ; Sreemanthrarupini Nariangadu Anuthaman</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.17221/101/2023-RAE</doi>
+</record>

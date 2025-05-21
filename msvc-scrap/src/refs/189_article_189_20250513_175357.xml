@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>UTE</mid>
+  <language>eng</language>
+  <source>ACM Computing Surveys</source>
+  <bookEdition></bookEdition>
+  <title>Membership Inference Attacks and Defenses in Federated Learning: A Survey.</title>
+  <pageEnd>35</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>35</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Data mining ; Machine learning ; Federated learning ; Pattern recognition systems ; Deep learning</subjects>
+  <abstract></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182124275</an>
+  <docTypes>Article</docTypes>
+  <volume>57</volume>
+  <issns>0360-0300</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=6dadfd98-5188-3ab8-8b05-311ff5d81525</plink>
+  <doids></doids>
+  <publisher>Association for Computing Machinery</publisher>
+  <contributors>Bai, Li ; Hu, Haibo ; Ye, Qingqing ; Li, Haoyang ; Wang, Leixia ; Xu, Jianliang</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1145/3704633</doi>
+</record>

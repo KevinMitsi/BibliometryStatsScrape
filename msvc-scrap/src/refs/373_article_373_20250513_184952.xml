@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Education and Information Technologies</source>
+  <bookEdition></bookEdition>
+  <title>A Review of Machine Learning Methods Used for Educational Data</title>
+  <pageEnd>22145</pageEnd>
+  <pageStart>22125</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241101</publicationDate>
+  <pageCount>21</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>16</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Educational Research ; Data Analysis ; Methods ; Educational History</subjects>
+  <abstract>Integrating machine learning (ML) methods in educational research has the potential to greatly impact upon research, teaching, learning and assessment by enabling personalised learning, adaptive assessment and providing insights into student performance, progress and learning patterns. To reveal more about this notion, we investigated ML approaches used for educational data analysis in the last decade and provided recommendations for further research. Using a systematic literature review (SLR), we examined 77 publications from two large and high-impact databases for educational research using bibliometric mapping and evaluative review analysis. Our results suggest that the top five most frequently used keywords were similar in both databases. The majority of the publications (88%) utilised supervised ML approaches for predicting students' performances and finding learning patterns. These methods include decision trees, support vector machines, random forests, and logistic regression. Semi-supervised learning methods were less frequently used, but also demonstrated promising results in predicting students' performance. Finally, we discuss the implications of these results for statisticians, researchers, and policymakers in education.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1450625</an>
+  <docTypes>Journal Articles ; Reports - Research ; Information Analyses</docTypes>
+  <volume>29</volume>
+  <issns>1360-2357 ; 1573-7608</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c2040026-a53f-3f8c-b77d-a024ff2cb08f</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Zara Ersozlu ; Sona Taheri ; Inge Koch</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1007/s10639-024-12704-0</doi>
+</record>

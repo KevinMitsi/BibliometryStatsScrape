@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsble</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Decentralised and privacy-preserving machine learning approach for distributed data resources</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20230101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Stochastic Gradient Descent ; Nonlinear Model Combination ; Linear Model Combination ; Stepwise Models Selection ; Decentralised Machine Learning ; Distributed Data Resources ; Gossip Learning</subjects>
+  <abstract>Distributed machine learning has become a significant approach due to the high demand for distributed and large-scale data processing. However, some issues related to distributed machine learning for distributed data resources, including data transfer restrictions, privacy, and communication and computation costs have not been properly addressed. Therefore, it brings challenges to tackle these issues when developing a distributed learning method without data sharing between the distributed sites, centralising the distributed data resources for central learning, or using complicated learning methods. In this thesis, we addressed these issues by developing decentralised privacy-preserving learning approaches that allow distributed sites utilising distributed data resources to construct global and local combined prediction models without sharing, moving distributed data to a centralised database or using a central location for iterative communication or computation. Furthermore, the exchanged information between distributed sites is restricted to only trained local models and information about models performance to overcome data restriction issues, privacy concerns, and minimising data transformation costs. We focused on several model selection and combination strategies to achieve the optimal combined global and local models that maximise the combined models predictive performance. We selected and combined the best models using linear and nonlinear combination methods, stepwise models selection and combination method, and by using all possible sites sequence combinations approach. The experimental evaluation conducted on different classification and regression datasets demonstrated that our approach performed comparably or better than the centralised learning approach or other existing distributed learning methods in most datasets. Furthermore, we overcame data privacy concerns and server issues by avoiding data sharing or centralisation or using a server for iterative learning or intermediate models updates sharing. This thesis contributes toward developing a simpler and effective machine learning approach and direction for decentralised privacy-preserving machine learning. It keeps data locally for each site and combines diverse and accurate models instead of complicated ways that increase communication and computational overheads without sacrificing predictive performance. Furthermore, it can be applied to large and distributed data resources that cannot be analysed in a single location, reduces coordination overhead for large-scale analyses, and reduces cost by avoiding a powerful central server requirement.</abstract>
+  <pubTypes>Dissertation</pubTypes>
+  <an>edsble.878867</an>
+  <docTypes>Electronic Thesis or Dissertation</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=bcbc2419-c885-3e1f-91b1-d7fd01c44b8e</plink>
+  <doids></doids>
+  <publisher>University of Manchester</publisher>
+  <contributors>Alkhozae, Mona</contributors>
+  <coverDate>2023</coverDate>
+  <longDBName>British Library EThOS</longDBName>
+  <doi></doi>
+</record>

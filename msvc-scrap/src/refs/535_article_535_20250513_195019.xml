@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3183-6</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 7th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), Radio Electronics, Electrical and Power Engineering (REEPE), 2025 7th International Youth Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Comparative Evaluation of Machine Learning Models for Time Series Forecasting in Network Traffic Analysis</title>
+  <pageEnd>6</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250408</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Components, Circuits, Devices and Systems ; Computing and Processing ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Nuclear Engineering ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Transportation ; Radio frequency ; Analytical models ; Sensitivity analysis ; Time series analysis ; Telecommunication traffic ; Predictive models ; Data models ; Resource management ; Forecasting ; Long short term memory ; network traffic forecasting ; time series forecasting ; machine learning models ; LSTM ; random forest ; XGBoost ; sensitivity analysis</subjects>
+  <abstract>Effective network traffic forecasting is essential for optimizing resource allocation and enhancing network management. This study investigates the application of three machine learning models - Long Short-Term Memory (LSTM), Random Forest (RF), and XGBoost (XGB) - for predicting network traffic patterns using real-world time series data. The research analyzes how varying look-back periods (7, 14, and 30 days) influence model performance, specifically examining the impact of historical time steps on forecasting accuracy. The models are rigorously evaluated using performance metrics such as RMSE, MAE, and $\mathrm{R}^{2}$ across multiple data subsets, offering a comprehensive comparison of their strengths and weaknesses. Additionally, a sensitivity analysis reveals the relationship between model performance and the chosen look-back window. The results provide valuable insights into the selection and optimization of machine learning models for network traffic forecasting, with practical recommendations for improving network management and resource allocation.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10971155</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>28317262</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=213877f7-cebf-35b9-b051-94e556a04b7c</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Hussein, Areej ; Gan Goh, Gerald Guan ; Anbar, Mohammad Ali ; Nassr, Mohammad ; Semenova, Mariya I. ; Aksenova, Tatiana V.</contributors>
+  <coverDate>20250408</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/REEPE63962.2025.10971155</doi>
+</record>

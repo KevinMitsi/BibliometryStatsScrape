@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>International Journal of Data Science and Analytics</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning and deep learning for genomic data: a data-centric approach to CRISPR/Cas9 gene editing</title>
+  <pageEnd>30</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250416</publicationDate>
+  <pageCount>30</pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>CRISPR/Cas9 ; Deep learning ; Machine learning ; Off-target ; On-target ; sgRNA</subjects>
+  <abstract>The precision and user-friendliness of genome-editing tools, particularly clustered regularly interspaced short palindromic repeats (CRISPR) and CRISPR-associated protein 9 (Cas9) (CRISPR/Cas9), have transformed biological research and medicinal development. This study covers additional genome-editing mechanisms, such as zinc-finger nucleases (ZFNs), transcription activator-like effector nucleases (TALENs), and CRISPR/Cas9. It explores the workings of CRISPR/Cas9, detailing its evolution as an adaptive defense system in bacteria and its ability to break DNA at specific sites to create precise double-strand breaks (DSB) at predetermined genomic locations. The principal objective is to improve the precision and efficacy of guide RNA (gRNA) designs, as this is essential for reducing off-target effects (OFTEs) and optimizing on-target effects (OTEs). Recent advancements in computational models employing machine learning (ML) and deep learning (DL) techniques are addressed to more correctly anticipate gRNA outcomes. A comprehensive overview and comparative assessment of traditional ML and advanced DL techniques, including graph convolution networks (GCN) utilized in CRISPR/Cas9 applications, are provided. Major research problems and future directions in the prediction of target activity are highlighted along with recent advancements in single-guide RNA (sgRNA)–DNA interaction encodings that bolster current models for both OTE and OFTE. The potential of different ML and DL algorithms to refine the precision of genetic changes by fine-tuning gRNA’s specificity is examined. The study also emphasizes the critical epigenetic data in predicting the outcomes of CRISPR/Cas9 treatments. Current challenges are examined, and directions for further study to enhance the precision of OTE and OFTE predictions are outlined. This work serves as an essential resource for genomic engineering researchers, providing a critical evaluation of existing approaches and suggestions for future developments in genome-editing technology.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.9DB2A880</an>
+  <docTypes>Review Paper</docTypes>
+  <volume></volume>
+  <issns>2364415X ; 23644168</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=010a5ddb-3b12-36e0-a12b-f8b409b13092</plink>
+  <doids></doids>
+  <publisher>Springer International Publishing</publisher>
+  <contributors>Rafiq, Shehla ; Macha, Muzafar Ahmad ; Assad, Assif</contributors>
+  <coverDate>20250416</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s41060-025-00773-4</doi>
+</record>

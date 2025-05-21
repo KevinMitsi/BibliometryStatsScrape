@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CNM</mid>
+  <language>eng</language>
+  <source>Entropy</source>
+  <bookEdition></bookEdition>
+  <title>Classical Data in Quantum Machine Learning Algorithms: Amplitude Encoding and the Relation Between Entropy and Linguistic Ambiguity.</title>
+  <pageEnd></pageEnd>
+  <pageStart>433</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; DENSITY matrices ; QUANTUM states ; SEMANTICS ; DISTRIBUTION (Probability theory) ; QUANTUM computers</subjects>
+  <abstract>The Categorical Compositional Distributional (DisCoCat) model has been proven to be very successful in modelling sentence meaning as the interaction of word meanings. Words are modelled as quantum states, interacting guided by grammar. This model of language has been extended to density matrices to account for ambiguity in language. Density matrices describe probability distributions over quantum states, and in this work we relate the mixedness of density matrices to ambiguity in the sentences they represent. The von Neumann entropy and the fidelity are used as measures of this mixedness. Via the process of amplitude encoding, we introduce classical data into quantum machine learning algorithms. First, the findings suggest that in quantum natural language processing, amplitude-encoding data onto a quantum computer can be a useful tool to improve the performance of the quantum machine learning models used. Second, the effect that these encoded data have on the above-introduced relation between entropy and ambiguity is investigated. We conclude that amplitude-encoding classical data in quantum machine learning algorithms makes the relation between the entropy of a density matrix and ambiguity in the sentence modelled by this density matrix much more intuitively interpretable.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184749400</an>
+  <docTypes>Article</docTypes>
+  <volume>27</volume>
+  <issns>1099-4300</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=58536088-8599-3568-aa29-218f02b78a0a</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Eisinger, Jurek ; Gauderis, Ward ; Huybrecht, Lin de ; Wiggins, Geraint A.</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/e27040433</doi>
+</record>

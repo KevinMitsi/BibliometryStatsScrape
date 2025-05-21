@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781839219061 ; 9781838985462</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition>Second edition</bookEdition>
+  <title>The Machine Learning Workshop : Get Ready to Develop Your Own High-performance Machine Learning Algorithms with Scikit-learn</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20200101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham, UK</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Languages / Python ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / Neural Networks ; Artificial intelligence ; Machine learning ; Neural networks (Computer science)</subjects>
+  <abstract>Take a comprehensive and step-by-step approach to understanding machine learningKey FeaturesDiscover how to apply the scikit-learn uniform API in all types of machine learning modelsUnderstand the difference between supervised and unsupervised learning modelsReinforce your understanding of machine learning concepts by working on real-world examplesBook DescriptionMachine learning algorithms are an integral part of almost all modern applications. To make the learning process faster and more accurate, you need a tool flexible and powerful enough to help you build machine learning algorithms quickly and easily. With The Machine Learning Workshop, you'll master the scikit-learn library and become proficient in developing clever machine learning algorithms. The Machine Learning Workshop begins by demonstrating how unsupervised and supervised learning algorithms work by analyzing a real-world dataset of wholesale customers. Once you've got to grips with the basics, you'll develop an artificial neural network using scikit-learn and then improve its performance by fine-tuning hyperparameters. Towards the end of the workshop, you'll study the dataset of a bank's marketing activities and build machine learning models that can list clients who are likely to subscribe to a term deposit. You'll also learn how to compare these models and select the optimal one. By the end of The Machine Learning Workshop, you'll not only have learned the difference between supervised and unsupervised models and their applications in the real world, but you'll also have developed the skills required to get started with programming your very own machine learning algorithms.What you will learnUnderstand how to select an algorithm that best fits your dataset and desired outcomeExplore popular real-world algorithms such as K-means, Mean-Shift, and DBSCANDiscover different approaches to solve machine learning classification problemsDevelop neural network structures using the scikit-learn packageUse the NN algorithm to create models for predicting future outcomesPerform error analysis to improve your model s performanceWrite unit tests to validate your code with JUnitWho this book is forThe Machine Learning Workshop is perfect for machine learning beginners. You will need Python programming experience, though no prior knowledge of scikit-learn and machine learning is necessary.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2532421</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=974c6f78-e4e5-3188-ba40-49793f63e749</plink>
+  <doids>NL$2532421$PDF ; NL$2532421$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Hyatt Saleh</contributors>
+  <coverDate>2020</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

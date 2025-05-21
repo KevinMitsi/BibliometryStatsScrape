@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BE8E</mid>
+  <language>eng</language>
+  <source>Egyptian Journal of Radiology &amp;amp; Nuclear Medicine</source>
+  <bookEdition></bookEdition>
+  <title>Potential of MR-based radiomics and optimized statistical machine learning in grading patients with glioma.</title>
+  <pageEnd>12</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250317</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Diagnostic Imaging Centers ; Boosting algorithms ; Random forest algorithms ; Gliomas ; Prediction models ; Receiver operating characteristic curves ; Computer-assisted image analysis (Medicine) ; Radiomics ; Logistic regression analysis ; Magnetic resonance imaging ; Tumor grading ; Cancer patients ; Dimensional reduction algorithms ; Support vector machines ; Machine learning ; Factor analysis ; Decision trees ; Sensitivity &amp;amp; specificity (Statistics) ; Algorithms ; Classification</subjects>
+  <abstract>Background: Brain cancer is a global health concern, with significant morbidity and mortality worldwide. Distinguishing glioma grades is vital for treatment, yet traditional methods like brain imaging and biopsy have their own limitations. This study aimed to develop optimized classification and predictive models to distinguish grade II from grade III gliomas using statistical machine learning combined with radiomic imaging. Methods: A total of 135 MRI imaging series of brain tumors (68 grade II and 67 grade III) were obtained from two distinct public datasets. Every tumor underwent manual segmentation, preprocessing, and cropping. A large number of wavelet-based, first-order, textural, and shape radiomic characteristics were then computed. Principal component analysis was used for dimensionality reduction. Two feature selectors, namely K-best and percentile selectors, were employed. Twelve different supervised machine learning models and algorithms were then applied. K-best and percentile feature selectors along with hyperparameter optimization were conducted. Results: The top three performing models were linear discriminant analysis (LDA), support vector machine, and logistic regression. LDA was the highest surpassing all other models with both feature selectors. Using the percentile selector, LDA attained an area under receiver characteristic curve (AUROC) of 0.96, accuracy of 0.91, sensitivity of 0.95, and specificity of 0.86. With the K-best selector, it maintained strong performance with an AUROC of 0.95, accuracy of 0.91, sensitivity of 0.92, and specificity of 0.89. Conclusions: Statistical machine learning and optimization approaches have a significantly high discriminative power. LDA interestingly outperformed all others in accuracy, AUC, and sensitivity, highlighting advanced capabilities in classification of grade II versus grade III brain gliomas.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183754104</an>
+  <docTypes>Article</docTypes>
+  <volume>56</volume>
+  <issns>0378-603X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f3cd730f-24ae-3926-8f8c-6c9a2727920b</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Sultan, Mohamed N. ; Yehia, Sherif ; Khalil, Magdy M.</contributors>
+  <coverDate>3/17/2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.1186/s43055-025-01443-y</doi>
+</record>

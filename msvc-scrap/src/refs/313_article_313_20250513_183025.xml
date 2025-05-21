@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KNZ</mid>
+  <language>eng</language>
+  <source>Aquatic Conservation</source>
+  <bookEdition></bookEdition>
+  <title>Identifying Hydrilla verticillata in Real Time With a Machine Learning–Based Underwater Object Detection Program.</title>
+  <pageEnd>8</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Water supply ; Machine learning ; Artificial intelligence ; Hydrilla ; Image analysis</subjects>
+  <abstract>Standard tools for detection and identification of invasive macrophytes have limitations that may result in failure to detect patches of invasive vegetation. These undetected growths can spread rapidly, leading to significant disruption of invasive macrophyte control programs. The ability to accurately identify and map invasive submerged aquatic vegetation (SAV) over large transects in a cost‐efficient manner has been identified by water resource managers as a pressing issue that requires an immediate solution. To help with this challenge, we have developed an artificial intelligence/machine learning (AI/ML)–based image analysis program to automatically detect a priority invasive macrophyte, hydrilla (Hydrilla verticillata), in real time. The AI/ML model, based on the existing AI model EfficientDet, was trained and tested on nearly 12,000 images of H. verticillata captured underwater using remotely operated vehicles (ROVs) and handheld cameras. Accuracy of the object detection model was evaluated based on the Microsoft Common Objects in Context (MS COCO) metric of mean average precision (mAP). Our model had a peak mAP@[0.5:0.05:0.95] of 58.2% and a mAP@[0.5] of 81.2% (with inference latencies between 50 and 100 ms). These results suggest that real‐time underwater identification of H. verticillata with our detection model is achievable at high accuracy, with further enhancement possible through integration with multiple commercially available underwater ROV platforms and continued training in environments with various combinations of invasive and native SAV assemblages.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183987805</an>
+  <docTypes>Article</docTypes>
+  <volume>35</volume>
+  <issns>1052-7613</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=033e9254-5472-334e-81a3-78c40d8a712b</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Jeong, Han S. ; Schad, Aaron N. ; Cheng, Jing‐Ru C. ; Donohue, Griffin ; Hawkins, Jazmine L. ; Steen, Andrew M. ; Farthing, William F. ; Knight, Ian A. ; Dodd, Lynde L. ; Katzenmeyer, Alan W. ; Sistrunk, Virginia A. ; Hammond, Shea L. ; Bellinger, Brent J. ; Rycroft, Taylor E.</contributors>
+  <coverDate>Jan2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/aqc.70054</doi>
+</record>

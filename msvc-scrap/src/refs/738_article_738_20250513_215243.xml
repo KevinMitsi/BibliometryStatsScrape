@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Industrial Crops &amp;amp; Products</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning-driven habitat suitability modeling of Suaeda aegyptiaca for sustainable industrial cultivation in saline regions</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Habitat suitability modeling ; Machine learning ; Random Forest ; Saline agriculture ; Support Vector Machine ; Suaeda aegyptiaca ; Industrial crops</subjects>
+  <abstract>S. aegyptiaca is a halophytic plant with great potential for use in industrial applications such as bioremediation of saline soils, production of bioactive compounds for pharmaceuticals, and as a source of biofuels and other valuable secondary metabolites. Habitat suitability models and maps will help optimize ways to cultivate and sustainably use such industrial crops in saline regions. Therefore, the purpose of this study is to assess the habitat suitability of Suaeda aegyptiaca for large-scale cultivation in saline regions, using Species Distribution Models (SDMs) and machine learning techniques, particularly Random Forest (RF) and Support Vector Machine (SVM). This study was carried out in Bushehr Province, Iran, where we modeled the suitable habitats for S. aegyptiaca by utilizing the RF and SVM algorithms. A total of 72 occurrences of S. aegyptiaca were recorded through field surveys equipped with GPS. Eighteen explanatory parameters were selected, including topographic, climatic, and edaphic variables, and were used to create an ecosystem model. The data was divided into two partitions: 70 % for training and 30 % for validation. The ROC curve from validation resulted in a higher AUC for the RF model, with a value of 0.965, whereas the AUC for the SVM model was 0.886. This result highlights the high predictive accuracy of the RF model for determining habitat suitability for S. aegyptiaca. The most influential environmental factors were elevation and slope. This research has important global implications, as it offers a sustainable solution to address soil salinization, a growing problem exacerbated by climate change. By identifying optimal habitats for S. aegyptiaca, this study can guide the large-scale cultivation of salt-tolerant crops, contributing to food security and industrial development in saline areas. The high potential of the RF model for predicting suitable cultivation areas for S. aegyptiaca further demonstrates its utility in ecological planning and biodiversity management. The present study provides valuable insights into the habitat preferences of S. aegyptiaca, with practical implications for the sustainable development, restoration, and conservation of salt-tolerant industrial crops. It also validates the use of advanced machine learning techniques such as RF and SVM in ecological modeling and habitat suitability predictions for industrial exploitation in arid and saline zones.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S092666902402404X</an>
+  <docTypes>Article</docTypes>
+  <volume>225</volume>
+  <issns>0926-6690</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8c31eb73-90cc-3296-b336-9deffb0eff6b</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Edrisnia, Sara ; Etemadi, Mohammad ; Pourghasemi, Hamid Reza</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.indcrop.2024.120427</doi>
+</record>

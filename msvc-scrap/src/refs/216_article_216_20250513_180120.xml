@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Water Resources Management: An International Journal - Published for the European Water Resources Association (EWRA)</source>
+  <bookEdition></bookEdition>
+  <title>Review and Intercomparison of Machine Learning Applications for Short-term Flood Forecasting: Review and Intercomparison of Machine Learning Applications for Short-term Flood Forecasting</title>
+  <pageEnd>1991</pageEnd>
+  <pageStart>1971</pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>21</pageCount>
+  <publisherLocations>Dordrecht</publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Deep learning ; Flood prediction models ; Data-driven forecasting ; Machine learning comparison ; Climate change Adaptations</subjects>
+  <abstract>Among natural hazards, floods pose the greatest threat to lives and livelihoods. To reduce flood impacts, short-term flood forecasting can contribute to early warnings that provide communities with time to react. This manuscript explores how machine learning (ML) can support short-term flood forecasting. Using two methods [strengths, weaknesses, opportunities, and threats (SWOT) and comparative performance analysis] for different forecast lead times (1–6, 6–12, 12–24, and 24–48 h), we evaluate the performance of machine learning models in 94 journal papers from 2001 to 2023. SWOT reveals that the best short-term flood forecasting was produced by hybrid, random forest (RF), long short-term memory (LSTM), artificial neural network (ANN), and adaptive neuro-fuzzy inference system (ANFIS) approaches. The comparative performance analysis, meanwhile, favors convolutional neural network, ANFIS, multilayer perceptron, k-nearest neighbors algorithm (KNN), hybrid, LSTM, ANN, and support vector machine (SVM) at 1–6 h; hybrid, ANFIS, ANN, and LSTM at 6–12 h; SVM, hybrid, and RF at 12–24 h; and hybrid and RF at 24–48 h. In general, hybrid approaches consistently perform well across all lead times. Trends such as hybridization, model selection, input data selection, and decomposition seem to improve the accuracy of models. Furthermore, effective stand-alone ML models such as ANN, SVM, RF, genetic algorithm, KNN, and LSTM, provide better outcomes through hybridization with other ML models. By including different machine learning models and parameters such as environmental, socio-economical, and climatic parameters, the hybrid system can produce more accurate flood forecasting, making it more effective for early warning operational purposes.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.F00B1BFB</an>
+  <docTypes>Review Paper</docTypes>
+  <volume>39</volume>
+  <issns>09204741 ; 15731650</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9b94447e-dfbe-3296-acbd-205e87c7e2b8</plink>
+  <doids></doids>
+  <publisher>Springer Netherlands</publisher>
+  <contributors>Asif, Muhammad ; Kuglitsch, Monique M. ; Pelivan, Ivanka ; Albano, Raffaele</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s11269-025-04093-x</doi>
+</record>

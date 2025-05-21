@@ -1,0 +1,35 @@
+<record>
+  <isbns>9942-65-143-8 ; 978-9942-65-143-3</isbns>
+  <shortDBName>edsotl</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>Spanish; Castilian</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Inteligencia Artificial Aplicada a Procesamiento de Lenguaje Natural (NLP) con Python y Machine Learning.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Minneapolis, MN</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science ; Artificial Intelligence ; Textbooks</subjects>
+  <abstract>Este libro refleja el trabajo realizado bajo investigación entre docentes investigadores con el afán de que sea útil al lector, el uso de predicciones al momento de entrenar un algoritmo clasificado de texto en procesamiento de lenguaje natural (PLN) basado en machine learning. Conformado de 4 capítulos con la utilidad para el inicio al mundo de la IA de la rama de procesamiento de lenguaje natural con Python en machine learning. El Capítulo 1 menciona conceptos y la evolución de las diferentes ramas de conocimiento que abarca la inteligencia artificial (AI), el entendimiento del NLP, machine learning, tipos de aprendizaje para resolver problemas como el supervisado, no supervisado y refuerzo. Capítulo 2 se profundiza el NLP conociendo los contenidos básicos de clasificación como: Las técnicas y diseño de LSTM, tokeización, stopword, lematización, bag of Word (part of speech tagging). Capítulo 3 es la estructuración de este capítulo el conocer las definiciones de los modelos de aprendizaje supervisado que son útiles en NLP orientado a la clasificación de texto. Capítulo 4 un caso de predicción o grado de asertividad del modelamiento de un algoritmo, la intención es demostrar la utilización de un modelo y varias técnicas aplicando NLP basado en machine learning.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edsotl.OTLid0001740</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f4c7f3d3-294e-3e18-9612-f06f620c03fb</plink>
+  <doids></doids>
+  <publisher>Open Textbook Library</publisher>
+  <contributors>Sangacha-Tapia, Lady Mariuxi ; Celi, Ricardo Javier ; Acosta-Guzmán, Ivan Leonel ; Varela-Tapia, Eleanor Alexandra</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>Open Textbook Library</longDBName>
+  <doi></doi>
+</record>

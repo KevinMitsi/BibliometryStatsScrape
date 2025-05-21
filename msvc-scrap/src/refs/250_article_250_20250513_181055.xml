@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Privacy Preserving Machine Learning Model Personalization through Federated Personalized Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250503</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Machine Learning ; Computer Science - Cryptography and Security ; Computer Science - Distributed, Parallel, and Cluster Computing</subjects>
+  <abstract>The widespread adoption of Artificial Intelligence (AI) has been driven by significant advances in intelligent system research. However, this progress has raised concerns about data privacy, leading to a growing awareness of the need for privacy-preserving AI. In response, there has been a seismic shift in interest towards the leading paradigm for training Machine Learning (ML) models on decentralized data silos while maintaining data privacy, Federated Learning (FL). This research paper presents a comprehensive performance analysis of a cutting-edge approach to personalize ML model while preserving privacy achieved through Privacy Preserving Machine Learning with the innovative framework of Federated Personalized Learning (PPMLFPL). Regarding the increasing concerns about data privacy, this study evaluates the effectiveness of PPMLFPL addressing the critical balance between personalized model refinement and maintaining the confidentiality of individual user data. According to our analysis, Adaptive Personalized Cross-Silo Federated Learning with Differential Privacy (APPLE+DP) offering efficient execution whereas overall, the use of the Adaptive Personalized Cross-Silo Federated Learning with Homomorphic Encryption (APPLE+HE) algorithm for privacy-preserving machine learning tasks in federated personalized learning settings is strongly suggested. The results offer valuable insights creating it a promising scope for future advancements in the field of privacy-conscious data-driven technologies.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2505.01788</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=36b33a39-63ef-3946-af93-5dac7efa3d70</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Hosain, Md. Tanzib ; Zaman, Asif ; Sajid, Md. Shahriar ; Khan, Shadman Sakeeb ; Akter, Shanjida</contributors>
+  <coverDate>20250503</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

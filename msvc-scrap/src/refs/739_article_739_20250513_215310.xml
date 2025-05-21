@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HAYV</mid>
+  <language>eng</language>
+  <source>Traitement du Signal</source>
+  <bookEdition></bookEdition>
+  <title>Hybrid Ensemble Model with Bagging (HEMBAGG) Leveraging Machine Learning for Breast Carcinoma Diagnosis.</title>
+  <pageEnd>9</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Breast cancer ; Machine learning ; K-nearest neighbor classification ; Support vector machines ; Bootstrap aggregation (Algorithms) ; Random forest algorithms ; Diagnosis</subjects>
+  <abstract>The sort of cancer that most frequently strikes women is breast cancer. The death rate is significant in contrast to the survival rate, with the vast majority of Indian women who receive a diagnosis of breast cancer having an equal probability of surviving. Breast cancer has surpassed other cancers such as lung, liver, and cervix regarding its frequent diagnosis worldwide. The present research introduces a hybrid ensemble model with a bagging strategy for screening breast cancer utilizing ML techniques. The draught model evaluates the frequently employed ML algorithms and their approaches, which are periodically employed in predicting breast cancer, which include Random Forest, KNN, SVM, decision tree, and logistic regression. The WBCD data collection serves as an experiment set for evaluating the staging of dissimilar algorithms using ML algorithms in terms of key metrics like accuracy, recall, precision, and F-measure. To analyze the identification of cancer of the breast data for forecasting and identification of Breast Cancer, a hybrid ensemble model with bagging (HEMBAGG) is presented in this work. This model comprises an ensemble model with bagging that employs multiple supervised techniques for learning and integrates classifiers to raise the accuracy scores of breast cancer sufferers. The accuracy rate for identifying cancerous tumors in patients in the early stages is increasing with this new proposed model (HEMBAGG), which could potentially save lives.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183569775</an>
+  <docTypes>Article</docTypes>
+  <volume>42</volume>
+  <issns>0765-0019</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=ffb40216-8026-3d34-94eb-34adad538817</plink>
+  <doids></doids>
+  <publisher>International Information &amp;amp; Engineering Technology Association (IIETA)</publisher>
+  <contributors>Rawat, Vandana ; Singh, Devesh Pratap ; Singh, Neelam ; Rathore, Rajkumar Singh ; Aldosary, Saad ; El-Shafai, Walid</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.18280/ts.420101</doi>
+</record>

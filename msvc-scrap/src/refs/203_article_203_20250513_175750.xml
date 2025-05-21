@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Towards Accurate Forecasting of Renewable Energy : Building Datasets and Benchmarking Machine Learning Models for Solar and Wind Power in France</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250414</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Electrical Engineering and Systems Science - Signal Processing ; Computer Science - Artificial Intelligence ; Computer Science - Machine Learning ; Statistics - Machine Learning</subjects>
+  <abstract>Accurate prediction of non-dispatchable renewable energy sources is essential for grid stability and price prediction. Regional power supply forecasts are usually indirect through a bottom-up approach of plant-level forecasts, incorporate lagged power values, and do not use the potential of spatially resolved data. This study presents a comprehensive methodology for predicting solar and wind power production at country scale in France using machine learning models trained with spatially explicit weather data combined with spatial information about production sites capacity. A dataset is built spanning from 2012 to 2023, using daily power production data from RTE (the national grid operator) as the target variable, with daily weather data from ERA5, production sites capacity and location, and electricity prices as input features. Three modeling approaches are explored to handle spatially resolved weather data: spatial averaging over the country, dimension reduction through principal component analysis, and a computer vision architecture to exploit complex spatial relationships. The study benchmarks state-of-the-art machine learning models as well as hyperparameter tuning approaches based on cross-validation methods on daily power production data. Results indicate that cross-validation tailored to time series is best suited to reach low error. We found that neural networks tend to outperform traditional tree-based models, which face challenges in extrapolation due to the increasing renewable capacity over time. Model performance ranges from 4% to 10% in nRMSE for midterm horizon, achieving similar error metrics to local models established at a single-plant level, highlighting the potential of these methods for regional power supply forecasting.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.16100</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=e7fad29b-13f1-32b1-afee-ce702cfde1c4</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Lindas, Eloi ; Goude, Yannig ; Ciais, Philippe</contributors>
+  <coverDate>20250414</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>ADC</mid>
+  <language>eng</language>
+  <source>Applied Economics</source>
+  <bookEdition></bookEdition>
+  <title>China's inflation forecasting in a data-rich environment: based on machine learning algorithms.</title>
+  <pageEnd>2020</pageEnd>
+  <pageStart>1995</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250415</publicationDate>
+  <pageCount>26</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>17</issue>
+  <identifiers></identifiers>
+  <subjects>Inflation forecasting ; Regression analysis ; Prices ; Time series analysis ; China ; Machine learning</subjects>
+  <abstract>Inflation forecasting stands as a central concern in macroeconomics. This paper focuses on predicting China's inflation within a data-rich environment. Specifically, we compile a large panel of China's monthly macroeconomic and financial variables, employing various machine learning models on this predictor panel to forecast China's inflation, encompassing both CPI and PPI, across various forecasting horizons extending up to 24 months. Our findings indicate the following: First, the machine learning models, when coupled with a large dataset of macroeconomic and financial predictors, demonstrate a superior ability to forecast China's inflation compared to benchmark time series models and principal component regression models. These advantages become even more notable at medium-to-long horizons and during periods of high inflation volatility, as well as CPI/PPI divergence periods. Second, our experiments reveal that penalized linear regression models, such as ridge and elastic net, consistently outperform the benchmarks and nonlinear machine learning methods in most cases. Lastly, variables related to price, stock, and money &amp;amp; credit are identified as the most crucial factors for forecasting inflation in China.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184339711</an>
+  <docTypes>Article</docTypes>
+  <volume>57</volume>
+  <issns>0003-6846</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5448b768-a568-341a-9094-5d01d88c9773</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Huang, Naijing ; Qi, Yuqing ; Xia, Jie</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00036846.2024.2322572</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B08Y</mid>
+  <language>eng</language>
+  <source>Neurology International</source>
+  <bookEdition></bookEdition>
+  <title>Explainable Machine Learning Models for Brain Diseases: Insights from a Systematic Review.</title>
+  <pageEnd>1307</pageEnd>
+  <pageStart>1285</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; BRAIN diseases ; BIBLIOGRAPHIC databases ; DIAGNOSIS</subjects>
+  <abstract>In recent years, Artificial Intelligence (AI) methods, specifically Machine Learning (ML) models, have been providing outstanding results in different areas of knowledge, with the health area being one of its most impactful fields of application. However, to be applied reliably, these models must provide users with clear, simple, and transparent explanations about the medical decision-making process. This systematic review aims to investigate the use and application of explainability in ML models used in brain disease studies. A systematic search was conducted in three major bibliographic databases, Web of Science, Scopus, and PubMed, from January 2014 to December 2023. A total of 133 relevant studies were identified and analyzed out of a total of 682 found in the initial search, in which the explainability of ML models in the medical context was studied, identifying 11 ML models and 12 explainability techniques applied in the study of 20 brain diseases.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181912217</an>
+  <docTypes>Article</docTypes>
+  <volume>16</volume>
+  <issns>2035-8377</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=c22139d9-fd47-3218-8fe5-7a6a5d06cfb1</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Rodríguez Mallma, Mirko Jerber ; Zuloaga-Rotta, Luis ; Borja-Rosales, Rubén ; Rodríguez Mallma, Josef Renato ; Vilca-Aguilar, Marcos ; Salas-Ojeda, María ; Mauricio, David</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/neurolint16060098</doi>
+</record>

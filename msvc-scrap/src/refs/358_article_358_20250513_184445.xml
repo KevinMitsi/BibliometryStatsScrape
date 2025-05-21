@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Knowledge and Information Systems: An International Journal</source>
+  <bookEdition></bookEdition>
+  <title>Fetal health risk prediction using ensemble-based machine learning approaches: Fetal health risk prediction using ensemble-based machine learning…</title>
+  <pageEnd>35</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250510</publicationDate>
+  <pageCount>35</pageCount>
+  <publisherLocations>London</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Fetal health ; Hyperparameter tuning ; Cardiotocography (CTG) ; Fetal monitoring ; Machine learning (ML) ; Ensemble Learning</subjects>
+  <abstract>In 2017, WHO reported a rise in neonatal and maternal deaths in developing countries. Congenital impairments, bad maternal lifestyle, hunger, resource shortages, and absence of fetal health check-ups cause newborn, maternal, and postnatal mortality. To tackle the above concerns in a cost-effective and efficient approach, we tried to predict the risks of fetal health based on machine learning (ML) techniques and categorize them into three classes: pathological, suspect, and normal. Consequently, we can make informed decisions if the fetus exhibits critical issues. The study uses a cardiotocography dataset with 2126 cases, 21 independent features, and a multiclass target attribute in a three-step process to predict the health risk of the fetus. The first stage deploys sixteen ML models following the necessary data preprocessing, both with and without sampling methods. In the second stage, we selected eleven of the best performing classifiers to perform hyperparameter tuning using RandomizedSearchCV and GridSearchCV. Finally, we proposed a fine-tuned ensemble learning (EL) approach based on stacking, voting, and bagging for the precise fetal health status prediction. These models allow early diagnosis of fetal health conditions to be identified and treated with minimal time and expense. It was observed that the proposed stacking, bagging, and voting methods gave ten-fold mean accuracies of 99.60%, 99.72%, and 99.78%, respectively. Using ensemble classifiers can improve and eliminate the weakness of one individual classifier, yielding superior performance for the overall model. This study readily offers healthcare providers useful interpretations to aid in their decision-making.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.6F18FD2B</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>02191377 ; 02193116</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4ad86486-5865-3ffe-a512-e93145e8139e</plink>
+  <doids></doids>
+  <publisher>Springer London</publisher>
+  <contributors>Mondal, Subhash ; Maity, Ranjan ; Nag, Amitava ; Ghosh, Soumadip</contributors>
+  <coverDate>20250510</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10115-025-02442-1</doi>
+</record>

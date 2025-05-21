@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FDU7</mid>
+  <language>eng</language>
+  <source>Diagnostics (2075-4418)</source>
+  <bookEdition></bookEdition>
+  <title>Automatic Characterization of Prostate Suspect Lesions on T2-Weighted Image Acquisitions Using Texture Features and Machine-Learning Methods: A Pilot Study.</title>
+  <pageEnd></pageEnd>
+  <pageStart>106</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; FEATURE extraction ; MAGNETIC resonance imaging ; RADICAL prostatectomy ; Diagnostic Imaging Centers</subjects>
+  <abstract>Background: Prostate cancer (PCa) is the most frequent neoplasia in the male population. According to the International Society of Urological Pathology (ISUP), PCa can be divided into two major groups, based on their prognosis and treatment options. Multiparametric magnetic resonance imaging (mpMRI) holds a central role in PCa assessment; however, it does not have a one-to-one correspondence with the histopathological grading of tumors. Recently, artificial intelligence (AI)-based algorithms and textural analysis, a subdivision of radiomics, have shown potential in bridging this gap. Objectives: We aimed to develop a machine-learning algorithm that predicts the ISUP grade of manually contoured prostate nodules on T2-weighted images and classifies them into clinically significant and indolent ones. Materials and Methods: We included 55 patients with 76 lesions. All patients were examined on the same 1.5 Tesla mpMRI scanner. Each nodule was manually segmented using the open-source 3D Slicer platform, and textural features were extracted using the PyRadiomics (version 3.0.1) library. The software was based on machine-learning classifiers. The accuracy was calculated based on precision, recall, and F1 scores. Results: The median age of the study group was 64 years (IQR 61–68), and the mean PSA value was 11.14 ng/mL. A total of 85.52% of the nodules were graded PI-RADS 4 or higher. Overall, the algorithm classified indolent and clinically significant PCas with an accuracy of 87.2%. Further, when trained to differentiate each ISUP group, the accuracy was 80.3%. Conclusions: We developed an AI-based decision-support system that accurately differentiates between the two PCa prognostic groups using only T2 MRI acquisitions by employing radiomics with a robust machine-learning architecture.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182465441</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2075-4418</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=37da8807-cddb-3725-8a88-76832124fc79</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Telecan, Teodora ; Caraiani, Cosmin ; Boca, Bianca ; Sipos-Lascu, Roxana ; Diosan, Laura ; Balint, Zoltan ; Hendea, Raluca Maria ; Andras, Iulia ; Crisan, Nicolae ; Lupsor-Platon, Monica</contributors>
+  <coverDate>Jan2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/diagnostics15010106</doi>
+</record>

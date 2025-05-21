@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>N0AA</mid>
+  <language>eng</language>
+  <source>Businesses</source>
+  <bookEdition></bookEdition>
+  <title>Big Data in Leadership Studies: Automated Machine Learning Model to Predict Preferred Leader Behavior Across Cultures.</title>
+  <pageEnd>722</pageEnd>
+  <pageStart>696</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>27</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Organizational behavior ; Empirical research ; Machine learning ; Patternmaking ; Prediction models</subjects>
+  <abstract>With global leadership as the new norm, discussion about followers' preferred leader behaviors across cultures is growing in significance. This study proposes a comprehensive predictive model to explore significant preferred leadership factors, drawn from the Leader Behavior Description Questionnaire (LBDQXII), across cultures using automated machine learning (AML). We offer a robust empirical measurement of culturally contingent leader behavior and entrepreneurship behaviors and provide a tool for assessing the cultural predictors of preferred leader behavior to minimize predictive errors, explore patterns in the data and make predictions in an empirically robust way. Hence, our approach fills a gap in the literature relating to applications of AML in leadership studies and contributes a novel empirical method to better predict leadership preferences. Cultural indicators from Global Leadership and Organizational Behavior (GLOBE) predict the likelihood of the preferred leader behaviors of "Role Assumption", "Production Emphasis" and "Initiation of Structure". Hofstede's Long-Term/Short-Term Orientation is the most critical predictor of preferences for "Tolerance of Uncertainty" and "Initiation of Structure", whereas the value of restraint impacts the likelihood of preferring leaders with skills in "Integration" and "Consideration". Significant entrepreneurial values indicators have a significant impact on preferences for leaders focused on "Initiation of Structure", "Production Emphasis" and "Predictive Accuracy". Findings also support earlier studies that reveal age and gender significantly impact our preferences for specific leader behaviors. We discuss and offer conclusions to support our findings that foster development of global business managers and practitioners.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181938995</an>
+  <docTypes>Article</docTypes>
+  <volume>4</volume>
+  <issns>2673-7116</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=a50a436b-a26a-321a-9066-8c22069192cb</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Lankut, Erik ; Warner-Søderholm, Gillian ; Alon, Ilan ; Minelgaité, Inga</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.3390/businesses4040039</doi>
+</record>

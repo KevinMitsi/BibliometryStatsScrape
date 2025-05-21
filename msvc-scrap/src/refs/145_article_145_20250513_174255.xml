@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>European Journal of Education</source>
+  <bookEdition></bookEdition>
+  <title>Evaluating Higher Education Performance via Machine Learning during Disruptive Times: A Case of Applied Education in Türkiye</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Foreign Countries ; Artificial Intelligence ; Higher Education ; COVID-19 ; Pandemics ; Academic Standards ; Electronic Learning ; Online Courses ; Statistical Analysis ; Data Interpretation ; Turkey</subjects>
+  <abstract>In response to the COVID-19 pandemic, an abrupt wave of digitisation and online migration swept the higher education institutions around the globe. In the aftermath of this digital transformation which endures as the legacy of the pandemic, what lacks in knowledge is how effective the anti-COVID measures were in maintaining quality education. Using machine learning to analyse student grades as a proxy for educational standards, this study investigates and demonstrates the evaluative potential of machine learning (vs. traditional statistics) with respect to not only crisis responses in education but also applied studies such as Information Systems and Tourism. Main implication of this study is the analytical utility of machine learning even when educational data are irregular and small. However, incorporating accurate and meaningful data points into the existing online educational systems is crucial to leverage this utility of machine learning.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1450292</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>59</volume>
+  <issns>0141-8211 ; 1465-3435</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=9a456f87-c1df-393d-94a1-46b5b76f392c</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Semih Sait Yilmaz ; Ayse Collins ; Seyid Amjad Ali</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1111/ejed.12805</doi>
+</record>

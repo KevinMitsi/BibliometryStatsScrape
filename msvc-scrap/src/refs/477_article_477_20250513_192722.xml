@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Categorical and geometric methods in statistical, manifold, and machine learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250506</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Statistics - Machine Learning ; Computer Science - Machine Learning ; Mathematics - Category Theory ; Mathematics - Differential Geometry ; Mathematics - Statistics Theory</subjects>
+  <abstract>We present and discuss applications of the category of probabilistic morphisms, initially developed in \cite{Le2023}, as well as some geometric methods to several classes of problems in statistical, machine and manifold learning which shall be, along with many other topics, considered in depth in the forthcoming book \cite{LMPT2024}.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2505.03862</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=68214dd6-39b4-30eb-a7c2-1b29a35ab0f4</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Lê, Hông Vân ; Minh, Hà Quang ; Protin, Frederic ; Tuschmann, Wilderich</contributors>
+  <coverDate>20250506</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

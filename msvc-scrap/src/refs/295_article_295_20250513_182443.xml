@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>ACM</mid>
+  <language>eng</language>
+  <source>Communications of the ACM</source>
+  <bookEdition></bookEdition>
+  <title>Pitfalls in Machine Learning for Computer Security.</title>
+  <pageEnd>112</pageEnd>
+  <pageStart>104</pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241101</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>11</issue>
+  <identifiers></identifiers>
+  <subjects>Computer security ; Malware ; Systems design ; Machine learning ; Acquisition of data ; Intrusion detection systems (Computer security)</subjects>
+  <abstract>This article presents ten common pitfalls of machine learning in the context of computer security. Pitfalls are included from all stages of the machine learning process including data snooping, inappropriate baseline, and base rate fallacy. Next, the prevalence of each pitfall was assessed using thirty security papers published in the last ten years. Then, an impact analysis is presented of these pitfalls in four different security fields, including vulnerability and network intrusion detection.</abstract>
+  <pubTypes>Periodical</pubTypes>
+  <an>180795999</an>
+  <docTypes>Article</docTypes>
+  <volume>67</volume>
+  <issns>0001-0782</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8e2b3497-2ad2-3e64-b09c-cb530e92911c</plink>
+  <doids></doids>
+  <publisher>Association for Computing Machinery</publisher>
+  <contributors>Arp, Daniel ; Quiring, Erwin ; Pendlebury, Feargus ; Warnecke, Alexander ; Pierazzi, Fabio ; Wressnegger, Christian ; Cavallaro, Lorenzo ; Rieck, Konrad</contributors>
+  <coverDate>Nov2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1145/3643456</doi>
+</record>

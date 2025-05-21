@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Knowledge and Information Systems: An International Journal</source>
+  <bookEdition></bookEdition>
+  <title>Cybersecurity in the AI era: analyzing the impact of machine learning on intrusion detection: Cybersecurity in the AI era: analyzing the impact of machine learning...</title>
+  <pageEnd>3966</pageEnd>
+  <pageStart>3915</pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount>52</pageCount>
+  <publisherLocations>London</publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Cybersecurity ; Intrusion detection ; Machine learning ; Deep learning ; Multi-task deep learning</subjects>
+  <abstract>The utilization of machine learning (ML) techniques for intrusion detection systems (IDS) in cybersecurity has become increasingly prevalent, demonstrating substantial advancements and effectiveness. This survey systematically reviews the use of ML techniques in IDS for cybersecurity, highlighting both advancements and associated challenges. By examining 130 recent studies, this survey systematically reviews the use of ML techniques in IDS, categorizing them into traditional ML-based, single-task deep learning (DL)-based, and multi-task DL-based approaches. Among cited works, traditional ML models like the decision tree and Gaussian mixture have achieved accuracies of 99.96% and 99.0%, respectively. However, most DL models outperform these traditional ML models, with some research indicating that AE+GAN models can achieve 100.0% accuracy. Our analysis identifies emerging trends in DL for complex representation learning and highlights challenges like overfitting and adaptability to new threats, especially in IoT environments. Additionally, it identifies several promising research directions, including exploring effective hybrid model architectures, quantifying task correlation for improved knowledge transfer, investigating model deployment in edge and IoT environments, etc.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.EF87A5C9</an>
+  <docTypes>Review Paper</docTypes>
+  <volume>67</volume>
+  <issns>02191377 ; 02193116</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=30cb1c41-1f77-3eea-bfd1-7ad534937886</plink>
+  <doids></doids>
+  <publisher>Springer London</publisher>
+  <contributors>Dong, Huiyao ; Kotenko, Igor</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10115-025-02366-w</doi>
+</record>

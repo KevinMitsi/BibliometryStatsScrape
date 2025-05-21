@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Nonlinear Dynamics: An International Journal of Nonlinear Dynamics and Chaos in Engineering Systems</source>
+  <bookEdition></bookEdition>
+  <title>A novel machine learning method for real-time dynamic analysis of tensegrity flexible multibody systems: A novel machine learning method for real-time dynamic analysis</title>
+  <pageEnd>28</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250415</publicationDate>
+  <pageCount>28</pageCount>
+  <publisherLocations>Dordrecht</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Flexible multibody systems ; Tensegrity systems ; Physics-informed neural network ; Generalized-α scheme ; Scientific machine learning</subjects>
+  <abstract>The results of dynamic simulation play an important role in guiding the analysis and design of multibody systems. However, with the increase of degree of freedom and nonlinearity in flexible multibody systems, traditional analysis methods have poor computational efficiency when conducting dynamic analysis, which poses a challenge to real-time dynamic analysis. Therefore, this paper proposes a fast dynamic analysis method for tensegrity flexible multibody systems via a machine learning framework. The proposed method utilizes the efficient characteristics of neural network and the stability advantage of generalized-α scheme to build neural network training framework, and embeds the discretized differential algebraic dynamic equations into the loss function to guide the training process of the neural network, thus obtaining high-precision neural network model and achieving fast dynamic analysis process. In addition, two numerical examples are used to test the properties of the proposed method, and the results indicate that compared with traditional implicit integration method and physics-informed neural network, the proposed method performs well in numerical accuracy and computational efficiency, and has the potential to achieve real-time simulation.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.8FF0E3D8</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>0924090X ; 1573269X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=408db970-dee5-351b-a0b5-08f47fba70bb</plink>
+  <doids></doids>
+  <publisher>Springer Netherlands</publisher>
+  <contributors>Song, Ningning ; Wang, Mingji ; Wang, Xinwei ; Peng, Haijun</contributors>
+  <coverDate>20250415</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s11071-025-11152-w</doi>
+</record>

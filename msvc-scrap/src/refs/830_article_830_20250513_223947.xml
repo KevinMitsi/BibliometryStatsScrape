@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Data Requirement Goal Modeling for Machine Learning Systems</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250410</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Software Engineering ; Computer Science - Machine Learning</subjects>
+  <abstract>Machine Learning (ML) has been integrated into various software and systems. Two main components are essential for training an ML model: the training data and the ML algorithm. Given the critical role of data in ML system development, it has become increasingly important to assess the quality of data attributes and ensure that the data meets specific requirements before its utilization. This work proposes an approach to guide non-experts in identifying data requirements for ML systems using goal modeling. In this approach, we first develop the Data Requirement Goal Model (DRGM) by surveying the white literature to identify and categorize the issues and challenges faced by data scientists and requirement engineers working on ML-related projects. An initial DRGM was built to accommodate common tasks that would generalize across projects. Then, based on insights from both white and gray literature, a customization mechanism is built to help adjust the tasks, KPIs, and goals' importance of different elements within the DRGM. The generated model can aid its users in evaluating different datasets using GRL evaluation strategies. We then validate the approach through two illustrative examples based on real-world projects. The results from the illustrative examples demonstrate that the data requirements identified by the proposed approach align with the requirements of real-world projects, demonstrating the practicality and effectiveness of the proposed framework. The proposed dataset selection customization mechanism and the proposed DRGM are helpful in guiding non-experts in identifying the data requirements for machine learning systems tailored to a specific ML problem. This approach also aids in evaluating different dataset alternatives to choose the optimum dataset for the problem. For future work, we recommend implementing tool support to generate the DRGM based on a chatbot interface.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.07664</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=cdaebda8-32a8-3c47-82d2-69a1c4af3700</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Yamani, Asma ; AlAmoudi, Nadeen ; Albilali, Salma ; Baslyman, Malak ; Hassine, Jameleddine</contributors>
+  <coverDate>20250410</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

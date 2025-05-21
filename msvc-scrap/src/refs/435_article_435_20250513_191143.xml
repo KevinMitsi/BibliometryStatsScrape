@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Leveraging Seasonal Trends and Symptomatic Data for Precise Disease Prediction Using Machine Learning</title>
+  <pageEnd>229</pageEnd>
+  <pageStart>225</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Support vector machines ; Logistic regression ; Accuracy ; Medical services ; Predictive models ; Nearest neighbor methods ; Real-time systems ; Decision trees ; Random forests ; Diseases ; Multivariate Symptom Data ; Seasonal Variability ; Machine Learning in Healthcare ; Predictive Precaution Measures ; Dynamic Disease Modeling. Support Vector Machine(SVM)</subjects>
+  <abstract>Our analysis examines the amalgamation of seasonal and symptomatic data to boost the forecasting of diseases, emphasizing the need for proactive healthcare measures. The rising need for accurate, data-driven preventive healthcare solutions, especially in regions where seasonal variations significantly impact disease patterns, serves as the foundation for this study. We developed a comprehensive prediction framework using a range of machine learning models, including logistic regression, decision trees, Naive Bayes, K-nearest neighbors, support vector machines (SVM), and random forests. Our results show that logistic regression and SVM achieved high accuracy both with and without the use of SMOTE, demonstrating their effectiveness in handling imbalanced datasets. This technique links symptoms, seasonal variations, and disease patterns for precise categorization and actionable insights, enabling effective illness detection and preventive coordination. The findings of this study help foster the use of machine learning methods to improve preventive healthcare and illustrate the need to include contextual seasonal data in healthcare forecasts. Additionally, the research highlights how symptoms and seasonal variables work together dynamically, demonstrating the potential of adaptive models to assist with healthcare decision-making in real-time.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10968080</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=febc68c4-19a8-3671-9256-9cef9c6fe07e</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Somayajula, Anjana Harshitha ; Chagantipati, Aetesh ; Gollapudi, Amish ; Enduri, Murali Krishna ; Dattatreya, Maganti Suryanarayana ; Anamalamudi, Satish</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10968080</doi>
+</record>

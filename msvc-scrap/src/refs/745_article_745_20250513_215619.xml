@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B74E</mid>
+  <language>eng</language>
+  <source>Future Internet</source>
+  <bookEdition></bookEdition>
+  <title>Employing Streaming Machine Learning for Modeling Workload Patterns in Multi-Tiered Data Storage Systems †.</title>
+  <pageEnd></pageEnd>
+  <pageStart>170</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; DATA warehousing ; TRAIN delays &amp;amp; cancellations ; ALGORITHMS ; DIRECTORIES ; CACHE memory ; Directory and Mailing List Publishers</subjects>
+  <abstract>Modern multi-tiered data storage systems optimize file access by managing data across a hybrid composition of caches and storage tiers while using policies whose decisions can severely impact the storage system's performance. Recently, different Machine-Learning (ML) algorithms have been used to model access patterns from complex workloads. Yet, current approaches train their models offline in a batch-based approach, even though storage systems are processing a stream of file requests with dynamic workloads. In this manuscript, we advocate the streaming ML paradigm for modeling access patterns in multi-tiered storage systems as it introduces various advantages, including high efficiency, high accuracy, and high adaptability. Moreover, representative file access patterns, including temporal, spatial, length, and frequency patterns, are identified for individual files, directories, and file formats, and used as features. Streaming ML models are developed, trained, and tested on different file system traces for making two types of predictions: the next offset to be read in a file and the future file hotness. An extensive evaluation is performed with production traces provided by Huawei Technologies, showing that the models are practical, with low memory consumption (&amp;lt;1.3 MB) and low training delay (&amp;lt;1.8 ms per training instance), and can make accurate predictions online (0.98 F1 score and 0.07 MAE on average).</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184749671</an>
+  <docTypes>Article</docTypes>
+  <volume>17</volume>
+  <issns>1999-5903</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=52de35d3-7fa0-386e-ba82-303fa57df3fa</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Lucas Filho, Edson Ramiro ; Savva, George ; Yang, Lun ; Fu, Kebo ; Shen, Jianqiang ; Herodotou, Herodotos</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/fi17040170</doi>
+</record>

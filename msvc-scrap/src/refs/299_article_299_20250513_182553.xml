@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Water Resources Management: An International Journal - Published for the European Water Resources Association (EWRA)</source>
+  <bookEdition></bookEdition>
+  <title>Comprehensive Evaluation of Satellite-Based Rainfall Measurements Through Rain Gauge Validation Using Advanced Statistical Regression and Machine Learning Models by Using Python: Comprehensive Evaluation of Satellite-Based Rainfall Measurements Through Rain Gauge Validation Using Advanced Statistical Regression and Machine Learning Models by Using Python</title>
+  <pageEnd>25</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250322</publicationDate>
+  <pageCount>25</pageCount>
+  <publisherLocations>Dordrecht</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Satellite &amp;amp; Gauge Rainfall data ; Python ; Statistical Regression ; Machine Learning Regression ; Model Training &amp;amp; testing ; A Paired t-test-Bootstrap Resampling</subjects>
+  <abstract>The accuracy of rainfall data is crucial for climate monitoring, disaster prevention, and water resource management. This study evaluates the effectiveness of various regression and machine-learning models for rainfall prediction using satellite-based and ground-based gauge data. The models tested include Linear, Ridge, Lasso, Polynomial Regression, Random Forest, Decision Tree, Gradient Boosting Machine, Support Vector Machines, and Artificial Neural Networks. Without the normalization, Linear, Ridge, and Lasso regression models showed similar performance, with R² values of 0.60 for training and 0.57 for testing, indicating reasonable accuracy but limited generalization. Polynomial regression showed a higher R² in training (0.66), but significant overfitting was observed with a drop in test performance (R² = 0.50). Random Forest and GBM performed well in training (R² = 0.94–0.95) but showed a decline in testing (R² = 0.43–0.47), indicating some overfitting. The regression models exhibited stable performance after undergoing normalization using Min-Max and Z-score. The polynomial regression method showed increased consistency but still displayed signs of overfitting. The study found that machine learning models, particularly the Random Forest and ANN algorithm, showed improved generalization after normalization, with ANN achieving the best test R² value of 0.60. Normalization techniques, particularly Min-Max and Z-score, significantly improved model performance, with statistical analysis confirming these improvements highlights the potential of machine learning models, particularly the Random Forest and ANN algorithm, for accurate rainfall prediction, particularly in flood warning systems, irrigation planning, and water resource management.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.9886BCFA</an>
+  <docTypes>Original Paper</docTypes>
+  <volume></volume>
+  <issns>09204741 ; 15731650</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=43dfcc35-e2ec-321f-ab9e-64d95ac88799</plink>
+  <doids></doids>
+  <publisher>Springer Netherlands</publisher>
+  <contributors>Sumith, K V</contributors>
+  <coverDate>20250322</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s11269-025-04168-9</doi>
+</record>

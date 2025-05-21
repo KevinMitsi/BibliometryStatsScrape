@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781789803556 ; 9781789801767</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning Fundamentals : Use Python and Scikit-learn to Get up and Running with the Hottest Developments in Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20180101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Languages / Python ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Programming / Algorithms ; Artificial intelligence ; Python (Computer program language) ; Machine learning</subjects>
+  <abstract>With the flexibility and features of scikit-learn and Python, build machine learning algorithms that optimize the programming process and take application performance to a whole new levelKey FeaturesExplore scikit-learn uniform API and its application into any type of modelUnderstand the difference between supervised and unsupervised modelsLearn the usage of machine learning through real-world examplesBook DescriptionAs machine learning algorithms become popular, new tools that optimize these algorithms are also developed. Machine Learning Fundamentals explains you how to use the syntax of scikit-learn. You'll study the difference between supervised and unsupervised models, as well as the importance of choosing the appropriate algorithm for each dataset. You'll apply unsupervised clustering algorithms over real-world datasets, to discover patterns and profiles, and explore the process to solve an unsupervised machine learning problem. The focus of the book then shifts to supervised learning algorithms. You'll learn to implement different supervised algorithms and develop neural network structures using the scikit-learn package. You'll also learn how to perform coherent result analysis to improve the performance of the algorithm by tuning hyperparameters. By the end of this book, you will have gain all the skills required to start programming machine learning algorithms. What you will learnUnderstand the importance of data representationGain insights into the differences between supervised and unsupervised modelsExplore data using the Matplotlib libraryStudy popular algorithms, such as k-means, Mean-Shift, and DBSCANMeasure model performance through different metricsImplement a confusion matrix using scikit-learnStudy popular algorithms, such as Naïve-Bayes, Decision Tree, and SVMPerform error analysis to improve the performance of the modelLearn to build a comprehensive machine learning programWho this book is forMachine Learning Fundamentals is designed for developers who are new to the field of machine learning and want to learn how to use the scikit-learn library to develop machine learning algorithms. You must have some knowledge and experience in Python programming, but you do not need any prior knowledge of scikit-learn or machine learning algorithms.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1948716</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5ce22bf5-775a-3aab-9623-3028597c7b08</plink>
+  <doids>NL$1948716$PDF ; NL$1948716$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Hyatt Saleh</contributors>
+  <coverDate>2018</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

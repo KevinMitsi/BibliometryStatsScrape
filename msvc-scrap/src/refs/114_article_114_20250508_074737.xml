@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Scientific reports</source>
+  <bookEdition></bookEdition>
+  <title>Explainable machine learning to compare the overall survival status between patients receiving mastectomy and breast conserving surgeries.</title>
+  <pageEnd></pageEnd>
+  <pageStart>10700</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250328</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Breast Neoplasms surgery ; Breast Neoplasms mortality ; Breast Neoplasms pathology ; Machine Learning ; Mastectomy, Segmental methods ; Mastectomy ; Humans ; Female ; Middle Aged ; Aged ; Adult ; ROC Curve ; Prognosis</subjects>
+  <abstract>Competing interests: The authors declare no competing interests.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40155719</an>
+  <docTypes>Journal Article ; Comparative Study</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=76ba69a4-6dc9-375d-b050-ba4f01dbc14b</plink>
+  <doids></doids>
+  <publisher>Nature Publishing Group</publisher>
+  <contributors>Asfaw, Betelhem Bizuneh ; Tegaw, Eyachew Misganew</contributors>
+  <coverDate>2025 Mar 28</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1038/s41598-025-91064-2</doi>
+</record>

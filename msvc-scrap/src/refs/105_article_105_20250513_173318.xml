@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>E727</mid>
+  <language>eng</language>
+  <source>Journal of Economic Structures</source>
+  <bookEdition></bookEdition>
+  <title>Applying machine learning to input–output analysis: a new perspective on identifying key Australian industries.</title>
+  <pageEnd>27</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250415</publicationDate>
+  <pageCount>27</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Industrial clusters ; Databases ; Machine learning</subjects>
+  <abstract>This article employs two alternative approaches based on input–output tables to re-evaluate key Australian industries and their interconnections. The first approach utilizes traditional linkages, while the second approach employs machine learning methods. Data come from the OECD database for input–output tables spanning the years 2003, 2008, 2013, and 2018. Our findings indicate that employing machine learning methods including clustering with PCA, eigenvector centrality, authority and hub scores, and vertex centralities to identify key Australian industries not only confirming the ranking of key industries through traditional methods but also reveals the interconnectedness of key industries within clusters. While the former approach merely identifies key industries, the latter provides a more comprehensive analysis by demonstrating the ranking and connectivity of key industries, as well as validating the robustness of the applied methodologies.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184490108</an>
+  <docTypes>Article</docTypes>
+  <volume>14</volume>
+  <issns>2193-2409</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5f6e991f-94b6-3db3-ba11-6f396c541428</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Faridzad, Ali</contributors>
+  <coverDate>4/15/2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1186/s40008-025-00351-8</doi>
+</record>

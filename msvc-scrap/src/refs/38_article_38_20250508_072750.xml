@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>OI8</mid>
+  <language>eng</language>
+  <source>Journal of Intelligent Manufacturing</source>
+  <bookEdition></bookEdition>
+  <title>Traditional machine learning and deep learning for predicting melt-pool cross-sectional morphology of laser powder bed fusion additive manufacturing with thermographic monitoring.</title>
+  <pageEnd>2104</pageEnd>
+  <pageStart>2079</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>26</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Machine learning ; Deep learning ; Convolutional neural networks ; Cross-sectional imaging</subjects>
+  <abstract>The intricate non-equilibrium and rapid solidification behavior inherent in laser powder bed fusion (LPBF) additive manufacturing affects the quality and performance of as-built parts. To evaluate and predict the quality of LPBF-built parts, engaging in real-time monitoring of the LPBF process by leveraging thermal information derived from the melt pool becomes significant. In this work, the insights conveyed by near-infrared (NIR) thermal-imaging on melt pools during the LPBF process were explored, with the assistance of machine learning (ML) and deep learning (DL) methods, aiming to develop ML and DL models capable of recognizing NIR melt-pool monitoring images and predicting invisible geometries of laser-tracks. Traditional ML models, including support vector machines, were used to establish a non-linear mapping relationship between NIR thermal images and cross-sectional geometries of solidified laser-tracks. That was achieved by extracting melt-pool NIR image features based on prior knowledge while analyzing the influence of laser parameters on the melt pools. Then, DL models such as convolutional neural networks were improved to extract multi-scale features from the melt-pool thermal images through self-learning mechanisms. By comprehensively merging multi-scale features, these DL models effectively captured and reflected vital NIR image information from the melt pool. The various methodologies collectively provided real-time insights for monitoring and controlling the LPBF processes, thereby facilitating reasoning about and predicting imperceptible geometries of the cross-sectional solidified laser-tracks within the as-built parts.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183282726</an>
+  <docTypes>Article</docTypes>
+  <volume>36</volume>
+  <issns>0956-5515</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=280931e6-3506-30f2-90e3-8d7609187c2e</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Wang, Haijie ; Li, Bo ; Zhang, Saifan ; Xuan, Fuzhen</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1007/s10845-024-02356-9</doi>
+</record>

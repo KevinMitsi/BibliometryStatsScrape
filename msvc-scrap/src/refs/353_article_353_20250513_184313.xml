@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>MGS</mid>
+  <language>eng</language>
+  <source>Management Science</source>
+  <bookEdition></bookEdition>
+  <title>Using Machine Learning to Measure Conservatism.</title>
+  <pageEnd>1522</pageEnd>
+  <pageStart>1504</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>19</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Conservatism (Accounting) ; Machine learning ; Conservatism ; Noise</subjects>
+  <abstract>This study proposes an approach to measure conservatism using machine learning techniques that are not constrained by functional form restrictions. We extend the differential timeliness model to allow for observable characteristics related to conservatism to follow nonlinear relationships. By developing machine learning measures of conservatism, we draw attention to potential benefits and drawbacks and show how its insights complement conventional measures. Our broader goal is to investigate the effectiveness of machine learning algorithms for filtering noise in traditional archival studies and uncovering more complex empirical patterns. This paper was accepted by Suraj Srinivasan, accounting. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.4983.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>182990768</an>
+  <docTypes>Article</docTypes>
+  <volume>71</volume>
+  <issns>1526-5501</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=062d6d09-c93e-31de-996f-3877c5a836f1</plink>
+  <doids></doids>
+  <publisher>INFORMS: Institute for Operations Research &amp;amp; the Management Sciences</publisher>
+  <contributors>Bertomeu, Jeremy ; Cheynel, Edwige ; Liao, Yifei ; Milone, Mario</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1287/mnsc.2024.4983</doi>
+</record>

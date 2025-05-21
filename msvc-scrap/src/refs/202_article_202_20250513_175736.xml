@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Journal of Psychoeducational Assessment</source>
+  <bookEdition></bookEdition>
+  <title>Combining Statistical and Machine Learning Methods to Identify Predictors of Brazilian Students' Proficiency in PISA 2018</title>
+  <pageEnd>954</pageEnd>
+  <pageStart>927</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>28</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>8</issue>
+  <identifiers></identifiers>
+  <subjects>Foreign Countries ; Achievement Tests ; Secondary School Students ; International Assessment ; Artificial Intelligence ; Predictor Variables ; Mathematics Achievement ; Science Achievement ; Reading Achievement ; Statistical Analysis ; Brazil ; Program for International Student Assessment</subjects>
+  <abstract>Brazil's education system lags behind international standards, with two-fifths of students scoring below the minimum level of proficiency in mathematics, science, and reading. Thus, this study combined machine learning with traditional statistics to identify the most important predictors and to interpret their effects on proficiency in the PISA 2018 mathematics, science, and reading tests. Predictors encompassed a wide range of variables, sociodemographic characteristics, teaching and learning processes, and non-cognitive skills. The outcome of the present study was proficiency in mathematics, science, and reading. PISA proficiency levels were grouped into "low proficiency" and "proficient" categories, using a classification system commonly employed in PISA reports. Using random forest analysis, a machine learning method, I compared the importance of predictors for proficiency in mathematics, science, and reading. I then adjusted multilevel logistic regression analyses to investigate the relationship between the top predictors and the outcomes. Among the top predictors for the three outcomes identified, annual household income, parents' highest occupational status, and early childhood education and care were positively associated with proficiency in mathematics, science, and reading, while grade repetition and additional instruction were negatively associated with these outcomes. These findings urge Brazilian policymakers and educators to prioritize initiatives that strengthen early childhood programs, minimize grade repetition, and promote effective learning strategies.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1446448</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>42</volume>
+  <issns>0734-2829 ; 1557-5144</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3de9328f-5a5d-3099-8f3c-cc638388ac73</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Pedro San Martin Soares</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1177/07342829241262861</doi>
+</record>

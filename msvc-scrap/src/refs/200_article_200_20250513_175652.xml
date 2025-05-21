@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>German</language>
+  <source>Österreichische Wasser- und Abfallwirtschaft</source>
+  <bookEdition></bookEdition>
+  <title>Digitalisierung der Handsortierung durch Künstliche Intelligenz, Machine Learning und Human Machine Interaction</title>
+  <pageEnd>25</pageEnd>
+  <pageStart>19</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240201</publicationDate>
+  <pageCount>7</pageCount>
+  <publisherLocations>Vienna</publisherLocations>
+  <issue>1-2</issue>
+  <identifiers></identifiers>
+  <subjects>Handsortierung ; Human-machine-interaction ; Maschinelles Lernen ; Continual learning ; Recycling ; Abfallsortierung ; Kreislaufwirtschaft ; Unterstützungssystem ; Manual sorting ; Machine learning ; Waste sorting ; Circular economy ; Assistance systems</subjects>
+  <abstract>Zusammenfassung: Die Abfallwirtschaft wandelt sich zu einer produzierenden Industrie in der Kreislaufwirtschaft. Trotz Fortschritten und Optimierungen bei der automatischen sensor-basierten Sortierung bleibt die Handsortierung von Abfällen relevant. Das Projekt recAIcle hat es sich zum Ziel gesetzt, die Digitalisierung der Handsortierung in der Abfallwirtschaft mithilfe von künstlicher Intelligenz (KI), Machine Learning (ML) und Human-Machine Interaction (HMI) voranzutreiben. KI und ML haben mehrfach gezeigt, wie sie ganze Industrien und Branchen revolutionieren können. Das Projekt RecAIcle fokussiert sich auf die Kunststoff- und Batterieerkennung und -sortierung. Die Produktivität und Qualität der Handsortierung sollen dadurch gesteigert werden. Hierfür wird ein digitales Assistenzsystem, das die Sortiermitarbeiter:innen bei der Sortierentscheidung unterstützt, entwickelt. Aufgrund der speziellen Anforderungen an ein solches System wurde das Framework Design entsprechend angepasst. Für die Entwicklung dieses Systems werden fortschrittliche, lebenslang lernende ML-Modelle benötigt, welche wiederum große Mengen an hochqualitativen Trainingsdaten und Rechenleistung benötigen. Um genügend use-case-spezifische Trainingsdaten bereitstellen zu können, wurden Versuche unter kontrollierten Bedingungen im Technikumsmaßstab zur Trainingsdatenakquise durchgeführt. Die Ergebnisse des Systemdesignprozesses und der ersten Trainingsdatenakquise werden in dieser Veröffentlichung präsentiert. Ebenso wird ein Ausblick auf künftige Entwicklungen und weitere geplante Versuche gegeben.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.24084135</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>76</volume>
+  <issns>0945358X ; 16137566</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f3aa5102-12f5-3ae6-8014-abde22132f43</plink>
+  <doids></doids>
+  <publisher>Springer Vienna</publisher>
+  <contributors>Aberger, Julian ; Khodier, Karim ; Sarc, Renato</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s00506-023-01002-7</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-4237-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 International Conference on Automation and Computation (AUTOCOM), Automation and Computation (AUTOCOM), 2025 International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Applying Machine Learning Approaches in Fertilizer Optimization and Yield Prediction for Smart Agriculture</title>
+  <pageEnd>58</pageEnd>
+  <pageStart>53</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250304</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineering Profession ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Smart agriculture ; Machine learning ; Soil ; Predictive models ; Prediction algorithms ; Real-time systems ; Optimization ; Crop yield ; Fertilizers ; Farming ; machine learning ; yield prediction ; fertilizer optimization ; precision farming ; sustainable agriculture ; crop yield forecasting ; data-driven farming ; environmental impact reduction ; aggrotech innovation ; soil health analytics ; climate-smart agriculture ; AI in agriculture ; sustainable crop management</subjects>
+  <abstract>In smart agriculture, the most revolutionary technological advancement is the application of machine learning to support better decisions making in developing augmented crop yields. This research looks at how predictive analysis can bring about the best choice of fertilizers can enhance the prediction of yields, to overcome problems such as excessive use of fertilizers, degradation of the environment and inconsistent yields. Machine learning models were trained on various large datasets including soil health, the meteorological condition of the farming area, growth rate of crops to produce custom solutions that options of fertilizers to be used under certain situations. The findings affirm improved yield prediction and efficient and economical fertilizer application without compromising on environmental conservation. By focusing on increasing yields, this approach also adheres to sustainable or sustainable intensification that is a perfect fit for the modern world characterized by climatic volatility while providing a sound platform to feed the world in the future. The results thus indicate the convenience of machine learning over conventional farming lifts traditional farming to a new level of advancement hence the future of green farming.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10956684</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=373cb3b3-7b8d-3fd2-9fcd-f51496e3b0e4</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Apuroop, Ithi ; Sandhu, Ramandeep ; Sai Krishnamraju, Datla Eswar ; Singh, Gurvinder ; Shikhar, Sanket ; Kumar, Sourabh ; Jakkampud, Saikumar</contributors>
+  <coverDate>20250304</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/AUTOCOM64127.2025.10956684</doi>
+</record>

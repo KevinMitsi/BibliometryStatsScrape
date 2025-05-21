@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>O8P</mid>
+  <language>eng</language>
+  <source>Irrigation &amp;amp; Drainage</source>
+  <bookEdition></bookEdition>
+  <title>Model ensemble techniques of machine learning algorithms for soil moisture constants in the semi‐arid climate conditions.</title>
+  <pageEnd>540</pageEnd>
+  <pageStart>529</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>12</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial neural networks ; Machine learning ; Standard deviations ; Akaike information criterion ; Support vector machines</subjects>
+  <abstract>In recent years, the use of prediction models based on intelligent algorithms has become widespread in soil science. However, each algorithm has advantages and disadvantages, and variable results can occur on different datasets. The evaluation of ensemble techniques for solving these problems is the current approach. Water problems will arise due to global warming, and soil water will become more important. This study aims to evaluate the predictive accuracy of different machine learning algorithms (support vector machine regression (SVR), random forest (RF), artificial neural network (ANN), and multivariate linear regression (MLR)) and ensemble techniques (equal weight [EQ], Bates–Granger‐BG), Granger–Ramanathan (GR), Akaike information criterion (AIC), and Bayesian information criterion (BIC)) on the field capacity (FC), wilting point (WP) and available water content (AWC) of soils. As a result, higher prediction accuracy was obtained with the RF algorithm than with the value machine learning algorithm in the estimation of moisture constants. The coefficients of determination (R2) obtained for the prediction of FC, WP, and AWC via the RF algorithms were 0.624, 0.759 and 0.641, respectively. MLR had the highest error rate. Among the ensemble techniques, GR was the most successful. Lin's concordance correlation coefficient (LCCC) values obtained from the estimation of FC, WP, and AWC with the GR model were 0.801, 0.894, and 0.801, respectively. The root mean squared error (RMSE) and mean absolute error (MAE) values obtained in the estimation of the available water content with the MLR algorithm were 1.905 and 1.435, respectively, whereas these values were 1.173 and 0.767, respectively, when the GR model was used. As a result of the present study, better predictive results were obtained with ensemble techniques instead of evaluating the algorithms individually.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184404247</an>
+  <docTypes>Article</docTypes>
+  <volume>74</volume>
+  <issns>1531-0353</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5fb43afe-e6f7-3a9a-9631-70273d61420b</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Alaboz, Pelin</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/ird.3037</doi>
+</record>

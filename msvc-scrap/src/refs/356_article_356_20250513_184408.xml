@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CRL</mid>
+  <language>eng</language>
+  <source>International Journal of Molecular Sciences</source>
+  <bookEdition></bookEdition>
+  <title>miRNA-Based Diagnosis of Schizophrenia Using Machine Learning.</title>
+  <pageEnd></pageEnd>
+  <pageStart>2280</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; PSYCHIATRIC diagnosis ; RANDOM forest algorithms ; NEUROLOGICAL disorders ; GENE targeting</subjects>
+  <abstract>Diagnostic practices for schizophrenia are unreliable due to the lack of a stable biomarker. However, machine learning holds promise in aiding in the diagnosis of schizophrenia and other neurological disorders. Dysregulated miRNAs were extracted from public sources. Datasets of miRNAs selected from the literature and random miRNAs with designated gene targets along with related pathways were assigned as descriptors of machine-learning models. These data were preprocessed and classified using WEKA and TensorFlow, and several classifiers were tested to train the model. The Sequential neural network developed by authors performed the best of the classifiers tested, achieving an accuracy of 94.32%. Naïve Bayes was the next best model, with an accuracy of 72.23%. MLP achieved an accuracy of 65.91%, followed by Hoeffding tree with an accuracy of 64.77%, Random tree with an accuracy of 63.64%, Random forest, which achieved an accuracy of 61.36%, and lastly ADABoostM1, which achieved an accuracy of 53.41%. The Sequential neural network and Naïve Bayes classifier were tested to validate the model as they achieved the highest accuracy. Naïve Bayes achieved a validation accuracy of 72.22%, whereas the sequential neural network achieved an accuracy of 88.88%. Our results demonstrate the practicality of machine learning in psychiatric diagnosis. Dysregulated miRNA combined with machine learning can serve as a diagnostic aid to physicians for schizophrenia and potentially other neurological disorders as well.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183650294</an>
+  <docTypes>Article</docTypes>
+  <volume>26</volume>
+  <issns>1661-6596</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=046af85a-1ca2-32f3-b6f4-a42b58e38e5f</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Heda, Vishrut ; Dogra, Saanvi ; Kouznetsova, Valentina L. ; Kumar, Alex ; Kesari, Santosh ; Tsigelny, Igor F.</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/ijms26052280</doi>
+</record>

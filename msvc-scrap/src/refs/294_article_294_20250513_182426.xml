@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Communications Biology</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning-led semi-automated medium optimization reveals salt as key for flaviolin production in Pseudomonas putida.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250418</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Pseudomonas putida ; Machine Learning ; Culture Media ; Sodium Chloride ; Synthetic Biology ; Automation</subjects>
+  <abstract>Although synthetic biology can produce valuable chemicals in a renewable manner, its progress is still hindered by a lack of predictive capabilities. Media optimization is a critical, and often overlooked, process which is essential to obtain the titers, rates and yields needed for commercial viability. Here, we present a molecule- and host-agnostic active learning process for media optimization that is enabled by a fast and highly repeatable semi-automated pipeline. Its application yielded 60% and 70% increases in titer, and 350% increase in process yield in three different campaigns for flaviolin production in Pseudomonas putida KT2440. Explainable Artificial Intelligence techniques pinpointed that, surprisingly, common salt (NaCl) is the most important component influencing production. The optimal salt concentration is very high, comparable to seawater and close to the limits that P. putida can tolerate. The availability of fast Design-Build-Test-Learn (DBTL) cycles allowed us to show that performance improvements for active learning are rarely monotonous. This work illustrates how machine learning and automation can change the paradigm of current synthetic biology research to make it more effective and informative, and suggests a cost-effective and underexploited strategy to facilitate the high titers, rates and yields essential for commercial viability.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt2kq3g906</an>
+  <docTypes>article</docTypes>
+  <volume>8</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1b07569d-9c5b-3581-9a9e-fdcdd563d333</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Zournas, Apostolos ; Incha, Matthew ; Radivojevic, Tijana ; Blay, Vincent ; Martí, Jose ; Costello, Zak ; Schimdt, Matthias ; Chung, Tan ; Thompson, Mitchell ; Pearson, Allison ; Kinnunen, Patrick ; Eng, Thomas ; Lawson, Christopher ; Tan, Stephen ; Ogorzalek, Tadeusz ; Kaplan, Nurgul ; Forrer, Mark ; Backman, Tyler ; Mukhopadhyay, Aindrila ; Hillson, Nathan ; Keasling, Jay ; Garcia Martin, Hector</contributors>
+  <coverDate>20250418</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

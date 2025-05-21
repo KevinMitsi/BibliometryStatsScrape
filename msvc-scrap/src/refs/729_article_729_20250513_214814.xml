@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>British Journal of Educational Psychology</source>
+  <bookEdition></bookEdition>
+  <title>Using Machine Learning to Predict UK and Japanese Secondary Students' Life Satisfaction in PISA 2018</title>
+  <pageEnd>498</pageEnd>
+  <pageStart>474</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240601</publicationDate>
+  <pageCount>25</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Secondary School Students ; Life Satisfaction ; Foreign Countries ; Achievement Tests ; International Assessment ; Algorithms ; Predictor Variables ; United Kingdom ; Japan ; Program for International Student Assessment</subjects>
+  <abstract>Background: Life satisfaction is a key component of students' subjective well-being due to its impact on academic achievement and lifelong health. Although previous studies have investigated life satisfaction through different lenses, few of them employed machine learning (ML) approaches. Objective: Using ML algorithms, the current study predicts secondary students' life satisfaction from individual-level variables. Method: Two supervised ML models, random forest (RF) and k-nearest neighbours (KNN), were developed based on the UK data and the Japan data in PISA 2018. Results: Findings show that (1) both models yielded better performance on the UK data than on the Japanese data; (2) the RF model outperformed the KNN model in predicting students' life satisfaction; (3) meaning in life, student competition, teacher support, exposure to bullying and ICT resources at home and at school played important roles in predicting students' life satisfaction. Conclusions: Theoretically, this study highlights the multi-dimensional nature of life satisfaction and identifies several key predictors. Methodologically, this study is the first to use ML to explore the predictors of life satisfaction. Practically, it serves as a reference for improving secondary students' life satisfaction.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1421669</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>94</volume>
+  <issns>0007-0998 ; 2044-8279</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f8eed9dd-6ce6-3075-96a8-c6b03b596f1f</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Zexuan Pan ; Maria Cutumisu</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1111/bjep.12657</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdoj</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Journal of Traditional Chinese Medical Sciences</source>
+  <bookEdition></bookEdition>
+  <title>Machine vision and learning for evaluating different rancidity grades of Prunus mandshurica (Maxim.) Koehne</title>
+  <pageEnd>296</pageEnd>
+  <pageStart>287</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>10</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Quality evaluation ; Prunus mandshurica (Maxim.) Koehne ; Rancidity ; Machine vision ; Machine learning ; Miscellaneous systems and treatments ; RZ409.7-999</subjects>
+  <abstract>Objective: To explore a rapid and accurate method for evaluating the quality of Prunus mandshurica (Maxim.) Koehne (P. mandshurica, Ku Xing Ren) during rancidity using machine vision and learning. Methods: Sensory evaluation and chemometrics were used to classify P. mandshurica quality grades after rancidity. Chemical indicators of the P. mandshurica quality change were determined to verify the obtained grades and support the subsequent modeling. The International Commission on Illumination color space was used to extract the color features of the P. mandshurica. Discrimination and prediction models based on color features combined with multiple machine learning algorithms were established using 10-fold cross-validation and external test set validation. Results: The P. mandshurica rancidity samples were allocated to three quality grades. The Bayes net model based on powder color successfully identified the P. mandshurica at different grades with an accuracy of 88.89% and 100% using two validations, and the naive Bayes model based on section color achieved the same accuracy with an receiver operating characteristic area of 0.979. The instance-based k-nearest neighbors model based on powder color performed best in predicting the amygdalin content [R2 = 0.9801, mean absolute error (MAE) = 0.2071, root mean squared error (RMSE) = 0.4170], followed by the random committee model in predicting the acid value (R2 = 0.9580, MAE = 1.5121, RMSE = 1.9099) and the random forest model in predicting the peroxide value (R2 = 0.8857, MAE = 0.0027, RMSE = 0.0035). Conclusion: This study demonstrates that color digitization analysis is a potential method for rapidly evaluating the quality of P. mandshurica across the rancidity process, providing a new reference for the quality assessment of traditional Chinese medicines.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdoj.5dc71494259241a092d45fcb5ee1dd1f</an>
+  <docTypes>article</docTypes>
+  <volume>12</volume>
+  <issns>20957548</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=50480a55-5306-32f3-8fa4-77b7d118c43a</plink>
+  <doids></doids>
+  <publisher>Elsevier</publisher>
+  <contributors>Yashun Wang ; Huirong Chen ; Jianting Gong ; Yang Cui ; Huiqin Zou ; Yonghong Yan</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Journals</longDBName>
+  <doi>10.1016/j.jtcms.2025.03.005</doi>
+</record>

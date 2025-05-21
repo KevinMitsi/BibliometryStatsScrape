@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Machine-learning-based sampling inspection under OQC capacity for real-time quality monitoring in the TFT-LCD industry.</title>
+  <pageEnd>2113</pageEnd>
+  <pageStart>2090</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250315</publicationDate>
+  <pageCount>24</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Statistical sampling ; Quality control ; Marketing Research and Public Opinion Polling ; Machine learning ; Sampling (Process) ; Thin films</subjects>
+  <abstract>In the thin film transistor-liquid crystal display (TFT-LCD) industry, the competition is fierce, and the external failure cost is high. To improve the quality of released products, sampling inspection under outgoing quality control (OQC) is conducted before products are released. Owing to the variety and complexity of inspection items, the task must be carried out manually while realising automation is difficult. Traditional random sampling inspection is limited by sampling quantity, manpower, and material resources. To effectively improve acceptable quality levels, this paper proposes a quality predictive monitoring framework tailored to the production and inspection characteristics of the TFT-LCD industry. This framework includes real-time automatic quality monitoring based on an optimal machine learning prediction model with two-phase feature creation, and it also addresses OQC inspection capacity constraints. Experimental results show the prediction performance based on proposed model is better than the traditional random sampling process. In practice, superior average outgoing quality improves by more than 70% at the same sampling level. In addition, the features of the process can be further controlled and managed based on the prediction model to monitor the key parameters in real time and respond to abnormalities quickly, thereby further improving the quality of released products.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183684482</an>
+  <docTypes>Article</docTypes>
+  <volume>63</volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7e16a197-3007-3330-bce6-2fa97a8f5daf</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Shih, Ming-Sung ; Chen, James C. ; Chen, Tzu-Li ; Chiang, Chih-Hsiung ; Hsu, Ching-Lan</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2024.2395389</doi>
+</record>

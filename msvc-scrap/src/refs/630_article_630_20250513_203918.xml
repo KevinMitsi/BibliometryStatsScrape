@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>BAUW</mid>
+  <language>eng</language>
+  <source>Procedia Computer Science</source>
+  <bookEdition></bookEdition>
+  <title>Examining the factors contributing to travel mode choices during the COVID-19 pandemic using explainable machine learning.</title>
+  <pageEnd>510</pageEnd>
+  <pageStart>503</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>8</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; COVID-19 pandemic ; Artificial intelligence ; Support vector machines ; Older people ; Choice of transportation</subjects>
+  <abstract>The COVID-19 pandemic greatly affected individuals' travel behavior, particularly their mode preferences. Due to the risk of infection, people began avoiding public transport and shifted toward private transport. Existing studies primarily focused on accurately predicting individuals' mode choices during the pandemic. This study aims to identify the factors contributing to these choices. Ten different machine learning classification models were developed and evaluated, with Random Forest and Support Vector Machines marginally outperforming other classifiers. Explainable machine learning approaches, Gini importance and SHAP analysis, found income and education to be the most significant contributors to mode choices. Individuals with low income were more likely to choose shared transport over solo transport. Similarly, individuals with low education levels are more likely to opt for shared transport. Older individuals exhibited a positive association with shared transport mode choice, while younger individuals tended to prefer solo transport modes. Males were more likely to choose shared transport than females. These findings can assist urban and transport planners in efficiently planning and operating transport systems during pandemics.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184753930</an>
+  <docTypes>Article</docTypes>
+  <volume>257</volume>
+  <issns>1877-0509</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7dd5c15d-bdff-3417-a387-174d28b611ff</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Abdullah, Muhammad</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.1016/j.procs.2025.03.065</doi>
+</record>

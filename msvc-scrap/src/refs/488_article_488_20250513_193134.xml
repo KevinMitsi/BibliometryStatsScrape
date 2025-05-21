@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Unemployment Dynamics Forecasting with Machine Learning Regression Models</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250503</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Machine Learning ; Economics - Econometrics</subjects>
+  <abstract>In this paper, I explored how a range of regression and machine learning techniques can be applied to monthly U.S. unemployment data to produce timely forecasts. I compared seven models: Linear Regression, SGDRegressor, Random Forest, XGBoost, CatBoost, Support Vector Regression, and an LSTM network, training each on a historical span of data and then evaluating on a later hold-out period. Input features include macro indicators (GDP growth, CPI), labor market measures (job openings, initial claims), financial variables (interest rates, equity indices), and consumer sentiment. I tuned model hyperparameters via cross-validation and assessed performance with standard error metrics and the ability to predict the correct unemployment direction. Across the board, tree-based ensembles (and CatBoost in particular) deliver noticeably better forecasts than simple linear approaches, while the LSTM captures underlying temporal patterns more effectively than other nonlinear methods. SVR and SGDRegressor yield modest gains over standard regression but don't match the consistency of the ensemble and deep-learning models. Interpretability tools ,feature importance rankings and SHAP values, point to job openings and consumer sentiment as the most influential predictors across all methods. By directly comparing linear, ensemble, and deep-learning approaches on the same dataset, our study shows how modern machine-learning techniques can enhance real-time unemployment forecasting, offering economists and policymakers richer insights into labor market trends. In the comparative evaluation of the models, I employed a dataset comprising thirty distinct features over the period from January 2020 through December 2024.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2505.01933</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4eef9b14-a2fe-349c-a2cf-103293895a33</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Kim, Kyungsu</contributors>
+  <coverDate>20250503</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

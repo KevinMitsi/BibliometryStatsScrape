@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781800567641 ; 9781800561816</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Automated Machine Learning with AutoKeras : Deep Learning Made Accessible for Everyone with Just Few Lines of Coding</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20210101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / General ; COMPUTERS / Machine Theory ; COMPUTERS / Languages / Python ; Machine learning</subjects>
+  <abstract>Create better and easy-to-use deep learning models with AutoKerasKey FeaturesDesign and implement your own custom machine learning models using the features of AutoKerasLearn how to use AutoKeras for techniques such as classification, regression, and sentiment analysisGet familiar with advanced concepts as multi-modal, multi-task, and search space customizationBook DescriptionAutoKeras is an AutoML open-source software library that provides easy access to deep learning models. If you are looking to build deep learning model architectures and perform parameter tuning automatically using AutoKeras, then this book is for you. This book teaches you how to develop and use state-of-the-art AI algorithms in your projects. It begins with a high-level introduction to automated machine learning, explaining all the concepts required to get started with this machine learning approach. You will then learn how to use AutoKeras for image and text classification and regression. As you make progress, you'll discover how to use AutoKeras to perform sentiment analysis on documents. This book will also show you how to implement a custom model for topic classification with AutoKeras. Toward the end, you will explore advanced concepts of AutoKeras such as working with multi-modal data and multi-task, customizing the model with AutoModel, and visualizing experiment results using AutoKeras Extensions. By the end of this machine learning book, you will be able to confidently use AutoKeras to design your own custom machine learning models in your company.What you will learnSet up a deep learning workstation with TensorFlow and AutoKerasAutomate a machine learning pipeline with AutoKerasCreate and implement image and text classifiers and regressors using AutoKerasUse AutoKeras to perform sentiment analysis of a text, classifying it as negative or positiveLeverage AutoKeras to classify documents by topicsMake the most of AutoKeras by using its most powerful extensionsWho this book is forThis book is for machine learning and deep learning enthusiasts who want to apply automated ML techniques to their projects. Prior basic knowledge of Python programming and machine learning is expected to get the most out of this book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2916829</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7a7d7604-1a7f-304a-81aa-def0ad9b8ede</plink>
+  <doids>NL$2916829$PDF ; NL$2916829$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Luis Sobrecueva</contributors>
+  <coverDate>2021</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

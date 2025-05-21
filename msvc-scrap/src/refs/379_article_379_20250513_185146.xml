@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-1579-9 ; 979-8-3315-1578-2</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 24th International Symposium INFOTEH-JAHORINA (INFOTEH), INFOTEH-JAHORINA (INFOTEH), 2025 24th International Symposium</source>
+  <bookEdition></bookEdition>
+  <title>Smart Vault Security Through Self-Calibrating Weight Analytics, IoT, Blockchain, and Machine Learning</title>
+  <pageEnd>6</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250319</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Bioengineering ; Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Power, Energy and Industry Applications ; Robotics and Control Systems ; Signal Processing and Analysis ; Temperature sensors ; Temperature measurement ; Support vector machines ; Surveillance ; Sensor systems ; Blockchains ; Sensors ; Security ; Internet of Things ; Secure storage ; Machine learning ; Blockchain ; Weight Analytics</subjects>
+  <abstract>This paper enhances vault security by integrating IoT, blockchain, and machine learning to monitor banknote weight. Blockchain ensures secure, tamper-proof storage of weight data, helping detect inconsistencies and potential theft. Machine learning models, including Linear Regression, Lasso Regression, KNN, SVM, and Random Forest, predict banknote count based on weight, with Linear and Lasso Regression achieving the highest accuracy. Challenges like data limitations and computational constraints are addressed, with recommendations for improvements. By combining these technologies, the system strengthens vault security, prevents theft, and ensures data integrity, offering a reliable solution for safeguarding physical currency.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10959193</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>27679470</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7ec71107-da1d-37d3-821f-65c0aea367f2</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Hajdarevic, Kemal</contributors>
+  <coverDate>20250319</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/INFOTEH64129.2025.10959193</doi>
+</record>

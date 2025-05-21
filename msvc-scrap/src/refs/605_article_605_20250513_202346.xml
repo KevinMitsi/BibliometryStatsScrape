@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CHU</mid>
+  <language>eng</language>
+  <source>BMC Infectious Diseases</source>
+  <bookEdition></bookEdition>
+  <title>A machine learning model for predicting severe mycoplasma pneumoniae pneumonia in school-aged children.</title>
+  <pageEnd>10</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250421</publicationDate>
+  <pageCount>10</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; MYCOPLASMA pneumoniae infections ; SCHOOL children ; FEATURE selection ; MYCOPLASMA pneumoniae</subjects>
+  <abstract>Objective: To develop an interpretable machine learning (ML) model for predicting severe Mycoplasma pneumoniae pneumonia (SMPP) in order to provide reliable factors for predicting the clinical type of the disease. Methods: We collected clinical data from 483 school-aged children with M. pneumoniae pneumonia (MPP) who were hospitalized at the Children's Hospital of Soochow University between September 2021 and June 2024. Difference analysis and univariate logistic regression were employed to identify predictors for training features in ML. Eight ML algorithms were used to build models based on the selected features, and their effectiveness was validated. The area under the curve (AUC), accuracy, five-fold cross-validation, and decision curve analysis (DCA) were utilized to evaluate model performance. Finally, the best-performing ML model was selected, and the Shapley Additive Explanations (SHAP) method was applied to rank the importance of clinical features and interpret the final model. Results: After feature selection, 30 variables remained. We constructed eight ML models and assessed their effectiveness, finding that the CatBoost model exhibited the best predictive performance, with an AUC of 0.934 and an accuracy of 0.9175. DCA was used to compare the clinical benefits of the models, revealing that the CatBoost model provided greater net benefits than the other ML models within the threshold probability range of 34% to 75%. Additionally, we applied the SHAP method to interpret the CatBoost model, and the SHAP diagram was used to visually show the influence of predictor variables on the outcome. The results identified the top six risk factors as the number of days with fever, D-dimer, platelet count (PLT), C-reactive protein (CRP), lactate dehydrogenase (LDH), and the neutrophil-to-lymphocyte ratio (NLR). Conclusions: The interpretable CatBoost model can help physicians accurately identify school-aged children with SMPP. This early identification facilitates better treatment options and timely prevention of complications. Furthermore, the SHAP algorithm enhances the model's transparency and increases its trustworthiness in practical applications.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184626290</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1471-2334</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5197c1c6-c9da-3385-bc84-00b7f4408b8f</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Ye, Yingying ; Gao, Zhenpeng ; Zhang, Zhiling ; Chen, Jianlong ; Chu, Chu ; Zhou, Weifang</contributors>
+  <coverDate>4/21/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12879-025-10958-8</doi>
+</record>

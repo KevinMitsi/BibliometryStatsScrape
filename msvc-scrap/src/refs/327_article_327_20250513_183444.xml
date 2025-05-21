@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Nature Communications</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning in point-of-care testing: innovations, challenges, and opportunities.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250402</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Machine Learning ; Point-of-Care Testing ; Humans ; COVID-19 ; SARS-CoV-2 ; Pandemics ; Artificial Intelligence ; Reproducibility of Results ; COVID-19 Testing ; Point-of-Care Systems</subjects>
+  <abstract>The landscape of diagnostic testing is undergoing a significant transformation, driven by the integration of artificial intelligence (AI) and machine learning (ML) into decentralized, rapid, and accessible sensor platforms for point-of-care testing (POCT). The COVID-19 pandemic has accelerated the shift from centralized laboratory testing but also catalyzed the development of next-generation POCT platforms that leverage ML to enhance the accuracy, sensitivity, and overall efficiency of point-of-care sensors. This Perspective explores how ML is being embedded into various POCT modalities, including lateral flow assays, vertical flow assays, nucleic acid amplification tests, and imaging-based sensors, illustrating their impact through different applications. We also discuss several challenges, such as regulatory hurdles, reliability, and privacy concerns, that must be overcome for the widespread adoption of ML-enhanced POCT in clinical settings and provide a comprehensive overview of the current state of ML-driven POCT technologies, highlighting their potential impact in the future of healthcare.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt3233883x</an>
+  <docTypes>article</docTypes>
+  <volume>16</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=48b163b4-7d14-3eff-a218-f010a08fa42b</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Han, Gyeo-Re ; Goncharov, Artem ; Eryilmaz, Merve ; Ye, Shun ; Palanisamy, Barath ; Ghosh, Rajesh ; Lisi, Fabio ; Rogers, Elliott ; Guzman, David ; Yigci, Defne ; Tasoglu, Savas ; Di Carlo, Dino ; Goda, Keisuke ; McKendry, Rachel ; Ozcan, Aydogan</contributors>
+  <coverDate>20250402</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

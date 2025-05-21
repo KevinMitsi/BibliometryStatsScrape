@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Brain Communications</source>
+  <bookEdition></bookEdition>
+  <title>Stratifying risk of Alzheimers disease in healthy middle-aged individuals with machine learning.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>CSF proteomics ; asymptomatic Alzheimer’s disease ; disease progression ; machine learning ; risk stratification</subjects>
+  <abstract>Alzheimers disease has a prolonged asymptomatic phase during which pathological changes accumulate before clinical symptoms emerge. This study aimed to stratify the risk of clinical disease to inform future disease-modifying treatments. Cerebrospinal fluid analysis from participants in the Emory Healthy Brain Study was used to classify individuals based on amyloid beta 42 (Aβ42), total tau (tTau) and phosphorylated tau (pTau) levels. Cognitively normal (CN), biomarker-positive (CN)/BM+individuals were identified using a tTau: Aβ42 ratio &amp;gt; 0.24, determined by Gaussian mixture models. CN/BM+ individuals (n = 134) were classified as having asymptomatic Alzheimers disease (AsymAD), while CN, biomarker-negative (CN/BM-) individuals served as controls (n = 134). Cognitively symptomatic, biomarker-positive individuals with an Alzheimers disease diagnosis confirmed by the Emory Cognitive Neurology Clinic were labelled as Alzheimers disease (n = 134). Study groups were matched for age, sex, race and education. Cerebrospinal fluid samples from these matched Emory Healthy Brain Study groups were analysed using targeted proteomics via selected reaction monitoring mass spectrometry. The targeted cerebrospinal fluid panel included 75 peptides from 58 unique proteins. Machine learning approaches identified a subset of eight peptides (ADQDTIR, AQALEQAK, ELQAAQAR, EPVAGDAVPGPK, IASNTQSR, LGADMEDVCGR, VVSSIEQK, YDNSLK) that distinguished between CN/BM- and symptomatic Alzheimers disease samples with a binary classifier area under the curve performance of 0.98. Using these eight peptides, Emory Healthy Brain Study AsymAD cases were further stratified into Control-like and Alzheimers disease-like subgroups, representing varying levels of risk for developing clinical disease. The eight peptides were evaluated in an independent dataset from the Alzheimers Disease Neuroimaging Initiative, effectively distinguishing CN/BM- from symptomatic Alzheimers disease cases (area under the curve = 0.89) and stratifying AsymAD individuals into control-like and Alzheimers disease-like subgroups (area under the curve = 0.89). In the absence of matched longitudinal data, an established cross-sectional event-based disease progression model was employed to assess the generalizability of these peptides for risk stratification. In summary, results from two independent modelling methods and datasets demonstrate that the identified eight peptides effectively stratify the risk of progression from asymptomatic to symptomatic Alzheimers disease.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt7n55538g</an>
+  <docTypes>article</docTypes>
+  <volume>7</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d9b98031-d14c-36e2-a46f-734c1f453dbe</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Tandon, Raghav ; Zhao, Liping ; Watson, Caroline ; Sarkar, Neel ; Elmor, Morgan ; Heilman, Craig ; Sanders, Katherine ; Hales, Chadwick ; Yang, Huiying ; Loring, David ; Goldstein, Felicia ; Hanfelt, John ; Duong, Duc ; Johnson, Erik ; Wingo, Aliza ; Wingo, Thomas ; Roberts, Blaine ; Seyfried, Nicholas ; Levey, Allan ; Lah, James ; Mitchell, Cassie</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

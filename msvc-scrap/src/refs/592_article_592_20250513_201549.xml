@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CI0</mid>
+  <language>eng</language>
+  <source>BMC Medical Informatics &amp;amp; Decision Making</source>
+  <bookEdition></bookEdition>
+  <title>Predicting preeclampsia in early pregnancy using clinical and laboratory data via machine learning model.</title>
+  <pageEnd>15</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; FETAL growth retardation ; BIOMARKERS ; MEDICAL sciences ; BLOOD pressure ; PREECLAMPSIA</subjects>
+  <abstract>Background: This study was performed to characterize the relationship of various laboratory test indicators with clinical information and Preeclampsia (PE) development. Then, prediction models for early-onset preeclampsia (EOPE), late-onset preeclampsia (LOPE), and preterm preeclampsia (Preterm PE) were developed using maternal characteristics and laboratory data. Methods: Between January 2019 and December 2021, we retrospectively recruited 144 EOPE, 363 LOPE, 231 Preterm PE, and 1458 healthy participants from six hospitals. We utilized all available clinical and laboratory data obtained during routine prenatal visits in early pregnancy. The models for EOPE, LOPE, and Preterm PE were created using ensemble machine learning models with patient clinical and laboratory data. Results: By comparing laboratory variables between PE patients and healthy controls, we identified 7, 18, 8, 15, 7,29 laboratory markers for EOPE, LOPE, and Preterm PE, severe PE, superimposed PE, first-time PE respectively. The ensemble EOPE and LOPE models incorporating clinical and laboratory predictors outperformed the clinical factor models respectively. The ensemble EOPE model demonstrated good sensitivity (72.22%,95% confidence interval [CI]: 57.59%-86.85%) and specificity (85.25%,95% CI: 80.54%-89.97%) in distinguishing EOPE from controls in early pregnancy. Similarly, the ensemble LOPE model showed good accuracy in differentiating LOPE from healthy participants (sensitivity: 69.57%, 95% CI: 56.27%-82.86%; specificity: 85.25%, 95% CI: 80.54%-89.97%). The prediction scores demonstrated notable positive correlations with blood pressure at admission, while they showed inverse correlations with 24-hour urine protein levels and fetal growth restriction among PE patients. In conclusion, our study identified key laboratory indicators for forecasting PE. The developed models exhibited good predictive capability for assessing preeclampsia risk and severity based on clinical and laboratory data. Clinical trial number: Not applicable.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184871837</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1472-6947</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d9f0ba95-ee39-3258-9937-a85e8f086670</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Chen, Songchang ; Li, Jia ; Zhang, Xiao ; Xu, Wenqiu ; Qiu, Zhixu ; Yan, Siyao ; Zhao, Wenrui ; Zhao, Zhiguang ; Tian, Peirun ; Zhao, Qiang ; Zhang, Qun ; Chen, Weiping ; Li, Huahua ; Ruan, Xiaohong ; Xiao, Gefei ; Zhang, Sufen ; Hu, Liqing ; Qin, Jie ; Huang, Wuyan ; Li, Zhongzhe</contributors>
+  <coverDate>5/1/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12911-025-02999-5</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781788474399 ; 9781788473897</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition>2nd ed</bookEdition>
+  <title>Machine Learning in Java : Helpful Techniques to Design, Build, and Deploy Powerful Machine Learning Applications in Java</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20180101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Machine Theory ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / Data Modeling &amp;amp; Design ; Application software--Development ; Java (Computer program language) ; Machine learning--Development</subjects>
+  <abstract>Leverage the power of Java and its associated machine learning libraries to build powerful predictive modelsKey FeaturesSolve predictive modeling problems using the most popular machine learning Java librariesExplore data processing, machine learning, and NLP concepts using JavaML, WEKA, MALLET librariesPractical examples, tips, and tricks to help you understand applied machine learning in JavaBook DescriptionAs the amount of data in the world continues to grow at an almost incomprehensible rate, being able to understand and process data is becoming a key differentiator for competitive organizations. Machine learning applications are everywhere, from self-driving cars, spam detection, document search, and trading strategies, to speech recognition. This makes machine learning well-suited to the present-day era of big data and Data Science. The main challenge is how to transform data into actionable knowledge. Machine Learning in Java will provide you with the techniques and tools you need. You will start by learning how to apply machine learning methods to a variety of common tasks including classification, prediction, forecasting, market basket analysis, and clustering. The code in this book works for JDK 8 and above, the code is tested on JDK 11. Moving on, you will discover how to detect anomalies and fraud, and ways to perform activity recognition, image recognition, and text analysis. By the end of the book, you will have explored related web resources and technologies that will help you take your learning to the next level. By applying the most effective machine learning methods to real-world problems, you will gain hands-on experience that will transform the way you think about data.What you will learnDiscover key Java machine learning librariesImplement concepts such as classification, regression, and clusteringDevelop a customer retention strategy by predicting likely churn candidatesBuild a scalable recommendation engine with Apache MahoutApply machine learning to fraud, anomaly, and outlier detectionExperiment with deep learning concepts and algorithmsWrite your own activity recognition model for eHealth applicationsWho this book is forIf you want to learn how to use Java's machine learning libraries to gain insight from your data, this book is for you. It will get you up and running quickly and provide you with the skills you need to successfully create, customize, and deploy machine learning applications with ease. You should be familiar with Java programming and some basic data mining concepts to make the most of this book, but no prior experience with machine learning is required.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>1947809</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7b49ab44-4581-36a3-9ea4-a18c52051ebe</plink>
+  <doids>NL$1947809$PDF ; NL$1947809$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Ashish Bhatia ; Bostjan Kaluza</contributors>
+  <coverDate>2018</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

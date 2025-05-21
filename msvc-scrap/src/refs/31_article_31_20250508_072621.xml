@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HAYR</mid>
+  <language>eng</language>
+  <source>Ingénierie des Systèmes d'Information</source>
+  <bookEdition></bookEdition>
+  <title>Unconscious Mind-Inspired Algorithm: A Novel Approach to Machine Learning.</title>
+  <pageEnd>821</pageEnd>
+  <pageStart>813</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>9</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>Information processing ; Decision making ; Electronic data processing ; Algorithms ; Data Processing, Hosting, and Related Services ; Machine learning ; Cognitive psychology ; Subliminal perception ; Heuristic algorithms</subjects>
+  <abstract>This work aims to present a novel algorithm referred by unconscious mind-inspired algorithm (UMIA), that targets to incorporate principles derived from the unconscious mind and put it into computational processes. This work will seek to replicate fundamental aspects of the unconscious mind, such as efficient information processing, instinctive decision-making, and flexible learning and by sketching upon theories derived from psychoanalysis and cognitive psychology. The design algorithm encompasses a series of steps aimed at the development of a conceptual framework the utilization of data processing models influenced by subliminal perception and the implementation of intuitive decision-making algorithms. The phase of testing and validation involves the utilization of simulations and practical applications, with a specific emphasis on factors such as accuracy, efficiency, adaptability and user feedback. UMIA holds the potential to bring about a paradigm shift in algorithmic methodologies by integrating cognitive processes that resemble human intelligence. This integration has the potential to yield enhanced performance across a range of applications exceeding the capabilities of current machine learning algorithms.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184436922</an>
+  <docTypes>Article</docTypes>
+  <volume>30</volume>
+  <issns>1633-1311</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b6d9d376-541c-3323-86a1-4db3c1a62c7a</plink>
+  <doids></doids>
+  <publisher>International Information &amp;amp; Engineering Technology Association (IIETA)</publisher>
+  <contributors>Safar, Mohammed ; Omar, Farooq Safauldeen ; Safar, Deniz ; Jaafar, Shayma ; Mohammed, Noor F.</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.18280/isi.300324</doi>
+</record>

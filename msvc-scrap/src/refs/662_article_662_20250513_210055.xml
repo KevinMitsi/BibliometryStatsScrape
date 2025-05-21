@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edo</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>QFG</mid>
+  <language>eng</language>
+  <source>Journal of Computing &amp;amp; Information Technology</source>
+  <bookEdition></bookEdition>
+  <title>Automated Machine Learning and Data-Driven Decision Support System for Strategy Management in Organizational Activities.</title>
+  <pageEnd>71</pageEnd>
+  <pageStart>57</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Long short-term memory ; Decision support systems ; Machine learning ; Error functions ; Institutional environment</subjects>
+  <abstract>In modern organizational activities, the increasing complexity and dynamism of strategy management have rendered traditional static analysis and experience- based decision-making methods inadequate for meeting the rapidly changing market demands and intricate internal processes. To address these challenges, this paper proposes an automated machine learning-based data-driven decision support system. The system incorporates a flexible and scalable model that integrates a strategy management automation algorithm, combining Long Short-Term Memory (LSTM) networks and Deep Q-Network (DQN) algorithms, to enhance the scientific and accurate nature of decision-making. The integrated algorithm shows a significantly higher probability of successful decision-making in organizational environments of different scales compared to traditional DQN and random strategies, demonstrating its superiority in complex decision-making scenarios. Key data indicate that the algorithm exhibits strong stability and robustness in terms of error function curves, algorithm performance, and the number of successful decisions, further validating its effectiveness under various interference conditions. While existing research has attempted to apply machine learning to strategy management to some extent, common issues include inadequate handling of time series data, suboptimal strategy optimization, and lack of flexibility in system models. Experimental results show that the algorithm's decision success rate is significantly higher than that of traditional DQN and random strategies across various organizational scales, demonstrating its efficiency and stability in complex decision-making environments. This study not only provides innovative technical means for strategy management but also offers theoretical and practical references for the future development of intelligent decision support systems.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184708994</an>
+  <docTypes>Article</docTypes>
+  <volume>33</volume>
+  <issns>1330-1136</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b82acffd-02d7-3fea-9063-f2eeab3912b0</plink>
+  <doids></doids>
+  <publisher>CIT. Journal of Computing &amp;amp; Information Technology</publisher>
+  <contributors>Meiling Lu</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Supplemental Index</longDBName>
+  <doi>10.20532/cit.2025.1005877</doi>
+</record>

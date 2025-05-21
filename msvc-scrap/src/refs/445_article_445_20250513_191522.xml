@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Alzheimer's &amp;amp; Dementia</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning prediction of tau‐PET in Alzheimer's disease using plasma, MRI, and clinical data</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Biomedical and Clinical Sciences ; Clinical Sciences ; Neurosciences ; Machine Learning and Artificial Intelligence ; Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD) ; Biomedical Imaging ; Dementia ; Clinical Research ; Bioengineering ; Alzheimer's Disease ; Networking and Information Technology R&amp;amp;D (NITRD) ; Aging ; Acquired Cognitive Impairment ; Brain Disorders ; Neurodegenerative ; 4.1 Discovery and preclinical testing of markers and technologies ; 4.2 Evaluation of markers and technologies ; Neurological ; Humans ; Machine Learning ; Alzheimer Disease ; tau Proteins ; Positron-Emission Tomography ; Magnetic Resonance Imaging ; Aged ; Male ; Female ; Biomarkers ; Brain ; Neuroimaging ; Geriatrics ; Clinical sciences ; Biological psychology</subjects>
+  <abstract>IntroductionTau positron emission tomography (PET) is a reliable neuroimaging technique for assessing regional load of tau pathology in the brain, but its routine clinical use is limited by cost and accessibility barriers.MethodsWe thoroughly investigated the ability of various machine learning models to predict clinically useful tau-PET composites (load and laterality index) from low-cost and non-invasive features, for example, clinical variables, plasma biomarkers, and structural magnetic resonance imaging (MRI).ResultsModels including plasma biomarkers yielded the most accurate predictions of tau-PET burden (best model: R-squared = 0.66-0.69), with especially high contribution from plasma phosphorylated tau-217 (p-tau217). MRI variables were the best predictors of asymmetric tau load between the two hemispheres (best model: R-squared = 0.28-0.42). The models showed high generalizability to external test cohorts with data collected at multiple sites. Through a proof-of-concept two-step classification workflow, we also demonstrated possible model translations to a clinical setting.DiscussionThis study highlights the promising and limiting aspects of using machine learning to predict tau-PET from scalable cost-effective variables, with findings relevant for clinical settings and future research.HighlightsAccessible variables showed potential in estimating tau tangle load and distribution. Plasma phosphorylated tau-217 (p-tau217) and magnetic resonance imaging (MRI) were the best predictors of different tau-PET (positron emission tomography) composites. Machine learning models demonstrated high generalizability across AD cohorts.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt1gh5m4sm</an>
+  <docTypes>article</docTypes>
+  <volume>21</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b5872f52-9bf2-3a74-a435-230e3ab55f5c</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Karlsson, Linda ; Vogel, Jacob ; Arvidsson, Ida ; Åström, Kalle ; Strandberg, Olof ; Seidlitz, Jakob ; Bethlehem, Richard AI ; Stomrud, Erik ; Ossenkoppele, Rik ; Ashton, Nicholas J ; Zetterberg, Henrik ; Blennow, Kaj ; Palmqvist, Sebastian ; Smith, Ruben ; Janelidze, Shorena ; La Joie, Renaud ; Rabinovici, Gil D ; Binette, Alexa Pichet ; Mattsson‐Carlgren, Niklas ; Hansson, Oskar</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>HAYR</mid>
+  <language>eng</language>
+  <source>Ingénierie des Systèmes d'Information</source>
+  <bookEdition></bookEdition>
+  <title>Harmonizing Respiratory Sound Insights: Unleashing the Potential of Machine Learning Classifiers Through Hyperparameter Elegance.</title>
+  <pageEnd>408</pageEnd>
+  <pageStart>395</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250201</publicationDate>
+  <pageCount>14</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Respiratory diseases ; Support vector machines ; Feature extraction ; K-nearest neighbor classification</subjects>
+  <abstract>Respiratory diseases account for 14.1% of global deaths annually, as reported by the World Health Organization, underscoring the urgent need for advanced diagnostic tools. This study investigates the classification of respiratory sounds using machine learning techniques applied to the ICBHI 2017 dataset. To address class imbalance and improve generalizability, augmentation methods such as time masking and stretching were implemented. Feature extraction techniques, including Mel-Frequency Cepstral Coefficients (MFCCs), were combined with lightweight classifiers like KNN and SVM, achieving a classification accuracy of 99%. The proposed approach surpasses prior benchmarks while maintaining computational efficiency, making it suitable for deployment on edge devices in resource-constrained healthcare environments.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183420578</an>
+  <docTypes>Article</docTypes>
+  <volume>30</volume>
+  <issns>1633-1311</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=203377fb-e0d5-36d7-b2d6-684df0f24a7f</plink>
+  <doids></doids>
+  <publisher>International Information &amp;amp; Engineering Technology Association (IIETA)</publisher>
+  <contributors>Battu, Vishnu Vardhan ; Manoharan, Kalaiselvi Geetha ; Gudapati, Syam Prasad</contributors>
+  <coverDate>Feb2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.18280/isi.300211</doi>
+</record>

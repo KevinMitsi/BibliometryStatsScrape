@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CIK</mid>
+  <language>eng</language>
+  <source>BMC Public Health</source>
+  <bookEdition></bookEdition>
+  <title>Spatial analysis of air pollutant exposure and its association with metabolic diseases using machine learning.</title>
+  <pageEnd>15</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; AIR pollutants ; MEDICAL sciences ; METABOLIC disorders ; POLLUTANTS</subjects>
+  <abstract>Background: Metabolic diseases (MDs), exemplified by diabetes, hypertension, and dyslipidemia, have become increasingly prevalent with rising living standards, posing significant public health challenges. The MDs are influenced by a complex interplay of genetic factors, lifestyle choices, and socioeconomic conditions. Additionally, environmental pollutants, particularly air pollutants (APs), have attracted increasing attention for their potential role in exacerbating these MDs. However, the impact of APs on the MDs remains unclear. This study introduces a novel machine learning (ML) pipeline, an Algorithm for Spatial Relationships Analysis between Exposome and Metabolic Diseases (ASEMD), to analyze spatial associations between APs and MDs at the prefecture-level city scale in China. Methods: The ASEMD pipeline comprises three main steps: (i) Spatial autocorrelation between APs and MDs is evaluated using Moran's I statistic and Local Indicators of Spatial Association (LISA) maps. (ii) dimensionality reduction and spatial similarities identification between APs and MDs clusters using Principal Component Analysis (PCA), k-means clustering, and Jaccard index calculations, further validated through spatial maps. (iii) AP exposure is adjusted by demographic and lifestyle confounders to predict MDs using machine learning models (e.g., eXtreme Gradient Boosting (XGBoost), Random Forest (RF), Decision Tree (DT), LightGBM, and Multi-Layer Perceptron (MLP)). SHAP values are employed to identify key adjusted APs that are linked to MDs. Model performance is evaluated through 10-fold cross-validation using five different metrics. The data utilized include CHARLS (2015) and meteorological data (2013-2015). Results: Significant spatial correlations were found between APs and the prevalence of diabetes, dyslipidemia, and hypertension, with higher prevalence rates observed in alignment with elevated APs concentrations. By adjusting for demographic and lifestyle confounders, APs effectively predicted the risk of developing MDs (AUROC=0.890, 0.877, 0.710 for diabetes, dyslipidemia, and hypertension, respectively). The results showed that C O , P M 2.5 , and A Q I were strongly correlated with diabetes, whereas N O 2 , P M 2.5 , and P M 10 were significantly associated with dyslipidemia. For hypertension, C O , O 3 , and A Q I were mostly correlated. Sensitivity analyses across different regions and different types of APs underscored the robustness of our conclusions. Conclusion: The ASEMD pipeline successfully integrates ML models, epidemiological methods, and spatial analysis techniques, providing a robust framework for understanding the complex interactions between APs and MDs. We also identified specific APs, including P M 10 , C O , and S O 2 , as being strongly linked to higher rates of diabetes, dyslipidemia, and hypertension in central and northern cities. Future region-specific public health strategies or interventions, especially in those areas with high pollutant levels, are needed to mitigate air pollution's impact on metabolic health.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183374779</an>
+  <docTypes>Article</docTypes>
+  <volume>25</volume>
+  <issns>1471-2458</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1a378cd8-7e41-38f9-8ebc-9f7576f791e1</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Liu, Jingjing ; Liu, Chang ; Liu, Zhangdaihong ; Zhou, Yibin ; Li, Xiaoguang ; Yang, Yang</contributors>
+  <coverDate>3/1/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12889-025-22077-9</doi>
+</record>

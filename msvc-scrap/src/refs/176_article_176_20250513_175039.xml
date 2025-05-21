@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1D68</mid>
+  <language>eng</language>
+  <source>World Journal of Surgical Oncology</source>
+  <bookEdition></bookEdition>
+  <title>Peritoneal cytology predicting distant metastasis in uterine carcinosarcoma: machine learning model development and validation.</title>
+  <pageEnd>16</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250426</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; DATABASES ; LOGISTIC regression analysis ; REGRESSION analysis ; CYTOLOGY</subjects>
+  <abstract>Objective: This study develops and validates a machine learning model using peritoneal cytology to predict distant metastasis in uterine carcinosarcoma, aiding clinical decision-making. Methods: This study utilized detailed clinical data and peritoneal cytology findings from uterine carcinosarcoma patients in the SEER database. Eight machine learning algorithms—Logistic Regression, SVM, GBM, Neural Network, RandomForest, KNN, AdaBoost, and LightGBM—were applied to predict distant metastasis. Model performance was assessed using AUC, calibration curves, DCA, confusion matrices, sensitivity, and specificity. The Logistic Regression model was visualized with a nomogram, and its results were analyzed. SHAP values were used to interpret the best-performing machine learning model. Results: Peritoneal cytology, T stage, age, and tumor size were key factors influencing distant metastasis in uterine carcinosarcoma patients. Peritoneal cytology had significant weight in the prediction models. The logistic regression model demonstrated excellent predictive performance with an AUC of 0.882 in the training set and 0.881 in the internal test set. The model was visualized and interpreted using a nomogram. In comprehensive evaluations, GBM was identified as the best-performing model and was explained using SHAP values. Additionally, calibration and DCA curves indicated that both models have significant potential clinical utility. Conclusion: This study introduces the first effective tool for predicting distant metastasis in uterine carcinosarcoma patients by integrating peritoneal cytology features into model construction. It aids in early identification of high-risk patients, enhancing follow-up and monitoring during tumor development, and supports the optimization of personalized treatment strategies.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184745505</an>
+  <docTypes>Article</docTypes>
+  <volume>23</volume>
+  <issns>1477-7819</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=fbbaf569-2ddc-3201-8330-5757a01ee4a5</plink>
+  <doids></doids>
+  <publisher>BioMed Central</publisher>
+  <contributors>Lin, Qiaoming ; Guan, Qi ; Chen, Danru ; Li, Lilan ; Lin, Yibin</contributors>
+  <coverDate>4/26/2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1186/s12957-025-03771-9</doi>
+</record>

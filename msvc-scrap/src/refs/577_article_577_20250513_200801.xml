@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-3-031-74226-2 ; 978-3-031-74227-9</isbns>
+  <shortDBName>edssjb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Applying Machine Learning in Science Education Research : When, How, and Why?</source>
+  <bookEdition></bookEdition>
+  <title>Automation and Explainability: Supervised Machine Learning with Text Data</title>
+  <pageEnd>265</pageEnd>
+  <pageStart>249</pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>In this chapter we revisit supervised ML and apply it to text data. We particularly utilize a LLM in the fine-tuning paradigm to showcase how these models can be used in science education research projects.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edssjb.978.3.031.74227.9.12</an>
+  <docTypes></docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3a15661d-5d67-3395-8b28-e61f494d45fb</plink>
+  <doids></doids>
+  <publisher>Springer Nature Switzerland</publisher>
+  <contributors>Wulff, Peter ; Kubsch, Marcus ; Krist, Christina</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature eBooks</longDBName>
+  <doi>10.1007/978-3-031-74227-9_12</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B03W</mid>
+  <language>eng</language>
+  <source>Algorithms</source>
+  <bookEdition></bookEdition>
+  <title>Quantum Computing and Machine Learning in Medical Decision-Making: A Comprehensive Review.</title>
+  <pageEnd></pageEnd>
+  <pageStart>156</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>3</issue>
+  <identifiers></identifiers>
+  <subjects>DRUG discovery ; MACHINE learning ; QUANTUM computing ; CHATBOTS ; GENOMICS</subjects>
+  <abstract>Medical decision-making is increasingly integrating quantum computing (QC) and machine learning (ML) to analyze complex datasets, improve diagnostics, and enable personalized treatments. While QC holds the potential to accelerate optimization, drug discovery, and genomic analysis as hardware capabilities advance, current implementations remain limited compared to classical computing in many practical applications. Meanwhile, ML has already demonstrated significant success in medical imaging, predictive modeling, and decision support. Their convergence, particularly through quantum machine learning (QML), presents opportunities for future advancements in processing high-dimensional healthcare data and improving clinical outcomes. This review examines the foundational concepts, key applications, and challenges of these technologies in healthcare, explores their potential synergy in solving clinical problems, and outlines future directions for quantum-enhanced ML in medical decision-making.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184099697</an>
+  <docTypes>Article</docTypes>
+  <volume>18</volume>
+  <issns>1999-4893</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=62aee17e-b9a1-393d-8d45-e9ee987e6880</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Chow, James C. L.</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/a18030156</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-3-031-83096-9 ; 978-3-031-83097-6</isbns>
+  <shortDBName>edssjb</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Informed Machine Learning</source>
+  <bookEdition></bookEdition>
+  <title>Informed Machine Learning Aspects for the Multi-Agent Neural Rewriter</title>
+  <pageEnd>261</pageEnd>
+  <pageStart>235</pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>27</pageCount>
+  <publisherLocations>Cham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>We regard the multi-vehicle routing problem as a cooperative multi-agent system where agents (vehicles) seek to determine the team-optimal agent routes with minimal total cost. Each agent can hereby observe solely its own cost information. Our multi-agent reinforcement learning approach builds on an existing method for solving a single-vehicle routing problem by iteratively rewriting solutions. We define new rewriting rules to enable agents to act and interact in a parallel conflict-free manner. We use a form of Informed Machine Learning to integrate knowledge about the underlying cost distribution into the learning process of the agent policy. It enables the (solely own cost observing) agent to act globally optimal within a representative team. Empirical results on simulated data of small problem sizes show that our approach competes with a well-performing heuristic which has also only imperfect cost knowledge.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edssjb.978.3.031.83097.6.11</an>
+  <docTypes></docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1a49d0fc-7520-3563-a85d-b17493ec1efe</plink>
+  <doids></doids>
+  <publisher>Springer Nature Switzerland</publisher>
+  <contributors>Paul, Nathalie ; Wirtz, Tim ; Wrobel, Stefan ; Kister, Alexander</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature eBooks</longDBName>
+  <doi>10.1007/978-3-031-83097-6_11</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>B95</mid>
+  <language>eng</language>
+  <source>International Journal of Production Research</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning based prediction of melt pool morphology in a laser-based powder bed fusion additive manufacturing process.</title>
+  <pageEnd>1817</pageEnd>
+  <pageStart>1803</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240301</publicationDate>
+  <pageCount>15</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Manufacturing processes ; Industrial Process Furnace and Oven Manufacturing ; Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables ; Machine learning ; Generative adversarial networks ; Real-time control ; Powders</subjects>
+  <abstract>Laser-based powder bed fusion (L-PBF) has become the de facto choice for metal additive manufacturing (AM) processes. Even after considerable research investments, components manufactured using L-PBF lack consistency in their quality. Realizing the crucial role of the melt pool in controlling the final build quality, we predict the morphology of the melt pool directly from the build commands in an L-PBF process. We leverage machine learning techniques to predict quantitative attributes like the size as well as qualitative attributes like the shape of the melt pool. The area of the melt pool is predicted using an LSTM network. The outlined LSTM-based approach estimates the area with $ 90.7\% $ 90.7 % accuracy. The shape is inferred by synthesising the images of the melt pool by using a Melt Pool Generative Adversarial Network (MP-GAN). The synthetic images attain a structural similarity score of 0.91. The precision and accuracy of the results showcase the efficacy of the outlined approach and pave the way for real-time monitoring and control of the melt pool to build products with consistently better quality.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>175301632</an>
+  <docTypes>Article</docTypes>
+  <volume>62</volume>
+  <issns>0020-7543</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=7bd4aa84-f732-371f-ac44-26bb5021413c</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Zhang, Zhibo ; Sahu, Chandan Kumar ; Singh, Shubhendu Kumar ; Rai, Rahul ; Yang, Zhuo ; Lu, Yan</contributors>
+  <coverDate>Mar2024</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/00207543.2023.2201860</doi>
+</record>

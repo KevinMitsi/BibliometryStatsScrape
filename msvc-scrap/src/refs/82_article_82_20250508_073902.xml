@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>MBED</mid>
+  <language>eng</language>
+  <source>INFORMS Journal on Applied Analytics</source>
+  <bookEdition></bookEdition>
+  <title>Estimating Road Construction Costs with Explainable Machine Learning.</title>
+  <pageEnd>153</pageEnd>
+  <pageStart>137</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>17</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>2</issue>
+  <identifiers></identifiers>
+  <subjects>Bid price ; Construction costs ; Artificial intelligence ; Machine learning ; Construction cost estimates</subjects>
+  <abstract>A preliminary estimation of construction costs is a crucial aspect of any civil engineering project. This paper introduces a framework for estimating construction costs that ensures both accuracy and explainability. The approach utilizes six machine learning models and Shapley additive explanations. A preliminary estimation of construction costs is a crucial operation of any project related to civil engineering. An accurate estimation ensures a proper management of the available funds and helps the project managers in their decision-making processes. For instance, it is common that specific subtasks of the project are delegated to private subcontractors. Through a call for tenders, each eventual subcontractor has the opportunity to propose a bid with a price for supplying the service. Because the call is generally public, a competition may arise between subcontractors. This impacts the price proposed by the competitors to get the contract. In order to select a subcontractor, the project manager needs to have an accurate idea of a reasonable price for the subtask given. A price higher than expected is undesirable, but a price significantly lower than expected may also result in poor quality of service. The project manager must also be able to explain to stakeholders why a price is suited and justify why a specific subcontractor has been selected. Providing an estimation that is both accurate and transparent is a hard problem for the project manager. A growing trend is to leverage machine learning for this estimation, but designing a model that is both accurate and explainable is still a challenge. Another difficulty is that an approach that is accurate for estimating the cost of a subtask may not be efficient for another one. Based on this context, this paper introduces a framework for estimating construction costs while tackling both challenges. It is based on six machine learning models and on Shapley additive explanations. This project was commissioned by the Ministry of Transport and Sustainable Mobility, a public agency responsible for transport infrastructure in Quebec, Canada. Experiments were carried out on real data, covering historical road construction costs of 11,646 contracts and eight subtasks from 2014 to 2021. Results show that the framework is able to surpass the accuracy of human estimations by up to 31.56% while being able to adequately explain how the estimations have been obtained. History: This paper was refereed. Funding: This project was commissioned by the Ministry of Transport and Sustainable Mobility, a public agency responsible for transport infrastructure in Quebec, Canada. Supplemental Material: The online appendix is available at https://doi.org/10.1287/inte.2023.0027.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184014137</an>
+  <docTypes>Article</docTypes>
+  <volume>55</volume>
+  <issns>2644-0873</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=1b580779-6c62-3b1a-a8cc-24b75b41d166</plink>
+  <doids></doids>
+  <publisher>INFORMS: Institute for Operations Research &amp;amp; the Management Sciences</publisher>
+  <contributors>Larocque, Rosanne ; Boulé, Anne-Marie ; Cappart, Quentin</contributors>
+  <coverDate>Mar/Apr2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1287/inte.2023.0027</doi>
+</record>

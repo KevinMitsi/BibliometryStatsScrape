@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781801070034 ; 9781801078467</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition>2nd ed</bookEdition>
+  <title>Machine Learning with the Elastic Stack : Gain Valuable Insights From Your Data with Elastic Stack's Machine Learning Features</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20210101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / General ; COMPUTERS / Artificial Intelligence / Expert Systems ; COMPUTERS / Security / General ; Client/server computing ; Machine learning</subjects>
+  <abstract>Discover expert techniques for combining machine learning with the analytic capabilities of Elastic Stack and uncover actionable insights from your dataKey FeaturesIntegrate machine learning with distributed search and analyticsPreprocess and analyze large volumes of search data effortlesslyOperationalize machine learning in a scalable, production-worthy wayBook DescriptionElastic Stack, previously known as the ELK stack, is a log analysis solution that helps users ingest, process, and analyze search data effectively. With the addition of machine learning, a key commercial feature, the Elastic Stack makes this process even more efficient. This updated second edition of Machine Learning with the Elastic Stack provides a comprehensive overview of Elastic Stack's machine learning features for both time series data analysis as well as for classification, regression, and outlier detection. The book starts by explaining machine learning concepts in an intuitive way. You'll then perform time series analysis on different types of data, such as log files, network flows, application metrics, and financial data. As you progress through the chapters, you'll deploy machine learning within Elastic Stack for logging, security, and metrics. Finally, you'll discover how data frame analysis opens up a whole new set of use cases that machine learning can help you with. By the end of this Elastic Stack book, you'll have hands-on machine learning and Elastic Stack experience, along with the knowledge you need to incorporate machine learning in your distributed search and data analysis platform.What you will learnFind out how to enable the ML commercial feature in the Elastic StackUnderstand how Elastic machine learning is used to detect different types of anomalies and make predictionsApply effective anomaly detection to IT operations, security analytics, and other use casesUtilize the results of Elastic ML in custom views, dashboards, and proactive alertingTrain and deploy supervised machine learning models for real-time inferenceDiscover various tips and tricks to get the most out of Elastic machine learningWho this book is forIf you're a data professional looking to gain insights into Elasticsearch data without having to rely on a machine learning specialist or custom development, then this Elastic Stack machine learning book is for you. You'll also find this book useful if you want to integrate machine learning with your observability, security, and analytics applications. Working knowledge of the Elastic Stack is needed to get the most out of this book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2941591</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5c4ce9e2-dcba-3a4e-a0a2-cd5cd76afd74</plink>
+  <doids>NL$2941591$PDF ; NL$2941591$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Rich Collier ; Camilla Montonen ; Bahaaldine Azarmi</contributors>
+  <coverDate>2021</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

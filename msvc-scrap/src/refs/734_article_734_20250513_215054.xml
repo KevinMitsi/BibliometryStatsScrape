@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edspgr</shortDBName>
+  <isiType>PAT</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Contextual impact adjustment for machine learning models</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250218</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>Methods, systems, and computer program products for detecting contextual bias in text are provided herein. A computer-implemented method includes identifying, by a machine learning network, a protected attribute in one or more data samples; processing the identified data samples using a first sub-network of the machine learning network, wherein the first sub-network is configured to determine a plurality of contexts of the protected attribute across the identified data samples; determining an impact of each of the plurality of contexts on a second sub-network of the machine learning network, wherein the second sub-network of the machine learning network is configured to classify a given data sample into one of a plurality of classes; and adjusting the second sub-network of the machine learning to account for the impact of at least one of the plurality of contexts on the second sub-network.</abstract>
+  <pubTypes>Patent</pubTypes>
+  <an>edspgr.12229509</an>
+  <docTypes>Patent</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5cee67d4-d021-3a49-bc45-132a55272aae</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>International Business Machines Corporation</contributors>
+  <coverDate>February 18, 2025</coverDate>
+  <longDBName>USPTO Patent Grants</longDBName>
+  <doi></doi>
+</record>

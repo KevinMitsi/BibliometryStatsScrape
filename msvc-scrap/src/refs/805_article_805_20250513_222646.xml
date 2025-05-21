@@ -1,0 +1,35 @@
+<record>
+  <isbns>978-1-04-026763-9 ; 978-1-03-277029-1 ; 978-1-00-348681-7 ; 978-1-03-278216-4 ; 978-1-04-026766-0</isbns>
+  <shortDBName>edsdob</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Practical Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>false</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Ethics ; pre-processing ; data collection ; hyperparameter optimization ; data cleaning ; programming ; choosing algorith ; models ; cloud computing ; responsible AI ; explainable AI ; XAI ; classification ; regression ; python ; Automatic control engineering ; Artificial intelligence ; Programming and scripting languages: general ; Software Engineering</subjects>
+  <abstract>The book provides an accessible, comprehensive introduction for beginners to machine learning, equipping them with the fundamental skills and techniques essential for this field. It enables beginners to construct practical, real-world solutions powered by machine learning across diverse application domains. It demonstrates the fundamental techniques involved in data collection, integration, cleansing, transformation, development, and deployment of machine learning models. This book emphasizes the importance of integrating responsible and explainable AI into machine learning models, ensuring these principles are prioritized rather than treated as an afterthought. To support learning, this book also offers information on accessing additional machine learning resources such as datasets, libraries, pre-trained models, and tools for tracking machine learning models. This is a core resource for students and instructors of machine learning and data science looking for a beginner-friendly material which offers real-world applications and takes ethical discussions into account. The Open Access version of this book, available at http://www.taylorfrancis.com, has been made available under a Creative Commons Attribution-Non Commercial-No Derivatives (CC-BY-NC-ND) 4.0 license.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>edsdob.20.500.12854.151971</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2d6ddf4f-39f2-38a3-b9da-e0e6cd545fef</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis</publisher>
+  <contributors>Nyamawe, Ally S. ; Mjahidi, Mohamedi M. ; Nnko, Noe E. ; Diwani, Salim A. ; Minja, Godbless G. ; Malyango, Kulwa</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Directory of Open Access Books</longDBName>
+  <doi>10.1201/9781003486817</doi>
+</record>

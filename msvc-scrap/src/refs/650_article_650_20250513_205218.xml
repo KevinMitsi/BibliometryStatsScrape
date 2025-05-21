@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>eric</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Educational and Psychological Measurement</source>
+  <bookEdition></bookEdition>
+  <title>An Ensemble Learning Approach Based on TabNet and Machine Learning Models for Cheating Detection in Educational Tests</title>
+  <pageEnd>809</pageEnd>
+  <pageStart>780</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240801</publicationDate>
+  <pageCount>30</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>4</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial Intelligence ; Models ; Cheating ; Identification ; Computer Assisted Testing ; Student Behavior ; Integrity ; Educational Testing ; Student Evaluation</subjects>
+  <abstract>The pervasive issue of cheating in educational tests has emerged as a paramount concern within the realm of education, prompting scholars to explore diverse methodologies for identifying potential transgressors. While machine learning models have been extensively investigated for this purpose, the untapped potential of TabNet, an intricate deep neural network model, remains uncharted territory. Within this study, a comprehensive evaluation and comparison of 12 base models (naive Bayes, linear discriminant analysis, Gaussian process, support vector machine, decision tree, random forest, Extreme Gradient Boosting (XGBoost), AdaBoost, logistic regression, k-nearest neighbors, multilayer perceptron, and TabNet) was undertaken to scrutinize their predictive capabilities. The area under the receiver operating characteristic curve (AUC) was employed as the performance metric for evaluation. Impressively, the findings underscored the supremacy of TabNet (AUC = 0.85) over its counterparts, signifying the profound aptitude of deep neural network models in tackling tabular tasks, such as the detection of academic dishonesty. Encouraged by these outcomes, we proceeded to synergistically amalgamate the two most efficacious models, TabNet (AUC = 0.85) and AdaBoost (AUC = 0.81), resulting in the creation of an ensemble model christened TabNet-AdaBoost (AUC = 0.92). The emergence of this novel hybrid approach exhibited considerable potential in research endeavors within this domain. Importantly, our investigation has unveiled fresh insights into the utilization of deep neural network models for the purpose of identifying cheating in educational tests.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>EJ1432629</an>
+  <docTypes>Journal Articles ; Reports - Research</docTypes>
+  <volume>84</volume>
+  <issns>0013-1644 ; 1552-3888</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d98da68d-2abb-3ed4-b810-cd8f23cd607f</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Yang Zhen ; Xiaoyan Zhu</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>ERIC</longDBName>
+  <doi>10.1177/00131644231191298</doi>
+</record>

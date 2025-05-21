@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Predicting metabolic dysfunction associated steatotic liver disease using explainable machine learning methods.</title>
+  <pageEnd>13</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250415</publicationDate>
+  <pageCount>13</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>NATIONAL Health &amp;amp; Nutrition Examination Survey ; MACHINE learning ; PREDICTION models ; RANDOM forest algorithms ; METABOLIC disorders</subjects>
+  <abstract>Early and accurate identification of patients at high risk of metabolic dysfunction-associated steatotic liver disease (MASLD) is critical to prevent and improve prognosis potentially. We aimed to develop and validate an explainable prediction model based on machine learning (ML) approaches for MASLD among the adult population. The national cross-sectional study collected data from the National Health and Nutrition Examination Survey from 2017 to 2020, consisting of 13,436 participants, who were randomly split into 70% training, 20% internal validation, and 10% external validation cohorts. MASLD was defined based on transient elastography and cardiometabolic risk factors. With 50 medical characteristics easily obtained, six ML algorithms were used to develop prediction models. Several evaluation parameters were used to compare the predictive performance, including the area under the receiver-operating-characteristic curve (AUC) and precision-recall (P-R) curve. The recursive feature elimination method was applied to select the optimal feature subset. The Shapley Additive exPlanations method offered global and local explanations for the model. The random forest (RF) model performed best in discriminative ability among 6 ML models, and the optimal 10-feature RF model was finally chosen. The final model could accurately predict MASLD in internal and external validation cohorts (AUC: 0.928, 0.918; area under P-R curve: 0.876, 0.863, respectively). The final model performed better than each of the traditional risk indicators for MASLD. An explainable 10-feature prediction model with excellent discrimination and calibration performance was successfully developed and validated for MASLD based on clinical data easily extracted using an RF algorithm.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184490258</an>
+  <docTypes>Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3ac7b6c5-d010-37a1-84c5-40cc702bdade</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Yu, Yihao ; Yang, Yuqi ; Li, Qian ; Yuan, Jing ; Zha, Yan</contributors>
+  <coverDate>Dec2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-025-96478-6</doi>
+</record>

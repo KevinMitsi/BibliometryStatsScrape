@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3503-6874-1</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Acoustics, Speech and Signal Processing (ICASSP), ICASSP 2025 - 2025 IEEE International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Exploring Spectral Signatures of Chinese liquor using Machine Learning and SHapley Additive exPlanations</title>
+  <pageEnd>5</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250406</publicationDate>
+  <pageCount>5</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Bioengineering ; Communication, Networking and Broadcast Technologies ; Computing and Processing ; Signal Processing and Analysis ; Vibrations ; Accuracy ; Additives ; Machine learning algorithms ; Quality control ; Production ; Signal processing ; Object recognition ; Speech processing ; Hyperspectral imaging ; NIR-HSI ; Machine Learning ; SHAP ; Aroma types ; Alcohol content</subjects>
+  <abstract>Chinese liquor holds great cultural and economic significance globally. The accurate classification of aroma types and alcohol content is crucial for quality control in Chinese liquor production. To address limitations such as subjectivity and sensor drift in current methods, this study introduces a noninvasive, efficient, and objective approach using Near-Infrared Hyperspectral Imaging (NIR-HSI) to identify alcohol content and aroma types in Chinese liquor. Specifically, we create a comprehensive NIR hyperspectral dataset of Chinese liquor samples and train various machine learning algorithms to classify liquor samples based on their spectral features. Results show that the XGBoost model achieves the optimal performance in most of the experiments. The spectral signatures of various Chinese liquors are explored using SHapley Additive exPlanations (SHAP). We find that spectral bands, such as the band in the range of 1140-1160 nm, make important contributions to the aroma type classification, which are associated with C-H and CO bond stretching vibrations, providing valuable insights into the molecular basis of Chinese liquor analysis. Our dataset is publicly available at https://github.com/wangyunjeff/Chinese-Liquor-NIR-HSI-Dataset.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10888552</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>2379190X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f3665915-0c64-3ff1-a024-18d0b1097735</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Chen, Danlei ; Wang, Yun ; Tang, Linruize ; Zhao, Zhengqiao ; Chen, Jie ; Chen, Jingdong</contributors>
+  <coverDate>20250406</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/ICASSP49660.2025.10888552</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-1611-6 ; 979-8-3315-1610-9</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE Applied Power Electronics Conference and Exposition (APEC), Applied Power Electronics Conference and Exposition (APEC), 2025 IEEE</source>
+  <bookEdition></bookEdition>
+  <title>Novel Approach of Determining and Predicting SiC MOSFET’s On Resistance From Device Case Temperature Using Machine Learning</title>
+  <pageEnd>2399</pageEnd>
+  <pageStart>2393</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250316</publicationDate>
+  <pageCount>7</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Components, Circuits, Devices and Systems ; Power, Energy and Industry Applications ; Temperature measurement ; MOSFET ; Power measurement ; Silicon carbide ; Machine learning ; Predictive models ; Prediction algorithms ; Power electronics ; Reliability ; Monitoring ; Machine Learning ; SiC MOSFET ; EV Charging ; Accelerated Lifetime Test ; Health Monitoring ; Remaining Useful Life</subjects>
+  <abstract>Silicon-carbide (SiC) MOSFET devices are increasing in popularity in high-power converter applications. Device on-resistance (R dson ) is an important indicator for SiC MOSFET health status. Increments in R dson over device lifetime indicate imminent device failure and result in decreased system efficiency. Direct and accurate measurement of SiC MOSFET device R dson in high-power applications is difficult. Another approach is to estimate/predict the device R dson from other, more easily measurable quantities, however, little work has been done on this approach in the literature. This leaves a significant technical gap in measuring/predicting device R dson and slows down the device health status monitoring and power converter reliability research. To address the technical gaps, this work proposes a novel approach to predicting device R dson from thermal cycle count and instantaneous temperature using machine learning regression models. The actual hardware data collected from accelerated lifetime tests of high-power SiC MOSFETs are used to train, test, and validate the proposed machine-learning regression models. The developed models, coupled with cycle counting algorithms, and device case thermal measurements, provide accurate live estimates of R dson and can be used to predict changes in R dson over expected mission profiles during power converter design.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10977206</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24706647</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=32009ce6-18cf-3979-b888-eba580363cc2</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Bradford, Paul ; Deppe, Conner ; Wang, Hongjie</contributors>
+  <coverDate>20250316</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/APEC48143.2025.10977206</doi>
+</record>

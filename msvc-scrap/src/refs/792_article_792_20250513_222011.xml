@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Journal of the Indian Society of Remote Sensing</source>
+  <bookEdition></bookEdition>
+  <title>A Novel Approach for Most Vulnerable Zone Identification Using MT-InSAR and Machine Learning: A Case Study from Lesser Himalayan Region</title>
+  <pageEnd>1564</pageEnd>
+  <pageStart>1549</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations>New Delhi</publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>Landslides ; MT-InSAR ; Machine learning ; Most Vulnerable Zone (MVZ)</subjects>
+  <abstract>Multi-Temporal SAR Interferometry (MT-InSAR), a reliable space-based geodetic technique for landslide monitoring, presents a significant challenge in pinpointing instability due to the abundance of monitoring points (MPs) over large regions. Machine learning (ML), an already proven technique to solve challenging problems, can be employed with InSAR to develop a scalable framework for landslide monitoring and hazard identification. This study presents an approach to identify the Most Vulnerable Zone (MVZ) using MT-InSAR-derived displacement time-series and ML algorithms. The performance of the proposed approach is illustrated over three unstable sites in India using SAR dataset, two active landslide sites i.e. Balia Nala (Nainital, Uttarakhand) and Kotropi (Himachal Pradesh), and one subsidence zone i.e. Joshimath town, (Uttarakhand). The ML models are trained using 22 time-series features, representing unique attributes, across four categories i.e. General, Seasonal-Trend decomposition using LOESS (STL), Autocorrelation function (ACF), and Analysis features, derived from one dimensional line of sight (1D LOS) displacement time-series of MPs detected over the Maoxian landslide in China. The Random Forest (RF) model outperforms the Support Vector Machine (SVM) model, achieving an accuracy of 93.12% with linearity as the most important feature. Using the RF model, the most vulnerable zones (MVZs) for three study sites in India are effectively identified based on the classified accelerated MPs within their respective regions. The obtained MVZs of the Balia Nala landslide show high risk for the people living at the top of the landslide. In the case of the Kotropi landslide, the identified MVZs align closely with the old scars resulting from a rainfall-triggered event in August 2017. Future research and development in this field have the potential to revolutionize landslide management, enabling automatic, timely, and targeted interventions to identify the risks posed by landslides worldwide.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.DB7C383</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>53</volume>
+  <issns>0255660X ; 09743006</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=2f6569b0-857a-3d53-99e3-5d529ceb0d36</plink>
+  <doids></doids>
+  <publisher>Springer India</publisher>
+  <contributors>Maurya, Vipin Kumar ; Meghanadh, Devara ; Dwivedi, Ramji ; Martha, Tapas Ranjan ; Roy, Priyom</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s12524-024-02103-w</doi>
+</record>

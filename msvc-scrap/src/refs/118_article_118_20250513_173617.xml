@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1LD</mid>
+  <language>eng</language>
+  <source>Information Systems Research</source>
+  <bookEdition></bookEdition>
+  <title>1 + 1 &amp;gt; 2? Information, Humans, and Machines.</title>
+  <pageEnd>418</pageEnd>
+  <pageStart>394</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount>25</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Artificial intelligence ; Decision making ; Machine learning ; Sex discrimination ; Gender inequality</subjects>
+  <abstract>Our study, conducted through a field experiment with a major Asian microloan company, examines the interaction between information complexity and machine explanations in human–machine collaboration. We find that human evaluators' loan approval decision-making outcomes are significantly enhanced when they are equipped with both large information volumes and machine-generated explanations, underscoring the limitations of relying solely on human intuition or machine analysis. This blend fosters deep human engagement and rethinking, effectively reducing gender biases and increasing prediction accuracy by identifying overlooked data correlations. Our findings stress the crucial role of combining human discernment with artificial intelligence to improve decision-making efficiency and fairness. We offer specific training and system design strategies to bolster human–machine collaboration, advocating for a balanced integration of technological and human insights to navigate intricate decision-making scenarios efficiently. Specifically, the study suggests that, whereas machines manage borderline cases, humans can significantly contribute by reevaluating and correcting machine errors in random cases (i.e., those without explicitly congruent feature patterns) through stimulated active rethinking triggered by strategic information prompts. This approach not only amplifies the strengths of both humans and machines, but also ensures more accurate and fair decision-making processes. With the explosive growth of data and the rapid rise of artificial intelligence and automated working processes, humans inevitably fall into increasingly close collaboration with machines as either employees or consumers. Problems in human–machine interaction arise as a consequence, not to mention the dilemmas posed by the need to manage information on ever-expanding scales. Considering the general superiority of machines in this latter respect, compared with human performance, it is essential to explore whether human–machine collaboration is valuable and, if so, why. Recent studies propose diverse explanation methods to uncover machine learning algorithms' "black boxes," aiming to reduce human resistance and enhance efficiency. However, the findings of this literature stream have been inconclusive. Little is known about the influential factors involved or the rationale behind their impacts on human decision processes. We aimed to tackle these issues in the present study by specifically examining the joint impact of information complexity and machine explanations. Specifically, we cooperated with a large Asian microloan company to conduct a two-stage field experiment. Drawing upon studies in dual-process theories of reasoning that propose different conditions necessary to arouse humans' active information processing and systematic thinking, we tailored the treatments to vary the level of information complexity, the presence of collaboration, and the availability of machine explanations. We observed that, with large volumes of information and with machine explanations alone, human evaluators could not add extra value to the final collaborative outcomes. However, when extensive information was coupled with machine explanations, human involvement significantly reduced the default rate compared with machine-only decisions. We disentangled the underlying mechanisms with three-step empirical analyses. We reveal that the coexistence of large-scale information and machine explanations can invoke humans' active rethinking, which, in turn, shrinks gender gaps and increases prediction accuracy. In particular, we demonstrate that humans can spontaneously associate newly emerging features with others that had been overlooked but had the potential to correct the machine's mistakes. This capacity not only underscores the necessity of human–machine collaboration, but also offers insights into system designs. Our experiments and empirical findings provide nontrivial implications that are both theoretical and practical. History: Param Vir Singh, Senior Editor; Tianshu Sun, Associate Editor. Funding: This work was supported by the National Natural Science Foundation of China [Grant 72272003]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/isre.2023.0305.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184136955</an>
+  <docTypes>Article</docTypes>
+  <volume>36</volume>
+  <issns>1526-5536</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=cae4672c-11aa-3732-b2db-d6b9b24219b6</plink>
+  <doids></doids>
+  <publisher>INFORMS: Institute for Operations Research &amp;amp; the Management Sciences</publisher>
+  <contributors>Lu, Tian ; Zhang, Yingjie</contributors>
+  <coverDate>Mar2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1287/isre.2023.0305</doi>
+</record>

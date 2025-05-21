@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsdia</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>LatIA, Nº. 3, 2025 (Ejemplar dedicado a: LatIA)</source>
+  <bookEdition></bookEdition>
+  <title>Enhancing Wetland Restoration through Machine Learning-Based Decision Support Systems</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Wetlands ; Wetland Restoration ; Machine Learning ; Deep Learning ; Decision Support Systems</subjects>
+  <abstract>Researchers are increasingly employing Machine Learning (ML) and Deep Learning (DL) algorithms to address complex geo-environmental challenges, particularly in predicting risk, susceptibility, and vulnerability to environmental changes. These advanced computational models have shown significant promise in various applications, ranging from natural disaster prediction to environmental monitoring. Despite their growing usage, very few studies have leveraged Machine Learning-Based Decision Support Systems (MLBDSS) to restore the health status of wetland habitats. To our knowledge, there are no comparative analyses between Machine Learning models and traditional Decision Support Systems (DSS) in this specific context. Wetlands play a crucial role in supporting biodiversity, including fish and wildlife populations, while also contributing to improved water quality and providing essential ecosystem services to nearby communities. These services include flood control, carbon sequestration, and water filtration, which are vital for both ecological and human well-being. However, over the past decades, wetland areas, particularly in coastal regions, have faced significant degradation due to anthropogenic pressures, resulting in a substantial reduction of these critical benefits. This ongoing loss poses serious ecological and socio-economic challenges that require immediate and effective intervention. Current wetland assessment and mitigation frameworks often encounter limitations in their practical implementation, despite regulatory advancements aimed at promoting wetland conservation. These shortcomings can lead to delayed project approvals, increased costs, and further loss of valuable ecosystem services. Integrating ML and DSS models into wetland management strategies could provide innovative solutions to overcome these challenges by improving predictive accuracy, optimizing restoration efforts, and enhancing decision-making processes. The development of hybrid models combining ML and DSS approaches may offer a more holistic framework for addressing wetland loss, ultimately contributing to sustainable habitat restoration and conservation efforts.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsdia.ART0001750520</an>
+  <docTypes>article</docTypes>
+  <volume></volume>
+  <issns>3046403X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=54736c98-aee4-3145-af7a-c8ba9a26bffe</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Kayusi, Fredrick ; Chavula, Petros</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Dialnet</longDBName>
+  <doi></doi>
+</record>

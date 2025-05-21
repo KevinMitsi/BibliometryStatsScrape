@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>8gh</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>KOH</mid>
+  <language>eng</language>
+  <source>Sustainable Development</source>
+  <bookEdition></bookEdition>
+  <title>Forecasting sustainable development goals scores by 2030 using machine learning models.</title>
+  <pageEnd>6538</pageEnd>
+  <pageStart>6520</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241201</publicationDate>
+  <pageCount>19</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Sustainable development ; Climate change ; Machine learning ; Artificial intelligence ; Forecasting</subjects>
+  <abstract>The Sustainable Development Goals (SDGs) set by the United Nations are a worldwide appeal to eliminate poverty, preserve the environment, address climate change, and guarantee that everyone experiences peace and prosperity by 2030. These 17 goals cover various global issues concerning health, education, inequality, environmental decline, and climate change. Several investigations have been carried out to track advancements toward these goals. However, there is limited research on forecasting SDG scores. This research aims to forecast SDG scores for global regions by 2030 using ARIMAX and LR (Linear Regression) smoothed by HW (Holt‐Winters') multiplicative technique. To enhance model performance, we used predictors identified from the SDGs that are more likely to be influenced by Artificial Intelligence (AI) in the future. The forecast results for 2030 show that "OECD countries" (80) (with a 2.8% change) and "Eastern Europe and Central Asia" (74) (with a 2.37% change) are expected to achieve the highest SDG scores. "Latin America and the Caribbean" (73) (with a 4.17% change), "East and South Asia" (69) (with a 2.64% change), "Middle East and North Africa" (68) (with a 2.32% change), and "Sub‐Saharan Africa" (56) (with a 7.2% change) will display lower levels of SDG achievement, respectively.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181481219</an>
+  <docTypes>Article</docTypes>
+  <volume>32</volume>
+  <issns>0968-0802</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=057cf317-74f9-33e9-9c79-169e039f264e</plink>
+  <doids></doids>
+  <publisher>Wiley-Blackwell</publisher>
+  <contributors>Chenary, Kimia ; Pirian Kalat, Omid ; Sharifi, Ayyoob</contributors>
+  <coverDate>Dec2024</coverDate>
+  <longDBName>GreenFILE</longDBName>
+  <doi>10.1002/sd.3037</doi>
+</record>

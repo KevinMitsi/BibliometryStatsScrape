@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssch</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>Journal of the American Chemical Society</source>
+  <bookEdition></bookEdition>
+  <title>Stabilizing Ru in Multicomponent Alloy as Acidic Oxygen Evolution Catalysts with Machine Learning-Enabled Structural Insights and Screening</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250326</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>12</issue>
+  <identifiers></identifiers>
+  <subjects>Macromolecular and Materials Chemistry ; Chemical Sciences ; Engineering ; Materials Engineering ; Nanotechnology ; Machine Learning and Artificial Intelligence ; General Chemistry ; Chemical sciences</subjects>
+  <abstract>Developing active, stable, and cost-effective acidic oxygen evolution reaction (OER) catalyst is a critical challenge in realizing large-scale hydrogen (H2) production via electrochemical water splitting. Utilizing highly active and relatively inexpensive Ru is generally challenged by its long-term durability issue. Here, we explore the potential of stabilizing active Ru sites in Rux(Ir,Fe,Co,Ni)1-x multicomponent alloy by investigating its phase formation behavior, OER performance, and OER-induced surface reconstruction. The alloy exhibited a multiphase structure composed of major face-centered cubic (fcc) and minor hexagonal close-packed (hcp) phases at near equimolar concentration. Machine-learned interatomic potential (MLIP) coupled with replica-exchange molecular dynamics was utilized to describe the atomic scale mixing behavior of the Rux(Ir,Fe,Co,Ni)1-x catalysts and other RuIr-based alloys. The model supports our experimental findings of the well-mixed bulk fcc phase and provides an indication of the minor hcp phase formation. The optimized Ru0.20(Ir,Fe,Co,Ni)0.80 catalyst exhibited improved OER activity with an average overpotential of ∼237 mV measured at 10 mA cm-2 and enhanced stability with a low activity degradation rate of ∼1.1 mV h-1 in 24 h of operation. The acidic OER conditions induced the formation of a thin RuIr-rich oxide shell layer with a trace amount of 3d metals, where Ru was found to be relatively stabilized near the surface of the evolved nanoparticles. The machine learning-accelerated high throughput simulation protocol was further employed to screen other potential RuIr-containing quinary alloys based on expected phase stability. This work highlights the opportunity of stabilizing Ru in a multicomponent alloy matrix with improved activity and stability.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssch.oai:escholarship.org:ark:/13030/qt55x2k2r4</an>
+  <docTypes>article</docTypes>
+  <volume>147</volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8539d426-d54d-33d4-9939-07735acc00a0</plink>
+  <doids></doids>
+  <publisher>eScholarship, University of California</publisher>
+  <contributors>Maulana, Arifin Luthfi ; Han, Shuang ; Shan, Yu ; Chen, Peng-Cheng ; Lizandara-Pueyo, Carlos ; De, Sandip ; Schierle-Arndt, Kerstin ; Yang, Peidong</contributors>
+  <coverDate>20250326</coverDate>
+  <longDBName>eScholarship</longDBName>
+  <doi></doi>
+</record>

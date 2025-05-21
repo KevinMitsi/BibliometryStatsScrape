@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2023 IEEE International Conference on Prognostics and Health Management (ICPHM)</source>
+  <bookEdition></bookEdition>
+  <title>Reliable Thermal Monitoring of Electric Machines through Machine Learning</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250427</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Machine Learning</subjects>
+  <abstract>The electrification of powertrains is rising as the objective for a more viable future is intensified. To ensure continuous and reliable operation without undesirable malfunctions, it is essential to monitor the internal temperatures of machines and keep them within safe operating limits. Conventional modeling methods can be complex and usually require expert knowledge. With the amount of data collected these days, it is possible to use information models to assess thermal behaviors. This paper investigates artificial intelligence techniques for monitoring the cooling efficiency of induction machines. Experimental data was collected under specific operating conditions, and three machine-learning models have been developed. The optimal configuration for each approach was determined through rigorous hyperparameter searches, and the models were evaluated using a variety of metrics. The three solutions performed well in monitoring the condition of the machine even under transient operation, highlighting the potential of data-driven methods in improving the thermal management.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.19141</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=baafcaf3-3ad6-31ce-b054-e47e40a931f9</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Kakosimos, Panagiotis</contributors>
+  <coverDate>20250427</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi>10.1109/ICPHM57936.2023.10194194</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-3193-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 IEEE 14th International Conference on Communication Systems and Network Technologies (CSNT), Communication Systems and Network Technologies (CSNT), 2025 IEEE 14th International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Perceptual Learning Technology Based on Computer Vision and Machine Learning Algorithms</title>
+  <pageEnd>295</pageEnd>
+  <pageStart>289</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount>7</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Engineered Materials, Dielectrics and Plasmas ; Fields, Waves and Electromagnetics ; General Topics for Engineers ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Adaptation models ; Computer vision ; Image segmentation ; Machine learning algorithms ; Computational modeling ; Transfer learning ; Feature extraction ; Data models ; Robustness ; Real-time systems ; computer vision ; machine learning algorithm ; perceptual learning technology ; image segmentation</subjects>
+  <abstract>To address the issue of low accuracy and poor robustness of perceptual learning in complex scenarios, a new method integrating computer vision and machine learning is adopted, that is, by applying deep neural networks, transfer learning and self-supervised learning, combined with multimodal data fusion strategy, to improve target recognition efficiency and learning ability. First, based on the preprocessing algorithm of improved Gaussian filtering and image segmentation, the quality of image features is improved. Data enhancement methods such as random rotation, flipping, and blurring are used to expand data distribution and improve model adaptability. Secondly, a convolutional neural network (CNN) is utilized in combination with an attention mechanism to extract multi-scale target features, and transfer learning is applied to transfer common features from pre-trained models to reduce dependence on large-scale labeled data. Finally, a contrastive learning framework is constructed to mine the correlation of unlabeled data. Transformer is used to realize the fusion of multimodal data of images and texts, and the model performance is optimized through multi-task learning. The mAP (Mean Average Precision) of the traditional method in dynamic occlusion scenarios is 60.5%, which is relatively weak. This may be because the traditional method cannot fully extract the effective features of the target under the occlusion of complex moving targets. The mAP of the method in this paper is 72.8%, which is higher than that of the traditional method. The perceptual learning method adopted in this paper effectively improves the accuracy and robustness in complex scenarios, and provides reliable technical support for intelligent applications. In the future, it can be combined with edge computing to further optimize the real-time processing capability and promote its application in the fields of unmanned driving and intelligent security.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10967637</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns>24735655</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=8f367e6f-c918-3768-a1c2-3763a075956b</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Wang, Tianjian</contributors>
+  <coverDate>20250307</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/CSNT64827.2025.10967637</doi>
+</record>

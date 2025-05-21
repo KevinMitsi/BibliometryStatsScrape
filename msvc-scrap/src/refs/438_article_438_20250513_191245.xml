@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1BRZ</mid>
+  <language>eng</language>
+  <source>Indian Journal of Ophthalmology</source>
+  <bookEdition></bookEdition>
+  <title>Artificial intelligence and machine learning in ocular oncology, retinoblastoma (ArMOR).</title>
+  <pageEnd>743</pageEnd>
+  <pageStart>741</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount>3</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>5</issue>
+  <identifiers></identifiers>
+  <subjects>ARTIFICIAL intelligence ; MACHINE learning ; OCULAR tumors ; DIAGNOSIS ; IMAGE analysis ; RETINOBLASTOMA</subjects>
+  <abstract>Purpose: To test the accuracy of a trained artificial intelligence and machine learning (AI/ML) model in the diagnosis and grouping of intraocular retinoblastoma (iRB) based on the International Classification of Retinoblastoma (ICRB) in a larger cohort. Methods: Retrospective observational study that employed AI, ML, and open computer vision techniques. Results: For 1266 images, the AI/ML model displayed accuracy, sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) of 95%, 94%, 98%, 99%, and 80%, respectively, for the detection of RB. For 173 eyes, the accuracy, sensitivity, specificity, PPV, and NPV of the AI/ML model were 85%, 98%, 94%, 98%, and 94% for detecting RB. Of 173 eyes classified based on the ICRB by two independent ocular oncologists, 9 (5%) were Group A, 32 (19%) were Group B, 21 (12%) were Group C, 37 (21%) were Group D, 38 (22%) were Group E, and 36 (21%) were classified as normal. Based on the ICRB classification of 173 eyes, the AI/ML model displayed accuracy, sensitivity, specificity, PPV, and NPV of 98%, 94%, 99%, 94%, and 99% for normal; 97%, 56%, 99%, 71% and 98% for Group A; 95%, 75%, 99%, 96%, and 95% for Group B; 95%, 86%, 96%, 75%, and 98% for Group C; 92%, 76%, 96%, 85%, and 94% for Group D; and 94%, 100%, 93%, 79%, 100% for Group E, respectively. Conclusion: These observations show that expanding the image datasets, as well as testing and retesting AI models, helps identify deficiencies in the AI/ML model and improves its accuracy.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184725875</an>
+  <docTypes>Article</docTypes>
+  <volume>73</volume>
+  <issns>0301-4738</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=4be7b614-6e39-3f99-a7c8-21a3765c12ee</plink>
+  <doids></doids>
+  <publisher>Wolters Kluwer India Pvt Ltd</publisher>
+  <contributors>Vempuluru, Vijitha S ; Patil, Gaurav ; Viriyala, Rajiv ; Dhara, Krishna K ; Kaliki, Swathi</contributors>
+  <coverDate>May2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.4103/IJO.IJO_1768_24</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsjsr</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Cityscape</source>
+  <bookEdition></bookEdition>
+  <title>Racial Disparities in Automated Valuation Models : New Evidence Using Property Condition and Machine Learning</title>
+  <pageEnd>320</pageEnd>
+  <pageStart>297</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20240101</publicationDate>
+  <pageCount>24</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects></subjects>
+  <abstract>Automated valuation models (AVMs), which exclude an appraiser’s input in estimating a home’s price, hold great promise for reducing costs and increasing the accuracy of home valuations. However, AVMs can manifest racial disparities, even when the algorithm remains agnostic to the neighborhood’s majority race or the homebuyer’s race. This study provides a quantifiable measure for auditing the performance of AVMs in majority-Black neighborhoods compared with their majority-White counterparts. The authors find that including data on property condition and employing more sophisticated machine learning techniques can help more accurately assess the percentage of the magnitude of AVM error and its underlying contributors. In addition, even with data improvement and machine learning, the authors still find evidence that AVMs yield larger valuation errors in majority-Black neighborhoods.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edsjsr.48766083</an>
+  <docTypes>research-article</docTypes>
+  <volume>26</volume>
+  <issns>1936007X ; 19391935</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=5dea41df-7f02-37a1-b200-5a3f5c2578e0</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Zhu, Linna ; Neal, Michael ; Young, Caitlin</contributors>
+  <coverDate>2024</coverDate>
+  <longDBName>JSTOR Journals</longDBName>
+  <doi></doi>
+</record>

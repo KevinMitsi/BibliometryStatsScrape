@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Analytical and Bioanalytical Chemistry</source>
+  <bookEdition></bookEdition>
+  <title>Rapid metabolic profiling and authentication of &lt;i>Cordyceps&lt;/i> using ambient ionization mass spectrometry and machine learning: Rapid metabolic profiling and authentication of &lt;i>Cordyceps&lt;/i> using ambient ionization mass spectrometry and machine learning</title>
+  <pageEnd>1945</pageEnd>
+  <pageStart>1935</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount>11</pageCount>
+  <publisherLocations>Berlin/Heidelberg</publisherLocations>
+  <issue>9</issue>
+  <identifiers></identifiers>
+  <subjects>Ambient ionization ; Authentication ; Cordyceps ; Machine learning ; Metabolism</subjects>
+  <abstract>&lt;i>Cordyceps sinensis&lt;/i>, a symbiotic organism formed between a fungus and an insect, is celebrated for its substantial medicinal benefits and economic significance in traditional Chinese medicine. However, the market for &lt;i>Cordyceps sinensis&lt;/i> is rife with counterfeits, where numerous types of &lt;i>Cordyceps&lt;/i> frequently pose as the genuine species, leading to financial losses for consumers. Here, we developed an ambient ionization mass spectrometry for the metabolic analysis of four kinds of &lt;i>Cordyceps&lt;/i>. We tentatively identified a total of 81 metabolites, revealing significant differences between wild-type &lt;i>Cordyceps sinensis&lt;/i> and its counterfeit counterparts. The heterogeneous distribution of metabolites was also examined. Notably, ergothioneine, an antioxidant, and its precursor hercynine were found to be more abundant in the stroma compared to other sections. Then, a neural network was employed to distinguish between different &lt;i>Cordyceps&lt;/i>, achieving an average classification accuracy of 90.3% in blind tests. We demonstrate the potential for on-site detection of &lt;i>Cordyceps&lt;/i> using a handheld nano-electrospray ionization source in conjunction with a miniature mass spectrometer, yielding mass spectral profiles comparable to those obtained with a benchtop system.&lt;br />Graphical Abstract: The distribution of metabolites across different types and sections of &lt;i>Cordyceps&lt;/i> was studied using both a benchtop and a miniature mass spectrometer, which helped to classify and authenticate &lt;i>Cordyceps&lt;/i> from different provenances using machine learning.&lt;br />&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.C7DB99C</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>417</volume>
+  <issns>16182642 ; 16182650</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=3663f855-5564-32d8-a67d-848f03f545ec</plink>
+  <doids></doids>
+  <publisher>Springer Berlin Heidelberg</publisher>
+  <contributors>Ma, Wenbo ; Song, Mengyang ; Ji, Zhenyang ; Liu, Yiping ; Na, Pengjun ; Li, Yuze ; Nie, Zongxiu</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s00216-025-05776-5</doi>
+</record>

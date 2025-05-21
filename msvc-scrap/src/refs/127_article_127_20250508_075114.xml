@@ -1,0 +1,35 @@
+<record>
+  <isbns>9781800204492 ; 9781800206755</isbns>
+  <shortDBName>e000xww</shortDBName>
+  <isiType>BOOK</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Graph Machine Learning : Take Graph Data to the Next Level by Applying Machine Learning Techniques and Algorithms</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20210101</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Birmingham</publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>COMPUTERS / Data Science / General ; COMPUTERS / Artificial Intelligence / General ; COMPUTERS / Data Science / Neural Networks ; Graph theory--Data processing ; Machine learning</subjects>
+  <abstract>Build machine learning algorithms using graph data and efficiently exploit topological information within your modelsKey FeaturesImplement machine learning techniques and algorithms in graph dataIdentify the relationship between nodes in order to make better business decisionsApply graph-based machine learning methods to solve real-life problemsBook DescriptionGraph Machine Learning will introduce you to a set of tools used for processing network data and leveraging the power of the relation between entities that can be used for predictive, modeling, and analytics tasks. The first chapters will introduce you to graph theory and graph machine learning, as well as the scope of their potential use. You'll then learn all you need to know about the main machine learning models for graph representation learning: their purpose, how they work, and how they can be implemented in a wide range of supervised and unsupervised learning applications. You'll build a complete machine learning pipeline, including data processing, model training, and prediction in order to exploit the full potential of graph data. After covering the basics, you'll be taken through real-world scenarios such as extracting data from social networks, text analytics, and natural language processing (NLP) using graphs and financial transaction systems on graphs. You'll also learn how to build and scale out data-driven applications for graph analytics to store, query, and process network information, and explore the latest trends on graphs. By the end of this machine learning book, you will have learned essential concepts of graph theory and all the algorithms and techniques used to build successful machine learning applications.What you will learnWrite Python scripts to extract features from graphsDistinguish between the main graph representation learning techniquesLearn how to extract data from social networks, financial transaction systems, for text analysis, and moreImplement the main unsupervised and supervised graph embedding techniquesGet to grips with shallow embedding methods, graph neural networks, graph regularization methods, and moreDeploy and scale out your application seamlesslyWho this book is forThis book is for data scientists, data analysts, graph analysts, and graph professionals who want to leverage the information embedded in the connections and relations between data points to boost their analysis and model performance using machine learning. It will also be useful for machine learning developers or anyone who wants to build ML-driven graph databases. A beginner-level understanding of graph databases and graph data is required, alongside a solid understanding of ML basics. You'll also need intermediate-level Python programming knowledge to get started with this book.</abstract>
+  <pubTypes>eBook</pubTypes>
+  <an>2939967</an>
+  <docTypes>eBook</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b9058d7e-2c4d-3220-8c79-0156e85ab81f</plink>
+  <doids>NL$2939967$PDF ; NL$2939967$EPUB</doids>
+  <publisher>Packt Publishing</publisher>
+  <contributors>Claudio Stamile ; Aldo Marzullo ; Enrico Deusebio</contributors>
+  <coverDate>2021</coverDate>
+  <longDBName>eBook Academic Collection (EBSCOhost)</longDBName>
+  <doi></doi>
+</record>

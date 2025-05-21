@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edselp</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Smart Agricultural Technology</source>
+  <bookEdition></bookEdition>
+  <title>Crop yield prediction using machine learning: An extensive and systematic literature review</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250301</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Crop yield prediction ; Machine learning ; Deep learning</subjects>
+  <abstract>In recent years, agriculture has gained much attention regarding forecasting and prediction with the advancement of artificial intelligence techniques. Advancements in Machine Learning (ML) have significantly improved agricultural activities. In order to ensure food security and optimize resource allocation, precise crop yield prediction has become essential due to the growing global population and the effects of climate change on agricultural production. In this research, we conducted a Systematic Literature Review (SLR) to identify and synthesize techniques and attributes utilized in crop yield prediction research between the years of 2017 and 2024. This extensive search yielded 184 eligible papers from eight electronic sources. A total of 97 papers have been chosen for further analysis based on inclusion and exclusion criteria. Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) technique has been employed to search, screen, and select relevant research papers, resulting in a comprehensive and unbiased review. According to this analysis, the most used features are temperature, soil type, and vegetation. Also, the most applied machine learning algorithms are Linear Regression (LR), Random Forest (RF), and Gradient Boosting Trees (GBT) whereas the most applied deep learning algorithms are Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM). An additional search has been performed in order to identify some hybrid ML-based models. As per the evaluation metrics, RMSE, R-square, and MAE are found to be the mostly favored. Eventually, this review offers valuable insights into the state-of-the-art algorithms in crop yield prediction and suggests future directions for researchers aiming to address existing difficulties and limitations.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>S2772375524003228</an>
+  <docTypes>Review Article</docTypes>
+  <volume>10</volume>
+  <issns>2772-3755</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b20d7ba9-aa49-3bd9-8ce5-b2d4888e58aa</plink>
+  <doids></doids>
+  <publisher>Elsevier B.V.</publisher>
+  <contributors>Shawon, Sarowar Morshed ; Ema, Falguny Barua ; Mahi, Asura Khanom ; Niha, Fahima Lokman ; Zubair, H.T.</contributors>
+  <coverDate>March 2025</coverDate>
+  <longDBName>ScienceDirect</longDBName>
+  <doi>10.1016/j.atech.2024.100718</doi>
+</record>

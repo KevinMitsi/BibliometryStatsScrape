@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>An effective method for detecting the wheat freshness by integrating biophotonics and machine learning algorithm.</title>
+  <pageEnd>13</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241230</publicationDate>
+  <pageCount>13</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; PARTICLE swarm optimization ; SUPPORT vector machines ; K-nearest neighbor classification</subjects>
+  <abstract>The accurate and timely assessment of wheat freshness is not only a complex scientific endeavor but also a critical aspect of grain storage safety. This study introduces an innovative approach for evaluating wheat freshness by integrating machine learning algorithms with Biophoton Analytical Technology (BPAT). Initially, spontaneous ultraweak photon emissions from wheat are measured, and various statistical descriptors are derived to construct a feature vector. Particle Swarm Optimization (PSO) is then utilized to determine the optimal parameters for the Support Vector Machine (SVM). To validate the efficacy of the proposed method, additional machine learning techniques such as K-Nearest Neighbors (KNN), Multilayer Perceptron (MLP), and decision trees are employed. Experimental results demonstrate that both the machine learning algorithms and input features significantly influence model performance. Notably, using only central tendency factor features yields commendable recognition outcomes, eliminating the need for variability factor features. This research offers a novel perspective on the quantitative evaluation of wheat freshness.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181944452</an>
+  <docTypes>Article</docTypes>
+  <volume>14</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=82686319-1491-33d7-8282-d6b3e3c0461d</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Shi, Weiya ; Chen, Liang</contributors>
+  <coverDate>12/30/2024</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-024-83988-y</doi>
+</record>

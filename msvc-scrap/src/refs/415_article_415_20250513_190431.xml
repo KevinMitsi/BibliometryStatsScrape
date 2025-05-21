@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edssjs</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>English</language>
+  <source>Annals of Operations Research</source>
+  <bookEdition></bookEdition>
+  <title>Machine learning vs deep learning in stock market investment: an international evidence</title>
+  <pageEnd>115</pageEnd>
+  <pageStart>93</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations>New York</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Machine learning ; Deep learning ; Quantitative investment ; Arbitrage</subjects>
+  <abstract>Machine learning and deep learning are powerful tools for quantitative investment. To examine the effectiveness of the models in different markets, this paper applies random forest and DNN models to forecast stock prices and construct statistical arbitrage strategies in five stock markets, including mainland China, the United States, the United Kingdom, Canada and Japan. Each model is applied to the price of major stock indices constituting stocks in these markets from 2005 to 2020 to construct a long-short portfolio with 20 selected stocks by the model. The results show that the a particular model obtains significantly different profits in different markets, among which DNN has the best performance, especially in the Chinese stock market. We find that DNN models generally perform better than other machine learning models in all markets.&lt;br /></abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>edssjs.C038FB8</an>
+  <docTypes>Original Paper</docTypes>
+  <volume>348</volume>
+  <issns>02545330 ; 15729338</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=d22c2237-8738-37e4-9e2c-21a0a745cc26</plink>
+  <doids></doids>
+  <publisher>Springer US</publisher>
+  <contributors>Hao, Jing ; He, Feng ; Ma, Feng ; Zhang, Shibo ; Zhang, Xiaotao</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Springer Nature Journals</longDBName>
+  <doi>10.1007/s10479-023-05286-6</doi>
+</record>

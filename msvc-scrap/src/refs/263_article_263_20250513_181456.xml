@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>NEPO</mid>
+  <language>per</language>
+  <source>Business Intelligence Management Studies</source>
+  <bookEdition></bookEdition>
+  <title>Detecting Financial Fraud in Public Companies Using Financial and Non-Financial Metrics with a Machine Learning Approach.</title>
+  <pageEnd>142</pageEnd>
+  <pageStart>99</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250101</publicationDate>
+  <pageCount>44</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>50</issue>
+  <identifiers></identifiers>
+  <subjects>Fraud ; Machine learning ; Supervised learning ; Deep learning ; Bootstrap aggregation (Algorithms)</subjects>
+  <abstract>Most traditional fraud detection systems primarily focus on financial criteria to identify financial fraud, often overlooking the potential for fraudulent companies to engage in various types of non-financial misconduct. Recent studies have predominantly highlighted the significance of financial data as the sole indicator of fraud, neglecting the exploration of non-financial or Environmental, Social, and Governance (ESG) metrics as supplementary predictors. This research aims to enhance fraud prediction by integrating financial and ESG data through sophisticated machine learning and deep learning models. It examines the effectiveness of supervised machine learning and deep learning algorithms in detecting financial fraud over a 10-year period ending in 1401. This study innovatively demonstrates that a hybrid model, which combines financial and non-financial criteria, yields superior predictive accuracy for financial fraud than models based solely on financial data. The results of this study, addressing the first research question, indicate that among various machine learning and deep learning algorithms, the classification or bagging algorithm demonstrated superior efficiency. Furthermore, in response to the second research question, it was found that the dataset encompassing all features--integrating both financial and non-financial data-- outperformed those datasets limited to either financial or non-financial data alone. The research results indicated that the bagging machine learning algorithms act the best with combined feature set including financial and ESG metrics combined. The adoption of the proposed model significantly improves the accuracy and effectiveness of fraud detection systems.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183001394</an>
+  <docTypes>Article</docTypes>
+  <volume>13</volume>
+  <issns>2821-0964</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=354582e0-50f0-3eb4-86d1-c9d30ba28e3f</plink>
+  <doids></doids>
+  <publisher>Allameh Tabatabai University</publisher>
+  <contributors>Kasgari, Abbas Bagherian ; Vanani, Iman Raeesi ; Amiri, Maghsoud ; Homayoun, Saeid</contributors>
+  <coverDate>Winter2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.22054/ims.2024.78018.2434</doi>
+</record>

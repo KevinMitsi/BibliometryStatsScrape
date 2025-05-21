@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>1CRL</mid>
+  <language>eng</language>
+  <source>International Journal of Molecular Sciences</source>
+  <bookEdition></bookEdition>
+  <title>101 Machine Learning Algorithms for Mining Esophageal Squamous Cell Carcinoma Neoantigen Prognostic Models in Single-Cell Data.</title>
+  <pageEnd></pageEnd>
+  <pageStart>3373</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250401</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>7</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; TREATMENT effectiveness ; PROGNOSTIC models ; SQUAMOUS cell carcinoma ; ANTIGEN presentation</subjects>
+  <abstract>Esophageal squamous cell carcinoma (ESCC) is one of the most aggressive malignant tumors in the digestive tract, characterized by a high recurrence rate and inadequate immunotherapy options. We analyzed mutation data of ESCC from public databases and employed 10 machine learning algorithms to generate 101 algorithm combinations. Based on the optimal range determined by the concordance index, we randomly selected one combination from the best-performing algorithms to construct a prognostic model consisting of five genes (DLX5, MAGEA4, PMEPA1, RCN1, and TIMP1). By validating the correlation between the prognostic model and antigen-presenting cells (APCs), we revealed the antigen-presentation efficacy of the model. Through the analysis of immune infiltration in ESCC, we uncovered the mechanisms of immune evasion associated with the disease. In addition, we examined the potential impact of the five prognostic genes on ESCC progression. Based on these insights, we identified anti-tumor small-molecule compounds targeting these prognostic genes. This study primarily simulates the tumor microenvironment (TME) and antigen presentation processes in ESCC patients, predicting the role of the neoantigen-based prognostic model in ESCC patients and their potential responses to immunotherapy. These results suggest a potential approach for identifying therapeutic targets in ESCC, which may contribute to the development of more effective treatment strategies.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>184438795</an>
+  <docTypes>Article</docTypes>
+  <volume>26</volume>
+  <issns>1661-6596</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=cd25dabf-c1fd-362b-a7ec-6f3f423ce70a</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Sun, Yingjie ; Tang, Yuheng ; Qi, Qi ; Pang, Jianyu ; Chen, Yongzhi ; Wang, Hui ; Liang, Jiaxiang ; Tang, Wenru</contributors>
+  <coverDate>Apr2025</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.3390/ijms26073373</doi>
+</record>

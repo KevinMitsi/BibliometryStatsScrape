@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>International journal of molecular sciences</source>
+  <bookEdition></bookEdition>
+  <title>Comparison of Deep Learning and Traditional Machine Learning Models for Predicting Mild Cognitive Impairment Using Plasma Proteomic Biomarkers.</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250308</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>Switzerland</publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Cognitive Dysfunction blood ; Cognitive Dysfunction diagnosis ; Cognitive Dysfunction genetics ; Biomarkers blood ; Deep Learning ; Proteomics methods ; Machine Learning ; Humans ; Female ; Male ; Aged ; Support Vector Machine ; Middle Aged ; Aged, 80 and over</subjects>
+  <abstract>Mild cognitive impairment (MCI) is a clinical condition characterized by a decline in cognitive ability and progression of cognitive impairment. It is often considered a transitional stage between normal aging and Alzheimer's disease (AD). This study aimed to compare deep learning (DL) and traditional machine learning (ML) methods in predicting MCI using plasma proteomic biomarkers. A total of 239 adults were selected from the Alzheimer's Disease Neuroimaging Initiative (ADNI) cohort along with a pool of 146 plasma proteomic biomarkers. We evaluated seven traditional ML models (support vector machines (SVMs), logistic regression (LR), naïve Bayes (NB), random forest (RF), k-nearest neighbor (KNN), gradient boosting machine (GBM), and extreme gradient boosting (XGBoost)) and six variations of a deep neural network (DNN) model-the DL model in the H2O package. Least Absolute Shrinkage and Selection Operator (LASSO) selected 35 proteomic biomarkers from the pool. Based on grid search, the DNN model with an activation function of "Rectifier With Dropout" with 2 layers and 32 of 35 selected proteomic biomarkers revealed the best model with the highest accuracy of 0.995 and an F1 Score of 0.996, while among seven traditional ML methods, XGBoost was the best with an accuracy of 0.986 and an F1 Score of 0.985. Several biomarkers were correlated with the &lt;i>APOE&lt;/i> - &lt;i>ε4&lt;/i> genotype, polygenic hazard score (PHS), and three clinical cerebrospinal fluid biomarkers (Aβ42, tTau, and pTau). Bioinformatics analysis using Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) revealed several molecular functions and pathways associated with the selected biomarkers, including cytokine-cytokine receptor interaction, cholesterol metabolism, and regulation of lipid localization. The results showed that the DL model may represent a promising tool in the prediction of MCI. These plasma proteomic biomarkers may help with early diagnosis, prognostic risk stratification, and early treatment interventions for individuals at risk for MCI.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40141072</an>
+  <docTypes>Journal Article ; Comparative Study</docTypes>
+  <volume>26</volume>
+  <issns>1422-0067 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=38c74070-5d51-32af-a6c6-b5d5e58db3a5</plink>
+  <doids></doids>
+  <publisher>MDPI</publisher>
+  <contributors>Wang, Kesheng ; Adjeroh, Donald A ; Fang, Wei ; Walter, Suzy M ; Xiao, Danqing ; Piamjariyakul, Ubolrat ; Xu, Chun</contributors>
+  <coverDate>2025 Mar 08</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.3390/ijms26062428</doi>
+</record>

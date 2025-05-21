@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>cmedm</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language>eng</language>
+  <source>Scientific reports</source>
+  <bookEdition></bookEdition>
+  <title>An interpretable machine learning-assisted diagnostic model for Kawasaki disease in children.</title>
+  <pageEnd></pageEnd>
+  <pageStart>7927</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250307</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations>England</publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>Mucocutaneous Lymph Node Syndrome diagnosis ; Machine Learning ; Humans ; Male ; Child, Preschool ; Female ; Infant ; ROC Curve ; Child ; Algorithms ; Area Under Curve</subjects>
+  <abstract>Declarations. Competing interests: The authors declare no competing interests. Ethics declarations: This study was approved by the Medical Ethics Committee of Children’s Hospital (Approval Letter of IRB/EC, 2024-IRB-0009-P-01) and waived the need for informed consent from patients, as long as the data of the patient remained anonymous. All of the methods were carried out in accordance with the Declaration of Helsinki.</abstract>
+  <pubTypes>Journal Article ; Academic Journal</pubTypes>
+  <an>40050685</an>
+  <docTypes>Journal Article</docTypes>
+  <volume>15</volume>
+  <issns>2045-2322 ; Electronic</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=71ca745c-c69d-3705-862d-f0029001877c</plink>
+  <doids></doids>
+  <publisher>Nature Publishing Group</publisher>
+  <contributors>Duan, Mengyu ; Geng, Zhimin ; Gao, Lichao ; Zhao, Yonggen ; Li, Zheming ; Chen, Lindong ; Kuosmanen, Pekka ; Qi, Guoqiang ; Gong, Fangqi ; Yu, Gang</contributors>
+  <coverDate>2025 Mar 07</coverDate>
+  <longDBName>MEDLINE</longDBName>
+  <doi>10.1038/s41598-025-92277-1</doi>
+</record>

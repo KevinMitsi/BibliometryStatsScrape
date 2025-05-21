@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Machine Learning-assisted High-speed Combinatorial Optimization with Ising Machines for Dynamically Changing Problems</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250331</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Emerging Technologies ; Computer Science - Machine Learning</subjects>
+  <abstract>Quantum or quantum-inspired Ising machines have recently shown promise in solving combinatorial optimization problems in a short time. Real-world applications, such as time division multiple access (TDMA) scheduling for wireless multi-hop networks and financial trading, require solving those problems sequentially where the size and characteristics change dynamically. However, using Ising machines involves challenges to shorten system-wide latency due to the transfer of large Ising model or the cloud access and to determine the parameters for each problem. Here we show a combinatorial optimization method using embedded Ising machines, which enables solving diverse problems at high speed without runtime parameter tuning. We customize the algorithm and circuit architecture of the simulated bifurcation-based Ising machine to compress the Ising model and accelerate computation and then built a machine learning model to estimate appropriate parameters using extensive training data. In TDMA scheduling for wireless multi-hop networks, our demonstration has shown that the sophisticated system can adapt to changes in the problem and showed that it has a speed advantage over conventional methods.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2503.23966</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=33717e38-a06a-3f3b-b036-744542fd35a9</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Hamakawa, Yohei ; Kashimata, Tomoya ; Yamasaki, Masaya ; Tatsumura, Kosuke</contributors>
+  <coverDate>20250331</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>asn</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>FKQS</mid>
+  <language>eng</language>
+  <source>Scientific Reports</source>
+  <bookEdition></bookEdition>
+  <title>Explainable artificial intelligence for stroke prediction through comparison of deep learning and machine learning models.</title>
+  <pageEnd>16</pageEnd>
+  <pageStart>1</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20241228</publicationDate>
+  <pageCount>16</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>1</issue>
+  <identifiers></identifiers>
+  <subjects>MACHINE learning ; ARTIFICIAL intelligence ; STROKE ; TREATMENT delay (Medicine) ; RECEIVER operating characteristic curves ; DEEP learning</subjects>
+  <abstract>Failure to predict stroke promptly may lead to delayed treatment, causing severe consequences like permanent neurological damage or death. Early detection using deep learning (DL) and machine learning (ML) models can enhance patient outcomes and mitigate the long-term effects of strokes. The aim of this study is to compare these models, exploring their efficacy in predicting stroke. This study analyzed a dataset comprising 663 records from patients hospitalized at Hazrat Rasool Akram Hospital in Tehran, Iran, including 401 healthy individuals and 262 stroke patients. A total of eight established ML (SVM, XGB, KNN, RF) and DL (DNN, FNN, LSTM, CNN) models were utilized to predict stroke. Techniques such as 10-fold cross-validation and hyperparameter tuning were implemented to prevent overfitting. The study also focused on interpretability through Shapley Additive Explanations (SHAP). The evaluation of model's performance was based on accuracy, specificity, sensitivity, F1-score, and ROC curve metrics. Among DL models, LSTM showed superior sensitivity at 96.15%, while FNN exhibited better specificity (96.0%), accuracy (96.0%), F1-score (95.0%), and ROC (98.0%) among DL models. For ML models, RF displayed higher sensitivity (99.9%), accuracy (99.0%), specificity (100%), F1-score (99.0%), and ROC (99.9%). Overall, RF outperformed all models, while DL models surpassed ML models in most metrics except for RF. DL models (CNN, LSTM, DNN, FNN) achieved sensitivities from 93.0 to 96.15%, specificities from 80.0 to 96.0%, accuracies from 92.0 to 96.0%, F1-scores from 87.34 to 95.0%, and ROC scores from 95.0 to 98.0%. In contrast, ML models (KNN, XGB, SVM) showed sensitivities between 29.0% and 94.0%, specificities between 89.47% and 96.0%, accuracies between 71.0% and 95.0%, F1-scores between 44.0% and 95.0%, and ROC scores between 64.0% and 95.0%. This study demonstrates the efficacy of DL and ML models in predicting stroke, with the RF models outperforming all others in key metrics. While DL models generally surpassed ML models, RF's exceptional performance highlights the potential of combining these technologies for early stroke detection, significantly improving patient outcomes by preventing severe consequences like permanent neurological damage or death.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>181925546</an>
+  <docTypes>Article</docTypes>
+  <volume>14</volume>
+  <issns>2045-2322</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=02a55830-bbce-3ddc-a07c-eb003e201441</plink>
+  <doids></doids>
+  <publisher>Springer Nature</publisher>
+  <contributors>Moulaei, Khadijeh ; Afshari, Lida ; Moulaei, Reza ; Sabet, Babak ; Mousavi, Seyed Mohammad ; Afrash, Mohammad Reza</contributors>
+  <coverDate>12/28/2024</coverDate>
+  <longDBName>Academic Search Ultimate</longDBName>
+  <doi>10.1038/s41598-024-82931-5</doi>
+</record>

@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>bsu</shortDBName>
+  <isiType>JOUR</isiType>
+  <notes></notes>
+  <mid>LJS</mid>
+  <language>eng</language>
+  <source>Emerging Markets Finance &amp;amp; Trade</source>
+  <bookEdition></bookEdition>
+  <title>Forecasting Bank Default Risk with Interpretable Machine Learning: The Study of Chinese Banks.</title>
+  <pageEnd>1683</pageEnd>
+  <pageStart>1661</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250501</publicationDate>
+  <pageCount>23</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue>6</issue>
+  <identifiers></identifiers>
+  <subjects>Banking industry ; Financial globalization ; Economic policy ; Nonperforming loans ; Commercial Banking ; Personal and commercial banking industry ; Savings Institutions ; Other Depository Credit Intermediation ; Machine learning ; Economic uncertainty ; Counterparty risk</subjects>
+  <abstract>Bank occupies an important position in the financial system. The stable operation of the banking industry is not only one of the important factors in achieving sustainable economic growth but also related to the stability of the entire financial system. This research collects data from 507 banks in China from 2000 to 2021, uses the non-performing loan ratio as the measurement indicator of bank risk, and selects indicators from five levels (macroeconomic environment, industry economic environment, economic policy uncertainty, financial openness and bank financial status) On this basis, we use interpretable machine learning models to predict the bank's default risk, analyze and compare the interpretable machine learning model and the post-hoc explainable methods. The results indicate that Provision Coverage (PC), Loan Provision Coverage (LPC), Liquidity Ratio (LR), and KOF Financial Globalization Index (KOFFiGI) have strong predictive capability for bank default risk. Our research can provide a reference for banks, government and financial regulatory authorities to construct the prediction model and indicator monitoring platform for bank default risk.</abstract>
+  <pubTypes>Academic Journal</pubTypes>
+  <an>183685038</an>
+  <docTypes>Article</docTypes>
+  <volume>61</volume>
+  <issns>1540-496X</issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=869157f6-df13-3541-bdf6-4e44161d3c37</plink>
+  <doids></doids>
+  <publisher>Taylor &amp;amp; Francis Ltd</publisher>
+  <contributors>Tang, Pan ; Peng, Hongjuan ; Luo, Sihang ; Liu, Yangguang</contributors>
+  <coverDate>2025</coverDate>
+  <longDBName>Business Source Ultimate</longDBName>
+  <doi>10.1080/1540496X.2024.2415337</doi>
+</record>

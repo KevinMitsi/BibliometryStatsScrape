@@ -1,0 +1,35 @@
+<record>
+  <isbns>979-8-3315-4237-5</isbns>
+  <shortDBName>edseee</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source>2025 International Conference on Automation and Computation (AUTOCOM), Automation and Computation (AUTOCOM), 2025 International Conference on</source>
+  <bookEdition></bookEdition>
+  <title>Advanced Bone Fracture Detection Using Hybrid Deep Learning Algorithms and Machine Learning Models for Enhanced Medical Imaging Diagnosis</title>
+  <pageEnd>1195</pageEnd>
+  <pageStart>1190</pageStart>
+  <peerReviewed>true</peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250304</publicationDate>
+  <pageCount>6</pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Communication, Networking and Broadcast Technologies ; Components, Circuits, Devices and Systems ; Computing and Processing ; Engineering Profession ; Power, Energy and Industry Applications ; Signal Processing and Analysis ; Deep learning ; Support vector machines ; Accuracy ; Machine learning algorithms ; Computational modeling ; Bones ; Data augmentation ; Data models ; Convolutional neural networks ; X-ray imaging ; Bone fracture detection ; hybrid deep learning ; machine learning ; medical imaging</subjects>
+  <abstract>Bone fractures belong to the group of the most frequent pathologies in medical practice and proper diagnosis is crucial for receiving an adequate treatment and recovery. This paper describes the next generation work in the medical imaging diagnostics, advancing the bone fracture detection system based on hybrid Deep Learning and Machine Learning technologies applied on X-ray images. The proposed system was tested using 10,000 X-ray images which include normal, fracture scaphoid, fracture clavicle, fracture humerus, fracture radius/ulna, fracture tibia/fibula, fracture femur, fracture pelvic, fracture spine/vertebra, fracture ankle, fracture knee, fracture jaw images which are annotated in our dataset. The way we take the approach is using transfer learning with pre trained convolutional neural networks (CNN) like ResNet50 and DenseNet121 for robust feature extraction and then using traditional machine learning algorithms such as Support Vector Machines (SVM) and Random Forest for classification. Class imbalance was reduced by using techniques in data augmentation and model generalization was enhanced to identify fine fractures that would otherwise be unnoticed. They were meticulously tested with conventional evaluation parameters such as accuracy, precision, recall, and F1 score, demonstrated better performance than traditional diagnosis. In normal fracture bone images the hybrid system is found to be 96.5% accurate in terms of identification.</abstract>
+  <pubTypes>Conference Paper</pubTypes>
+  <an>edseee.10956299</an>
+  <docTypes>Conference</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=b39cbfc2-44de-3adb-ad62-6c9dbee2431a</plink>
+  <doids></doids>
+  <publisher>IEEE</publisher>
+  <contributors>Mishra, Nidhi ; Shivaji, Ghorpade Bipin</contributors>
+  <coverDate>20250304</coverDate>
+  <longDBName>IEEE Xplore Digital Library</longDBName>
+  <doi>10.1109/AUTOCOM64127.2025.10956299</doi>
+</record>

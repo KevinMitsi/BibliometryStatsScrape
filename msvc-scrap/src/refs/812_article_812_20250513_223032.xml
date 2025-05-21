@@ -1,0 +1,35 @@
+<record>
+  <isbns></isbns>
+  <shortDBName>edsarx</shortDBName>
+  <isiType>GEN</isiType>
+  <notes></notes>
+  <mid></mid>
+  <language></language>
+  <source></source>
+  <bookEdition></bookEdition>
+  <title>Quantum Machine Learning: Unveiling Trends, Impacts through Bibliometric Analysis</title>
+  <pageEnd></pageEnd>
+  <pageStart></pageStart>
+  <peerReviewed></peerReviewed>
+  <isOpenAccess></isOpenAccess>
+  <publicationDate>20250410</publicationDate>
+  <pageCount></pageCount>
+  <publisherLocations></publisherLocations>
+  <issue></issue>
+  <identifiers></identifiers>
+  <subjects>Computer Science - Digital Libraries ; Computer Science - Machine Learning</subjects>
+  <abstract>Quantum Machine Learning (QML) is the intersection of two revolutionary fields: quantum computing and machine learning. It promises to unlock unparalleled capabilities in data analysis, model building, and problem-solving by harnessing the unique properties of quantum mechanics. This research endeavors to conduct a comprehensive bibliometric analysis of scientific information pertaining to QML covering the period from 2000 to 2023. An extensive dataset comprising 9493 scholarly works is meticulously examined to unveil notable trends, impact factors, and funding patterns within the domain. Additionally, the study employs bibliometric mapping techniques to visually illustrate the network relationships among key countries, institutions, authors, patent citations and significant keywords in QML research. The analysis reveals a consistent growth in publications over the examined period. The findings highlight the United States and China as prominent contributors, exhibiting substantial publication and citation metrics. Notably, the study concludes that QML, as a research subject, is currently in a formative stage, characterized by robust scholarly activity and ongoing development.</abstract>
+  <pubTypes>Working Paper</pubTypes>
+  <an>edsarx.2504.07726</an>
+  <docTypes>Working Paper</docTypes>
+  <volume></volume>
+  <issns></issns>
+  <degreeLevel></degreeLevel>
+  <plink>https://research.ebsco.com/linkprocessor/plink?id=f0e7c4cd-ac11-3e7f-9f6e-8a1db4d89e20</plink>
+  <doids></doids>
+  <publisher></publisher>
+  <contributors>Bansal, Riya ; Rajput, Nikhil Kumar</contributors>
+  <coverDate>20250410</coverDate>
+  <longDBName>arXiv</longDBName>
+  <doi></doi>
+</record>
