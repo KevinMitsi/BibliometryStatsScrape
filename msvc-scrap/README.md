@@ -119,6 +119,7 @@ launch.bat
 ├── Inicia el backend FastAPI con Uvicorn
 └── Maneja la limpieza al cerrar
 ---
+```
 
 ## Project Structure
 
