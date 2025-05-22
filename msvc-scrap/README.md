@@ -122,7 +122,7 @@ launch.bat
 ```
 
 ## Project Structure
-
+```text
 bibliometric-analysis/
 ├── main.py                 # Aplicación FastAPI
 ├── launch.bat             # Script de inicio
@@ -137,7 +137,7 @@ bibliometric-analysis/
         ├── __init__.py
         ├── conversor.py         # Conversión XML a JSON
         └── scrapper_service.py  # Servicio de scraping
-
+```
 
 
 
